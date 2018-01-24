@@ -1,11 +1,14 @@
-\id MAT ENG (p.sfm) -  <> Matthew - Challoner Douay Rheims version of the Sacred Bible The Gospel of Matthew. The Holy Bible. Bishop Challoner's 18th century revision of the Douay Rheims version. Electronic edition 2004. Public domain.
+\id Mat ENG (p.sfm) - DRC1750 - Verify <>
 \ide UTF-8
 \h Matthew
-\toc1 The Gospel of Matthew
+\toc1 THE HOLY GOSPEL OF JESUS CHRIST ACCORDING TO SAINT MATTHEW
 \toc2 Matthew
 \toc3 Mat
+\mt1 THE HOLY GOSPEL OF JESUS CHRIST ACCORDING TO SAINT MATTHEW
+\im Saint Matthew, one of the twelve Apostles, who from being a publican, that is, a taxgatherer, was called by our Saviour to the Apostleship: in that profession his name is Levi. (Luke 5.27, and Mark 2.14.) He was the first of the Evangelists that wrote the Gospel, and that in Hebrew or Syro-Chaldaic which the Jews in Palestine spoke at that time. The original is not now extant; but it was translated in the time of the Apostles into Greek, that version was of equal authority. He wrote about six years after the Lord's Ascension.
 \c 1
 \cl Matthew 1
+\cd The genealogy of Christ: he is conceived and born of a virgin.
 \p
 \v 1 The book of the generation of Jesus Christ, the son of David, the son of Abraham:
 \p
@@ -37,7 +40,7 @@
 \p
 \v 15 And Eliud begot Eleazar. And Eleazar begot Mathan. And Mathan begot Jacob.
 \p
-\v 16 And Jacob begot Joseph the husband of Mary, of whom was born Jesus, who is called Christ.
+\v 16 And Jacob begot Joseph the husband of Mary, of whom was born Jesus, who is called Christ.\f + \fr 1:16 \fk The husband of Mary: \ft The Evangelist gives us rather the pedigree of St. Joseph, than that of the blessed Virgin, to conform to the custom of the Hebrews, who in their genealogies took no notice of women; but as they were near akin, the pedigree of the one sheweth that of the other.\f*
 \p
 \v 17 So all the generations from Abraham to David, are fourteen generations. And from David to the transmigration of Babylon, are fourteen generations: and from the transmigration of Babylon to Christ are fourteen generations.
 \p
@@ -55,9 +58,10 @@
 \p
 \v 24 And Joseph rising up from sleep, did as the angel of the Lord had commanded him, and took unto him his wife.
 \p
-\v 25 And he knew her not, till she brought forth her first born son: and he called his name Jesus.
+\v 25 And he knew her not till she brought forth her first born son: and he called his name Jesus.\f + \fr 1:25 \fk Till she brought forth her firstborn son: \ft From these words Helvidius and other heretics most impiously inferred that the blessed Virgin Mary had other children besides Christ; but St. Jerome shews, by divers examples, that this expression of the Evangelist was a manner of speaking usual among the Hebrews, to denote by the word until, only what is done, without any regard to the future. Thus it is said, Genesis 8. 6 and 7, that Noe sent forth a raven, which went forth, and did not return till the waters were dried up on the earth. That is, did not return any more. Also Isaias 46. 4, God says: I am till you grow old. Who dare infer that God should then cease to be: Also in the first book of Machabees 5. 54, And they went up to mount Sion with joy and gladness, and offered holocausts, because not one of them was slain till they had returned in peace. That is, not one was slain before or after they had returned. God saith to his divine Son: Sit on my right hand till I make thy enemies thy footstool. Shall he sit no longer after his enemies are subdued? Yea and for all eternity. St. Jerome also proves by Scripture examples, that an only begotten son, was also called firstborn, or first begotten: because according to the law, the firstborn males were to be consecrated to God; Sanctify unto me, saith the Lord, every firstborn that openeth the womb among the children of Israel, etc. Ex. 13. 2.\f*
 \c 2
 \cl Matthew 2
+\cd The offerings of the wise men: the flight into Egypt: the massacre of the Innocents.
 \p
 \v 1 When Jesus therefore was born in Bethlehem of Juda, in the days of king Herod, behold, there came wise men from the East to Jerusalem,
 \p
@@ -106,10 +110,11 @@
 \v 23 And coming he dwelt in a city called Nazareth: that it might be fulfilled which was said by the prophets: That he shall be called a Nazarene.
 \c 3
 \cl Matthew 3
+\cd The preaching of John: Christ is baptized.
 \p
 \v 1 And in those days cometh John the Baptist preaching in the desert of Judea.
 \p
-\v 2 And saying: Do penance: for the kingdom of heaven is at hand.
+\v 2 And saying: Do penance: for the kingdom of heaven is at hand.\f + \fr 3:2 \fk Do penance: \ft Paenitentiam agite. Which word, according to the use of the scriptures and the holy fathers, does not only signify repentance and amendment of life, but also punishing past sins by fasting, and such like penitential exercises.\f*
 \p
 \v 3 For this is he that was spoken of by Isaias the prophet, saying: A voice of one crying in the desert, Prepare ye the way of the Lord, make straight his paths.
 \p
@@ -119,7 +124,7 @@
 \p
 \v 6 And were baptized by him in the Jordan, confessing their sins.
 \p
-\v 7 And seeing many of the Pharisees and Sadducees coming to his baptism, he said to them: Ye brood of vipers, who hath shewed you to flee from the wrath to come?
+\v 7 And seeing many of the Pharisees and Sadducees coming to his baptism, he said to them: Ye brood of vipers, who hath shewed you to flee from the wrath to come?\f + \fr 3:7 \fk Pharisees and Sadducees: \ft These were two sects among the Jews: of which the former were for the most part notorious hypocrites; the latter, a kind of freethinkers in matters of religion.\f*
 \p
 \v 8 Bring forth therefore fruit worthy of penance.
 \p
@@ -142,6 +147,7 @@
 \v 17 And behold a voice from heaven saying: This is my beloved Son, in whom I am well pleased.
 \c 4
 \cl Matthew 4
+\cd Christ's fast of forty days: He is tempted. He begins to preach, to call disciples to him, and to work miracles.
 \p
 \v 1 Then Jesus was led by the spirit into the desert, to be tempted by the devil.
 \p
@@ -157,7 +163,7 @@
 \p
 \v 7 Jesus said to him: It is written again: Thou shalt not tempt the Lord thy God.
 \p
-\v 8 Again the devil took him up into a very high mountain, and shewed him all the kingdoms of the world, and the glory of them,
+\v 8 Again the devil took him up into a very high mountain, and shewed him all the kingdoms of the world, and the glory of them,\f + \fr 4:8 \fk Shewed him, etc: \ft That is, pointed out to him where each kingdom lay; and set forth in words what was most glorious and admirable in each of them. Or also set before his eyes, as it were in a large map, a lively representation of all those kingdoms.\f*
 \p
 \v 9 And said to him: All these will I give thee, if falling down thou wilt adore me.
 \p
@@ -194,12 +200,13 @@
 \v 25 And much people followed him from Galilee, and from Decapolis, and from Jerusalem, and from Judea, and from beyond the Jordan.
 \c 5
 \cl Matthew 5
+\cd Christ's sermon upon the mount. The eight beatitudes.
 \p
 \v 1 And seeing the multitudes, he went up into a mountain, and when he was set down, his disciples came unto him.
 \p
 \v 2 And opening his mouth he taught them, saying:
 \p
-\v 3 Blessed are the poor in spirit: for theirs is the kingdom of heaven.
+\v 3 Blessed are the poor in spirit: for theirs is the kingdom of heaven.\f + \fr 5:3 \fk The poor in spirit: \ft That is, the humble; and they whose spirit is not set upon riches.\f*
 \p
 \v 4 Blessed are the meek: for they shall possess the land.
 \p
@@ -227,17 +234,17 @@
 \p
 \v 16 So let your light shine before men, that they may see your good works, and glorify your Father who is in heaven.
 \p
-\v 17 Do not think that I am come to destroy the law, or the prophets. I am not come to destroy, but to fulfil.
+\v 17 Do not think that I am come to destroy the law, or the prophets. I am not come to destroy, but to fulfil.\f + \fr 5:17 \fk To fulfil: \ft By accomplishing all the figures and prophecies; and perfecting all that was imperfect.\f*
 \p
-\v 18 For amen I say unto you, till heaven and earth pass, one jot, or one tittle shall not pass of the law, till all be fulfilled.
+\v 18 For amen I say unto you, till heaven and earth pass, one jot, or one tittle shall not pass of the law, till all be fulfilled.\f + \fr 5:18 \fk Amen: \ft That is, assuredly of a truth. This Hebrew word, amen, is here retained by the example and authority of all the four Evangelists. It is used by our Lord as a strong asseveration, and affirmation of the truth.\f*
 \p
 \v 19 He therefore that shall break one of these least commandments, and shall so teach men shall be called the least in the kingdom of heaven. But he that shall do and teach, he shall be called great in the kingdom of heaven.
 \p
-\v 20 For I tell you, that unless your justice abound more than that of the scribes and Pharisees, you shall not enter into the kingdom of heaven.
+\v 20 For I tell you, that unless your justice abound more than that of the scribes and Pharisees, you shall not enter into the kingdom of heaven.\f + \fr 5:20 \fk The scribes and Pharisees: \ft The scribes were the doctors of the law of Moses: the Pharisees were a precise set of men, making profession of a more exact observance of the law: and upon that account greatly esteemed among the people.\f*
 \p
-\v 21 You have heard that it was said to them of old: Thou shalt not kill. And whosoever shall kill, shall be in danger of the judgment.
+\v 21 You have heard that it was said to them of old: Thou shalt not kill. And whosoever shall kill, shall be in danger of the judgment.\f + \fr 5:21 \fk Shall be in danger of the judgment: \ft That is, shall deserve to be punished by that lesser tribunal among the Jews, called the Judgment, which took cognizance of such crimes.\f*
 \p
-\v 22 But I say to you, that whosoever is angry with his brother, shall be in danger of the judgment. And whosoever shall say to his brother, Raca, shall be in danger of the council. And whosoever shall say, Thou fool, shall be in danger of hell fire.
+\v 22 But I say to you, that whosoever is angry with his brother, shall be in danger of the judgment. And whosoever shall say to his brother, Raca, shall be in danger of the council. And whosoever shall say, Thou fool, shall be in danger of hell fire.\f + \fr 5:22 \fk Raca: \ft A word expressing great indignation or contempt.\f*\f + \fr 5:22 \fk Shall be in danger of the council: \ft That is, shall deserve to be punished by the highest court of judicature, called the Council, or Sanhedrim, consisting of seventy-two persons, where the highest causes were tried and judged, which was at Jerusalem.\f*\f + \fr 5:22 \fk Thou fool: \ft This was then looked upon as a heinous injury, when uttered with contempt, spite, or malice: and therefore is here so severely condemned.\f*\f + \fr 5:22 \fk Shall be in danger of hell fire: \ft literally, according to the Greek, shall deserve to be cast into the Gehenna of fire. Which words our Saviour made use of to express the fire and punishments of hell.\f*
 \p
 \v 23 If therefore thou offer thy gift at the altar, and there thou remember that thy brother hath anything against thee;
 \p
@@ -251,7 +258,7 @@
 \p
 \v 28 But I say to you, that whosoever shall look on a woman to lust after her, hath already committed adultery with her in his heart.
 \p
-\v 29 And if thy right eye scandalize thee, pluck it out and cast it from thee. For it is expedient for thee that one of thy members should perish, rather than thy whole body be cast into hell.
+\v 29 And if thy right eye scandalize thee, pluck it out and cast it from thee. For it is expedient for thee that one of thy members should perish, rather than thy whole body be cast into hell.\f + \fr 5:29 \fk Scandalize thee: \ft That is, if it be a stumblingblock, or occasion of sin to thee. By which we are taught to fly the immediate occasions of sin, though they be as dear to us, or as necessary as a hand or an eye.\f*
 \p
 \v 30 And if thy right hand scandalize thee, cut it off, and cast it from thee: for it is expedient for thee that one of thy members should perish, rather than that thy whole body go into hell.
 \p
@@ -261,7 +268,7 @@
 \p
 \v 33 Again you have heard that it was said to them of old, thou shalt not forswear thyself: but thou shalt perform thy oaths to the Lord.
 \p
-\v 34 But I say to you not to swear at all, neither by heaven for it is the throne of God:
+\v 34 But I say to you not to swear at all, neither by heaven for it is the throne of God:\f + \fr 5:34 \fk Not to swear at all: \ft It is not forbid to swear in truth, justice and judgment; to the honour of God, or our own or neighbour's just defence: but only to swear rashly, or profanely, in common discourse, and without necessity.\f*
 \p
 \v 35 Nor by the earth, for it is his footstool: nor by Jerusalem, for it is the city of the great king:
 \p
@@ -271,7 +278,7 @@
 \p
 \v 38 You have heard that it hath been said: An eye for an eye, and a tooth for a tooth.
 \p
-\v 39 But I say to you not to resist evil: but if one strike thee on thy right cheek, turn to him also the other:
+\v 39 But I say to you not to resist evil: but if one strike thee on thy right cheek, turn to him also the other:\f + \fr 5:39 \fk Not to resist evil, etc: \ft What is here commanded, is a Christian patience under injuries and affronts, and to be willing even to suffer still more, rather than to indulge the desire of revenge: but what is further added does not strictly oblige according to the letter, for neither did Christ nor St. Paul turn the other cheek. St. John 18., and Acts 23.\f*
 \p
 \v 40 And if a man will contend with thee in judgment, and take away thy coat, let go thy cloak also unto him.
 \p
@@ -285,15 +292,16 @@
 \p
 \v 45 That you may be the children of your Father who is in heaven, who maketh his sun to rise upon the good, and bad, and raineth upon the just and the unjust.
 \p
-\v 46 For if you love them that love you, what reward shall you have? do not even the publicans this?
+\v 46 For if you love them that love you, what reward shall you have? do not even the publicans this?\f + \fr 5:46 \fk The publicans: \ft These were the gatherers of the public taxes: a set of men, odious and infamous among the Jews, for their extortions and injustice.\f*
 \p
 \v 47 And if you salute your brethren only, what do you more? do not also the heathens this?
 \p
 \v 48 Be you therefore perfect, as also your heavenly Father is perfect.
 \c 6
 \cl Matthew 6
+\cd A continuation of the sermon on the mount.
 \p
-\v 1 Take heed that you do not your justice before men, to be seen by them: otherwise you shall not have a reward of your Father who is in heaven.
+\v 1 Take heed that you do not your justice before men, to be seen by them: otherwise you shall not have a reward of your Father who is in heaven.\f + \fr 6:1 \fk Your justice: \ft that is, works of justice; viz., fasting, prayer, and almsdeeds; which ought to be performed not out of ostentation, or a view to please men, but solely to please God.\f*
 \p
 \v 2 Therefore when thou dost an alms-deed, sound not a trumpet before thee, as the hypocrites do in the synagogues and in the streets, that they may be honoured by men. Amen I say to you, they have received their reward.
 \p
@@ -313,11 +321,11 @@
 \p
 \v 10 Thy kingdom come. Thy will be done on earth as it is in heaven.
 \p
-\v 11 Give us this day our supersubstantial bread.
+\v 11 Give us this day our supersubstantial bread.\f + \fr 6:11 \fk Supersubstantial bread: \ft In St. Luke the same word is rendered daily bread. It is understood of the bread of life, which we receive in the Blessed Sacrament.\f*
 \p
 \v 12 And forgive us our debts, as we also forgive our debtors.
 \p
-\v 13 And lead us not into temptation. But deliver us from evil. Amen.
+\v 13 And lead us not into temptation. But deliver us from evil. Amen.\f + \fr 6:13 \fk Lead us not into temptation: \ft That is, suffer us not to be overcome by temptation.\f*
 \p
 \v 14 For if you will forgive men their offences, your heavenly Father will forgive you also your offences.
 \p
@@ -339,7 +347,7 @@
 \p
 \v 23 But if thy eye be evil thy whole body shall be darksome. If then the light that is in thee, be darkness: the darkness itself how great shall it be!
 \p
-\v 24 No man can serve two masters. For either he will hate the one, and love the other: or he will sustain the one, and despise the other. You cannot serve God and mammon.
+\v 24 No man can serve two masters. For either he will hate the one, and love the other: or he will sustain the one, and despise the other. You cannot serve God and mammon.\f + \fr 6:24 \fk Mammon: \ft That is, riches, worldly interest.\f*
 \p
 \v 25 Therefore I say to you, be not solicitous for your life, what you shall eat, nor for your body, what you shall put on. Is not the life more than the meat: and the body more than the raiment?
 \p
@@ -362,6 +370,7 @@
 \v 34 Be not therefore solicitous for to morrow; for the morrow will be solicitous for itself. Sufficient for the day is the evil thereof.
 \c 7
 \cl Matthew 7
+\cd The third part of the sermon on the mount.
 \p
 \v 1 Judge not, that you may not be judged.
 \p
@@ -422,6 +431,7 @@
 \v 29 For he was teaching them as one having power, and not as the scribes and Pharisees.
 \c 8
 \cl Matthew 8
+\cd Christ cleanses the leper, heals the centurion's servant, Peter's mother-in-law, and many others: he stills the storm at sea, drives the devils out of two men possessed, and suffers them to go into the swine.
 \p
 \v 1 And when he was come down from the mountain, great multitudes followed him:
 \p
@@ -492,6 +502,7 @@
 \v 34 And behold the whole city went out to meet Jesus, and when they saw him, they besought him that he would depart from their coast.
 \c 9
 \cl Matthew 9
+\cd Christ heals one sick of palsy: calls Matthew: cures the issue of blood: raises to life the daughter of Jairus: gives sight to two blind men: and heals a dumb man possessed by the devil.
 \p
 \v 1 And entering into a boat, he passed over the water and came into his own city.
 \p
@@ -521,7 +532,7 @@
 \p
 \v 14 Then came to him the disciples of John, saying: Why do we and the Pharisees, fast often, but thy disciples do not fast?
 \p
-\v 15 And Jesus said to them: Can the children of the bridegroom mourn, as long as the bridegroom is with them? But the days will come, when the bridegroom shall be taken away from them, and then they shall fast.
+\v 15 And Jesus said to them: Can the children of the bridegroom mourn, as long as the bridegroom is with them? But the days will come, when the bridegroom shall be taken away from them, and then they shall fast.\f + \fr 9:15 \fk Can the children of the bridegroom: \ft This, by a Hebraism, signifies the friends or companions of the bridegroom.\f*
 \p
 \v 16 And nobody putteth a piece of raw cloth unto an old garment. For it taketh away the fulness thereof from the garment, and there is made a greater rent.
 \p
@@ -570,6 +581,7 @@
 \v 38 Pray ye therefore the Lord of the harvest, that he send forth labourers into his harvest.
 \c 10
 \cl Matthew 10
+\cd Christ sends out his twelve apostles, with the power of miracles. The lessons he gives them.
 \p
 \v 1 And having called his twelve disciples together, he gave them power over unclean spirits, to cast them out, and to heal all manner of diseases, and all manner of infirmities.
 \p
@@ -601,7 +613,7 @@
 \p
 \v 15 Amen I say to you, it shall be more tolerable for the land of Sodom and Gomorrha in the day of judgment, than for that city.
 \p
-\v 16 Behold I send you as sheep in the midst of wolves. Be ye therefore wise as serpents and simple as doves.
+\v 16 Behold I send you as sheep in the midst of wolves. Be ye therefore wise as serpents and simple as doves.\f + \fr 10:16 \fk Simple: \ft That is, harmless, plain, sincere, and without guile.\f*
 \p
 \v 17 But beware of men. For they will deliver you up in councils, and they will scourge you in their synagogues.
 \p
@@ -639,7 +651,7 @@
 \p
 \v 34 Do not think that I came to send peace upon earth: I came not to send peace, but the sword.
 \p
-\v 35 For I came to set a man at variance against his father, and the daughter against her mother, and the daughter in law against her mother in law.
+\v 35 For I came to set a man at variance against his father, and the daughter against her mother, and the daughter in law against her mother in law.\f + \fr 10:35 \fk I came to set a man at variance, etc: \ft Not that this was the end or design of the coming of our Saviour; but that his coming and his doctrine would have this effect, by reason of the obstinate resistance that many would make, and of their persecuting all such as should adhere to him.\f*
 \p
 \v 36 And a man's enemies shall be they of his own household.
 \p
@@ -656,6 +668,7 @@
 \v 42 And whosoever shall give to drink to one of these little ones a cup of cold water only in the name of a disciple, amen I say to you he shall not lose his reward.
 \c 11
 \cl Matthew 11
+\cd John sends his disciples to Christ, who upbraids the Jews for their incredulity, and calls to him such as are sensible of their burdens.
 \p
 \v 1 And it came to pass, when Jesus had made an end of commanding his twelve disciples, he passed from thence, to teach and to preach in their cities.
 \p
@@ -667,7 +680,7 @@
 \p
 \v 5 The blind see, the lame walk, the lepers are cleansed, the deaf hear, the dead rise again, the poor have the gospel preached to them.
 \p
-\v 6 And blessed is he that shall not be scandalized in me.
+\v 6 And blessed is he that shall not be scandalized in me.\f + \fr 11:6 \fk Scandalized in me: \ft That is, who shall not take occasion of scandal or offence from my humility, and the disgraceful death of the cross which I shall endure.\f*
 \p
 \v 7 And when they went their way, Jesus began to say to the multitudes concerning John: What went you out into the desert to see? a reed shaken with the wind?
 \p
@@ -679,11 +692,11 @@
 \p
 \v 11 Amen I say to you, there hath not risen among them that are born of women a greater than John the Baptist: yet he that is the lesser in the kingdom of heaven is greater than he.
 \p
-\v 12 And from the days of John the Baptist until now, the kingdom of heaven suffereth violence, and the violent bear it away.
+\v 12 And from the days of John the Baptist until now, the kingdom of heaven suffereth violence, and the violent bear it away.\f + \fr 11:12 \fk Suffereth violence, etc: \ft It is not to be obtained but by main force, by using violence upon ourselves, by mortification and penance, and resisting our perverse inclinations.\f*
 \p
 \v 13 For all the prophets and the law prophesied until John:
 \p
-\v 14 And if you will receive it, he is Elias that is to come.
+\v 14 And if you will receive it, he is Elias that is to come.\f + \fr 11:14 \fk He is Elias, etc: \ft Not in person, but in spirit. St. Luke 1. 17.\f*
 \p
 \v 15 He that hath ears to hear, let him hear.
 \p
@@ -718,6 +731,7 @@
 \v 30 For my yoke is sweet and my burden light.
 \c 12
 \cl Matthew 12
+\cd Christ reproves the blindness of the Pharisees, and confutes their attributing his miracles to Satan.
 \p
 \v 1 At that time Jesus went through the corn on the sabbath: and his disciples being hungry, began to pluck the ears, and to eat.
 \p
@@ -725,7 +739,7 @@
 \p
 \v 3 But he said to them: Have you not read what David did when he was hungry, and they that were with him:
 \p
-\v 4 How he entered into the house of God, and did eat the loaves of proposition, which it was not lawful for him to eat, nor for them that were with him, but for the priests only?
+\v 4 How he entered into the house of God, and did eat the loaves of proposition, which it was not lawful for him to eat, nor for them that were with him, but for the priests only?\f + \fr 12:4 \fk The loaves of proposition: \ft So were called the twelve loaves which were placed before the sanctuary in the temple of God.\f*
 \p
 \v 5 Or have ye not read in the law, that on the sabbath days the priests in the temple break the sabbath, and are without blame?
 \p
@@ -779,9 +793,9 @@
 \p
 \v 30 He that is not with me, is against me: and he that gathereth not with me, scattereth.
 \p
-\v 31 Therefore I say to you: Every sin and blasphemy shall be forgiven men, but the blasphemy of the Spirit shall not be forgiven.
+\v 31 Therefore I say to you: Every sin and blasphemy shall be forgiven men, but the blasphemy of the Spirit shall not be forgiven.\f + \fr 12:31 \fk The blasphemy of the Spirit: \ft The sin here spoken of is that blasphemy, by which the Pharisees attributed the miracles of Christ, wrought by the Spirit of God, to Beelzebub the prince of devils. Now this kind of sin is usually accompanied with so much obstinacy, and such wilful opposing the Spirit of God, and the known truth, that men who are guilty of it, are seldom or never converted: and therefore are never forgiven, because they will not repent. Otherwise there is no sin, which God cannot or will not forgive to such as sincerely repent, and have recourse to the keys of the church.\f*
 \p
-\v 32 And whosoever shall speak a word against the Son of man, it shall be forgiven him: but he that shall speak against the Holy Ghost, it shall not be forgiven him neither in this world, nor in the world to come.
+\v 32 And whosoever shall speak a word against the Son of man, it shall be forgiven him: but he that shall speak against the Holy Ghost, it shall not be forgiven him neither in this world, nor in the world to come.\f + \fr 12:32 \fk Nor in the world to come: \ft From these words St. Augustine (De Civ. Dei, lib. 21, c. 13) and St. Gregory (Dialog., 4, c. 39) gather, that some sins may be remitted in the world to come; and, consequently, that there is a purgatory or a middle place.\f*
 \p
 \v 33 Either make the tree good and its fruit good: or make the tree evil, and its fruit evil. For by the fruit the tree is known.
 \p
@@ -789,15 +803,15 @@
 \p
 \v 35 A good man out of a good treasure bringeth forth good things: and an evil man out of an evil treasure bringeth forth evil things.
 \p
-\v 36 But I say unto you, that every idle word that men shall speak, they shall render an account for it in the day of judgment.
+\v 36 But I say unto you, that every idle word that men shall speak, they shall render an account for it in the day of judgment.\f + \fr 12:36 \fk Every idle word: \ft This shews there must be a place of temporal punishment hereafter where these slighter faults shall be punished.\f*
 \p
 \v 37 For by thy words thou shalt be justified, and by thy words thou shalt be condemned.
 \p
-\v 38 Then some of the scribes and Pharisees answered him, saying: Master, we would see a sign from thee.
+\v 38 Then some of the scribes and Pharisees answered him, saying: Master, we would see a sign from thee.\f + \fr 12:38 \fk A sign: \ft That is, a miracle from heaven. St. Luke 11. 16.\f*
 \p
 \v 39 Who answering said to them: An evil and adulterous generation seeketh a sign: and a sign shall not be given it, but the sign of Jonas the prophet.
 \p
-\v 40 For as Jonas was in the whale's belly three days and three nights: so shall the Son of man be in the heart of the earth three days and three nights.
+\v 40 For as Jonas was in the whale's belly three days and three nights: so shall the Son of man be in the heart of the earth three days and three nights.\f + \fr 12:40 \fk Three days, etc: \ft Not complete days and nights; but part of three days, and three nights taken according to the way that the Hebrews counted their days and nights, viz., from evening to evening.\f*
 \p
 \v 41 The men of Ninive shall rise in judgment with this generation, and shall condemn it: because they did penance at the preaching of Jonas. And behold a greater than Jonas here.
 \p
@@ -813,13 +827,14 @@
 \p
 \v 47 And one said unto him: Behold thy mother and thy brethren stand without, seeking thee.
 \p
-\v 48 But he answering him that told him, said: Who is my mother, and who are my brethren?
+\v 48 But he answering him that told him, said: Who is my mother, and who are my brethren?\f + \fr 12:48 \fk Who is my mother?: \ft This was not spoken by way of slighting his mother, but to shew that we are never to suffer ourselves to be taken from the service of God, by any inordinate affection to our earthly parents: and that which our Lord chiefly regarded in his mother, was her doing the will of his Father in heaven. It may also further allude to the reprobation of the Jews, his carnal kindred, and the election of the Gentiles.\f*
 \p
 \v 49 And stretching forth his hand towards his disciples, he said: Behold my mother and my brethren.
 \p
 \v 50 For whosoever shall do the will of my Father, that is in heaven, he is my brother, and sister, and mother.
 \c 13
 \cl Matthew 13
+\cd The parables of the sower and the cockle: of the mustardseed, etc.
 \p
 \v 1 The same day Jesus going out of the house, sat by the sea side.
 \p
@@ -929,7 +944,7 @@
 \p
 \v 54 And coming into his own country, he taught them in their synagogues, so that they wondered and said: How came this man by this wisdom and miracles?
 \p
-\v 55 Is not this the carpenter's son? Is not his mother called Mary, and his brethren James, and Joseph, and Simon, and Jude:
+\v 55 Is not this the carpenter's son? Is not his mother called Mary, and his brethren James, and Joseph, and Simon, and Jude:\f + \fr 13:55 \fk His brethren: \ft These were the children of Mary the wife of Cleophas, sister to our Blessed Lady, (St. Matt. 27. 56; St. John 19. 25,) and therefore, according to the usual style of the Scripture, they were called brethren, that is, near relations to our Saviour.\f*
 \p
 \v 56 And his sisters, are they not all with us? Whence therefore hath he all these things?
 \p
@@ -938,8 +953,9 @@
 \v 58 And he wrought not many miracles there, because of their unbelief.
 \c 14
 \cl Matthew 14
+\cd Herod puts John to death. Christ feeds five thousand in the desert. He walks upon the sea, and heals all the diseased with the touch of his garment.
 \p
-\v 1 At that time Herod the Tetrarch heard the fame of Jesus.
+\v 1 At that time Herod the Tetrarch heard the fame of Jesus.\f + \fr 14:1 \fk Tetrarch: \ft This word, derived from the Greek, signifies one that rules over the fourth part of a kingdom: as Herod then ruled over Galilee, which was but the fourth part of the kingdom of his father.\f*
 \p
 \v 2 And he said to his servants: This is John the Baptist: he is risen from the dead, and therefore mighty works shew forth themselves in him.
 \p
@@ -1012,6 +1028,7 @@
 \v 36 And they besought him that they might touch but the hem of his garment. And as many as touched, were made whole.
 \c 15
 \cl Matthew 15
+\cd Christ reproves the Scribes. He cures the daughter of the woman of Canaan: and many others: and feeds four thousand with seven loaves.
 \p
 \v 1 Then came to him from Jerusalem scribes and Pharisees, saying:
 \p
@@ -1021,7 +1038,7 @@
 \p
 \v 4 Honour thy father and mother: And: He that shall curse father or mother, let him die the death.
 \p
-\v 5 But you say: Whosoever shall say to father or mother, The gift whatsoever proceedeth from me, shall profit thee.
+\v 5 But you say: Whosoever shall say to father or mother, The gift whatsoever proceedeth from me, shall profit thee.\f + \fr 15:5 \fk The gift, etc: \ft That is, the offering that I shall make to God, shall be instead of that which should be expended for thy profit. This tradition of the Pharisees was calculated to enrich themselves; by exempting children from giving any further assistance to their parents, if they once offered to the temple and the priests, that which should have been the support of their parents. But this was a violation of the law of God, and of nature, which our Saviour here condemns.\f*
 \p
 \v 6 And he shall not honour his father or his mother: and you have made void the commandment of God for your tradition.
 \p
@@ -1029,11 +1046,11 @@
 \p
 \v 8 This people honoureth me with their lips: but their heart is far from me.
 \p
-\v 9 And in vain do they worship me, teaching doctrines and commandments of men.
+\v 9 And in vain do they worship me, teaching doctrines and commandments of men.\f + \fr 15:9 \fk Commandments of men: \ft The doctrines and commandments here reprehended are such as are either contrary to the law of God, (as that of neglecting parents, under pretence of giving to God,) or at least are frivolous, unprofitable, and no ways conducing to true piety, as that of often washing hands, etc., without regard to the purity of the heart. But as to the rules and ordinances of the holy church, touching fasts, festivals, etc., these are no ways repugnant to, but highly agreeable to God's holy word, and all Christian piety: neither are they to be counted among the doctrines and commandments of men; because they proceed not from mere human authority; but from that which Christ has established in his church; whose pastors he has commanded us to hear and obey, even as himself. St. Luke 10. 16; St. Matt. 18. 17.\f*
 \p
 \v 10 And having called together the multitudes unto him, he said to them: Hear ye and understand.
 \p
-\v 11 Not that which goeth into the mouth defileth a man: but what cometh out of the mouth, this defileth a man.
+\v 11 Not that which goeth into the mouth defileth a man: but what cometh out of the mouth, this defileth a man.\f + \fr 15:11 \fk Not that which goeth into, etc: \ft No uncleanness in meat, nor any dirt contracted by eating it with unwashed hands, can defile the soul: but sin alone; or a disobedience of the heart to the ordinance and will of God. And thus when Adam took the forbidden fruit, it was not the apple, which entered into the mouth, but the disobedience to the law of God which defiled him. The same is to be said if a Jew, in the time of the old law, had eaten swine's flesh; or a Christian convert, in the days of the apostles, contrary to their ordinance, had eaten blood; or if any of the faithful at present should transgress the ordinance of God's church, by breaking the fasts: for in all these cases the soul would be defiled; not indeed by that which goeth into the mouth; but by the disobedience of the heart, in wilfully transgressing the ordinance of God, or of those who have their authority from him.\f*
 \p
 \v 12 Then came his disciples, and said to him: Dost thou know that the Pharisees, when they heard this word, were scandalized?
 \p
@@ -1092,6 +1109,7 @@
 \v 39 And having dismissed the multitude, he went up into a boat, and came into the coasts of Magedan.
 \c 16
 \cl Matthew 16
+\cd Christ refuses to shew the Pharisees a sign from heaven. Peter's confession is rewarded. He is rebuked for opposing Christ's passion. All his followers must deny themselves.
 \p
 \v 1 And there came to him the Pharisees and Sadducees tempting: and they asked him to shew them a sign from heaven.
 \p
@@ -1127,15 +1145,15 @@
 \p
 \v 17 And Jesus answering said to him: Blessed art thou, Simon Bar-Jona: because flesh and blood hath not revealed it to thee, but my Father who is in heaven.
 \p
-\v 18 And I say to thee: That thou art Peter; and upon this rock I will build my church, and the gates of hell shall not prevail against it.
+\v 18 And I say to thee: That thou art Peter; and upon this rock I will build my church, and the gates of hell shall not prevail against it.\f + \fr 16:18 \fk Thou art Peter, etc: \ft As St. Peter, by divine revelation, here made a solemn profession of his faith of the divinity of Christ; so in recompense of this faith and profession, our Lord here declares to him the dignity to which he is pleased to raise him: viz., that he to whom he had already given the name of Peter, signifying a rock, St. John 1. 42, should be a rock indeed, of invincible strength, for the support of the building of the church; in which building he should be, next to Christ himself, the chief foundation stone, in quality of chief pastor, ruler, and governor; and should have accordingly all fulness of ecclesiastical power, signified by the keys of the kingdom of heaven.\f*\f + \fr 16:18 \fk Upon this rock, etc: \ft The words of Christ to Peter, spoken in the vulgar language of the Jews which our Lord made use of, were the same as if he had said in English, Thou art a Rock, and upon this rock I will build my church. So that, by the plain course of the words, Peter is here declared to be the rock, upon which the church was to be built: Christ himself being both the principal foundation and founder of the same. Where also note, that Christ, by building his house, that is, his church, upon a rock, has thereby secured it against all storms and floods, like the wise builder, St. Matt. 7. 24, 25.\f*\f + \fr 16:18 \fk The gates of hell, etc: \ft That is, the powers of darkness, and whatever Satan can do, either by himself, or his agents. For as the church is here likened to a house, or fortress, built on a rock; so the adverse powers are likened to a contrary house or fortress, the gates of which, that is, the whole strength, and all the efforts it can make, will never be able to prevail over the city or church of Christ. By this promise we are fully assured, that neither idolatry, heresy, nor any pernicious error whatsoever shall at any time prevail over the church of Christ.\f*
 \p
-\v 19 And I will give to thee the keys of the kingdom of heaven. And whatsoever thou shalt bind upon earth, it shall be bound also in heaven: and whatsoever thou shalt loose on earth, it shall be loosed also in heaven.
+\v 19 And I will give to thee the keys of the kingdom of heaven. And whatsoever thou shalt bind upon earth, it shall be bound also in heaven: and whatsoever thou shalt loose on earth, it shall be loosed also in heaven.\f + \fr 16:19 \fk Loose on earth: \ft The loosing the bands of temporal punishments due to sins, is called an indulgence; the power of which is here granted.\f*
 \p
 \v 20 Then he commanded his disciples, that they should tell no one that he was Jesus the Christ.
 \p
 \v 21 From that time Jesus began to shew to his disciples, that he must go to Jerusalem, and suffer many things from the ancients and scribes and chief priests, and be put to death, and the third day rise again.
 \p
-\v 22 And Peter taking him, began to rebuke him, saying: Lord, be it far from thee, this shall not be unto thee.
+\v 22 And Peter taking him, began to rebuke him, saying: Lord, be it far from thee, this shall not be unto thee.\f + \fr 16:22 \fk And Peter taking him: \ft That is, taking him aside, out of a tender love, respect and zeal for his Lord and Master's honour, began to expostulate with him, as it were to rebuke him, saying, Lord, far be it from thee to suffer death; but the Lord said to Peter, ver. 23, Go behind me, Satan. These words may signify, Begone from me; but the holy Fathers expound them otherwise, that is, come after me, or follow me; and by these words the Lord would have Peter to follow him in his suffering, and not to oppose the divine will by contradiction; for the word satan means in Hebrew an adversary, or one that opposes.\f*
 \p
 \v 23 Who turning, said to Peter: Go behind me, Satan, thou art a scandal unto me: because thou savourest not the things that are of God, but the things that are of men.
 \p
@@ -1150,6 +1168,7 @@
 \v 28 Amen I say to you, there are some of them that stand here, that shall not taste death, till they see the Son of man coming in his kingdom.
 \c 17
 \cl Matthew 17
+\cd The Transfiguration of Christ: He cures the lunatic child: foretells his passion; and pays the didrachma.
 \p
 \v 1 And after six days Jesus taketh unto him Peter and James, and John his brother, and bringeth them up into a high mountain apart:
 \p
@@ -1187,7 +1206,7 @@
 \p
 \v 18 Then came the disciples to Jesus secretly, and said: Why could not we cast him out?
 \p
-\v 19 Jesus said to them: Because of your unbelief. For, amen I say to you, if you have faith as a grain of mustard seed, you shall say to this mountain: Remove from hence hither, and it shall remove: and nothing shall be impossible to you.
+\v 19 Jesus said to them: Because of your unbelief. For, amen I say to you, if you have faith as a grain of mustard seed, you shall say to this mountain: Remove from hence hither, and it shall remove: and nothing shall be impossible to you.\f + \fr 17:19 \fk As a grain of mustard seed: \ft That is, a perfect faith; which in its properties, and its fruits, resembles the grain of mustard seed, in the parable, chap. 13. 31.\f*
 \p
 \v 20 But this kind is not cast out but by prayer and fasting.
 \p
@@ -1195,7 +1214,7 @@
 \p
 \v 22 And they shall kill him, and the third day he shall rise again. And they were troubled exceedingly.
 \p
-\v 23 And when they were come to Capharnaum, they that received the didrachmas, came to Peter, and said to him: Doth not your master pay the didrachma?
+\v 23 And when they were come to Capharnaum, they that received the didrachmas, came to Peter, and said to him: Doth not your master pay the didrachma?\f + \fr 17:23 \fk The didrachmas: \ft A didrachma was half a sicle, or half a stater; that is, about 15d. English: which was a tax laid upon every head for the service of the temple.\f*
 \p
 \v 24 He said: Yes. And when he was come into the house, Jesus prevented him, saying: What is thy opinion, Simon? The kings of the earth, of whom do they receive tribute or custom, of their own children, or of strangers?
 \p
@@ -1204,6 +1223,7 @@
 \v 26 But that we may not scandalize them, go to the sea, and cast in a hook: and that fish which shall first come up, take: and when thou hast opened it's mouth, thou shalt find a stater: take that, and give it to them for me and thee.
 \c 18
 \cl Matthew 18
+\cd Christ teaches humility, to beware of scandal, and to flee the occasions of sin: to denounce to the church incorrigible sinners, and to look upon such as refuse to hear the church as heathens. He promises to his disciples the power of binding and loosing: and that he will be in the midst of their assemblies. No forgiveness for them that will not forgive.
 \p
 \v 1 At that hour the disciples came to Jesus, saying: Who, thinkest thou, is the greater in the kingdom of heaven?
 \p
@@ -1215,11 +1235,11 @@
 \p
 \v 5 And he that shall receive one such little child in my name, receiveth me.
 \p
-\v 6 But he that shall scandalize one of these little ones that believe in me, it were better for him that a millstone should be hanged about his neck, and that he should be drowned in the depth of the sea.
+\v 6 But he that shall scandalize one of these little ones that believe in me, it were better for him that a millstone should be hanged about his neck, and that he should be drowned in the depth of the sea.\f + \fr 18:6 \fk Shall scandalize: \ft That is, shall put a stumblingblock in their way, and cause them to fall into sin.\f*
 \p
-\v 7 Woe to the world because of scandals. For it must needs be that scandals come: but nevertheless woe to that man by whom the scandal cometh.
+\v 7 Woe to the world because of scandals. For it must needs be that scandals come: but nevertheless woe to that man by whom the scandal cometh.\f + \fr 18:7 \fk It must needs be, etc: \ft Viz., considering the wickedness and corruption of the world.\f*
 \p
-\v 8 And if thy hand, or thy foot, scandalize thee, cut it off, and cast it from thee. It is better for thee to go into life maimed or lame, than having two hands or two feet, to be cast into everlasting fire.
+\v 8 And if thy hand, or thy foot, scandalize thee, cut it off, and cast it from thee. It is better for thee to go into life maimed or lame, than having two hands or two feet, to be cast into everlasting fire.\f + \fr 18:8 \fk Scandalize thee: \ft That is, cause thee to offend.\f*
 \p
 \v 9 And if thy eye scandalize thee, pluck it out, and cast it from thee. It is better for thee having one eye to enter into life, than having two eyes to be cast into hell fire.
 \p
@@ -1243,7 +1263,7 @@
 \p
 \v 19 Again I say to you, that if two of you shall consent upon earth, concerning anything whatsoever they shall ask, it shall be done to them by my Father who is in heaven.
 \p
-\v 20 For where there are two or three gathered together in my name, there am I in the midst of them.
+\v 20 For where there are two or three gathered together in my name, there am I in the midst of them.\f + \fr 18:20 \fk There am I in the midst of them: \ft This is understood of such assemblies only as are gathered in the name and authority of Christ; and in unity of the church of Christ. St. Cyprian, De Unitate Ecclesiae.\f*
 \p
 \v 21 Then came Peter unto him and said: Lord, how often shall my brother offend against me, and I forgive him? till seven times?
 \p
@@ -1251,7 +1271,7 @@
 \p
 \v 23 Therefore is the kingdom of heaven likened to a king, who would take an account of his servants.
 \p
-\v 24 And when he had begun to take the account, one as brought to him, that owed him ten thousand talents.
+\v 24 And when he had begun to take the account, one as brought to him, that owed him ten thousand talents.\f + \fr 18:24 \fk Talents: \ft A talent was seven hundred and fifty ounces of silver, which at the rate of five shillings to the ounce is a hundred and eighty-seven pounds ten shillings sterling.\f*
 \p
 \v 25 And as he had not wherewith to pay it, his lord commanded that he should be sold, and his wife and children, and all that he had, and payment to be made.
 \p
@@ -1259,7 +1279,7 @@
 \p
 \v 27 And the lord of that servant being moved with pity, let him go and forgave him the debt.
 \p
-\v 28 But when that servant was gone out, he found one of his fellow-servants that owed him an hundred pence: and laying hold of him, he throttled him, saying: Pay what thou owest.
+\v 28 But when that servant was gone out, he found one of his fellow-servants that owed him an hundred pence: and laying hold of him, he throttled him, saying: Pay what thou owest.\f + \fr 18:28 \fk Pence: \ft The Roman penny was the eighth part of an ounce, that is, about sevenpence half-penny English.\f*
 \p
 \v 29 And his fellow-servant falling down, besought him, saying: Have patience with me, and I will pay thee all.
 \p
@@ -1276,6 +1296,7 @@
 \v 35 So also shall my heavenly Father do to you, if you forgive not every one his brother from your hearts.
 \c 19
 \cl Matthew 19
+\cd Christ declares matrimony to be indissoluble: he recommends the making one's self an eunuch for the kingdom of heaven; and parting with all things for him. He shews the danger of riches, and the reward of leaving all to follow him.
 \p
 \v 1 And it came to pass when Jesus had ended these words, he departed from Galilee and came into the coasts of Judea, beyond Jordan.
 \p
@@ -1293,13 +1314,13 @@
 \p
 \v 8 He saith to them: Because Moses by reason of the hardness of your heart permitted you to put away your wives: but from the beginning it was not so.
 \p
-\v 9 And I say to you, that whosoever shall put away his wife, except it be for fornication, and shall marry another, committeth adultery: and he that shall marry her that is put away, committeth adultery.
+\v 9 And I say to you, that whosoever shall put away his wife, except it be for fornication, and shall marry another, committeth adultery: and he that shall marry her that is put away, committeth adultery.\f + \fr 19:9 \fk Except it be, etc: \ft In the case of fornication, that is, of adultery, the wife may be put away: but even then the husband cannot marry another as long as the wife is living.\f*
 \p
 \v 10 His disciples say unto him: If the case of a man with his wife be so, it is not expedient to marry.
 \p
-\v 11 Who said to them: All men take not this word, but they to whom it is given.
+\v 11 Who said to them: All men take not this word, but they to whom it is given.\f + \fr 19:11 \fk All men take not this word: \ft That is, all receive not the gift of living singly and chastely, unless they pray for the grace of God to enable them to live so, and for some it may be necessary to that end to fast as well as pray: and to those it is given from above.\f*
 \p
-\v 12 For there are eunuchs, who were born so from their mothers womb: and there are eunuchs, who were made so by men: and there are eunuchs, who have made themselves eunuchs for the kingdom of heaven. He that can take, let him take it.
+\v 12 For there are eunuchs, who were born so from their mothers womb: and there are eunuchs, who were made so by men: and there are eunuchs, who have made themselves eunuchs for the kingdom of heaven. He that can take, let him take it.\f + \fr 19:12 \fk There are eunuchs, who have made themselves eunuchs, for the kingdom of heaven: \ft This text is not to be taken in the literal sense; but means, that there are such, who have taken a firm and commendable resolution of leading a single and chaste life, in order to serve God in a more perfect state than those who marry: as St. Paul clearly shews. 1 Cor. 7. 37, 38.\f*
 \p
 \v 13 Then were little children presented to him, that he should impose hands upon them and pray. And the disciples rebuked them.
 \p
@@ -1338,6 +1359,7 @@
 \v 30 And many that are first, shall be last: and the last shall be first.
 \c 20
 \cl Matthew 20
+\cd The parable of the labourers in the vineyard. The ambition of the two sons of Zebedee. Christ gives sight to two blind men.
 \p
 \v 1 The kingdom of heaven is like to an householder, who went out early in the morning to hire labourers into his vineyard.
 \p
@@ -1367,7 +1389,7 @@
 \p
 \v 14 Take what is thine, and go thy way: I will also give to this last even as to thee.
 \p
-\v 15 Or, is it not lawful for me to do what I will? Is thy eye evil, because I am good?
+\v 15 Or, is it not lawful for me to do what I will? Is thy eye evil, because I am good?\f + \fr 20:15 \fk What I will: \ft Viz., with my own, and in matters that depend on my own bounty.\f*
 \p
 \v 16 So shall the last be first and the first last. For many are called but few chosen.
 \p
@@ -1408,6 +1430,7 @@
 \v 34 And Jesus having compassion on them, touched their eyes. And immediately they saw and followed him.
 \c 21
 \cl Matthew 21
+\cd Christ rides into Jerusalem upon an ass. He casts the buyers and sellers out of the temple, curses the fig tree and puts to silence the priests and scribes.
 \p
 \v 1 And when they drew nigh to Jerusalem and were come to Bethphage, unto mount Olivet, then Jesus sent two disciples,
 \p
@@ -1502,6 +1525,7 @@
 \v 46 And seeking to lay hands on him, they feared the multitudes, because they held him as a prophet.
 \c 22
 \cl Matthew 22
+\cd The parable of the marriage feast. Christ orders tribute to be paid to Caesar. He confutes the Sadducees, shews which is the first commandment in the law and puzzles the Pharisees.
 \p
 \v 1 And Jesus answering, spoke again in parables to them, saying:
 \p
@@ -1533,7 +1557,7 @@
 \p
 \v 15 Then the Pharisees going, consulted among themselves how to insnare him in his speech.
 \p
-\v 16 And they sent to him their disciples with the Herodians, saying: Master, we know that thou art a true speaker and teachest the way of God in truth. Neither carest thou for any man: for thou dost not regard the person of men.
+\v 16 And they sent to him their disciples with the Herodians, saying: Master, we know that thou art a true speaker and teachest the way of God in truth. Neither carest thou for any man: for thou dost not regard the person of men.\f + \fr 22:16 \fk The Herodians: \ft That is, some that belonged to Herod, and that joined with him in standing up for the necessity of paying tribute to Caesar, that is, to the Roman emperor. Some are of opinion that there was a sect among the Jews called Herodians, from their maintaining that Herod was the Messias.\f*
 \p
 \v 17 Tell us therefore what dost thou think? Is it lawful to give tribute to Caesar, or not?
 \p
@@ -1596,6 +1620,7 @@
 \v 46 And no man was able to answer him a word: neither durst any man from that day forth ask him any more questions.
 \c 23
 \cl Matthew 23
+\cd Christ admonishes the people to follow the good doctrine, not the bad example of the scribes and Pharisees. He warns his disciples not to imitate their ambition and denounces divers woes against them for their hypocrisy and blindness.
 \p
 \v 1 Then Jesus spoke to the multitudes and to his disciples,
 \p
@@ -1605,7 +1630,7 @@
 \p
 \v 4 For they bind heavy and insupportable burdens and lay them on men's shoulders: but with a finger of their own they will not move them.
 \p
-\v 5 And all their works they do for to be seen of men. For they make their phylacteries broad and enlarge their fringes.
+\v 5 And all their works they do for to be seen of men. For they make their phylacteries broad and enlarge their fringes.\f + \fr 23:5 \fk Phylacteries: \ft that is, parchments, on which they wrote the ten commandments, and carried them on their foreheads before their eyes: which the Pharisees affected to wear broader than other men; so to seem more zealous for the law.\f*
 \p
 \v 6 And they love the first places at feasts and the first chairs in the synagogues,
 \p
@@ -1613,7 +1638,7 @@
 \p
 \v 8 But be not you called Rabbi. For one is your master: and all you are brethren.
 \p
-\v 9 And call none your father upon earth; for one is your father, who is in heaven.
+\v 9 And call none your father upon earth; for one is your father, who is in heaven.\f + \fr 23:9 \fk Call none your father--Neither be ye called masters, etc: \ft The meaning is that our Father in heaven is incomparably more to be regarded, than any father upon earth: and no master to be followed, who would lead us away from Christ. But this does not hinder but that we are by the law of God to have a due respect both for our parents and spiritual fathers, (1 Cor. 4. 23:15,) and for our masters and teachers.\f*
 \p
 \v 10 Neither be ye called masters: for one is your master, Christ.
 \p
@@ -1653,7 +1678,7 @@
 \p
 \v 28 So you also outwardly indeed appear to men just: but inwardly you are full of hypocrisy and iniquity.
 \p
-\v 29 Woe to you, scribes and Pharisees, hypocrites, that build the sepulchres of the prophets and adorn the monuments of the just,
+\v 29 Woe to you, scribes and Pharisees, hypocrites, that build the sepulchres of the prophets and adorn the monuments of the just,\f + \fr 23:29 \fk Build the sepulchres, etc: \ft This is not blamed, as if it were in itself evil to build or adorn the monuments of the prophets: but the hypocrisy of the Pharisees is here taxed; who, whilst they pretended to honour the memory of the prophets, were persecuting even unto death the Lord of the prophets.\f*
 \p
 \v 30 And say: If we had been in the days of our fathers, we would not have been partakers with them in the blood of the prophets.
 \p
@@ -1665,7 +1690,7 @@
 \p
 \v 34 Therefore behold I send to you prophets and wise men and scribes: and some of them you will put to death and crucify: and some you will scourge in your synagogues and persecute from city to city.
 \p
-\v 35 That upon you may come all the just blood that hath been shed upon the earth, from the blood of Abel the just, even unto the blood of Zacharias the son of Barachias, whom you killed between the temple and the altar.
+\v 35 That upon you may come all the just blood that hath been shed upon the earth, from the blood of Abel the just, even unto the blood of Zacharias the son of Barachias, whom you killed between the temple and the altar.\f + \fr 23:35 \fk That upon you may come, etc: \ft Not that they should suffer more than their own sins justly deserved; but that the justice of God should now fall upon them with such a final vengeance, once for all, as might comprise all the different kinds of judgments and punishments, that had at any time before been inflicted for the shedding of just blood.\f*
 \p
 \v 36 Amen I say to you, all these things shall come upon this generation.
 \p
@@ -1676,6 +1701,7 @@
 \v 39 For I say to you, you shall not see me henceforth till you say: Blessed is he that cometh in the name of the Lord.
 \c 24
 \cl Matthew 24
+\cd Christ foretells the destruction of the temple, with the signs that shall come before it and before the last judgment. We must always watch.
 \p
 \v 1 And Jesus being come out of the temple, went away. And his disciples came to shew him the buildings of the temple.
 \p
@@ -1731,11 +1757,11 @@
 \p
 \v 27 For as lightning cometh out of the east and appeareth even into the west: so shall also the cowling of the Son of man be.
 \p
-\v 28 Wheresoever the body shall be, there shall the eagles also be gathered together.
+\v 28 Wheresoever the body shall be, there shall the eagles also be gathered together.\f + \fr 24:28 \fk Wheresoever, etc: \ft The coming of Christ shall be sudden, and manifest to all the world, like lightning: and wheresoever he shall come, thither shall all mankind be gathered to him, as eagles are gathered about a dead body.\f*
 \p
-\v 29 And immediately after the tribulation of those days, the sun shall be darkened and the moon shall not give her light and the stars shall fall from heaven and the powers of heaven shall be moved.
+\v 29 And immediately after the tribulation of those days, the sun shall be darkened and the moon shall not give her light and the stars shall fall from heaven and the powers of heaven shall be moved.\f + \fr 24:29 \fk The stars: \ft Or flaming meteors resembling stars.\f*
 \p
-\v 30 And then shall appear the sign of the Son of man in heaven. And then shall all tribes of the earth mourn: and they shall see the Son of man coming in the clouds of heaven with much power and majesty.
+\v 30 And then shall appear the sign of the Son of man in heaven. And then shall all tribes of the earth mourn: and they shall see the Son of man coming in the clouds of heaven with much power and majesty.\f + \fr 24:30 \fk The sign, etc: \ft The cross of Christ.\f*
 \p
 \v 31 And he shall send his angels with a trumpet and a great voice: and they shall gather together his elect from the four winds, from the farthest parts of the heavens to the utmost bounds of them.
 \p
@@ -1745,7 +1771,7 @@
 \p
 \v 34 Amen I say to you that this generation shall not pass till all these things be done.
 \p
-\v 35 Heaven and earth shall pass: but my words shall not pass.
+\v 35 Heaven and earth shall pass: but my words shall not pass.\f + \fr 24:35 \fk Shall pass: \ft Because they shall be changed at the end of the world into a new heaven and new earth.\f*
 \p
 \v 36 But of that day and hour no one knoweth: no, not the angels of heaven, but the Father alone.
 \p
@@ -1780,6 +1806,7 @@
 \v 51 And shall separate him and appoint his portion with the hypocrites. There shall be weeping and gnashing of teeth.
 \c 25
 \cl Matthew 25
+\cd The parable of the ten virgins and of the talents. The description of the last judgment.
 \p
 \v 1 Then shall the kingdom of heaven be like to ten virgins, who taking their lamps went out to meet the bridegroom and the bride.
 \p
@@ -1874,6 +1901,7 @@
 \v 46 And these shall go into everlasting punishment: but the just, into life everlasting.
 \c 26
 \cl Matthew 26
+\cd The Jews conspire against Christ. He is anointed by Mary. The treason of Judas. The last supper. The prayer in the garden. The apprehension of our Lord. His treatment in the house of Caiphas.
 \p
 \v 1 And it came to pass, when Jesus had ended all these words, he said to his disciples:
 \p
@@ -1895,7 +1923,7 @@
 \p
 \v 10 And Jesus knowing it, said to them: Why do you trouble this woman? For she hath wrought a good work upon me.
 \p
-\v 11 For the poor you have always with you: but me you have not always.
+\v 11 For the poor you have always with you: but me you have not always.\f + \fr 26:11 \fk Me you have not always: \ft Viz., in a visible manner, as when conversant here on earth; and as we have the poor, whom we may daily assist and relieve.\f*
 \p
 \v 12 For she in pouring this ointment on my body hath done it for my burial.
 \p
@@ -1907,7 +1935,7 @@
 \p
 \v 16 And from thenceforth he sought opportunity to betray him.
 \p
-\v 17 And on the first day of the Azymes, the disciples came to Jesus, saying: Where wilt thou that we prepare for thee to eat the pasch?
+\v 17 And on the first day of the Azymes, the disciples came to Jesus, saying: Where wilt thou that we prepare for thee to eat the pasch?\f + \fr 26:17 \fk Azymes: \ft Feast of the unleavened bread.\f*\f + \fr 26:17 \fk Pasch: \ft The paschal lamb.\f*
 \p
 \v 18 But Jesus said: Go ye into the city to a certain man and say to him: The master saith, My time is near at hand. With thee I make the pasch with my disciples.
 \p
@@ -1925,17 +1953,17 @@
 \p
 \v 25 And Judas that betrayed him answering, said: Is it I, Rabbi? He saith to him: Thou hast said it.
 \p
-\v 26 And whilst they were at supper, Jesus took bread and blessed and broke and gave to his disciples and said: Take ye and eat. This is my body.
+\v 26 And whilst they were at supper, Jesus took bread and blessed and broke and gave to his disciples and said: Take ye and eat. This is my body.\f + \fr 26:26 \fk This is my body: \ft He does not say, This is the figure of my body--but This is my body. (2 Council of Nice, Act. 6.) Neither does he say in this, or with this is my body; but absolutely, This is my body: which plainly implies transubstantiation.\f*
 \p
-\v 27 And taking the chalice, he gave thanks and gave to them, saying: Drink ye all of this.
+\v 27 And taking the chalice, he gave thanks and gave to them, saying: Drink ye all of this.\f + \fr 26:27 \fk Drink ye all of this: \ft This was spoken to the twelve apostles; who were the all then present; and they all drank of it, says St. Mark 14. 23. But it no ways follows from these words spoken to the apostles, that all the faithful are here commanded to drink of the chalice; any more than that all the faithful are commanded to consecrate, offer and administer this sacrament; because Christ upon this same occasion, and at the same time, bid the apostles do so; in these words, St. Luke 22. 19, Do this for a commemoration of me.\f*
 \p
-\v 28 For this is my blood of the new testament, which shall be shed for many unto remission of sins.
+\v 28 For this is my blood of the new testament, which shall be shed for many unto remission of sins.\f + \fr 26:28 \fk Blood of the new testament: \ft As the old testament was dedicated with the blood of victims, by Moses, in these words: This is the blood of the testament, etc., Heb. 9. 20; so here is the dedication and institution of the new testament, in the blood of Christ, here mystically shed by these words: This is the blood of the new testament, etc.\f*
 \p
-\v 29 And I say to you, I will not drink from henceforth of this fruit of the vine until that day when I shall drink it with you new in the kingdom of my Father.
+\v 29 And I say to you, I will not drink from henceforth of this fruit of the vine until that day when I shall drink it with you new in the kingdom of my Father.\f + \fr 26:29 \fk Fruit of the vine: \ft These words, by the account of St. Luke 26:22. 18, were not spoken of the sacramental cup, but of the wine that was drunk with the paschal lamb. Though the sacramental cup might also be called the fruit of the vine, because it was consecrated from wine, and retains the likeness, and all the accidents or qualities of wine.\f*
 \p
 \v 30 And a hymn being said, they went out unto mount Olivet.
 \p
-\v 31 Then Jesus saith to them: All you shall be scandalized in me this night. For it is written: I will strike the shepherd: and the sheep of the flock shall be dispersed.
+\v 31 Then Jesus saith to them: All you shall be scandalized in me this night. For it is written: I will strike the shepherd: and the sheep of the flock shall be dispersed.\f + \fr 26:31 \fk Scandalized in me, etc: \ft Forasmuch as my being apprehended shall make you all run away and forsake me.\f*
 \p
 \v 32 But after I shall be risen again, I will go before you into Galilee.
 \p
@@ -2026,6 +2054,7 @@
 \v 75 And Peter remembered the word of Jesus which he had said: Before the cock crow, thou wilt deny me thrice. And going forth, he wept bitterly.
 \c 27
 \cl Matthew 27
+\cd The continuation of the history of the passion of Christ. His death and burial.
 \p
 \v 1 And when morning was come, all the chief priests and ancients of the people took counsel against Jesus, that they might put him to death.
 \p
@@ -2037,7 +2066,7 @@
 \p
 \v 5 And casting down the pieces of silver in the temple, he departed and went and hanged himself with an halter.
 \p
-\v 6 But the chief priests having taken the pieces of silver, said: It is not lawful to put them into the corbona, because it is the price of blood.
+\v 6 But the chief priests having taken the pieces of silver, said: It is not lawful to put them into the corbona, because it is the price of blood.\f + \fr 27:6 \fk Corbona: \ft A place in the temple where the people put in their gifts or offerings.\f*
 \p
 \v 7 And after they had consulted together, they bought with them the potter's field, to be a burying place for strangers.
 \p
@@ -2149,7 +2178,7 @@
 \p
 \v 61 And there was there Mary Magdalen and the other Mary, sitting over against the sepulchre.
 \p
-\v 62 And the next day, which followed the day of preparation, the chief priests and the Pharisees came together to Pilate,
+\v 62 And the next day, which followed the day of preparation, the chief priests and the Pharisees came together to Pilate,\f + \fr 27:62 \fk The day of preparation: \ft The eve of the sabbath; so called, because on that day they prepared all things necessary; not being allowed so much as to dress their meat on the sabbath day.\f*
 \p
 \v 63 Saying: Sir, we have remembered, that that seducer said, while he was yet alive: After three days I will rise again.
 \p
@@ -2160,6 +2189,7 @@
 \v 66 And they departing, made the sepulchre sure, sealing the stone and setting guards.
 \c 28
 \cl Matthew 28
+\cd The resurrection of Christ. His commission to his disciples.
 \p
 \v 1 And in the end of the sabbath, when it began to dawn towards the first day of the week, came Mary Magdalen and the other Mary, to see the sepulchre.
 \p
@@ -2195,9 +2225,8 @@
 \p
 \v 17 And seeing him they adored: but some doubted.
 \p
-\v 18 And Jesus coming, spoke to them, saying: All power is given to me in heaven and in earth.
+\v 18 And Jesus coming, spoke to them, saying: All power is given to me in heaven and in earth.\f + \fr 28:18 \fk All power, etc: \ft See here the warrant and commission of the apostles and their successors, the bishops and pastors of Christ's church. He received from his Father all power in heaven and in earth: and in virtue of this power, he sends them (even as his Father sent him, St. John 20. 21) to teach and disciple, not one, but all nations; and instruct them in all truths: and that he may assist them effectually in the execution of this commission, he promises to be with them, not for three or four hundred years only, but all days, even to the consummation of the world. How then could the Catholic Church ever go astray; having always with her pastors, as is here promised, Christ himself, who is the way, the truth, and the life. St. John 14.\f*
 \p
 \v 19 Going therefore, teach ye all nations: baptizing them in the name of the Father and of the Son and of the Holy Ghost.
 \p
 \v 20 Teaching them to observe all things whatsoever I have commanded you. And behold I am with you all days, even to the consummation of the world.
-\mte9 The Sacred Bible - The Gospel of Matthew

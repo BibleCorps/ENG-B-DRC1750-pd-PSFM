@@ -1,11 +1,14 @@
-\id 1TH ENG (p.sfm) -  <> 1 Thessalonians - Challoner Douay Rheims version of the Sacred Bible The First Letter to the Thessalonians. The Holy Bible. Bishop Challoner's 18th century revision of the Douay Rheims version. Electronic edition 2004. Public domain.
+\id 1 T ENG (p.sfm) - DRC1750 - Verify <>
 \ide UTF-8
 \h 1 Thessalonians
-\toc1 The First Letter to the Thessalonians
+\toc1 THE FIRST EPISTLE OF ST. PAUL TO THE THESSALONIANS
 \toc2 1 Thessalonians
-\toc3 1Thes
+\toc3 1 T
+\mt1 THE FIRST EPISTLE OF ST. PAUL TO THE THESSALONIANS
+\im Thessalonica was the capital of Macedonia, in which St. Paul, having preached the Gospel, converted some Jews and a great number of the Gentiles: but the unbelieving Jews, envying his success, raised such a commotion against him that he, and his companion, Sylvanus were obliged to quit the city. Afterwards he went to Athens, where he heard that the converts in Thessalonica were under a severe persecution, ever since his departure; and lest they should lose their fortitude, he sent Timothy to strengthen and comfort them in their sufferings. In the meantime St. Paul came to Corinth, where he wrote this first Epistle, and also the second to the Thessalonians, both in the same year, being the nineteenth after our Lord's Ascension. These are the first of his Epistles in the order of time.
 \c 1
 \cl 1 Thessalonians 1
+\cd He gives thanks for the grace bestowed on the Thessalonians.
 \p
 \v 1 Paul and Sylvanus and Timothy to the church of the Thessalonians: in God the Father and in the Lord Jesus Christ.
 \p
@@ -28,6 +31,7 @@
 \v 10 And to wait for his Son from heaven (whom he raised up from the dead), Jesus, who hath delivered us from the wrath to come.
 \c 2
 \cl 1 Thessalonians 2
+\cd The sincerity of the apostle's preaching the gospel to them and of their receiving it.
 \p
 \v 1 For yourselves know, brethren, our entrance in unto you, that it was not in vain:
 \p
@@ -53,13 +57,11 @@
 \p
 \v 12 We testified to every one of you that you would walk worthy of God, who hath called you unto his kingdom and glory.
 \p
-\v 13 Therefore, we also give thanks to God without ceasing: because, that when you had received of us the word of the hearing of God, you received it not as the word of men, but (as it is indeed) the word of God, who worketh in you that have believed.
-\p
 \v 14 For you, brethren, are become followers of the churches of God which are in Judea, in Christ Jesus: for you also have suffered the same things from your own countrymen, even as they have from the Jews:
 \p
 \v 15 Who both killed the Lord Jesus, and the prophets, and have persecuted us, and please not God, and are adversaries to all men;
 \p
-\v 16 Prohibiting us to speak to the Gentiles, that they may be saved, to fill up their sins always: for the wrath of God is come upon them to the end.
+\v 16 Prohibiting us to speak to the Gentiles, that they may be saved, to fill up their sins always: for the wrath of God is come upon them to the end.\f + \fr 2:16 \fk To fill up their sins: \ft That is, to fill up the measure of their sins, after which God's justice would punish them.\f*\f + \fr 2:16 \fk For the wrath of God is come upon them to the end: \ft That is, to continue on them to the end.\f*
 \p
 \v 17 But we, brethren, being taken away from you for a short time, in sight, not in heart, have hastened the more abundantly to see your face with great desire.
 \p
@@ -70,6 +72,7 @@
 \v 20 For you are our glory and joy.
 \c 3
 \cl 1 Thessalonians 3
+\cd The apostle's concern and love for the Thessalonians.
 \p
 \v 1 For which cause, forbearing no longer, we thought it good to remain at Athens alone.
 \p
@@ -98,6 +101,7 @@
 \v 13 To confirm your hearts without blame, in holiness, before God and our Father, at the coming of our Lord Jesus Christ, with all his saints. Amen.
 \c 4
 \cl 1 Thessalonians 4
+\cd He exhorts them to purity and mutual charity. He treats of the resurrection of the dead.
 \p
 \v 1 For the rest therefore, brethren, pray and beseech you in the Lord Jesus that, as you have received from us, how you ought to walk and to please God, so also you would walk, that you may abound the more.
 \p
@@ -134,6 +138,7 @@
 \v 17 Wherefore, comfort ye one another with these words.
 \c 5
 \cl 1 Thessalonians 5
+\cd The day of the Lord shall come when least expected. Exhortations to several duties.
 \p
 \v 1 But of the times and moments, brethren, you need not, that we should write to you:
 \p
@@ -161,7 +166,7 @@
 \p
 \v 13 That you esteem them more abundantly in charity, for their work's sake. Have peace with them.
 \p
-\v 14 And we beseech you, brethren, rebuke the unquiet: comfort the feeble minded: support the weak: be patient towards all men.
+\v 14 And we beseech you, brethren, rebuke the unquiet: comfort the feeble minded: support the weak: be patient towards all men.\f + \fr 5:14 \fk The unquiet: \ft That is, such as are irregular and disorderly.\f*
 \p
 \v 15 See that none render evil for evil to any man: but ever follow that which is good towards each other and towards all men.
 \p
@@ -190,4 +195,3 @@
 \v 27 I charge you by the Lord that this epistle be read to all the holy brethren.
 \p
 \v 28 The grace of our Lord Jesus Christ be with you. Amen.
-\mte9 The Sacred Bible - The First Letter to the Thessalonians

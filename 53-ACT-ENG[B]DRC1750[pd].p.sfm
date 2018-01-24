@@ -1,11 +1,14 @@
-\id ACT ENG (p.sfm) -  <> Acts - Challoner Douay Rheims version of the Sacred Bible The Acts of the Apostles. The Holy Bible. Bishop Challoner's 18th century revision of the Douay Rheims version. Electronic edition 2004. Public domain.
+\id Act ENG (p.sfm) - DRC1750 - Verify <>
 \ide UTF-8
 \h Acts
-\toc1 The Acts of the Apostles
+\toc1 THE ACTS OF THE APOSTLES
 \toc2 Acts
 \toc3 Act
+\mt1 THE ACTS OF THE APOSTLES
+\im This Book, which, from the first ages, hath been called, THE ACTS OF THE APOSTLES, is not to be considered as a history of what was done by all the Apostles, who were dispersed into different nations; but only a short view of the first establishment of the Christian Church. A part of the preaching and action of St. Peter are related in the first twelve chapters; and a particular account of St. Paul's apostolical labours in the subsequent chapters. It was written by St. Luke the Evangelist, and the original in Greek. Its history commences from the Ascension of Christ our Lord and ends in the year sixty-three, being a brief account of the Church for the space of about thirty years.
 \c 1
 \cl Acts 1
+\cd The ascension of Christ. Matthias is chosen in place of Judas.
 \p
 \v 1 The former treatise I made, O Theophilus, of all things which Jesus began to do and to teach,
 \p
@@ -60,6 +63,7 @@
 \v 26 And they gave them lot, and the lot fell upon Matthias, and he was numbered with the eleven apostles.
 \c 2
 \cl Acts 2
+\cd The disciples receive the Holy Ghost. Peter's sermon to the people. The piety of the first converts.
 \p
 \v 1 And when the days of the Pentecost were accomplished, they were all together in one place:
 \p
@@ -105,9 +109,9 @@
 \p
 \v 22 Ye men of Israel, hear these words: Jesus of Nazareth, a man approved of God among you by miracles and wonders and signs, which God did by him, in the midst of you, as you also know:
 \p
-\v 23 This same being delivered up, by the determinate counsel and foreknowledge of God, you by the hands of wicked men have crucified and slain.
+\v 23 This same being delivered up, by the determinate counsel and foreknowledge of God, you by the hands of wicked men have crucified and slain.\f + \fr 2:23 \fk By the determinate, etc: \ft God delivered up his Son; and his Son delivered up himself, for the love of us, and for the sake of our salvation; and so Christ's being delivered up was holy, and was God's own determination. But they who betrayed and crucified him, did wickedly, following therein their own malice and the instigation of the devil; not the will and determination of God, who was by no means the author of their wickedness; though he permitted it; because he could, and did draw out of it so great a good, viz., the salvation of man.\f*
 \p
-\v 24 Whom God hath raised up, having loosed the sorrows of hell, as it was impossible that he should be holden by it.
+\v 24 Whom God hath raised up, having loosed the sorrows of hell, as it was impossible that he should be holden by it.\f + \fr 2:24 \fk Having loosed the sorrow, etc: \ft Having overcome the grievous pains of death and all the power of hell.\f*
 \p
 \v 25 For David saith concerning him: I foresaw the Lord before my face: because he is at my right hand, that I may not be moved.
 \p
@@ -156,6 +160,7 @@
 \v 47 Praising God and having favour with all the people. And the Lord increased daily together such as should be saved.
 \c 3
 \cl Acts 3
+\cd The miracle upon the lame man, followed by the conversion of many.
 \p
 \v 1 Now Peter and John went up into the temple at the ninth hour of prayer.
 \p
@@ -210,6 +215,7 @@
 \v 26 To you first, God, raising up his Son, hath sent him to bless you: that every one may convert himself from his wickedness.
 \c 4
 \cl Acts 4
+\cd Peter and John are apprehended. Their constancy. The church is increased.
 \p
 \v 1 And as they were speaking to the people the priests and the officer of the temple and the Sadducees came upon them,
 \p
@@ -286,6 +292,7 @@
 \v 37 Having land, sold it and brought the price and laid it at the feet of the Apostles.
 \c 5
 \cl Acts 5
+\cd The judgment of God upon Ananias and Saphira. The apostles are cast into prison.
 \p
 \v 1 But a certain man named Ananias, with Saphira his wife, sold a piece of land,
 \p
@@ -372,8 +379,9 @@
 \v 42 And every day they ceased not, in the temple and from house to house, to teach and preach Christ Jesus.
 \c 6
 \cl Acts 6
+\cd The ordination of the seven deacons. The zeal of Stephen.
 \p
-\v 1 And in those days, the number of the disciples increasing, there arose a murmuring of the Greeks against the Hebrews, for that their widows were neglected in the daily ministration.
+\v 1 And in those days, the number of the disciples increasing, there arose a murmuring of the Greeks against the Hebrews, for that their widows were neglected in the daily ministration.\f + \fr 6:1 \fk Greeks: \ft So they called the Jews that were born and brought up in Greece.\f*
 \p
 \v 2 Then the twelve, calling together the multitude of the disciples, said: It is not reason that we should leave the word of God and serve tables.
 \p
@@ -404,6 +412,7 @@
 \v 15 And all that sat in the council, looking on him, saw his face as if it had been the face of an angel.
 \c 7
 \cl Acts 7
+\cd Stephen's speech before the council. His martyrdom.
 \p
 \v 1 Then the high priest said: Are these things so?
 \p
@@ -493,13 +502,13 @@
 \p
 \v 44 The tabernacle of the testimony was with our fathers in the desert, as God ordained for them, speaking to Moses, that he should make it according to the form which he had seen.
 \p
-\v 45 Which also our fathers receiving, brought in with Jesus, into the possession of the Gentiles: whom God drove out before the face of our fathers, unto the days of David,
+\v 45 Which also our fathers receiving, brought in with Jesus, into the possession of the Gentiles: whom God drove out before the face of our fathers, unto the days of David,\f + \fr 7:45 \fk Jesus: \ft That is Josue, so called in Greek.\f*
 \p
 \v 46 Who found grace before God and desired to find a tabernacle for the God of Jacob.
 \p
 \v 47 But Solomon built him a house,
 \p
-\v 48 Yet the most High dwelleth not in houses made by hands, as the prophet saith:
+\v 48 Yet the most High dwelleth not in houses made by hands, as the prophet saith:\f + \fr 7:48 \fk Dwelleth not in houses, etc: \ft That is, so as to stand in need of earthly dwellings, or to be contained, or circumscribed by them. Though, otherwise by his immense divinity, he is in our houses; and every where else; and Christ in his humanity dwelt in houses; and is now on our altars.\f*
 \p
 \v 49 Heaven is my throne and the earth my footstool. What house will you build me (saith the Lord)? Or what is the place of my resting?
 \p
@@ -524,6 +533,7 @@
 \v 59 And falling on his knees, he cried with a loud voice, saying: Lord, lay not his sin to their charge: And when he had said this, he fell asleep in the Lord. And Saul was consenting to his death.
 \c 8
 \cl Acts 8
+\cd Philip converts the Samaritans and baptizes the eunuch.
 \p
 \v 1 And at that time, there was raised a great persecution against the church which was at Jerusalem. And they were all dispersed through the countries of Judea, and Samaria, except the apostles.
 \p
@@ -557,7 +567,7 @@
 \p
 \v 16 For he was not as yet come upon any of them: but they were only baptized in the name of the Lord Jesus.
 \p
-\v 17 Then they laid their hands upon them: and they received the Holy Ghost.
+\v 17 Then they laid their hands upon them: and they received the Holy Ghost.\f + \fr 8:17 \fk They laid their hands upon them, etc: \ft The apostles administered the sacrament of confirmation, by imposition of hands, and prayer; and the faithful thereby received the Holy Ghost. Not but they had received the grace of the Holy Ghost at their baptism: yet not that plenitude of grace and those spiritual gifts which they afterwards received from bishops in the sacrament of confirmation, which strengthened them to profess their faith publicly.\f*
 \p
 \v 18 And when Simon saw that, by the imposition of the hands of the apostles, the Holy Ghost was given, he offered them money,
 \p
@@ -597,7 +607,7 @@
 \p
 \v 36 And as they went on their way, they came to a certain water. And the eunuch said: See, here is water: What doth hinder me from being baptized?
 \p
-\v 37 And Philip said: If thou believest with all thy heart, thou mayest. And he answering, said: I believe that Jesus Christ is the Son of God.
+\v 37 And Philip said: If thou believest with all thy heart, thou mayest. And he answering, said: I believe that Jesus Christ is the Son of God.\f + \fr 8:37 \fk If thou believest with all thy heart: \ft The scripture many times mentions only one disposition, as here belief, when others equally necessary are not expressed, viz., a sorrow for sins, a firm hope, and the love of God. Moreover, believing with the whole heart signifies a belief of every thing necessary for salvation.\f*
 \p
 \v 38 And he commanded the chariot to stand still. And they went down into the water, both Philip and the eunuch. And he baptized him.
 \p
@@ -606,6 +616,7 @@
 \v 40 But Philip was found in Azotus: and passing through, he preached the gospel to all the cities, till he came to Caesarea.
 \c 9
 \cl Acts 9
+\cd Paul's conversion and zeal. Peter heals Eneas and raises up Tabitha to life.
 \p
 \v 1 And Saul, as yet breathing out threatenings and slaughter against the disciples of the Lord, went to the high priest
 \p
@@ -694,6 +705,7 @@
 \v 43 And it cane to pass that he abode many days in Joppe, with one Simon a tanner.
 \c 10
 \cl Acts 10
+\cd Cornelius is received into the church. Peter's vision.
 \p
 \v 1 And there was a certain man in Caesarea, named Cornelius, a centurion of that which is called the Italian band:
 \p
@@ -763,7 +775,7 @@
 \p
 \v 34 And Peter opening his mouth, said: in very deed I perceive that God is not a respecter of persons.
 \p
-\v 35 But in every nation, he that feareth him and worketh justice is acceptable to him.
+\v 35 But in every nation, he that feareth him and worketh justice is acceptable to him.\f + \fr 10:35 \fk In every nation, etc: \ft That is to say, not only Jews, but Gentiles also, of what nation soever, are acceptable to God, if they fear him and work justice. But then true faith is always to be presupposed, without which (saith St. Paul, Heb. 11. 6) it is impossible to please God. Beware then of the error of those, who would infer from this passage, that men of all religions may be pleasing to God. For since none but the true religion can be from God, all other religions must be from the father of lies, and therefore highly displeasing to the God of truth.\f*
 \p
 \v 36 God sent the word to the children of Israel, preaching peace by Jesus Christ (He is Lord of all).
 \p
@@ -792,6 +804,7 @@
 \v 48 And he commanded them to be baptized in the name of the Lord Jesus Christ. Then they desired him to tarry with them some days.
 \c 11
 \cl Acts 11
+\cd Peter defends his having received the Gentiles into the church.
 \p
 \v 1 And the apostles and brethren, who were in Judea, heard that the Gentiles also had received the word of God.
 \p
@@ -854,12 +867,13 @@
 \v 30 Which also they did, sending it to the ancients, by the hands of Barnabas and Saul.
 \c 12
 \cl Acts 12
+\cd Herod's persecution. Peter's deliverance by an angel. Herod's punishment.
 \p
 \v 1 And at the same time, Herod the king stretched forth his hands, to afflict some of the church.
 \p
 \v 2 And he killed James, the brother of John, With the sword.
 \p
-\v 3 And seeing that it pleased the Jews, he proceeded to take up Peter also. Now it was in the days of the Azymes.
+\v 3 And seeing that it pleased the Jews, he proceeded to take up Peter also. Now it was in the days of the Azymes.\f + \fr 12:3 \fk Azymes: \ft The festival of the unleavened bread, or the pasch, which answers to our Easter.\f*
 \p
 \v 4 And when he had apprehended him, he cast him into prison, delivering him to four files of soldiers, to be kept, intending, after the pasch, to bring him forth to the people.
 \p
@@ -906,6 +920,7 @@
 \v 25 And Barnabas and Saul, returned from Jerusalem, having fulfilled their ministry, taking with them John who was surnamed Mark.
 \c 13
 \cl Acts 13
+\cd Saul and Barnabas are sent forth by the Holy Ghost. They preach in Cyprus and in Antioch of Pisidia.
 \p
 \v 1 Now there were in the church which was at Antioch prophets and doctors, among whom was Barnabas and Simon who was called Niger, and Lucius of Cyrene and Manahen who was the foster brother of Herod the tetrarch, and Saul.
 \p
@@ -973,7 +988,7 @@
 \p
 \v 33 This same God hath fulfilled to our children, raising up Jesus, as in the second psalm also is written: Thou art my Son: this day have I begotten thee.
 \p
-\v 34 And to shew that he raised him up from the dead, not to return now any more to corruption, he said thus: I will give you the holy things of David, faithful.
+\v 34 And to shew that he raised him up from the dead, not to return now any more to corruption, he said thus: I will give you the holy things of David, faithful.\f + \fr 13:34 \fk I will give you the holy, etc: \ft These are the words of the prophet Isaias, 55. 3. According to the Septuagint, the sense is: I will faithfully fulfil the promises I made to David.\f*
 \p
 \v 35 And therefore, in another place also, he saith: Thou shalt not suffer thy holy one to see corruption.
 \p
@@ -1012,6 +1027,7 @@
 \v 52 And the disciples were filled with joy and with the Holy Ghost.
 \c 14
 \cl Acts 14
+\cd Paul and Barnabas preach in Iconium and Lystra. Paul heals a cripple. They are taken for gods. Paul is stoned. They preach in Derbe and Perge.
 \p
 \v 1 And it came to pass in Iconium that they entered together into the synagogue of the Jews and so spoke that a very great multitude both of the Jews and of the Greeks did believe.
 \p
@@ -1068,6 +1084,7 @@
 \v 27 And they abode no small time with the disciples.
 \c 15
 \cl Acts 15
+\cd A dissension about circumcision. The decision and letter of the council of Jerusalem.
 \p
 \v 1 And some, coming down from Judea, taught the brethren: That, except you be circumcised after the manner of Moses, you cannot be saved.
 \p
@@ -1125,7 +1142,7 @@
 \p
 \v 28 For it hath seemed good to the Holy Ghost and to us to lay no further burden upon you than these necessary things:
 \p
-\v 29 That you abstain from things sacrificed to idols and from blood and from things strangled and from fornication: from which things keeping yourselves, you shall do well. Fare ye well.
+\v 29 That you abstain from things sacrificed to idols and from blood and from things strangled and from fornication: from which things keeping yourselves, you shall do well. Fare ye well.\f + \fr 15:29 \fk From blood, and from things strangled: \ft The use of these things, though of their own nature indifferent, was here prohibited, to bring the Jews more easily to admit of the society of the Gentiles; and to exercise the latter in obedience. But this prohibition was but temporary, and has long since ceased to oblige; more especially in the western churches.\f*
 \p
 \v 30 They therefore, being dismissed, went down to Antioch and, gathering together the multitude, delivered the epistle.
 \p
@@ -1152,6 +1169,7 @@
 \v 41 And he went through Syria and Cilicia, confirming the churches, commanding them to keep the precepts of the apostles and the ancients.
 \c 16
 \cl Acts 16
+\cd Paul visits the churches. He is called to preach in Macedonia. He is scourged at Philippi.
 \p
 \v 1 And he came to Derbe and Lystra. And behold, there was a certain disciple there named Timothy, the son of a Jewish woman that believed: but his father was a Gentile.
 \p
@@ -1183,7 +1201,7 @@
 \p
 \v 15 And when she was baptized, and her household, she besought us, saying: If you have judged me to be faithful to the Lord, come into my house and abide there. And she constrained us.
 \p
-\v 16 And it came to pass, as we went to prayer, a certain girl having a pythonical spirit met us, who brought to her masters much gain by divining.
+\v 16 And it came to pass, as we went to prayer, a certain girl having a pythonical spirit met us, who brought to her masters much gain by divining.\f + \fr 16:16 \fk A pythonical spirit: \ft That is, a spirit pretending to divine, and tell fortunes.\f*
 \p
 \v 17 This same following Paul and us, cried out, saying: These men are the servants of the Most High God, who preach unto you the way of salvation.
 \p
@@ -1234,6 +1252,7 @@
 \v 40 And they went out of the prison and entered into the house of Lydia: and having seen the brethren, they comforted them and departed.
 \c 17
 \cl Acts 17
+\cd Paul preaches to the Thessalonians and Bereans. His discourse to the Athenians.
 \p
 \v 1 And when they had passed through Amphipolis and Apollonia, they came to Thessalonica, where there was a synagogue of the Jews.
 \p
@@ -1245,7 +1264,7 @@
 \p
 \v 5 But the Jews, moved with envy and taking unto them some wicked men of the vulgar sort and making a tumult, set the city in an uproar: and besetting Jason's house, sought to bring them out unto the people.
 \p
-\v 6 And not finding them, they drew Jason and certain brethren to the rulers of the city, crying: They that set the city in an uproar are come hither also:
+\v 6 And not finding them, they drew Jason and certain brethren to the rulers of the city, crying: They that set the city in an uproar are come hither also:\f + \fr 17:6 \fk City. Urbem: \ft In the Greek, the world.\f*
 \p
 \v 7 Whom Jason hath received. And these all do contrary to the decrees of Caesar, saying that there is another king, Jesus.
 \p
@@ -1255,7 +1274,7 @@
 \p
 \v 10 But the brethren immediately sent away Paul and Silas by night unto Berea. Who, when they were come thither, went into the synagogue of the Jews.
 \p
-\v 11 Now these were more noble than those in Thessalonica, who received the word with all eagerness, daily searching the scriptures, whether these things were so.
+\v 11 Now these were more noble than those in Thessalonica, who received the word with all eagerness, daily searching the scriptures, whether these things were so.\f + \fr 17:11 \fk More noble: \ft The Jews of Berea are justly commended, for their eagerly embracing the truth, and searching the scriptures, to find out the texts alleged by the apostle: which was a far more generous proceeding than that of their countrymen at Thessalonica, who persecuted the preachers of the gospel, without examining the grounds they alleged for what they taught.\f*
 \p
 \v 12 And many indeed of them believed: and of honourable women that were Gentiles and of men, not a few.
 \p
@@ -1281,7 +1300,7 @@
 \p
 \v 23 For passing by and seeing your idols, I found an altar also, on which was written: To the Unknown God. What therefore you worship without knowing it, that I preach to you:
 \p
-\v 24 God, who made the world and all things therein, he being Lord of heaven and earth, dwelleth not in temples made with hands.
+\v 24 God, who made the world and all things therein, he being Lord of heaven and earth, dwelleth not in temples made with hands.\f + \fr 17:24 \fk Dwelleth not in temples: \ft God is not contained in temples; so as to need them for his dwelling, or any other uses, as the heathens imagined. Yet by his omnipresence, he is both there and everywhere.\f*
 \p
 \v 25 Neither is he served with men's hands, as though he needed any thing: seeing it is he who giveth to all life and breath and all things:
 \p
@@ -1304,6 +1323,7 @@
 \v 34 But certain men, adhering to him, did believe: among whom was also Dionysius the Areopagite and a woman named Damaris and others with them.
 \c 18
 \cl Acts 18
+\cd Paul founds the church of Corinth and preaches at Ephesus and in other places. Apollo goes to Corinth.
 \p
 \v 1 After these things, departing from Athens, he came to Corinth.
 \p
@@ -1362,6 +1382,7 @@
 \v 28 For with much vigour he convinced the Jews openly, shewing by the scriptures that Jesus is the Christ.
 \c 19
 \cl Acts 19
+\cd Paul establishes the church at Ephesus. The tumult of the silversmiths.
 \p
 \v 1 And it came to pass, while Apollo was at Corinth, that Paul, having passed through the upper coasts, came to Ephesus and found certain disciples.
 \p
@@ -1444,6 +1465,7 @@
 \v 40 For we are even in danger to be called in question for this day's uproar, there being no man guilty (of whom we may give account) of this concourse. And when he had said these things, he dismissed the assembly.
 \c 20
 \cl Acts 20
+\cd Paul passes through Macedonia and Greece. He raises a dead man to life at Troas. His discourse to the clergy of Ephesus.
 \p
 \v 1 And after the tumult was ceased, Paul calling to him the disciples and exhorting them, took his leave and set forward to go into Macedonia.
 \p
@@ -1457,7 +1479,7 @@
 \p
 \v 6 But we sailed from Philippi after the days of the azymes and came to them to Troas in five days, where we abode seven days.
 \p
-\v 7 And on the first day of the week, when we were assembled to break bread, Paul discoursed with them, being to depart on the morrow. And he continued his speech until midnight.
+\v 7 And on the first day of the week, when we were assembled to break bread, Paul discoursed with them, being to depart on the morrow. And he continued his speech until midnight.\f + \fr 20:7 \fk And on the first day of the week: \ft Here St. Chrysostom and many other interpreters of the scripture explain, that the Christians even at this time, must have changed the sabbath into the first day of the week, (the Lord's day,) as all Christians now keep it. This change was undoubtedly made by the authority of the church; hence the exercise of the power, which Christ had given to her: for he is Lord of the sabbath.\f*
 \p
 \v 8 And there were a great number of lamps in the upper chamber where we were assembled.
 \p
@@ -1522,6 +1544,7 @@
 \v 38 Being grieved most of all for the word which he had said, that they should see his face no more. And they brought him on his way to the ship.
 \c 21
 \cl Acts 21
+\cd Paul goes up to Jerusalem. He is apprehended by the Jews in the temple.
 \p
 \v 1 And when it came to pass that, being parted from them, we set sail, we came with a straight course to Coos, and the day following to Rhodes: and from thence to Patara.
 \p
@@ -1537,7 +1560,7 @@
 \p
 \v 7 But we, having finished the voyage by sea, from Tyre came down to Ptolemais: and saluting the brethren, we abode one day with them.
 \p
-\v 8 And the next day departing, we came to Caesarea. And entering into the house of Philip the evangelist, who was one of the seven, we abode with him.
+\v 8 And the next day departing, we came to Caesarea. And entering into the house of Philip the evangelist, who was one of the seven, we abode with him.\f + \fr 21:8 \fk The evangelist: \ft That is, the preacher of the gospel; the same that before converted the Samaritans, and baptized the eunuch, chap. 8., being one of the first seven deacons.\f*
 \p
 \v 9 And he had four daughters, virgins, who did prophesy.
 \p
@@ -1569,7 +1592,7 @@
 \p
 \v 23 Do therefore this that we say to thee. We have four men, who have a vow on them.
 \p
-\v 24 Take these and sanctify thyself with them: and bestow on them, that they may shave their heads. And all will know that the things which they have heard of these are false: but that thou thyself also walkest keeping the law.
+\v 24 Take these and sanctify thyself with them: and bestow on them, that they may shave their heads. And all will know that the things which they have heard of these are false: but that thou thyself also walkest keeping the law.\f + \fr 21:24 \fk Keeping the law: \ft The law, though now no longer obligatory, was for a time observed by the Christian Jews: to bury, as it were, the synagogue with honour.\f*
 \p
 \v 25 But, as touching the Gentiles that believe, we have written, decreeing that they should only refrain themselves from that which has been offered to idols and from blood and from things strangled and from fornication.
 \p
@@ -1604,6 +1627,7 @@
 \v 40 And when he had given him leave, Paul standing on the stairs, beckoned with his hand to the people. And a great silence being made, he spoke unto them in the Hebrew tongue, saying:
 \c 22
 \cl Acts 22
+\cd Paul declares to the people the history of his conversion. He escapes scourging by claiming the privilege of a Roman citizen.
 \p
 \v 1 Men, brethren and fathers, hear ye the account which I now give unto you.
 \p
@@ -1621,7 +1645,7 @@
 \p
 \v 8 And I answered: Who art thou, Lord? And he said to me: I am Jesus of Nazareth, whom thou persecutest.
 \p
-\v 9 And they that were with me saw indeed the light: but they heard not the voice of him that spoke with me.
+\v 9 And they that were with me saw indeed the light: but they heard not the voice of him that spoke with me.\f + \fr 22:9 \fk Heard not the voice: \ft That is, they distinguished not the words; though they heard the voice. Acts 9. 7.\f*
 \p
 \v 10 And I said: What shall I do, Lord? And the Lord said to me: Arise and go to Damascus; and there it shall be told thee of all things that thou must do.
 \p
@@ -1631,7 +1655,7 @@
 \p
 \v 13 Coming to me and standing by me, said to me: Brother Saul, look up. And I, the same hour, looked upon him.
 \p
-\v 14 But he said: The God of our fathers hath preordained thee that thou shouldst know his will and see the Just One and shouldst hear the voice from his mouth.
+\v 14 But he said: The God of our fathers hath preordained thee that thou shouldst know his will and see the Just One and shouldst hear the voice from his mouth.\f + \fr 22:14 \fk Just One: \ft Our Saviour, who appeared to St. Paul, Acts 9. 17.\f*
 \p
 \v 15 For thou shalt be his witness to all men of those things which thou hast seen and heard.
 \p
@@ -1666,6 +1690,7 @@
 \v 30 But on the next day, meaning to know more diligently for what cause he was accused by the Jews, he loosed him and commanded the priests to come together and all the council: and, bringing forth Paul, he set him before them.
 \c 23
 \cl Acts 23
+\cd Paul stands before the council. The Jews conspire his death. He is sent away to Cesarea.
 \p
 \v 1 And Paul, looking upon the council, said: Men, brethren, I have conversed with all good conscience before God until this present day.
 \p
@@ -1738,6 +1763,7 @@
 \v 35 I will hear thee, said he, when thy accusers come. And he commanded him to be kept in Herod's judgment hall.
 \c 24
 \cl Acts 24
+\cd Paul defends his innocence before Felix the governor. He preaches the faith to him.
 \p
 \v 1 And after five days, the high priest, Ananias, came down with some ancients and one Tertullus, an orator, who went to the governor against Paul.
 \p
@@ -1794,6 +1820,7 @@
 \v 27 But when two years were ended, Felix had for successor Portius Festus. And Felix being willing to shew the Jews a pleasure, left Paul bound.
 \c 25
 \cl Acts 25
+\cd Paul appeals to Caesar. King Agrippa desires to hear him.
 \p
 \v 1 Now when Festus was come into the province, after three days, he went up to Jerusalem from Cesarea.
 \p
@@ -1850,6 +1877,7 @@
 \v 27 For it seemeth to me unreasonable to send a prisoner and not to signify the things laid to his charge.
 \c 26
 \cl Acts 26
+\cd Paul gives an account to Agrippa of his life, conversion and calling.
 \p
 \v 1 Then Agrippa said to Paul: Thou art permitted to speak for thyself. Then Paul, stretching forth his hand, began to make his answer.
 \p
@@ -1916,6 +1944,7 @@
 \v 32 And Agrippa said to Festus: This man might have been set at liberty, if he had not appealed to Caesar.
 \c 27
 \cl Acts 27
+\cd Paul is shipped for Rome. His voyage and shipwreck.
 \p
 \v 1 And when it was determined that he should sail into Italy and that Paul, with the other prisoners, should be delivered to a centurion, named Julius, of the band Augusta,
 \p
@@ -2006,6 +2035,7 @@
 \v 44 And the rest, some they carried on boards and some on those things that belonged to the ship. And so it came to pass that every soul got safe to land.
 \c 28
 \cl Acts 28
+\cd Paul, after three months' stay in Melita, continues his voyage and arrives at Rome. His conference there with the Jews.
 \p
 \v 1 And when we had escaped, then we knew that the island was called Melita. But the barbarians shewed us no small courtesy.
 \p
@@ -2068,4 +2098,3 @@
 \v 30 And he remained two whole years in his own hired lodging: and he received all that came in to him,
 \p
 \v 31 Preaching the kingdom of God and teaching the things which concern the Lord Jesus Christ, with all confidence, without prohibition.
-\mte9 The Sacred Bible - The Acts of the Apostles

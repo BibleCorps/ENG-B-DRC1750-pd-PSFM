@@ -1,11 +1,14 @@
-\id NAM ENG (p.sfm) -  <> Nahum - Challoner Douay Rheims version of the Sacred Bible The Prophecy of Nahum. The Holy Bible. Bishop Challoner's 18th century revision of the Douay Rheims version. Electronic edition 2004. Public domain.
+\id Nah ENG (p.sfm) - DRC1750 - Verify <>
 \ide UTF-8
 \h Nahum
-\toc1 The Prophecy of Nahum
+\toc1 THE PROPHECY OF NAHUM
 \toc2 Nahum
 \toc3 Nah
+\mt1 THE PROPHECY OF NAHUM
+\im NAHUM, whose name signifies A COMFORTER, was a native of Elcese, or Elcesai, supposed to be a little town in Galilee. He prophesied, after the ten tribes were carried into captivity, and foretold the utter destruction of Ninive, by the Babylonians and Medes: which happened in the reign of JOSIAS.
 \c 1
 \cl Nahum 1
+\cd The majesty of God, his goodness to his people, and severity to his enemies.
 \p
 \v 1 The burden of Ninive. The book of the vision of Nahum, the Elcesite.
 \p
@@ -21,33 +24,34 @@
 \p
 \v 7 The Lord is good, and giveth strength in the day of trouble: and knoweth them that hope in him.
 \p
-\v 8 But with a flood that passeth by, he will make an utter end of the place thereof: and darkness shall pursue his enemies.
+\v 8 But with a flood that passeth by, he will make an utter end of the place thereof: and darkness shall pursue his enemies.\f + \fr 1:8 \fk Of the place thereof: \ft Viz., of Ninive.\f*
 \p
 \v 9 What do ye devise against the Lord? he will make an utter end: there shall not rise a double affliction.
 \p
 \v 10 For as thorns embrace one another: so while they are feasting and drinking together, they shall be consumed as stubble that is fully dry.
 \p
-\v 11 Out of thee shall come forth one that imagineth evil against the Lord, contriving treachery in his mind.
+\v 11 Out of thee shall come forth one that imagineth evil against the Lord, contriving treachery in his mind.\f + \fr 1:11 \fk Shall come forth one, etc: \ft Some understand this of Sennacherib. But as his attempt against the people seems to have been prior to the prophecy of Nahum, we may better understand it of Holofernes.\f*
 \p
-\v 12 Thus saith the Lord: Though they were perfect: and many of them so, yet thus shall they be cut off, and he shall pass: I have afflicted thee, and I will afflict thee no more.
+\v 12 Thus saith the Lord: Though they were perfect: and many of them so, yet thus shall they be cut off, and he shall pass: I have afflicted thee, and I will afflict thee no more.\f + \fr 1:12 \fk Though they were perfect, etc: \ft That is, however strong or numerous their forces may be, they shall be cut off; and their prince or leader shall pass away and disappear.\f*
 \p
 \v 13 And now I will break in pieces his rod with which he struck thy back, and I will burst thy bonds asunder.
 \p
-\v 14 And the Lord will give a commandment concerning thee, that no more of thy name shall be sown: I will destroy the graven and molten thing out of the house of thy God, I will make it thy grave, for thou art disgraced.
+\v 14 And the Lord will give a commandment concerning thee, that no more of thy name shall be sown: I will destroy the graven and molten thing out of the house of thy God, I will make it thy grave, for thou art disgraced.\f + \fr 1:14 \fk Will give a commandment: \ft That is, a decree, concerning thee, O king of Ninive, thy seed shall fail, etc.\f*
 \p
-\v 15 Behold upon the mountains the feet of him that bringeth good tidings, and that preacheth peace: O Juda, keep thy festivals, and pay thy vows: for Belial shall no more pass through thee again, he is utterly cut off.
+\v 15 Behold upon the mountains the feet of him that bringeth good tidings, and that preacheth peace: O Juda, keep thy festivals, and pay thy vows: for Belial shall no more pass through thee again, he is utterly cut off.\f + \fr 1:15 \fk Belial: \ft The wicked one, viz., the Assyrian.\f*
 \c 2
 \cl Nahum 2
+\cd God sends his armies against Ninive to destroy it.
 \p
 \v 1 He is come up that shall destroy before thy face, that shall keep the siege: watch the way, fortify thy loins, strengthen thy power exceedingly.
 \p
-\v 2 For the Lord hath rendered the pride of Jacob, as the pride of Israel: because the spoilers have laid them waste, and have marred their vine branches.
+\v 2 For the Lord hath rendered the pride of Jacob, as the pride of Israel: because the spoilers have laid them waste, and have marred their vine branches.\f + \fr 2:2 \fk Hath rendered the pride of Jacob, etc: \ft He hath punished Jacob for his pride; and therefore Ninive must not expect to escape. Or else, rendering the pride of Jacob means rewarding, that is, punishing Ninive for the pride they exercised against Jacob.\f*
 \p
-\v 3 The shield of his mighty men is like fire, the men of the army are clad in scarlet, the reins of the chariot are flaming in the day of his preparation, and the drivers are stupefied.
+\v 3 The shield of his mighty men is like fire, the men of the army are clad in scarlet, the reins of the chariot are flaming in the day of his preparation, and the drivers are stupefied.\f + \fr 2:3 \fk Of his mighty men, etc: \ft He speaks of the Chaldeans and Medes sent to destroy Ninive.\f*\f + \fr 2:3 \fk Stupefied: \ft consopiti. That is, they drive on furiously like men intoxicated with wine.\f*
 \p
 \v 4 They are in confusion in the ways, the chariots jostle one against another in the streets: their looks are like torches, like lightning running to and fro.
 \p
-\v 5 He will muster up his valiant men, they shall stumble in their march: they shall quickly get upon the walls thereof: and a covering shall be prepared.
+\v 5 He will muster up his valiant men, they shall stumble in their march: they shall quickly get upon the walls thereof: and a covering shall be prepared.\f + \fr 2:5 \fk Stumble in their march: \ft By running hastily on.\f*
 \p
 \v 6 The gates of the rivers are opened, and the temple is thrown down to the ground.
 \p
@@ -66,6 +70,7 @@
 \v 13 Behold I come against thee, saith the Lord of hosts, and I will burn thy chariots even to smoke, and the sword shall devour thy young lions: and I will cut off thy prey out of the land, and the voice of thy messengers shall be heard no more.
 \c 3
 \cl Nahum 3
+\cd The miserable destruction of Ninive.
 \p
 \v 1 Woe to thee, O city of blood, all full of lies and violence: rapine shall not depart from thee.
 \p
@@ -81,7 +86,7 @@
 \p
 \v 7 And it shall come to pass that every one that shall see thee, shall flee from thee, and shall say: Ninive is laid waste: who shall bemoan thee? whence shall I seek a comforter for thee?
 \p
-\v 8 Art thou better than the populous Alexandria, that dwelleth among the rivers? waters are round about it: the sea is its riches: the waters are its walls.
+\v 8 Art thou better than the populous Alexandria, that dwelleth among the rivers? waters are round about it: the sea is its riches: the waters are its walls.\f + \fr 3:8 \fk Populous Alexandria: \ft No-Ammon. A populous city of Egypt destroyed by the Chaldeans, and afterwards rebuilt by Alexander, and called Alexandria. Others suppose No-Ammon to be the same as Diospolis.\f*
 \p
 \v 9 Ethiopia and Egypt were the strength thereof, and there is no end: Africa and the Libyans were thy helpers.
 \p
@@ -99,9 +104,8 @@
 \p
 \v 16 Thou hast multiplied thy merchandises above the stars of heaven: the bruchus hath spread himself and flown away.
 \p
-\v 17 Thy guards are like the locusts: and thy little ones like the locusts of locusts which swarm on the hedges in the day of cold: the sun arose, and they flew away, and their place was not known where they were.
+\v 17 Thy guards are like the locusts: and thy little ones like the locusts of locusts which swarm on the hedges in the day of cold: the sun arose, and they flew away, and their place was not known where they were.\f + \fr 3:17 \fk Locusts of locusts: \ft The young locusts.\f*
 \p
 \v 18 Thy shepherds have slumbered, O king of Assyria, thy princes shall be buried: thy people are hid in the mountains, and there is none to gather them.
 \p
 \v 19 Thy destruction is not hidden, thy wound is grievous: all that have heard the fame of thee, have clapped their hands over thee: for upon whom hath not thy wickedness passed continually?
-\mte9 The Sacred Bible - The Prophecy of Nahum

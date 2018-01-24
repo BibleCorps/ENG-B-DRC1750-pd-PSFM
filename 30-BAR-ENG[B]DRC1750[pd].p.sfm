@@ -1,11 +1,14 @@
-\id BAR ENG (p.sfm) -  <> Baruch - Challoner Douay Rheims version of the Sacred Bible The Book of Baruch. The Holy Bible. Bishop Challoner's 18th century revision of the Douay Rheims version. Electronic edition 2004. Public domain.
+\id BAR ENG (p.sfm) -  <> Baruch - Challoner Douay Rheims version of the Sacred Bible The Prophecy of Baruch. The Holy Bible. Bishop Challoner's 18th century revision of the Douay Rheims version. Electronic edition 2004. Public domain.
 \ide UTF-8
 \h Baruch
-\toc1 The Book of Baruch
+\toc1 The Prophecy of Baruch
 \toc2 Baruch
 \toc3 Bar
+\mt1 The Prophecy of Baruch
+\im BARUCH was a man of noble extraction, and learned in the law, secretary and disciple to the prophet JEREMIAS, and a sharer in his labours and persecutions: which is the reason why the ancient fathers have considered this book as a part of the prophecy of JEREMIAS, and have usually quoted it under his name.
 \c 1
 \cl Baruch 1
+\cd The Jews of Babylon send the book of Baruch with money to Jerusalem, requesting their brethren there to offer sacrifice, and to pray for the king and for them, acknowledging their manifold sins.
 \p
 \v 1 And these are the words of the book, which Baruch the son of Nerias, the son of Maasias, the son of Sedecias, the son of Sedei, the son Helcias, wrote in Babylonia.
 \p
@@ -52,6 +55,7 @@
 \v 22 And we have gone away every man after the inclinations of his own wicked heart, to serve strange gods, and to do evil in the sight of the Lord our God.
 \c 2
 \cl Baruch 2
+\cd A further confession of the sins of the people, and of the justice of God.
 \p
 \v 1 Wherefore the Lord our God hath made good his word, that he spoke to us, and to our judges that have judged Israel, and to our kings, and to our princes, and to all Israel and Juda:
 \p
@@ -85,7 +89,7 @@
 \p
 \v 16 Look down upon us, O Lord, from thy holy house, and incline thy ear, and hear us.
 \p
-\v 17 Open thy eyes, and behold: for the dead that are in hell, whose spirit is taken away from their bowels, shall not give glory and justice to the Lord:
+\v 17 Open thy eyes, and behold: for the dead that are in hell, whose spirit is taken away from their bowels, shall not give glory and justice to the Lord:\f + \fr 2:17 \fk Justice, etc: \ft They that are in hell shall not give justice to God; that is, they shall not acknowledge and glorify his justice as penitent sinners do upon earth.\f*
 \p
 \v 18 But the soul that is sorrowful for the greatness of evil she hath done, and goeth bowed down, and feeble, and the eyes that fail, and the hungry soul giveth glory and justice to thee the Lord.
 \p
@@ -124,6 +128,7 @@
 \v 35 And I will make with them another covenant that shall be everlasting, to be their God, and they shall be my people: and I will no more remove my people, the children of Israel, out of the land that I have given them.
 \c 3
 \cl Baruch 3
+\cd They pray for mercy, acknowledging that they are justly punished for forsaking true wisdom. A prophecy of Christ.
 \p
 \v 1 And now, O Lord Almighty, the God of Israel, the soul in anguish, and the troubled spirit crieth to thee:
 \p
@@ -167,9 +172,9 @@
 \p
 \v 21 Nor have they understood the paths thereof, neither have their children received it, it is far from their face.
 \p
-\v 22 It hath not been heard of in the land of Chanaan, neither hath it been seen in Theman.
+\v 22 It hath not been heard of in the land of Chanaan, neither hath it been seen in Theman.\f + \fr 3:22 \fk Theman: \ft The capital city of Edom.\f*
 \p
-\v 23 The children of Agar also, that search after the wisdom that is of the earth, the merchants of Merrha, and of Theman, and the tellers of fables, and searchers of prudence and understanding: but the way of wisdom they have not known, neither have they remembered her paths.
+\v 23 The children of Agar also, that search after the wisdom that is of the earth, the merchants of Merrha, and of Theman, and the tellers of fables, and searchers of prudence and understanding: but the way of wisdom they have not known, neither have they remembered her paths.\f + \fr 3:23 \fk Agar: \ft The mother of the Ismaelites.\f*
 \p
 \v 24 O Israel, how great is the house of God, and how vast is the place of his possession!
 \p
@@ -199,9 +204,10 @@
 \p
 \v 37 He found out all the way of knowledge, and gave it to Jacob his servant, and to Israel his beloved.
 \p
-\v 38 Afterwards he was seen upon earth, and conversed with men.
+\v 38 Afterwards he was seen upon earth, and conversed with men.\f + \fr 3:38 \fk Was seen upon earth, etc: \ft viz., by the mystery of the incarnation, by means of which the son of God came visibly amongst us, and conversed with men. The prophets often speak of things to come as if they were past, to express the certainty of the event of the things foretold.\f*
 \c 4
 \cl Baruch 4
+\cd The prophet exhorts to the keeping of the law of wisdom, and encourages the people to be patient, and to hope for their deliverance.
 \p
 \v 1 This is the book of the commandments of God, and the law, that is for ever: all they that keep it, shall come to life: but they that have forsaken it, to death.
 \p
@@ -265,7 +271,7 @@
 \p
 \v 31 The wicked that have afflicted thee, shall perish: and they that have rejoiced at thy ruin, shall be punished.
 \p
-\v 32 The cities which thy children have served, shall be punished: and she that received thy sons.
+\v 32 The cities which thy children have served, shall be punished: and she that received thy sons.\f + \fr 4:32 \fk She that received, etc: \ft viz., Babylon.\f*
 \p
 \v 33 For as she rejoiced at thy ruin, and was glad of thy fall: so shall she be grieved for her own desolation.
 \p
@@ -278,6 +284,7 @@
 \v 37 For behold thy children come, whom thou sentest away scattered, they come gathered together from the east even to the west, at the word of the Holy One rejoicing for the honour of God.
 \c 5
 \cl Baruch 5
+\cd Jerusalem is invited to rejoice and behold the return of her children out of their captivity.
 \p
 \v 1 Put off, O Jerusalem, the garment of thy mourning, and affliction: and put on the beauty, and honour of that everlasting glory which thou hast from God.
 \p
@@ -298,10 +305,12 @@
 \v 9 For God will bring Israel with joy in the light of his majesty, with mercy, and justice, that cometh from him.
 \c 6
 \cl Baruch 6
+\cd The epistle of Jeremias to the captives, as a preservative against idolatry.
+\cd A copy of the epistle that Jeremias sent to them that were to be led away captives into Babylon, by the king of Babylon, to declare to them according to what was commanded him by God.
 \p
 \v 1 For the sins that you have committed before God, you shall be carried away captives into Babylon by Nabuchodonosor the king of Babylon.
 \p
-\v 2 And when you are come into Babylon, you shall be there many years, and for a long time, even to seven generations: and after that I will bring you away from thence with peace.
+\v 2 And when you are come into Babylon, you shall be there many years, and for a long time, even to seven generations: and after that I will bring you away from thence with peace.\f + \fr 6:2 \fk Seven generations: \ft That is, seventy years.\f*
 \p
 \v 3 But now, you shall see in Babylon gods of gold, and of silver, and of stone, and of wood borne upon shoulders, causing fear to the Gentiles.
 \p
@@ -409,7 +418,7 @@
 \p
 \v 55 And they cannot withstand a king and war. How then can it be supposed, or admitted, that they are gods?
 \p
-\v 56 Neither are these gods of wood, and of stone, and laid over with gold, and with silver, able to deliver themselves from thieves or robbers: they that are stronger than them,
+\v 56 Neither are these gods of wood, and of stone, and laid over with gold, and with silver, able to deliver themselves from thieves or robbers: they that are stronger than them,\f + \fr 6:56 \fk They that are stronger than them: \ft That is, robbers and thieves are stronger than these idols, being things without life or motion.\f*
 \p
 \v 57 Shall take from them the gold, and silver, and the raiment wherewith they are clothed, and shall go their way, neither shall they help themselves.
 \p
@@ -442,4 +451,4 @@
 \v 71 By the purple also and the scarlet which are motheaten upon them, you shall know that they are not gods. And they themselves at last are consumed, and shall be a reproach in the country.
 \p
 \v 72 Better, therefore, is the just man that hath no idols: for he shall be far from reproach.
-\mte9 The Sacred Bible - The Book of Baruch
+\mte9 The Sacred Bible - The Prophecy of Baruch

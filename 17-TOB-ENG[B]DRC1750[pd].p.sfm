@@ -1,11 +1,14 @@
 \id TOB ENG (p.sfm) -  <> Tobit - Challoner Douay Rheims version of the Sacred Bible The Book of Tobit. The Holy Bible. Bishop Challoner's 18th century revision of the Douay Rheims version. Electronic edition 2004. Public domain.
 \ide UTF-8
-\h Tobias
-\toc1 The Book of Tobit
-\toc2 Tobias
+\h Tobit
+\toc1 The Book of Tobit (Tobias)
+\toc2 Tobit
 \toc3 Tob
+\mt1 The Book of Tobit (Tobias)
+\im This Book takes its name from the holy man Tobias, whose wonderful virtues are herein recorded. It contains most excellent documents of great piety, extraordinary patience, and of a perfect resignation to the will of God. His humble prayer was heard, and the angel Raphael was sent to relieve him: he is thankful and praises the Lord, calling on the children of Israel to do the same. Having lived to the age of one hundred and two years, he exhorts his son and grandsons to piety, foretells the destruction of Ninive and the rebuilding of Jerusalem: he dies happily.
 \c 1
-\cl Tobias 1
+\cl Tobit 1
+\cd Tobias's early piety: his works of mercy, particularly in burying the dead.
 \p
 \v 1 Tobias of the tribe and city of Nephtali, (which is in the upper parts of Galilee above Naasson, beyond the way that leadeth to the west, having on the right hand the city of Sephet,)
 \p
@@ -57,7 +60,8 @@
 \p
 \v 25 And Tobias returned to his house, and all his substance was restored to him.
 \c 2
-\cl Tobias 2
+\cl Tobit 2
+\cd Tobias leaveth his dinner to bury the dead: he loseth his sight by God's permission, for manifestation of his patience.
 \p
 \v 1 But after this, when there was a festival of the Lord, and a good dinner was prepared in Tobias's house,
 \p
@@ -87,7 +91,7 @@
 \p
 \v 14 But continued immoveable in the fear of God, giving thanks to God all the days of his life.
 \p
-\v 15 For as the kings insulted over holy Job: so his relations and kinsmen mocked at his life, saying:
+\v 15 For as the kings insulted over holy Job: so his relations and kinsmen mocked at his life, saying:\f + \fr 2:15 \fk Kings: \ft So Job's three friends are here called, because they were princes in their respective territories.\f*
 \p
 \v 16 Where is thy hope, for which thou gavest alms, and buriedst the dead?
 \p
@@ -105,7 +109,8 @@
 \p
 \v 23 And with these and other such like words, she upbraided him.
 \c 3
-\cl Tobias 3
+\cl Tobit 3
+\cd The prayer of Tobias, and of Sara, in their several afflictions, are heard by God, and the angel Raphael is sent to relieve them.
 \p
 \v 1 Then Tobias sighed, and began to pray with tears,
 \p
@@ -119,7 +124,7 @@
 \p
 \v 6 And now, O Lord, do with me according to thy will, and command my spirit to be received in peace: for it is better for me to die, than to live.
 \p
-\v 7 Now it happened on the same day, that Sara daughter of Raguel, in Rages a city of the Medes, received a reproach from one of her father's servant maids,
+\v 7 Now it happened on the same day, that Sara daughter of Raguel, in Rages a city of the Medes, received a reproach from one of her father's servant maids,\f + \fr 3:7 \fk Rages: \ft In the Greek it is Ecbatana, which was also called Rages. For there were two cities in Media of the name of Rages. Raguel dwelt in one of them, and Gabelus in the other.\f*
 \p
 \v 8 Because she had been given to seven husbands and a devil named Asmodeus had killed them, at their first going in unto her.
 \p
@@ -157,7 +162,8 @@
 \p
 \v 25 And the holy angel of the Lord, Raphael was sent to heal them both, whose prayers at one time were rehearsed in the sight of the Lord.
 \c 4
-\cl Tobias 4
+\cl Tobit 4
+\cd Tobias thinking he shall die, giveth his son godly admonitions: and telleth him of money he had lent to a friend.
 \p
 \v 1 Therefore when Tobias thought that his prayer was heard that he might die, he called to him Tobias his son,
 \p
@@ -205,7 +211,8 @@
 \p
 \v 23 Fear not, my son: we lead indeed a poor life, but we shall have many good things if we fear God, and depart from all sin, and do that which is good.
 \c 5
-\cl Tobias 5
+\cl Tobit 5
+\cd Young Tobias seeking a guide for his journey, the angel Raphael, in shape of a man, undertaketh this office.
 \p
 \v 1 Then Tobias answered his father, and said: I will do all things, father, which thou hast commanded me.
 \p
@@ -241,7 +248,7 @@
 \p
 \v 17 And Raphael the angel answered: Dost thou seek the family of him thou hirest, or the hired servant himself to go with thy son?
 \p
-\v 18 But lest I should make thee uneasy, I am Azarias the son of the great Ananias.
+\v 18 But lest I should make thee uneasy, I am Azarias the son of the great Ananias.\f + \fr 5:18 \fk Azarias: \ft The angel took the form of Azarias: and therefore might call himself by the name of the man whom he personated. Azarias, in Hebrew, signifies the help of God, and Ananias the grace of God.\f*
 \p
 \v 19 And Tobias answered: Thou art of a great family. But I pray thee be not angry that I desired to know thy family.
 \p
@@ -263,7 +270,8 @@
 \p
 \v 28 At these words his mother ceased weeping, and held her peace.
 \c 6
-\cl Tobias 6
+\cl Tobit 6
+\cd By the angel's advice young Tobias taketh hold on a fish that assaulteth him. Reserveth the heart, the gall, and the liver for medicines. They lodge at the house of Raguel, whose daughter Sara, Tobias is to marry; she had before been married to seven husbands, who were all slain by a devil.
 \p
 \v 1 And Tobias went forward, and the dog followed him, and he lodged the first night by the river of Tigris.
 \p
@@ -279,7 +287,7 @@
 \p
 \v 7 Then Tobias asked the angel, and said to him: I beseech thee, brother Azarias, tell me what remedies are these things good for, which thou hast bid me keep of the fish?
 \p
-\v 8 And the angel, answering, said to him: If thou put a little piece of its heart upon coals, the smoke thereof driveth away all kind of devils, either from man or from woman, so that they come no more to them.
+\v 8 And the angel, answering, said to him: If thou put a little piece of its heart upon coals, the smoke thereof driveth away all kind of devils, either from man or from woman, so that they come no more to them.\f + \fr 6:8 \fk Its heart, etc. The liver (ver. 19): \ft God was pleased to give these things a virtue against those proud spirits, to make them, who affected to be like the Most High, subject to such mean corporeal creatures as instruments of his power.\f*
 \p
 \v 9 And the gall is good for anointing the eyes, in which there is a white speck, and they shall be cured.
 \p
@@ -293,7 +301,7 @@
 \p
 \v 14 Then Tobias answered, and said: I hear that she hath been given to seven husbands, and they all died: moreover I have heard, that a devil killed them.
 \p
-\v 15 Now I am afraid, lest the same thing should happen to me also: and whereas I am the only child of my parents, I should bring down their old age with sorrow to hell.
+\v 15 Now I am afraid, lest the same thing should happen to me also: and whereas I am the only child of my parents, I should bring down their old age with sorrow to hell.\f + \fr 6:15 \fk Hell: \ft That is, to the place where the souls of the good were kept before the coming of Christ.\f*
 \p
 \v 16 Then the angel Raphael said to him: Hear me, and I will shew thee who they are, over whom the devil can prevail.
 \p
@@ -309,7 +317,8 @@
 \p
 \v 22 And when the third night is past, thou shalt take the virgin with the fear of the Lord, moved rather for love of children than for lust, that in the seed of Abraham thou mayst obtain a blessing in children.
 \c 7
-\cl Tobias 7
+\cl Tobit 7
+\cd They are kindly entertained by Raguel. Tobias demandeth Sara to wife.
 \p
 \v 1 And they went in to Raguel, and Raguel received them with joy.
 \p
@@ -351,7 +360,8 @@
 \p
 \v 20 And she said to her: Be of good cheer, my daughter: the Lord of heaven give thee joy for the trouble thou hast undergone.
 \c 8
-\cl Tobias 8
+\cl Tobit 8
+\cd Tobias burneth part of the fish's liver, and Raphael bindeth the devil. Tobias and Sara pray.
 \p
 \v 1 And after they had supped, they brought in the young man to her.
 \p
@@ -401,7 +411,8 @@
 \p
 \v 24 And of all things which Raguel possessed, he gave one half to Tobias, and made a writing, that the half that remained should after their decease come also to Tobias.
 \c 9
-\cl Tobias 9
+\cl Tobit 9
+\cd The angel Raphael goeth to Gabelus, receiveth the money, and bringeth him to the marriage.
 \p
 \v 1 Then Tobias called the angel to him, whom he took to be a man, and said to him: Brother Azarias, I pray thee hearken to my words:
 \p
@@ -427,7 +438,8 @@
 \p
 \v 12 And when all had said, Amen, they went to the feast: but the marriage feast they celebrated also with the fear of the Lord.
 \c 10
-\cl Tobias 10
+\cl Tobit 10
+\cd The parents lament the long absence of their son Tobias. He sets out to return.
 \p
 \v 1 But as Tobias made longer stay upon occasion of the marriage, Tobias his father was solicitous, saying: Why thinkest thou doth my son tarry, or why is he detained there?
 \p
@@ -455,7 +467,8 @@
 \p
 \v 13 Admonishing her to honour her father and mother in law, to love her husband, to take care of the family, to govern the house, and to behave herself irreprehensibly.
 \c 11
-\cl Tobias 11
+\cl Tobit 11
+\cd Tobias anointeth his father's eyes with the fish's gall, and he recovereth his sight.
 \p
 \v 1 And as they were returning they came to Charan, which is in the midway to Ninive, the eleventh day.
 \p
@@ -473,7 +486,7 @@
 \p
 \v 8 And immediately anoint his eyes with this gall of the fish, which thou carriest with thee. For be assured that his eyes shall be presently opened, and thy father shall see the light of heaven, and shall rejoice in the sight of thee.
 \p
-\v 9 Then the dog, which had been with them in the way, ran before, and coming as if he had brought the news, shewed his joy by his fawning and wagging his tail.
+\v 9 Then the dog, which had been with them in the way, ran before, and coming as if he had brought the news, shewed his joy by his fawning and wagging his tail.\f + \fr 11:9 \fk The dog, etc: \ft This may seem a very minute circumstance to be recorded in sacred history: but as we learn from our Saviour, St. Matt. 5.18, there are iotas and tittles in the word of God: that is to say, things that appear minute, but which have indeed a deep and mysterious meaning in them.\f*
 \p
 \v 10 And his father that was blind, rising up, began to run stumbling with his feet: and giving a servant his hand, went to meet his son.
 \p
@@ -499,7 +512,8 @@
 \p
 \v 21 And for seven days they feasted and rejoiced all with great joy.
 \c 12
-\cl Tobias 12
+\cl Tobit 12
+\cd Raphael maketh himself known.
 \p
 \v 1 Then Tobias called to him his son and said to him: What can we give to this holy man, that is come with thee?
 \p
@@ -545,7 +559,8 @@
 \p
 \v 22 Then they lying prostrate for three hours upon their face, blessed God, and rising up, they told all his wonderful works.
 \c 13
-\cl Tobias 13
+\cl Tobit 13
+\cd Tobias the father praiseth God, exhorting all Israel to do the same. Prophesieth the restoration and better state of Jerusalem.
 \p
 \v 1 And Tobias the elder opening his mouth, blessed the Lord, and said: Thou art great O Lord, for ever, and thy kingdom is unto all ages.
 \p
@@ -567,7 +582,7 @@
 \p
 \v 10 Bless ye the Lord, all his elect, keep days of joy, and give glory to him.
 \p
-\v 11 Jerusalem, city of God, the Lord hath chastised thee for the works of thy hands.
+\v 11 Jerusalem, city of God, the Lord hath chastised thee for the works of thy hands.\f + \fr 13:11 \fk Jerusalem: \ft What is prophetically delivered here, and in the following chapter, with relation to Jerusalem, is partly to be understood of the rebuilding of the city after the captivity: and partly of the spiritual Jerusalem, which is the church of Christ, and the eternal Jerusalem in heaven.\f*
 \p
 \v 12 Give glory to the Lord for thy good things, and bless the God eternal that he may rebuild his tabernacle in thee, and may call back all the captives to thee, and thou mayst rejoice for ever and ever.
 \p
@@ -593,7 +608,8 @@
 \p
 \v 23 Blessed be the Lord, who hath exalted it, and may he reign over it for ever and ever, Amen.
 \c 14
-\cl Tobias 14
+\cl Tobit 14
+\cd Old Tobias dieth at the age of a hundred and two years, after exhorting his son and grandsons to piety, foreshewing that Ninive shall be destroyed, and Jerusalem rebuilt. The younger Tobias returneth with his family to Raguel, and dieth happily as he had lived.
 \p
 \v 1 And the words of Tobias were ended. And after Tobias was restored to his sight, he lived two and forty years, and saw the children of his grandchildren.
 \p

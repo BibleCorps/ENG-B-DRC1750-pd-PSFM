@@ -1,11 +1,14 @@
 \id JER ENG (p.sfm) -  <> Jeremiah - Challoner Douay Rheims version of the Sacred Bible The Prophecy of Jeremiah. The Holy Bible. Bishop Challoner's 18th century revision of the Douay Rheims version. Electronic edition 2004. Public domain.
 \ide UTF-8
 \h Jeremiah
-\toc1 The Prophecy of Jeremiah
+\toc1 The Prophecy of Jeremiah (Jeremiah)
 \toc2 Jeremiah
 \toc3 Jer
+\mt1 The Prophecy of Jeremiah (Jeremiah)
+\im Jeremiah was a priest, a native of Anathoth, a priestly city in the tribe of Benjamin: and was sanctified from his mother's womb, to be a prophet of God; which office he began to execute when he was yet a child in age. He was in his whole life, according to the signification of his name, Great before the Lord; and a special figure of Jesus Christ, in the persecutions he underwent for discharging his duty; in his charity for his persecutors; and in the violent death he suffered at their hands: it being an ancient tradition of the Hebrews, that he was stoned to death by the remnant of the Jews who had retired into Egypt.
 \c 1
 \cl Jeremiah 1
+\cd The time, and the calling, of Jeremiah: his prophetical visions. God encourages him.
 \p
 \v 1 The words of Jeremiah the son of Helcias, of the priests that were in Anathoth, in the land of Benjamin.
 \p
@@ -46,6 +49,7 @@
 \v 19 And they shall fight against them, and shall not prevail: for I am with thee, saith the Lord, to deliver thee.
 \c 2
 \cl Jeremiah 2
+\cd God expostulates with the Jews for their ingratitude and infidelity.
 \p
 \v 1 And the word of the Lord came to me, saying:
 \p
@@ -59,7 +63,7 @@
 \p
 \v 6 And they have not said: Where is the Lord, that made us come up out of the land of Egypt? that led us through the desert, through a land uninhabited and unpassable, through a land of drought, and the image of death, through a land wherein no man walked, nor any man dwelt?
 \p
-\v 7 And I brought you into the land of Carmel, to eat the fruit thereof, and the best things thereof: and when ye entered in, you defiled my land and made my inheritance an abomination.
+\v 7 And I brought you into the land of Carmel, to eat the fruit thereof, and the best things thereof: and when ye entered in, you defiled my land and made my inheritance an abomination.\f + \fr 2:7 \fk Carmel: \ft That is, a fruitful, plentiful land.\f*
 \p
 \v 8 The priests did not say: Where is the Lord? and they that held the law knew me not, and the pastors transgressed against me: and the prophets prophesied in Baal, and followed idols.
 \p
@@ -89,7 +93,7 @@
 \p
 \v 21 Yet, I planted thee a chosen vineyard, all true seed: how then art thou turned unto me into that which is good for nothing, O strange vineyard?
 \p
-\v 22 Though thou wash thyself with nitre, and multiply to thyself the herb borith, thou art stained in thy iniquity before me, saith the Lord God.
+\v 22 Though thou wash thyself with nitre, and multiply to thyself the herb borith, thou art stained in thy iniquity before me, saith the Lord God.\f + \fr 2:22 \fk Borith: \ft An herb used to clean clothes, and take out spots and dirt.\f*
 \p
 \v 23 How canst thou say: I am not polluted, I have not walked after Baalim? see thy ways in the valley, know what thou hast done: as a swift runner pursuing his course.
 \p
@@ -122,6 +126,7 @@
 \v 37 For from thence thou shalt go, and thy hand shall be upon thy head: for the Lord hath destroyed thy trust, and thou shalt have nothing prosperous therein.
 \c 3
 \cl Jeremiah 3
+\cd God invites the rebel Jews to return to him, with a promise to receive them: he foretells the conversion of the Gentiles.
 \p
 \v 1 It is commonly said: If a man put away his wife, and she go from him, and marry another man, shall he return to her any more? shall not that woman be polluted, and defiled? but thou hast prostituted thyself to many lovers: nevertheless return to me, saith the Lord, and I will receive thee.
 \p
@@ -174,6 +179,7 @@
 \v 25 We shall sleep in our confusion, and our shame shall cover us, because we have sinned against the Lord our God, we and our fathers from our youth even to this day, and we have not hearkened to the voice of the Lord our God.
 \c 4
 \cl Jeremiah 4
+\cd And admonition to sincere repentance, and circumcision of the heart, with threats of grievous punishment to those that persist in sin.
 \p
 \v 1 If thou wilt return, O Israel, saith the Lord, return to me: if thou wilt take away thy stumblingblocks out of my sight, thou shalt not be moved.
 \p
@@ -238,6 +244,7 @@
 \v 31 For I have heard the voice as of a woman in travail, anguishes as of a woman in labour of a child. The voice of the daughter of Sion, dying away, spreading her hands: Woe is me, for my soul hath fainted because of them that are slain.
 \c 5
 \cl Jeremiah 5
+\cd The judgments of God shall fall upon the Jews for their manifold sins.
 \p
 \v 1 Go about through the streets of Jerusalem, and see, and consider, and seek in the broad places thereof, if you can find a man that executeth judgment, and seeketh faith: and I will be merciful unto it.
 \p
@@ -302,6 +309,7 @@
 \v 31 The prophets prophesied falsehood, and the priests clapped their hands: and my people loved such things: what then shall be done in the end thereof?
 \c 6
 \cl Jeremiah 6
+\cd The evils that threaten Jerusalem. She is invited to return, and walk in the good way, and not to rely on sacrifices without obedience.
 \p
 \v 1 Strengthen yourselves, ye sons of Benjamin, in the midst of Jerusalem, and sound the trumpet in Thecua, and set up the standard over Bethacarem: for evil is seen out of the north, and a great destruction.
 \p
@@ -364,6 +372,7 @@
 \v 30 Call them reprobate silver, for the Lord hath rejected them.
 \c 7
 \cl Jeremiah 7
+\cd The temple of God shall not protect a sinful people, without a sincere conversion. The Lord will not receive the prayers of the prophet for them: because they are obstinate in their sins.
 \p
 \v 1 The word that came to Jeremiah from the Lord, saying:
 \p
@@ -399,7 +408,7 @@
 \p
 \v 17 Seest thou not what they do in the cities of Juda, and in the streets of Jerusalem?
 \p
-\v 18 The children gather wood, and the fathers kindle the fire, and the women knead the dough, to make cakes to the queen of heaven, and to offer libations to strange gods, and to provoke me to anger.
+\v 18 The children gather wood, and the fathers kindle the fire, and the women knead the dough, to make cakes to the queen of heaven, and to offer libations to strange gods, and to provoke me to anger.\f + \fr 7:18 \fk Queen of heaven: \ft That is, the moon, which they worshipped under that name.\f*
 \p
 \v 19 Do they provoke me to anger, saith the Lord? is it not themselves, to the confusion of their own countenance?
 \p
@@ -407,7 +416,7 @@
 \p
 \v 21 Thus saith the Lord of hosts the God of Israel: Add your burnt offerings to your sacrifices, and eat ye the flesh.
 \p
-\v 22 For I spoke not to your fathers, and I commanded them not, in the day that I brought them out of the land of Egypt, concerning the matter of burnt offerings and sacrifices.
+\v 22 For I spoke not to your fathers, and I commanded them not, in the day that I brought them out of the land of Egypt, concerning the matter of burnt offerings and sacrifices.\f + \fr 7:22 \fk I commanded them not: \ft Viz., such sacrifices as the Jews at this time offered, without obedience; which was the thing principally commanded: so that in comparison with it, the offering of the holocausts and sacrifices was of small account.\f*
 \p
 \v 23 But this thing I commanded them, saying: Hearken to my voice, and I will be your God, and you shall be my people: and walk ye in all the way that I have commanded you, that it may be well with you.
 \p
@@ -434,6 +443,7 @@
 \v 34 And I will cause to cease out of the cities of Juda, and out of the streets of Jerusalem, the voice of joy, and the voice of gladness, the voice of the bridegroom and the voice of the bride: for the land shall be desolate.
 \c 8
 \cl Jeremiah 8
+\cd Other evils that shall fall upon the Jews for their impenitence.
 \p
 \v 1 At that time, saith the Lord, they shall cast out the bones of the kings of Juda, and the bones of the princes thereof, and the bones of the priests, and the bones of the prophets, and the bones of the inhabitants of Jerusalem, out of their graves.
 \p
@@ -480,6 +490,7 @@
 \v 22 Is there no balm in Galaad? or is there no physician there? Why then is not the wound of the daughter of my people closed?
 \c 9
 \cl Jeremiah 9
+\cd The prophet laments the miseries of his people: and their sins, which are the cause of them. He exhorts them to repentance.
 \p
 \v 1 Who will give water to my head, and a fountain of tears to my eyes? and I will weep day and night for the slain of the daughter of my people.
 \p
@@ -534,6 +545,7 @@
 \v 26 Upon Egypt, and upon Juda, and upon Edom, and upon the children of Ammon, and upon Moab, and upon all that have their hair polled round, that dwell in the desert: for all the nations are uncircumcised in the flesh, but all the house of Israel are uncircumcised in the heart.
 \c 10
 \cl Jeremiah 10
+\cd Neither stars nor idols are to be feared, but the great Creator of all things. The chastisement of Jerusalem for her sins.
 \p
 \v 1 Hear ye the word which the Lord hath spoken concerning you, O house of Israel.
 \p
@@ -579,13 +591,14 @@
 \p
 \v 22 Behold the sound of a noise cometh, a great commotion out of the land of the north: to make the cities of Juda a desert, and a dwelling for dragons.
 \p
-\v 23 I know, O Lord, that the way of a man is not his: neither is it in a man to walk, and to direct his steps.
+\v 23 I know, O Lord, that the way of a man is not his: neither is it in a man to walk, and to direct his steps.\f + \fr 10:23 \fk The way of a man is not his: \ft The meaning is, that notwithstanding man's free will, yet he can do no good without God's help, nor evil without his permission. So that, in the present case, all the evils which Nabuchodonosor was about to bring upon Jerusalem, could not have come but by the will of God.\f*
 \p
 \v 24 Correct me, O Lord, but yet with judgment: and not in thy fury, lest thou bring me to nothing.
 \p
 \v 25 Pour out thy indignation upon the nations that have not known thee, and upon the provinces that have not called upon thy name: because they have eaten up Jacob, and devoured him, and consumed him, and have destroyed his glory.
 \c 11
 \cl Jeremiah 11
+\cd The prophet proclaims the covenant of God: and denounces evils to the obstinate transgressors of it. The conspiracy of the Jews against him, a figure of their conspiracy against Christ.
 \p
 \v 1 The word that came from the Lord to Jeremiah, saying:
 \p
@@ -625,7 +638,7 @@
 \p
 \v 19 And I was as a meek lamb, that is carried to be a victim: and I knew not that they had devised counsels against me, saying: Let us put wood on his bread, and cut him off from the land of the living, and let his name be remembered no more.
 \p
-\v 20 But thou, O Lord of Sabaoth, who judgest justly, and triest the reins and the hearts, let me see thy revenge on them: for to thee have I revealed my cause.
+\v 20 But thou, O Lord of Sabaoth, who judgest justly, and triest the reins and the hearts, let me see thy revenge on them: for to thee have I revealed my cause.\f + \fr 11:20 \fk Sabaoth: \ft That is, of hosts or armies, a name frequently given to God in the scriptures.\f*\f + \fr 11:20 \fk Thy revenge: \ft This was rather a prediction of what was to happen, with an approbation of the divine justice, than an imprecation.\f*
 \p
 \v 21 Therefore thus saith the Lord to the men of Anathoth, who seek thy life, and say: Thou shalt not prophesy in the name of the Lord, and thou shalt not die in our hands.
 \p
@@ -634,6 +647,7 @@
 \v 23 And there shall be no remains of them: for I will bring in evil upon the men of Anathoth, the year of their visitation.
 \c 12
 \cl Jeremiah 12
+\cd The prosperity of the wicked shall be but for a short time. The desolation of the Jews for their sins. Their return from their captivity.
 \p
 \v 1 Thou indeed, O Lord, art just, if I plead with thee, but yet I will speak what is just to thee: Why doth the way of the wicked prosper: why is it well with all them that transgress, and do wickedly?
 \p
@@ -670,6 +684,7 @@
 \v 17 But if they will not hear, I will utterly pluck out and destroy that nation, saith the Lord.
 \c 13
 \cl Jeremiah 13
+\cd Under the figure of a linen girdle is foretold the destruction of the Jews. Their obstinacy in sin brings all miseries upon them.
 \p
 \v 1 Thus saith the Lord to me: Go, and get thee a linen girdle, and thou shalt put it about thy loins, and shalt not put it into water.
 \p
@@ -726,6 +741,7 @@
 \v 27 I have seen thy adulteries, and thy neighing, the wickedness of thy fornication: and thy abominations, upon the hills in the field. Woe to thee, Jerusalem, wilt thou not be made clean after me: how long yet?
 \c 14
 \cl Jeremiah 14
+\cd A grievous famine: and the prophet's prayer on that occasion. Evils denounced to false prophets. The prophet mourns for his people.
 \p
 \v 1 The word of the Lord that came to Jeremiah concerning the words of the drought.
 \p
@@ -772,6 +788,7 @@
 \v 22 Are there any among the graven things of the Gentiles that can send rain? or can the heavens give showers? art not thou the Lord our God, whom we have looked for? for thou hast made all these things.
 \c 15
 \cl Jeremiah 15
+\cd God is determined to punish the Jews for their sins. The prophet's complaint, and God's promise to him.
 \p
 \v 1 And the Lord said to me: If Moses and Samuel shall stand before me, my soul is not towards this people: cast them out from my sight, and let them go forth.
 \p
@@ -795,13 +812,13 @@
 \p
 \v 11 The Lord saith to me: Assuredly it shall be well with thy remnant, assuredly I shall help thee in the time of affliction, and in the time of tribulation against the enemy.
 \p
-\v 12 Shall iron be allied with the iron from the north, and the brass?
+\v 12 Shall iron be allied with the iron from the north, and the brass?\f + \fr 15:12 \fk Shall iron be allied, etc: \ft Shall the iron, that is, the strength of Juda, stand against the stronger iron of the north, that is, of Babylon: or enter into an alliance upon equal footing with it? No certainly: but it must be broken by it.\f*
 \p
 \v 13 Thy riches and thy treasures I will give unto spoil for nothing, because of all thy sins, even in all thy borders.
 \p
 \v 14 And I will bring thy enemies out of a land, which thou knowest not: for a fire is kindled in my rage, it shall burn upon you.
 \p
-\v 15 O Lord, thou knowest, remember me, and visit me, and defend me from them that persecute me, do not defend me in thy patience: know that for thy sake I have suffered reproach.
+\v 15 O Lord, thou knowest, remember me, and visit me, and defend me from them that persecute me, do not defend me in thy patience: know that for thy sake I have suffered reproach.\f + \fr 15:15 \fk Do not defend me in thy patience: \ft That is, let not thy patience and longsuffering, which thou usest towards sinners, keep thee from making haste to my assistance.\f*
 \p
 \v 16 Thy words were found, and I did eat them, and thy word was to me a joy and gladness of my heart: for thy name is called upon me, O Lord God of hosts.
 \p
@@ -816,6 +833,7 @@
 \v 21 And I will deliver thee out of the hand of the wicked, and I will redeem thee out of the hand of the mighty.
 \c 16
 \cl Jeremiah 16
+\cd The prophet is forbid to marry. The Jews shall be utterly ruined for their idolatry: but shall at length be released from their captivity, and the Gentiles shall be converted.
 \p
 \v 1 And the word of the Lord came to me, saying:
 \p
@@ -860,6 +878,7 @@
 \v 21 Therefore behold I will this once cause them to know, I will shew them my hand and my power: and they shall know that my name is the Lord.
 \c 17
 \cl Jeremiah 17
+\cd For their obstinacy in sin the Jews shall be led captive. He is cursed that trusteth in flesh. God alone searcheth the heart, giving to every one as he deserves. The prophet prayeth to be delivered from his enemies, and preacheth up the observance of the sabbath.
 \p
 \v 1 The sin of Juda is written with a pen of iron, with the point of a diamond, it is graven upon the table of their heart, upon the horns of their altars.
 \p
@@ -871,7 +890,7 @@
 \p
 \v 5 Thus saith the Lord: Cursed be the man that trusteth in man, and maketh flesh his arm, and whose heart departeth from the Lord.
 \p
-\v 6 For he shall be like tamaric in the desert, and he shall not see when good shall come: but he shall dwell in dryness in the desert in a salt land, and not inhabited.
+\v 6 For he shall be like tamaric in the desert, and he shall not see when good shall come: but he shall dwell in dryness in the desert in a salt land, and not inhabited.\f + \fr 17:6 \fk Tamaric: \ft A barren shrub that grows in the driest parts of the wilderness.\f*
 \p
 \v 7 Blessed be the man that trusteth in the Lord, and the Lord shall be his confidence.
 \p
@@ -895,7 +914,7 @@
 \p
 \v 17 Be not thou a terror unto me, thou art my hope in the day of affliction.
 \p
-\v 18 Let them be confounded that persecute me, and let not me be confounded: let them be afraid, and let not me be afraid: bring upon them the day of affliction, and with a double destruction, destroy them.
+\v 18 Let them be confounded that persecute me, and let not me be confounded: let them be afraid, and let not me be afraid: bring upon them the day of affliction, and with a double destruction, destroy them.\f + \fr 17:18 \fk Let them be confounded, etc: \ft Such expressions as these in the writings of the prophets, are not to be understood as imprecations proceeding from malice or desire of revenge: but as prophetic predictions of evils that were about to fall upon impenitent sinners, and approbations of the ways of divine justice.\f*
 \p
 \v 19 Thus saith the Lord to me: Go, and stand in the gate of the children of the people, by which the kings of Juda come in, and go out, and in all the gates of Jerusalem:
 \p
@@ -916,6 +935,7 @@
 \v 27 But if you will not hearken to me, to sanctify the sabbath day, and not to carry burdens, and not to bring them in by the gates of Jerusalem on the sabbath day: I will kindle a fire in the gates thereof, and it shall devour the houses of Jerusalem, and it shall not be quenched.
 \c 18
 \cl Jeremiah 18
+\cd As the clay in the hand of the potter, so is Israel in God's hand. He pardoneth penitents, and punisheth the obstinate. They conspire against Jeremiah, for which he denounceth to them the miseries that hang over them.
 \p
 \v 1 The word that came to Jeremiah from the Lord, saying:
 \p
@@ -955,7 +975,7 @@
 \p
 \v 19 Give heed to me, O Lord, and hear the voice of my adversaries.
 \p
-\v 20 Shall evil be rendered for good, because they have digged a pit for my soul? Remember that I have stood in thy sight, to speak good for them, and to turn away thy indignation from them.
+\v 20 Shall evil be rendered for good, because they have digged a pit for my soul? Remember that I have stood in thy sight, to speak good for them, and to turn away thy indignation from them.\f + \fr 18:20 \fk Remember, etc: \ft This is spoken in the person of Christ, persecuted by the Jews, and prophetically denouncing the evils that should fall upon them in punishment of their crimes.\f*
 \p
 \v 21 Therefore deliver up their children to famine, and bring them into the hands of the sword: let their wives be bereaved of children and widows: and let their husbands be slain by death: let their young men be stabbed with the sword in battle.
 \p
@@ -964,6 +984,7 @@
 \v 23 But thou, O Lord, knowest all their counsel against me unto death: not their iniquity, and let not their sin be blotted out from thy sight: let them be overthrown before thy eyes, in the time of thy wrath do thou destroy them.
 \c 19
 \cl Jeremiah 19
+\cd Under the type of breaking a potter's vessel, the prophet foresheweth the desolation of the Jews for their sins.
 \p
 \v 1 Thus saith the Lord: Go, and take a potter's earthen bottle, and take of the ancients of the people, and of the ancients of the priests:
 \p
@@ -996,12 +1017,13 @@
 \v 15 Thus saith the Lord of hosts, the God of Israel: Behold I will bring in upon this city, and upon all the cities thereof all the evils that I have spoken against it: because they have hardened their necks, that they might not hear my words.
 \c 20
 \cl Jeremiah 20
+\cd The prophet is persecuted: he denounces captivity to his persecutors, and bemoans himself.
 \p
 \v 1 Now Phassur the son of Emmer, the priest, who was appointed chief in the house of the Lord, heard Jeremiah prophesying these words.
 \p
 \v 2 And Phassur struck Jeremiah the prophet, and put him in the stocks, that were in the upper gate of Benjamin, in the house of the Lord.
 \p
-\v 3 And when it was light the next day, Phassur brought Jeremiah out of the stocks. And Jeremiah said to him: The Lord hath not called thy name Phassur, but fear on every side.
+\v 3 And when it was light the next day, Phassur brought Jeremiah out of the stocks. And Jeremiah said to him: The Lord hath not called thy name Phassur, but fear on every side.\f + \fr 20:3 \fk Phassur: \ft This name signifies increase and principality: and therefore is here changed to Magor-Missabib, or fear on every side: to denote the evils that should come upon him in punishment of his opposing the word of God.\f*
 \p
 \v 4 For thus saith the Lord: Behold I will deliver thee up to fear, thee and all thy friends: and they shall fall by the sword of their enemies, and thy eyes shall see it, and I will give all Juda into the hand of the king of Babylon: and he shall carry them away to Babylon, and shall strike them with the sword.
 \p
@@ -1009,7 +1031,7 @@
 \p
 \v 6 But thou Phassur, and all that dwell in thy house, shall go into captivity, and thou shalt go to Babylon, and there thou shalt die, and there thou shalt be buried, thou and all thy friends, to whom thou hast prophesied a lie.
 \p
-\v 7 Thou hast deceived me, O Lord, and I am deceived: thou hast been stronger than I, and thou hast prevailed. I am become a laughingstock all the day, all scoff at me.
+\v 7 Thou hast deceived me, O Lord, and I am deceived: thou hast been stronger than I, and thou hast prevailed. I am become a laughingstock all the day, all scoff at me.\f + \fr 20:7 \fk Thou hast deceived, etc: \ft The meaning of the prophet, is not to charge God with any untruth; but what he calls deceiving, was only the concealing from him, when he accepted of the prophetical commission, the greatness of the evils which the execution of that commission was to bring upon him.\f*
 \p
 \v 8 For I am speaking now this long time, crying out against iniquity, and I often proclaim devastation: and the word of the Lord is made a reproach to me, and a derision all the day.
 \p
@@ -1019,11 +1041,11 @@
 \p
 \v 11 But the Lord is with me as a strong warrior: therefore they that persecute me shall fall, and shall be weak: they shall be greatly confounded, because they have not understood the everlasting reproach, which never shall be effaced.
 \p
-\v 12 And thou, O Lord of hosts, prover of the just, who seest the reins and the heart: let me see, I beseech thee, thy vengeance on them: for to thee I have laid open my cause.
+\v 12 And thou, O Lord of hosts, prover of the just, who seest the reins and the heart: let me see, I beseech thee, thy vengeance on them: for to thee I have laid open my cause.\f + \fr 20:12 \fk Let me see, etc: \ft This prayer proceeded not from hatred or ill will, but zeal of justice.\f*
 \p
 \v 13 Sing ye to the Lord, praise the Lord: because he hath delivered the soul of the poor out of the hand of the wicked.
 \p
-\v 14 Cursed be the day wherein I was born: let not the day in which my mother bore me, be blessed.
+\v 14 Cursed be the day wherein I was born: let not the day in which my mother bore me, be blessed.\f + \fr 20:14 \fk Cursed be the day, etc: \ft In these, and the following words of the prophet, there is a certain figure of speech to express with more energy the greatness of the evils to which his birth had exposed him.\f*
 \p
 \v 15 Cursed be the man that brought the tidings to my father, saying: A man child is born to thee: and made him greatly rejoice.
 \p
@@ -1034,6 +1056,7 @@
 \v 18 Why came I out of the womb, to see labour and sorrow, and that my days should be spent in confusion?
 \c 21
 \cl Jeremiah 21
+\cd The prophet's answer to the messengers of Sedecias, when Jerusalem was besieged.
 \p
 \v 1 The word that came to Jeremiah from the Lord, when king Sedecias sent unto him Phassur, the son of Melchias, and Sophonias, the son of Maasias the priest, saying:
 \p
@@ -1059,13 +1082,14 @@
 \p
 \v 12 O house of David, thus saith the Lord: Judge ye judgment in the morning, and deliver him that is oppressed by violence out of the hand of the oppressor: lest my indignation go forth like a fire, and be kindled, and there be none to quench it, because of the evil of your ways.
 \p
-\v 13 Behold I come to thee that dwellest in a valley upon a rock above a plain, saith the Lord: and you say: Who shall strike us and who shall enter into our houses?
+\v 13 Behold I come to thee that dwellest in a valley upon a rock above a plain, saith the Lord: and you say: Who shall strike us and who shall enter into our houses?\f + \fr 21:13 \fk To thee that dwellest, etc: \ft He speaks to Jerusalem, confiding in the strength of her situation upon rocks, surrounded with a deep valley.\f*
 \p
 \v 14 But I will visit upon you according to the fruit of your doings, saith the Lord: and I will kindle a fire in the forest thereof: and it shall devour all things round about it.
 \c 22
 \cl Jeremiah 22
+\cd An exhortation both to king and people to return of God. The sentence of God upon Joachaz, Joakim, and Jechonias.
 \p
-\v 1 Thus saith the Lord: Go down to the house of the king of Juda, and there thou shalt speak this word,
+\v 1 Thus saith the Lord: Go down to the house of the king of Juda, and there thou shalt speak this word,\f + \fr 22:1 \fk Go down, etc: \ft The contents of this chapter are of a more ancient date than those of the foregoing chapter: for the order of time is not always observed in the writings of the prophets.\f*
 \p
 \v 2 And thou shalt say: Hear the word of the Lord, king of Juda, that sittest upon the throne of David: thou and thy servants, and thy people, who enter in by these gates.
 \p
@@ -1075,15 +1099,15 @@
 \p
 \v 5 But if you will not hearken to these words: I swear by myself, saith the Lord, that this house shall become a desolation.
 \p
-\v 6 For thus saith the Lord to the house of the king of Juda: Thou art to me Galaad the head of Libanus: yet surely I will make thee a wilderness, and cities not habitable.
+\v 6 For thus saith the Lord to the house of the king of Juda: Thou art to me Galaad the head of Libanus: yet surely I will make thee a wilderness, and cities not habitable.\f + \fr 22:6 \fk Galaad the head of Libanus: \ft By Galaad, a rich and fruitful country, is here signified the royal palace of the kings of the house of David: by Libanus, a high mountain abounding in cedar trees, the populous city of Jerusalem.\f*
 \p
-\v 7 And I will prepare against thee the destroyer and his weapons: and they shall cut down thy chosen cedars, and shall cast them headlong into the fire.
+\v 7 And I will prepare against thee the destroyer and his weapons: and they shall cut down thy chosen cedars, and shall cast them headlong into the fire.\f + \fr 22:7 \fk Prepare: \ft Literally, sanctify.\f*
 \p
 \v 8 And many nations shall pass by this city: and they shall say every man to his neighbour: Why hath the Lord done so to this great city?
 \p
 \v 9 And they shall answer: Because they have forsaken the covenant of the Lord their God, and have adored strange gods, and served them.
 \p
-\v 10 Weep not for him that is dead, nor bemoan him with your tears: lament him that goeth away, for he shall return no more, nor see his native country.
+\v 10 Weep not for him that is dead, nor bemoan him with your tears: lament him that goeth away, for he shall return no more, nor see his native country.\f + \fr 22:10 \fk Weep not for him that is dead, etc: \ft He means the good king Josias, who by death was taken away, so as not to see the miseries of his country.\f*\f + \fr 22:10 \fk Him that goeth away: \ft Viz., sellum, alias Joachaz, who was carried captive into Egypt.\f*
 \p
 \v 11 For thus saith the Lord to Sellum the son of Josias the king of Juda, who reigned instead of his father, who went forth out of this place: He shall return hither no more:
 \p
@@ -1123,9 +1147,10 @@
 \p
 \v 29 O earth, earth, earth, hear the word of the Lord.
 \p
-\v 30 Thus saith the Lord: Write this man barren, a man that shall not prosper in his days: for there shall not be a man of his seed that shall sit upon the throne of David, and have power any more in Juda.
+\v 30 Thus saith the Lord: Write this man barren, a man that shall not prosper in his days: for there shall not be a man of his seed that shall sit upon the throne of David, and have power any more in Juda.\f + \fr 22:30 \fk Write this man barren: \ft That is, childless: not that he had no children, but that his children should never sit on the throne of Juda.\f*
 \c 23
 \cl Jeremiah 23
+\cd God reproves evil governors; and promises to send good pastors; and Christ himself the prince of the pastors. He inveighs against false prophets preaching without being sent.
 \p
 \v 1 Woe to the pastors, that destroy and tear the sheep of my pasture, saith the Lord.
 \p
@@ -1193,7 +1218,7 @@
 \p
 \v 33 If therefore this people, or the prophet, or the priest shall ask thee, saying: What is the burden of the Lord? thou shalt say to them: You are the burden: for I will cast you away, saith the Lord.
 \p
-\v 34 And as for the prophet, and the priest, and the people that shall say: The burden of the Lord: I will visit upon that man, and upon his house.
+\v 34 And as for the prophet, and the priest, and the people that shall say: The burden of the Lord: I will visit upon that man, and upon his house.\f + \fr 23:34 \fk Burden of the Lord: \ft This expression is here rejected and disallowed, at least for those times: because it was then used in mockery and contempt by the false prophets, and unbelieving people, who ridiculed the repeated threats of Jeremiah under the name of his burdens.\f*
 \p
 \v 35 Thus shall you say every one to his neighbour, and to his brother, What hath the Lord answered? and what hath the Lord spoken?
 \p
@@ -1203,11 +1228,12 @@
 \p
 \v 38 But if you shall say: The burden of the Lord: therefore thus saith the Lord: Because you have said this word: The burden of the Lord: and I have sent to you, saying: Say not, The burden of the Lord:
 \p
-\v 39 Therefore behold I will take you away carrying you, and will forsake you, and the city which I gave to you, and to your fathers, out of my presence.
+\v 39 Therefore behold I will take you away carrying you, and will forsake you, and the city which I gave to you, and to your fathers, out of my presence.\f + \fr 23:39 \fk Out of my presence: \ft That is, the Lord declares that out of his presence he will cast them, and bring them to captivity for their transgressions.\f*
 \p
 \v 40 And I will bring an everlasting reproach upon you, and a perpetual shame which shall never be forgotten.
 \c 24
 \cl Jeremiah 24
+\cd Under the type of good and bad figs, he foretells the restoration of the Jews that had been carried away captive with Jechonias, and the desolation of those that were left behind.
 \p
 \v 1 The Lord shewed me: and behold two baskets full of figs, set before the temple of the Lord: after that Nabuchodonosor king of Babylon had carried away Jechonias the son of Joakim the king of Juda, and his chief men, and the craftsmen, and engravers of Jerusalem, and had brought them to Babylon.
 \p
@@ -1230,6 +1256,7 @@
 \v 10 And I will send among them the sword, and the famine, and the pestilence: till they be consumed out of the land which I gave to them, and their fathers.
 \c 25
 \cl Jeremiah 25
+\cd The prophet foretells the seventy years captivity; after that the destruction of Babylon, and other nations.
 \p
 \v 1 The word that came to Jeremiah concerning all the people of Juda, in the fourth year of Joakim the son of Josias king of Juda, (the same is the first year of Nabuchodonosor king of Babylon,)
 \p
@@ -1247,13 +1274,13 @@
 \p
 \v 8 Therefore thus saith the Lord of hosts: Because you have not heard my words:
 \p
-\v 9 Behold I will send, and take all the kindreds of the north, saith the Lord, and Nabuchodonosor the king of Babylon my servant: and I will bring them against this land, and against the inhabitants thereof, and against all the nations that are round about it: and I will destroy them, and make them an astonishment and a hissing, and perpetual desolations.
+\v 9 Behold I will send, and take all the kindreds of the north, saith the Lord, and Nabuchodonosor the king of Babylon my servant: and I will bring them against this land, and against the inhabitants thereof, and against all the nations that are round about it: and I will destroy them, and make them an astonishment and a hissing, and perpetual desolations.\f + \fr 25:9 \fk My servant: \ft So this wicked king is here called; because God made him his instrument in punishing the sins of his people.\f*
 \p
 \v 10 And I will take away from them the voice of mirth, and the voice of gladness, the voice of the bridegroom, and the voice of the bride, the sound of the mill and the light of the lamp.
 \p
 \v 11 And all this land shall be a desolation, and an astonishment: and all these nations shall serve the king of Babylon seventy years.
 \p
-\v 12 And when the seventy years shall be expired, I will punish the king of Babylon, and that nation, saith the Lord, for their iniquity, and the land of the Chaldeans: and I will make it perpetual desolations.
+\v 12 And when the seventy years shall be expired, I will punish the king of Babylon, and that nation, saith the Lord, for their iniquity, and the land of the Chaldeans: and I will make it perpetual desolations.\f + \fr 25:12 \fk Punish: \ft Literally, visit upon.\f*
 \p
 \v 13 And I will bring upon that land all my words, that I have spoken against it, all that is written in this book, all that Jeremiah hath prophesied against all nations:
 \p
@@ -1281,7 +1308,7 @@
 \p
 \v 25 And all the kings of Zambri, and all the kings of Elam, and all the kings of the Medes:
 \p
-\v 26 And all the kings of the north far and near, every one against his brother: and all the kingdoms of the earth, which are upon the face thereof: and the king of Sesac shall drink after them.
+\v 26 And all the kings of the north far and near, every one against his brother: and all the kingdoms of the earth, which are upon the face thereof: and the king of Sesac shall drink after them.\f + \fr 25:26 \fk Sesac: \ft That is, Babel, or Babylon; which after bringing all these people under her yoke, should quickly fall and be destroyed herself.\f*
 \p
 \v 27 And thou shalt say to them: Thus saith the Lord of hosts the God of Israel: Drink ye, and be drunken, and vomit: and fall, and rise no more, because of the sword, which I shall send among you.
 \p
@@ -1305,9 +1332,10 @@
 \p
 \v 37 And the fields of peace have been silent because of the fierce anger of the Lord.
 \p
-\v 38 He hath forsaken his covert as the lion, for the land is laid waste because of the wrath of the dove, and because of the fierce anger of the Lord.
+\v 38 He hath forsaken his covert as the lion, for the land is laid waste because of the wrath of the dove, and because of the fierce anger of the Lord.\f + \fr 25:38 \fk The dove: \ft This is commonly understood of Nabuchodonosor, whose military standard, it is said, was a dove. But the Hebrew word Jonah, which is here rendered a dove, may also signify a waster or oppressor, which name better agrees to that unmerciful prince; or by comparison, as a dove's flight is the swiftest, so would their destruction come upon them.\f*
 \c 26
 \cl Jeremiah 26
+\cd The prophet is apprehended and accused by the priests: but discharged by the princes.
 \p
 \v 1 In the beginning of the reign of Joakim the son of Josias king of Juda, came this word from the Lord, saying:
 \p
@@ -1358,8 +1386,9 @@
 \v 24 So the hand of Ahicam the son of Saphan was with Jeremiah, that he should not be delivered into the hands of the people, to put him to death.
 \c 27
 \cl Jeremiah 27
+\cd The prophet sends chains to divers kings, signifying that they must bend their necks under the yoke of the king of Babylon. The vessels of the temple shall not be brought back till all the rest are carried away.
 \p
-\v 1 In the beginning of the reign of Joakim the son of Josias king of Juda, this word came to Jeremiah from the Lord, saying:
+\v 1 In the beginning of the reign of Joakim the son of Josias king of Juda, this word came to Jeremiah from the Lord, saying:\f + \fr 27:1 \fk Joakim: \ft This revelation was made to the prophet in the beginning of the reign of Joakim: but the bands were not sent to the princes here named before the reign of Sedecias, ver. 3.\f*
 \p
 \v 2 Thus saith the Lord to me: Make thee bands, and chains: and thou shalt put them on thy neck.
 \p
@@ -1371,7 +1400,7 @@
 \p
 \v 6 And now I have given all these lands into the hand of Nabuchodonosor king of Babylon my servant: moreover also the beasts of the field I have given him to serve him.
 \p
-\v 7 And all nations shall serve him, and his son, and his son's son: till the time come for his land and himself: and many nations and great kings shall serve him.
+\v 7 And all nations shall serve him, and his son, and his son's son: till the time come for his land and himself: and many nations and great kings shall serve him.\f + \fr 27:7 \fk His son: \ft Viz., Evilmerodach; and his son's son, Nabonydus, or Nabonadius, the Baltassar of Daniel, chap. 5., and the last of the Chaldean kings.\f*
 \p
 \v 8 But the nation and kingdom that will not serve Nabuchodonosor king of Babylon, and whosoever will not bend his neck under the yoke of the king of Babylon: I will visit upon that nation with the sword, and with famine, and with pestilence, saith the Lord: till I consume them by his hand.
 \p
@@ -1404,6 +1433,7 @@
 \v 22 They shall be carried to Babylon, and there they shall be until the day of their visitation, saith the Lord: and I will cause them to be brought, and to be restored in this place.
 \c 28
 \cl Jeremiah 28
+\cd The false prophecy of Hananias: he dies that same year, as Jeremiah foretold.
 \p
 \v 1 And it came to pass in that year, in the beginning of the reign of Sedecias king of Juda, in the fourth year, in the fifth month, that Hananias the son of Azur, a prophet of Gabaon spoke to me, in the house of the Lord before the priests, and all the people, saying:
 \p
@@ -1440,6 +1470,7 @@
 \v 17 And Hananias the prophet died in that year, in the seventh month.
 \c 29
 \cl Jeremiah 29
+\cd Jeremiah writeth to the captives in Babylon, exhorting them to be easy there, and not to hearken to false prophets. That they shall be delivered after seventy years. But those that remain in Jerusalem shall perish by the sword, famine, and pestilence. And that Achab, Sedecias, and Semeias, false prophets, shall die miserably.
 \p
 \v 1 Now these are the words of the letter which Jeremiah the prophet sent from Jerusalem to the residue of the ancients that were carried into captivity, and to the priests, and to the prophets, and to all the people, whom Nabuchodonosor had carried away from Jerusalem to Babylon:
 \p
@@ -1506,6 +1537,7 @@
 \v 32 Therefore thus saith the Lord: behold I will visit upon Semeias the Nehelamite, and upon his seed: he shall not have a man to sit in the midst of this people, and he shall not see the good that I will do to my people, saith the Lord: because he hath spoken treason against the Lord.
 \c 30
 \cl Jeremiah 30
+\cd God will deliver his people from their captivity: Christ shall be their king: and his church shall be glorious for ever.
 \p
 \v 1 This is the word that came to Jeremiah from the Lord, saying:
 \p
@@ -1523,7 +1555,7 @@
 \p
 \v 8 And it shall come to pass in that day, saith the Lord of hosts, that I will break his yoke from off thy neck, and will burst his bands: and strangers shall no more rule over him:
 \p
-\v 9 But they shall serve the Lord their God, and David their king, whom I will raise up to them.
+\v 9 But they shall serve the Lord their God, and David their king, whom I will raise up to them.\f + \fr 30:9 \fk David: \ft That is, Christ of the house of David.\f*
 \p
 \v 10 Therefore fear thou not, my servant Jacob, saith the Lord, neither be dismayed, O Israel: for behold, I will save thee from a country afar off, and thy seed from the land of their captivity: and Jacob shall return, and be at rest, and abound with all good things, and there shall be none whom he may fear:
 \p
@@ -1556,6 +1588,7 @@
 \v 24 The Lord will not turn away the wrath of his indignation, till he have executed and performed the thought of his heart: in the latter days you shall understand these things.
 \c 31
 \cl Jeremiah 31
+\cd The restoration of Israel. Rachel shall cease from morning. The new covenant. The church shall never fail.
 \p
 \v 1 At that time, saith the Lord, I will be the God of all the families of Israel, and they shall be my people.
 \p
@@ -1638,6 +1671,7 @@
 \v 40 And the whole valley of dead bodies, and of ashes, and all the country of death, even to the torrent Cedron, and to the corner of the horse gate towards the east, the Holy of the Lord: it shall not be plucked up, and it shall not be destroyed any more for ever.
 \c 32
 \cl Jeremiah 32
+\cd Jeremiah by God's commandment purchases a field of his kinsman: and prophesies the return of the people out of captivity: and the everlasting covenant God will make with his church.
 \p
 \v 1 The word that came to Jeremiah from the Lord in the tenth year of Sedecias king of Juda: the same is the eighteenth year of Nabuchodonosor.
 \p
@@ -1728,6 +1762,7 @@
 \v 44 Fields shall be bought for money, and deeds shall be written, and sealed, and witnesses shall be taken, in the land of Benjamin, and round about Jerusalem, in the cities of Juda, and in the cities on the mountains, and in the cities of the plains, and in the cities that are towards the south: for I will bring back their captivity, saith the Lord.
 \c 33
 \cl Jeremiah 33
+\cd God promises reduction from captivity, and other blessings: especially the coming of Christ, whose reign in his church shall be glorious and perpetual.
 \p
 \v 1 And the word of the Lord came to Jeremiah the second time, while he was yet shut up in the court of the prison, saying:
 \p
@@ -1739,7 +1774,7 @@
 \p
 \v 5 Of them that come to fight with the Chaldeans, and to fill them with the dead bodies of the men whom I have slain in my wrath, and in my indignation, hiding my face from this city because of all their wickedness.
 \p
-\v 6 Behold I will close their wounds and give them health, and I will cure them: and I will reveal to them the prayer of peace and truth.
+\v 6 Behold I will close their wounds and give them health, and I will cure them: and I will reveal to them the prayer of peace and truth.\f + \fr 33:6 \fk The prayer of peace: \ft That is, the peace and welfare which they pray for.\f*
 \p
 \v 7 And I will bring back the captivity of Juda, and the captivity of Jerusalem: and I will build them as from the beginning.
 \p
@@ -1761,9 +1796,9 @@
 \p
 \v 16 In those days shall Juda be saved, and Jerusalem shall dwell securely: and this is the name that they shall call him, The Lord our just one.
 \p
-\v 17 For thus saith the Lord: There shall not be cut off from David a man to sit upon the throne of the house of Israel.
+\v 17 For thus saith the Lord: There shall not be cut off from David a man to sit upon the throne of the house of Israel.\f + \fr 33:17 \fk There shall not be cut off from David, etc: \ft This was verified in Christ, who is of the house of David; and whose kingdom in his church shall have no end.\f*
 \p
-\v 18 Neither shall there be cut off from the priests and Levites a man before my face to offer holocausts, and to burn sacrifices, and to kill victims continually.
+\v 18 Neither shall there be cut off from the priests and Levites a man before my face to offer holocausts, and to burn sacrifices, and to kill victims continually.\f + \fr 33:18 \fk Neither shall there be cut off from the priests, etc: \ft This promise relates to the Christian priesthood; which shall also continue for ever: the functions of which (more especially the great sacrifice of the altar) are here expressed by the name of holocausts, and other offerings of the law, which were so many figures of the Christian sacrifice.\f*
 \p
 \v 19 And the word of the Lord came to Jeremiah, saying:
 \p
@@ -1775,13 +1810,14 @@
 \p
 \v 23 And the word of the Lord came to Jeremiah, saying:
 \p
-\v 24 Hast thou not seen what this people hath spoken, saying: The two families which the Lord had chosen, are cast off: and they have despised my people, so that it is no more a nation before them?
+\v 24 Hast thou not seen what this people hath spoken, saying: The two families which the Lord had chosen, are cast off: and they have despised my people, so that it is no more a nation before them?\f + \fr 33:24 \fk Two families, etc: \ft Viz., the families of the kings and priests.\f*
 \p
 \v 25 Thus saith the Lord. If I have not set my covenant between day and night, and laws to heaven and earth:
 \p
 \v 26 Surely I will also cast off the seed of Jacob, and of David my servant, so as not to take any of his seed to be rulers of the seed of Abraham, Isaac, and Jacob: for I will bring back their captivity, and will have mercy on them.
 \c 34
 \cl Jeremiah 34
+\cd The prophet foretells that Sedecias shall fall into the hands of Nabuchodonosor: God's sentence upon the princes and people that had broken his covenant.
 \p
 \v 1 The word that came to Jeremiah from the Lord, when Nabuchodonosor king of Babylon, and all his army, and all the kingdoms of the earth, that were under the power of his hand, and all the people fought against Jerusalem and against all the cities thereof, saying:
 \p
@@ -1791,7 +1827,7 @@
 \p
 \v 4 Yet hear the word of the Lord, O Sedecias king of Juda: Thus saith the Lord to thee: Thou shalt not die by the sword.
 \p
-\v 5 But thou shalt die in peace, and according to the burnings of thy fathers, the former kings that were before thee, so shall they burn thee: and they shall mourn for thee, saying: Alas, Lord: for I have spoken the word, saith the Lord.
+\v 5 But thou shalt die in peace, and according to the burnings of thy fathers, the former kings that were before thee, so shall they burn thee: and they shall mourn for thee, saying: Alas, Lord: for I have spoken the word, saith the Lord.\f + \fr 34:5 \fk Die in peace: \ft That is, by a natural death.\f*
 \p
 \v 6 And Jeremiah the prophet spoke all these words to Sedecias the king of Juda in Jerusalem.
 \p
@@ -1828,10 +1864,11 @@
 \v 22 Behold I will command, saith the Lord, and I will bring them again to this city, and they shall fight against it, and take it, and burn it with fire: and I will make the cities of Juda a desolation, without an inhabitant.
 \c 35
 \cl Jeremiah 35
+\cd The obedience of the Rechabites condemns the disobedience of the Jews. The reward of the Rechabites.
 \p
 \v 1 The word that came to Jeremiah from the Lord in the days of Joakim the son of Josias king of Juda, saying:
 \p
-\v 2 Go to the house of the Rechabites: and speak to them, and bring them into the house of the Lord, into one of the chambers of the treasures, and thou shalt give them wine to drink.
+\v 2 Go to the house of the Rechabites: and speak to them, and bring them into the house of the Lord, into one of the chambers of the treasures, and thou shalt give them wine to drink.\f + \fr 35:2 \fk Rechabites: \ft These were of the race of Jethro, father in law to Moses.\f*
 \p
 \v 3 And I took Jezonias the son of Jeremiah the son of Habsanias, and his brethren, and all his sons, and the whole house of the Rechabites.
 \p
@@ -1868,6 +1905,7 @@
 \v 19 Therefore thus saith the Lord of hosts the God of Israel: There shall not be wanting a man of the race of Jonadab the son of Rechab, standing before me for ever.
 \c 36
 \cl Jeremiah 36
+\cd Jeremiah sends Baruch to read his prophecies in the temple; the book is brought to king Joakim, who burns it. The prophet denounces his judgment, and causes Baruch to write a new copy.
 \p
 \v 1 And it came to pass in the fourth year of Joakim the son of Josias king of Juda, that this word came to Jeremiah by the Lord, saying:
 \p
@@ -1877,7 +1915,7 @@
 \p
 \v 4 So Jeremiah called Baruch the son of Nerias: and Baruch wrote from the mouth of Jeremiah all the words of the Lord, which he spoke to him, upon the roll of a book.
 \p
-\v 5 And Jeremiah commanded Baruch, saying: I am shut up, and cannot go into the house of the Lord.
+\v 5 And Jeremiah commanded Baruch, saying: I am shut up, and cannot go into the house of the Lord.\f + \fr 36:5 \fk Shut up: \ft Not that the prophet was now in prison; for the contrary appears from ver. 19, but that he kept himself shut up, by reason of the persecutions he had lately met with. See chap. 26.\f*
 \p
 \v 6 Go thou in therefore, and read out of the volume, which thou hast written from my mouth, the words of the Lord, in the hearing of all the people in the house of the Lord on the fasting day: and also thou shalt read them in the hearing of all Juda that come out of their cities:
 \p
@@ -1927,13 +1965,14 @@
 \p
 \v 29 And thou shalt say to Joakim the king of Juda: Thus saith the Lord: Thou hast burnt that volume, saying: Why hast thou written therein, and said: The king of Babylon shall come speedily, and shall lay waste this land: and shall cause to cease from thence man and beast?
 \p
-\v 30 Therefore thus saith the Lord against Joakim the king of Juda: He shall have none to sit upon the throne of David: and his dead body shall be cast out to the heat by day, and to the frost by night.
+\v 30 Therefore thus saith the Lord against Joakim the king of Juda: He shall have none to sit upon the throne of David: and his dead body shall be cast out to the heat by day, and to the frost by night.\f + \fr 36:30 \fk He shall have none, etc: \ft Because his son Joachin or Jechonias, within three months after the death of his father, was carried away to Babylon, so that his reign is not worthy of notice.\f*
 \p
 \v 31 And I will punish him, and his seed and his servants, for their iniquities, and I will bring upon them, and upon the inhabitants of Jerusalem, and upon the men of Juda all the evil that I have pronounced against them, but they have not heard.
 \p
 \v 32 And Jeremiah took another volume, and gave it to Baruch the son of Nerias the scribe: who wrote in it from the mouth of Jeremiah all the words of the book which Joakim the king of Juda had burnt with fire: and there were added besides many more words than had been before.
 \c 37
 \cl Jeremiah 37
+\cd Jeremiah prophesies that the Chaldeans, who had departed from Jerusalem, would return and burn the city. He is cast into prison. His conference with Sedecias.
 \p
 \v 1 Now king Sedecias the son of Josias reigned instead of Jechonias the son of Joakim: whom Nabuchodonosor king of Babylon made king in the land of Juda.
 \p
@@ -1976,6 +2015,7 @@
 \v 20 Then king Sedecias commanded that Jeremiah should be committed into the entry of the prison: and that they should give him daily a piece of bread, beside broth, till all the bread in the city were spent: and Jeremiah remained in the entry of the prison.
 \c 38
 \cl Jeremiah 38
+\cd The prophet at the instance of the great men is cast into a filthy dungeon: he is drawn out by Abdemelech, and has another conference with the king.
 \p
 \v 1 Now Saphatias the son of Mathan, and Gedelias the son of Phassur, and Juchal the son of Selemias, and Phassur the son of Melchias heard the words that Jeremiah spoke to all the people, saying:
 \p
@@ -2019,7 +2059,7 @@
 \p
 \v 21 But if thou wilt not go forth, this is the word which the Lord hath shewn me:
 \p
-\v 22 Behold all the women that are left in the house of the king of Juda, shall be brought out to the princes of the king of Babylon: and they shall say: Thy men of peace have deceived thee, and have prevailed against thee, they have plunged thy feet in the mire, and in a slippery place and they have departed from thee.
+\v 22 Behold all the women that are left in the house of the king of Juda, shall be brought out to the princes of the king of Babylon: and they shall say: Thy men of peace have deceived thee, and have prevailed against thee, they have plunged thy feet in the mire, and in a slippery place and they have departed from thee.\f + \fr 38:22 \fk Thy men of peace: \ft Viri pacifici tui. That is thy false friends promising thee peace and happiness, and by their evil counsels involving thee in misery.\f*
 \p
 \v 23 And all thy wives, and thy children shall be brought out to the Chaldeans, and thou shalt not escape their hands, but thou shalt be taken by the hand of the king of Babylon: and he shall burn this city with fire.
 \p
@@ -2034,6 +2074,7 @@
 \v 28 But Jeremiah remained in the entry of the prison, until the day that Jerusalem was taken: and it came to pass that Jerusalem was taken.
 \c 39
 \cl Jeremiah 39
+\cd After two years' siege Jerusalem is taken. Sedecias is carried before Nabuchodonosor, who kills his sons in his sight, and then puts out his eyes. Jeremiah is set at liberty.
 \p
 \v 1 In the ninth year of Sedecias king of Juda, in the tenth month, came Nabuchodonosor king of Babylon, and all his army to Jerusalem, and they besieged it.
 \p
@@ -2072,6 +2113,7 @@
 \v 18 But delivering, I will deliver thee, and thou shalt not fall by the sword: but thy life shall be saved for thee, because thou hast put thy trust in me, saith the Lord.
 \c 40
 \cl Jeremiah 40
+\cd Jeremiah remains with Godolias the governor; who receives all the Jews that resort to him.
 \p
 \v 1 The word that came to Jeremiah from the Lord, after that Nabuzardan the general had let him go from Rama, when he had taken him, being bound with chains, among all them that were carried away from Jerusalem and Juda, and were carried to Babylon.
 \p
@@ -2106,6 +2148,7 @@
 \v 16 And Godolias the son of Ahicam said to Johanan the son of Caree: Do not this thing: for what thou sayst of Ismahel is false.
 \c 41
 \cl Jeremiah 41
+\cd Godolias is slain: the Jews that were with him are apprehensive of the Chaldeans.
 \p
 \v 1 And it came to pass in the seventh month, that Ismahel the son of Nathanias, the son of Elisama of the royal blood, and the nobles of the king, and ten men with him, came to Godolias the son of Ahicam into Masphath: and they ate bread there together in Masphath.
 \p
@@ -2144,6 +2187,7 @@
 \v 18 From the face of the Chaldeans: for they were afraid of them, because Ismahel the son of Nathanias had slain Godolias the son of Ahicam, whom the king of Babylon had made governor in the land of Juda.
 \c 42
 \cl Jeremiah 42
+\cd Jeremiah assures the remnant of the people, that if they will stay in Juda, they shall be safe; but if they go down into Egypt, they shall perish.
 \p
 \v 1 Then all the captains of the warriors, and Johanan the son of Caree, and Jezonias, the son of Osaias, and the rest of the people from the least to the greatest came near:
 \p
@@ -2155,7 +2199,7 @@
 \p
 \v 5 And they said to Jeremiah: The Lord be witness between us of truth and faithfulness, if we do not according to every thing for which the Lord thy God shall send thee to us.
 \p
-\v 6 Whether it be good or evil, we will obey the voice of the Lord our God, to whom we send thee: that it may be well with us when we shall hearken to the voice of the Lord our God.
+\v 6 Whether it be good or evil, we will obey the voice of the Lord our God, to whom we send thee: that it may be well with us when we shall hearken to the voice of the Lord our God.\f + \fr 42:6 \fk Good or evil: \ft That is, agreeable or disagreeable.\f*
 \p
 \v 7 Now after ten days, the word of the Lord came to Jeremiah.
 \p
@@ -2163,7 +2207,7 @@
 \p
 \v 9 And he said to them: Thus saith the Lord the God of Israel, to whom you sent me, to present your supplications before him:
 \p
-\v 10 If you will be quiet and remain in this land, I will build you up, and not pull you down: I will plant you, and not pluck you up: for now I am appeased for the evil that I have done to you.
+\v 10 If you will be quiet and remain in this land, I will build you up, and not pull you down: I will plant you, and not pluck you up: for now I am appeased for the evil that I have done to you.\f + \fr 42:10 \fk I am appeased for the evil that I have done to you: \ft That is, I am appeased, as I have sufficiently punished you, and now I am reconciled with you.\f*
 \p
 \v 11 Fear not because of the king of Babylon, of whom you are greatly afraid: fear him not, saith the Lord: for I am with you, to save you, and to deliver you from his hand.
 \p
@@ -2190,6 +2234,7 @@
 \v 22 Now therefore know certainly that you shall die by the sword, and by famine, and by pestilence in the place to which you desire to go to dwell there.
 \c 43
 \cl Jeremiah 43
+\cd The Jews, contrary to the orders of God by the prophet, go into Egypt, carrying Jeremiah with them. He foretells the devastation of that land by the king of Babylon.
 \p
 \v 1 And it came to pass, that when Jeremiah had made an end of speaking to the people all the words of the Lord their God, for which the Lord their God had sent him to them, all these words:
 \p
@@ -2218,6 +2263,7 @@
 \v 13 And he shall break the statues of the house of the sun, that are in the land of Egypt; and the temples of the gods of Egypt he shall burn with fire.
 \c 44
 \cl Jeremiah 44
+\cd The prophet's admonition to the Jews in Egypt against idolatry is not regarded: he denounces to them their destruction.
 \p
 \v 1 The word that came to Jeremiah, concerning all the Jews that dwelt in the land of Egypt, dwelling in Magdal, and in Taphnis, and in Memphis, and in the land of Phatures, saying:
 \p
@@ -2251,7 +2297,7 @@
 \p
 \v 16 As for the word which thou hast spoken to us in the name of the Lord, we will not hearken to thee:
 \p
-\v 17 But we will certainly do every word that shall proceed out of our own mouth, to sacrifice to the queen of heaven, and to pour out drink offerings to her, as we and our fathers have done, our kings, and our princes in the cities of Juda, and in the streets of Jerusalem: and we were filled with bread, and it was well with us, and we saw no evil.
+\v 17 But we will certainly do every word that shall proceed out of our own mouth, to sacrifice to the queen of heaven, and to pour out drink offerings to her, as we and our fathers have done, our kings, and our princes in the cities of Juda, and in the streets of Jerusalem: and we were filled with bread, and it was well with us, and we saw no evil.\f + \fr 44:17 \fk The queen of heaven: \ft The moon, which they worshipped under this name.\f*
 \p
 \v 18 But since we left off to offer sacrifice to the queen of heaven, and to pour out frank offerings to her, we have wanted all things, and have been consumed by the sword, and by famine.
 \p
@@ -2280,6 +2326,7 @@
 \v 30 Thus saith the Lord: Behold I will deliver Pharao Nechao king of Egypt into the hand of his enemies, and into the hand of them that seek his life: as I delivered Sedecias king of Juda into the land of Nabuchodonosor the king of Babylon his enemy, and that sought his life.
 \c 45
 \cl Jeremiah 45
+\cd The prophet comforts Baruch in his affliction.
 \p
 \v 1 The word that Jeremiah the prophet spoke to Baruch the son of Nerias, when he had written these words in a book, out of the mouth of Jeremiah, in the fourth year of Joakim the son of Josias king of Juda, saying:
 \p
@@ -2292,6 +2339,7 @@
 \v 5 And dost thou seek great things for thyself? Seek not: for behold I will bring evil upon all flesh, saith the Lord! but I will give thee thy life, and save thee in all places whithersoever thou shalt go.
 \c 46
 \cl Jeremiah 46
+\cd A prophecy against Egypt. The Jews shall return from captivity.
 \p
 \v 1 The word of the Lord that came to Jeremiah the prophet against the Gentiles,
 \p
@@ -2323,7 +2371,7 @@
 \p
 \v 15 Why are thy valiant men come to nothing? they stood not: because the Lord hath overthrown them.
 \p
-\v 16 He hath multiplied them that fall, and one hath fallen upon another, and they shall say: Arise, and let us return to our own people, and to the land of our nativity, from the sword of the dove.
+\v 16 He hath multiplied them that fall, and one hath fallen upon another, and they shall say: Arise, and let us return to our own people, and to the land of our nativity, from the sword of the dove.\f + \fr 46:16 \fk The dove: \ft See the annotation on chap. 25., ver. 38.\f*
 \p
 \v 17 Call ye the name of Pharao king of Egypt, a tumult time hath brought.
 \p
@@ -2341,7 +2389,7 @@
 \p
 \v 24 The daughter of Egypt is confounded, and delivered into the hand of the people of the north.
 \p
-\v 25 The Lord of hosts the God of Israel hath said: Behold I will visit upon the tumult of Alexandria, and upon Pharao, and upon Egypt, and upon her gods, and upon her kings, and upon Pharao, and upon them that trust in him.
+\v 25 The Lord of hosts the God of Israel hath said: Behold I will visit upon the tumult of Alexandria, and upon Pharao, and upon Egypt, and upon her gods, and upon her kings, and upon Pharao, and upon them that trust in him.\f + \fr 46:25 \fk Visit upon: \ft That is, punish.\f*\f + \fr 46:25 \fk Alexandria: \ft In the Hebrew, No, which was the ancient name of the city, to which Alexander gave afterwards the name of Alexandria.\f*
 \p
 \v 26 And I will deliver them into the hand of them that seek their lives, and into the hand of Nabuchodonosor king of Babylon, and into the hand of his servants: and afterwards it shall be inhabited, as in the days of old, saith the Lord.
 \p
@@ -2350,6 +2398,7 @@
 \v 28 And thou, my servant Jacob, fear not, saith the Lord: because I am with thee, for I will consume all the nations to which I have cast thee out: but thee I will not consume, but I will correct thee in judgment, neither will I spare thee as if thou wert innocent.
 \c 47
 \cl Jeremiah 47
+\cd A prophecy of the desolation of the Philistines, of Tyre, Sidon, Gaza, and Ascalon.
 \p
 \v 1 The word of the Lord that came to Jeremiah the prophet against the people of Palestine, before Pharao took Gaza.
 \p
@@ -2366,6 +2415,7 @@
 \v 7 How shall it be quiet, when the Lord hath given it a charge against Ascalon, and against the countries thereof by the sea side, and there hath made an appointment for it?
 \c 48
 \cl Jeremiah 48
+\cd A prophecy of the desolation of Moab for their pride: but their captivity shall at last be released.
 \p
 \v 1 Against Moab thus saith the Lord of hosts the God of Israel: Woe to Nabo, for it is laid waste, and confounded: Cariathaim is taken: the strong city is confounded and hath trembled.
 \p
@@ -2379,19 +2429,19 @@
 \p
 \v 6 Flee, save your lives: and be as heath in the wilderness.
 \p
-\v 7 For because thou hast trusted in thy bulwarks, and in thy treasures, thou also shalt be taken: and Chamos shall go into captivity, his priests, and his princes together.
+\v 7 For because thou hast trusted in thy bulwarks, and in thy treasures, thou also shalt be taken: and Chamos shall go into captivity, his priests, and his princes together.\f + \fr 48:7 \fk Chamos: \ft The idol of the Moabites.\f*
 \p
 \v 8 And the spoiler shall come upon every city, and no city shall escape: and the valleys shall perish, and the plains shall be destroyed, for the Lord hath spoken:
 \p
 \v 9 Give a flower to Moab, for in its flower it shall go out: and the cities thereof shall be desolate, and uninhabited.
 \p
-\v 10 Cursed be he that doth the work of the Lord deceitfully: and cursed be he that withholdeth his sword from blood.
+\v 10 Cursed be he that doth the work of the Lord deceitfully: and cursed be he that withholdeth his sword from blood.\f + \fr 48:10 \fk Deceitfully: \ft In the Greek, negligently. The work of God here spoken of, is the punishment of the Moabites.\f*
 \p
-\v 11 Moab hath been fruitful from his youth, and hath rested upon his lees: and hath not been poured out from vessel to vessel, nor hath gone into captivity: therefore his taste hath remained in him, and his scent is not changed.
+\v 11 Moab hath been fruitful from his youth, and hath rested upon his lees: and hath not been poured out from vessel to vessel, nor hath gone into captivity: therefore his taste hath remained in him, and his scent is not changed.\f + \fr 48:11 \fk Moab hath been fruitful: \ft That is, rich and flourishing.\f*\f + \fr 48:11 \fk And hath rested upon his lees: \ft That is, remained in its bad morals; as wine not decanted has its lees mixed and remains muddy.\f*
 \p
 \v 12 Therefore behold the days come, saith the Lord, and I will send him men that shall order and overturn his bottles, and they shall cast him down, and shall empty his vessels, and break their bottles one against another.
 \p
-\v 13 And Moab shall be ashamed of Chamos, as the house of Israel was ashamed of Bethel, in which they trusted.
+\v 13 And Moab shall be ashamed of Chamos, as the house of Israel was ashamed of Bethel, in which they trusted.\f + \fr 48:13 \fk Of Bethel: \ft That is, of their golden calf which they worshipped in Bethel.\f*
 \p
 \v 14 How do you say: We are valiant and stout men in battle?
 \p
@@ -2415,7 +2465,7 @@
 \p
 \v 24 And upon Carioth, and upon Bosra: and upon all the cities of the land of Moab, far or near.
 \p
-\v 25 The horn of Moab is cut off, and his arm is broken, saith the Lord.
+\v 25 The horn of Moab is cut off, and his arm is broken, saith the Lord.\f + \fr 48:25 \fk The horn of Moab is cut off: \ft That is, the strength of Moab is cut off. A metaphor drawn from animals whose strength is in their horns.\f*
 \p
 \v 26 Make him drunk, because he lifted up himself against the Lord: and Moab shall dash his hand in his own vomit, and he also shall be in derision.
 \p
@@ -2451,7 +2501,7 @@
 \p
 \v 42 And Moab shall cease to be a people: because he hath gloried against the Lord.
 \p
-\v 43 Fear, and the pit, and the snare come upon thee, O inhabitant of Moab, saith the Lord.
+\v 43 Fear, and the pit, and the snare come upon thee, O inhabitant of Moab, saith the Lord.\f + \fr 48:43 \fk Fear: \ft That is, the sword of the enemy.\f*\f + \fr 48:43 \fk The pit: \ft That is, unforeseen calamities.\f*\f + \fr 48:43 \fk The snare: \ft That is, the ambushes laid by the enemy.\f*
 \p
 \v 44 He that shall flee from the fear, shall fall into the pit: and he that shall get up out of the pit, shall be taken in the snare: for I will bring upon Moab the year of their visitation, saith the Lord.
 \p
@@ -2462,8 +2512,9 @@
 \v 47 And I will bring back the captivity of Moab in the last days, saith the Lord. Hitherto the judgments of Moab.
 \c 49
 \cl Jeremiah 49
+\cd The like desolation of Ammon, of Idumea, of the Syrians, of the Agarenes, and of the Elamites.
 \p
-\v 1 Against the children of Ammon. Thus saith the Lord: Hath Israel no sons? or hath he no heir? Why then hath Melchom inherited Gad: and his people dwelt in his cities?
+\v 1 Against the children of Ammon. Thus saith the Lord: Hath Israel no sons? or hath he no heir? Why then hath Melchom inherited Gad: and his people dwelt in his cities?\f + \fr 49:1 \fk Melchom: \ft The idol of the Ammonites.\f*
 \p
 \v 2 Therefore behold the days come, saith the Lord, and I will cause the noise of war to be heard in Rabbath of the children of Ammon, and it shall be destroyed into a heap, and her daughters shall be burnt with fire, and Israel shall possess them that have possessed him, saith the Lord.
 \p
@@ -2517,7 +2568,7 @@
 \p
 \v 27 And I will kindle a fire in the wall of Damascus, and it shall devour the strong holds of Benadad.
 \p
-\v 28 Against Cedar and against the kingdoms of Asor, which Nabuchodonosor king of Babylon destroyed. Thus saith the Lord: Arise, and go ye up to Cedar, and waste the children of the east.
+\v 28 Against Cedar and against the kingdoms of Asor, which Nabuchodonosor king of Babylon destroyed. Thus saith the Lord: Arise, and go ye up to Cedar, and waste the children of the east.\f + \fr 49:28 \fk Cedar and Asor: \ft Were parts of Arabia; which with Moab, Ammon, Edom, etc., were all brought under the yoke of Nabuchodonosor.\f*
 \p
 \v 29 They shall take their tents, and their flocks: and shall carry off for themselves their curtains, and all their vessels, and their camels: and they shall call fear upon them round about.
 \p
@@ -2529,7 +2580,7 @@
 \p
 \v 33 And Asor shall be a habitation for dragons, desolate for ever: no man shall abide there, nor son of man inhabit it.
 \p
-\v 34 The word of the Lord that came to Jeremiah the prophet against Elam, in the beginning of the reign of Sedecias king of Juda, saying:
+\v 34 The word of the Lord that came to Jeremiah the prophet against Elam, in the beginning of the reign of Sedecias king of Juda, saying:\f + \fr 49:34 \fk Elam: \ft A part of Persia.\f*
 \p
 \v 35 Thus saith the Lord of hosts: Behold I will break the bow of Elam, and their chief strength.
 \p
@@ -2542,12 +2593,13 @@
 \v 39 But in the latter days I will cause the captives of Elam, to return, saith the Lord.
 \c 50
 \cl Jeremiah 50
+\cd Babylon, which hath afflicted the Israelites, after their restoration, shall be utterly destroyed.
 \p
 \v 1 The word that the Lord hath spoken against Babylon, and against the land of the Chaldeans in the hand of Jeremiah the prophet.
 \p
-\v 2 Declare ye among the nations, and publish it, lift up a standard: proclaim, and conceal it not: say: Babylon is taken, Bel is confounded, Merodach is overthrown, their graven things are confounded, their idols are overthrown.
+\v 2 Declare ye among the nations, and publish it, lift up a standard: proclaim, and conceal it not: say: Babylon is taken, Bel is confounded, Merodach is overthrown, their graven things are confounded, their idols are overthrown.\f + \fr 50:2 \fk Bel, etc: \ft Bel and Merodach were worshipped for gods by the men of Babylon.\f*
 \p
-\v 3 For a nation is come up against her out of the north, which shall make her land desolate: and there shall be none to dwell therein, from man even to beast: yea they are removed, and gone away.
+\v 3 For a nation is come up against her out of the north, which shall make her land desolate: and there shall be none to dwell therein, from man even to beast: yea they are removed, and gone away.\f + \fr 50:3 \fk A nation, etc: \ft Viz., the Medes.\f*
 \p
 \v 4 In those days, and at that time, saith the Lord, the children of Israel shall come, they and the children of Juda together: going and weeping they shall make haste, and shall seek the Lord their God.
 \p
@@ -2573,7 +2625,7 @@
 \p
 \v 15 Shout against her, she hath every where given her hand, her foundations are fallen, her walls are thrown down, for it is the vengeance of the Lord. Take vengeance upon her: as she hath done, so do to her.
 \p
-\v 16 Destroy the sower out of Babylon, and him that holdeth the sickle in the time of harvest: for fear of the sword of the dove every man shall return to his people, and every one shall flee to his own land.
+\v 16 Destroy the sower out of Babylon, and him that holdeth the sickle in the time of harvest: for fear of the sword of the dove every man shall return to his people, and every one shall flee to his own land.\f + \fr 50:16 \fk The dove: \ft Or the destroyer; for the Hebrew word signifies either the one or the other.\f*
 \p
 \v 17 Israel is a scattered flock, the lions have driven him away: first the king of Assyria devoured him: and last this Nabuchodonosor king of Babylon hath broken his bones.
 \p
@@ -2619,7 +2671,7 @@
 \p
 \v 38 A drought upon her waters, and they shall be dried up: because it is a land of idols, and they glory in monstrous things.
 \p
-\v 39 Therefore shall dragons dwell there with the fig fauns: and ostriches shall dwell therein, and it shall be no more inhabited for ever, neither shall it be built up from generation to generation.
+\v 39 Therefore shall dragons dwell there with the fig fauns: and ostriches shall dwell therein, and it shall be no more inhabited for ever, neither shall it be built up from generation to generation.\f + \fr 50:39 \fk Fig fauns: \ft Monsters of the desert, or demons in monstrous shapes: such as the ancients called fauns and satyrs; and as they imagined them to live upon wild figs, they called them fauni ficarii or fig fauns.\f*
 \p
 \v 40 As the Lord overthrew Sodom and Gomorrha, and their neighbour cities, saith the Lord: no man shall dwell there, neither shall the son of man inhabit it.
 \p
@@ -2636,6 +2688,7 @@
 \v 46 At the noise of the taking of Babylon the earth is moved, and the cry is heard amongst the nations.
 \c 51
 \cl Jeremiah 51
+\cd The miseries that shall fall upon Babylon from the Medes: the destruction of her idols.
 \p
 \v 1 Thus saith the Lord: Behold I will raise up as it were a pestilential wind against Babylon and against the inhabitants thereof, who have lifted up their heart against me.
 \p
@@ -2766,6 +2819,7 @@
 \v 64 And thou shalt say: Thus shall Babylon sink, and she shall not rise up from the affliction that I will bring upon her, and she shall be utterly destroyed. Thus far are the words of Jeremiah.
 \c 52
 \cl Jeremiah 52
+\cd A recapitulation of the reign of Sedecias, and the destruction of Jerusalem. The number of the captives.
 \p
 \v 1 Sedecias was one and twenty years old when he began to reign: and he reigned eleven years in Jerusalem: and the name of his mother was Amital, the daughter of Jeremiah of Lobna.
 \p

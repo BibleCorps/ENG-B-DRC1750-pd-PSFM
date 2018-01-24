@@ -1,11 +1,14 @@
-\id 2CO ENG (p.sfm) -  <> 2 Corinthians - Challoner Douay Rheims version of the Sacred Bible The Second Letter to the Corinthians. The Holy Bible. Bishop Challoner's 18th century revision of the Douay Rheims version. Electronic edition 2004. Public domain.
+\id 2 C ENG (p.sfm) - DRC1750 - Verify <>
 \ide UTF-8
 \h 2 Corinthians
-\toc1 The Second Letter to the Corinthians
+\toc1 THE SECOND EPISTLE OF ST. PAUL TO THE CORINTHIANS
 \toc2 2 Corinthians
-\toc3 2Cor
+\toc3 2 C
+\mt1 THE SECOND EPISTLE OF ST. PAUL TO THE CORINTHIANS
+\im In this Epistle St. Paul comforts those who are now reformed by his admonitions to them in the former and absolves the incestuous man on doing penance, whom he had before excommunicated for his crime. Hence he treats of true penance and of the dignity of the ministers of the New Testament. He cautions the faithful against false teachers and the society of infidels. He gives an account of his sufferings and also of the favours and graces which God hath bestowed on him. This second Epistle was written in the same year with the first and sent by Titus from some place in Macedonia.
 \c 1
 \cl 2 Corinthians 1
+\cd He speaks of his troubles in Asia. His not coming to them was not out of levity. The constancy and sincerity of his doctrine.
 \p
 \v 1 Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother: to the church of God that is at Corinth, with all the saints that are in all Achaia:
 \p
@@ -43,7 +46,7 @@
 \p
 \v 18 But God is faithful: for our preaching which was to you, was not, It is, and It is not.
 \p
-\v 19 For the Son of God, Jesus Christ, who was preached among you by us, by me and Sylvanus and Timothy, was not: It is and It is not. But, It is, was in him.
+\v 19 For the Son of God, Jesus Christ, who was preached among you by us, by me and Sylvanus and Timothy, was not: It is and It is not. But, It is, was in him.\f + \fr 1:19 \fk It is, was in him: \ft There was no inconstancy in the doctrine of the apostles, sometimes, like modern sectaries, saying, It is, and at other times saying, It is not. But their doctrine was ever the same, one uniform yea, in Jesus Christ, one Amen, that is, one truth in him.\f*
 \p
 \v 20 For all the promises of God are in him, It is. Therefore also by him, amen to God, unto our glory.
 \p
@@ -54,6 +57,7 @@
 \v 23 But I call God to witness upon my soul that to spare you, I came not any more to Corinth: not because we exercise dominion over your faith: but we are helpers of your joy. For in faith you stand.
 \c 2
 \cl 2 Corinthians 2
+\cd He grants a pardon to the incestuous man upon his doing penance.
 \p
 \v 1 But I determined this with myself, to come to you again in sorrow.
 \p
@@ -73,7 +77,7 @@
 \p
 \v 9 For to this end also did I write, that I may know the experiment of you, whether you be obedient in all things.
 \p
-\v 10 And to whom you have pardoned any thing, I also. For, what I have pardoned, if I have pardoned any thing, for your sakes have I done it in the person of Christ:
+\v 10 And to whom you have pardoned any thing, I also. For, what I have pardoned, if I have pardoned any thing, for your sakes have I done it in the person of Christ:\f + \fr 2:10 \fk I also: \ft The apostle here granted an indulgence, or pardon, in the person and by the authority of Christ, to the incestuous Corinthian, whom before he had put under penance, which pardon consisted in a releasing of part of the temporal punishment due to his sin.\f*
 \p
 \v 11 That we be not overreached by Satan. For we are not ignorant of his devices.
 \p
@@ -85,11 +89,12 @@
 \p
 \v 15 For we are the good odour of Christ unto God, in them that are saved and in them that perish.
 \p
-\v 16 To the one indeed the odour of death unto death: but to the others the odour of life unto life. And for these things who is so sufficient?
+\v 16 To the one indeed the odour of death unto death: but to the others the odour of life unto life. And for these things who is so sufficient?\f + \fr 2:16 \fk The odour of death, etc: \ft The preaching of the apostle, which by its fragrant odour, brought many to life, was to others, through their own fault, the occasion of death; by their wilfully opposing and resisting that divine call.\f*
 \p
 \v 17 For we are not as many, adulterating the word of God: but with sincerity: but as from God, before God, in Christ we speak.
 \c 3
 \cl 2 Corinthians 3
+\cd He needs no commendatory letters. The glory of the ministry of the New Testament.
 \p
 \v 1 Do we begin again to commend ourselves? Or do we need (as some do) epistles of commendation to you, or from you?
 \p
@@ -101,7 +106,7 @@
 \p
 \v 5 Not that we are sufficient to think any thing of ourselves, as of ourselves: but our sufficiency is from God.
 \p
-\v 6 Who also hath made us fit ministers of the new testament, not in the letter but in the spirit. For the letter killeth: but the spirit quickeneth.
+\v 6 Who also hath made us fit ministers of the new testament, not in the letter but in the spirit. For the letter killeth: but the spirit quickeneth.\f + \fr 3:6 \fk The letter: \ft Not rightly understood, and taken without the spirit.\f*
 \p
 \v 7 Now if the ministration of death, engraven with letters upon stones, was glorious (so that the children of Israel could not steadfastly behold the face of Moses, for the glory of his countenance), which is made void:
 \p
@@ -128,6 +133,7 @@
 \v 18 But we all, beholding the glory of the Lord with open face, are transformed into the same image from glory to glory, as by the Spirit of the Lord.
 \c 4
 \cl 2 Corinthians 4
+\cd The sincerity of his preaching. His comfort in his afflictions.
 \p
 \v 1 Therefore seeing we have this ministration, according as we have obtained mercy, we faint not.
 \p
@@ -166,6 +172,7 @@
 \v 18 While we look not at the things which are seen, but at the things which are not seen. For the things which are seen are temporal: but the things which are not seen, are eternal.
 \c 5
 \cl 2 Corinthians 5
+\cd He is willing to leave his earthly mansion to be with the Lord. His charity to the Corinthians.
 \p
 \v 1 For we know, if our earthly house of this habitation be dissolved, that we have a building of God, a house not made with hands, eternal in heaven.
 \p
@@ -185,7 +192,7 @@
 \p
 \v 9 And therefore we labour, whether absent or present, to please him.
 \p
-\v 10 For we must all be manifested before the judgment seat of Christ, that every one may receive the proper things of the body, according as he hath done, whether it be good or evil.
+\v 10 For we must all be manifested before the judgment seat of Christ, that every one may receive the proper things of the body, according as he hath done, whether it be good or evil.\f + \fr 5:10 \fk The proper things of the body: \ft In the particular judgment, immediately after death, the soul is rewarded or punished according to what it has done in the body.\f*
 \p
 \v 11 Knowing therefore the fear of the Lord, we use persuasion to men: but to God we are manifest. And I trust also that in your consciences we are manifest.
 \p
@@ -197,7 +204,7 @@
 \p
 \v 15 And Christ died for all: that they also who live may not now live to themselves, but unto him who died for them and rose again.
 \p
-\v 16 Wherefore henceforth, we know no man according to the flesh. And if we have known Christ according to the flesh: but now we know him so no longer.
+\v 16 Wherefore henceforth, we know no man according to the flesh. And if we have known Christ according to the flesh: but now we know him so no longer.\f + \fr 5:16 \fk We know no man according to the flesh: \ft That is, we consider not any man with regard to his nation, family, kindred, or other natural qualities or advantages; but only with relation to Christ, and according to the order of divine charity, in God, and for God. The apostle adds, that even with respect to Christ himself, he now no longer considers him according to the flesh, by taking a satisfaction in his being his countryman; his affection being now purified from all such earthly considerations.\f*
 \p
 \v 17 If then any be in Christ a new creature, the old things are passed away. Behold all things are made new.
 \p
@@ -207,9 +214,10 @@
 \p
 \v 20 For Christ therefore we are ambassadors, God as it were exhorting by us, for Christ, we beseech you, be reconciled to God.
 \p
-\v 21 Him, who knew no sin, he hath made sin for us: that we might be made the justice of God in him.
+\v 21 Him, who knew no sin, he hath made sin for us: that we might be made the justice of God in him.\f + \fr 5:21 \fk Sin for us: \ft That is, to be a sin offering, a victim for sin.\f*
 \c 6
 \cl 2 Corinthians 6
+\cd He exhorts them to a correspondence with God's grace and not to associate with unbelievers.
 \p
 \v 1 And we helping do exhort you that you receive not the grace of God in vain.
 \p
@@ -248,6 +256,7 @@
 \v 18 And I will receive you. And will be a Father to you: and you shall be my sons and daughters, saith the Lord Almighty.
 \c 7
 \cl 2 Corinthians 7
+\cd The apostle's affection for the Corinthians. His comfort and joy on their account.
 \p
 \v 1 Having therefore these promises, dearly beloved, let us cleanse ourselves from all defilement of the flesh and of the spirit, perfecting sanctification in the fear of God.
 \p
@@ -282,10 +291,11 @@
 \v 16 I rejoice that in all things I have confidence in you.
 \c 8
 \cl 2 Corinthians 8
+\cd He exhorts them to contribute bountifully to relieve the poor of Jerusalem.
 \p
 \v 1 Now we make known unto you, brethren, the grace of God that hath been given in the churches of Macedonia.
 \p
-\v 2 That in much experience of tribulation, they have had abundance of joy and their very deep poverty hath abounded unto the riches of their simplicity.
+\v 2 That in much experience of tribulation, they have had abundance of joy and their very deep poverty hath abounded unto the riches of their simplicity.\f + \fr 8:2 \fk Simplicity: \ft That is, sincere bounty and charity.\f*
 \p
 \v 3 For according to their power (I bear them witness) and beyond their power, they were willing:
 \p
@@ -332,6 +342,7 @@
 \v 24 Wherefore shew ye to them, in the sight of the churches, the evidence of your charity and of our boasting on your behalf.
 \c 9
 \cl 2 Corinthians 9
+\cd A further exhortation to almsgiving. The fruits of it.
 \p
 \v 1 For concerning the ministry that is done towards the saints, it is superfluous for me to write unto you.
 \p
@@ -364,6 +375,7 @@
 \v 15 Thanks be to God for his unspeakable gift.
 \c 10
 \cl 2 Corinthians 10
+\cd To stop the calumny and boasting of false apostles, he set forth the power of his apostleship.
 \p
 \v 1 Now I Paul, myself beseech you, by the mildness and modesty of Christ: who in presence indeed am lowly among you, but being absent am bold toward you.
 \p
@@ -402,8 +414,9 @@
 \v 18 For not he who commendeth himself is approved: but he, whom God commendeth.
 \c 11
 \cl 2 Corinthians 11
+\cd He is forced to commend himself and his labours, lest the Corinthians should be imposed upon by the false apostles.
 \p
-\v 1 Would to God you could bear with some little of my folly! But do bear with me.
+\v 1 Would to God you could bear with some little of my folly! But do bear with me.\f + \fr 11:1 \fk My folly: \ft So he calls his reciting his own praises, which, commonly speaking is looked upon as a piece of folly and vanity; though the apostle was constrained to do it, for the good of the souls committed to his charge.\f*
 \p
 \v 2 For I am jealous of you with the jealousy of God. For I have espoused you to one husband, that I may present you as a chaste virgin to Christ.
 \p
@@ -457,7 +470,7 @@
 \p
 \v 27 In labour and painfulness, in much watchings, in hunger and thirst, in fastings often, in cold and nakedness:
 \p
-\v 28 Besides those things which are without: my daily instance, the solicitude for all the churches.
+\v 28 Besides those things which are without: my daily instance, the solicitude for all the churches.\f + \fr 11:28 \fk My daily instance: \ft The labours that come in, and press upon me every day.\f*
 \p
 \v 29 Who is weak, and I am not weak? Who is scandalized, and I am not on fire?
 \p
@@ -470,6 +483,7 @@
 \v 33 And through a window in a basket was I let down by the wall: and so escaped his hands.
 \c 12
 \cl 2 Corinthians 12
+\cd His raptures and revelations, His being buffeted by Satan. His fear for the Corinthians.
 \p
 \v 1 If I must glory (it is not expedient indeed) but I will come to visions and revelations of the Lord.
 \p
@@ -487,7 +501,7 @@
 \p
 \v 8 For which thing, thrice I besought the Lord that it might depart from me.
 \p
-\v 9 And he said to me: My grace is sufficient for thee: for power is made perfect in infirmity. Gladly therefore will I glory in my infirmities, that the power of Christ may dwell in me.
+\v 9 And he said to me: My grace is sufficient for thee: for power is made perfect in infirmity. Gladly therefore will I glory in my infirmities, that the power of Christ may dwell in me.\f + \fr 12:9 \fk Power is made perfect: \ft The strength and power of God more perfectly shines forth in our weakness and infirmity; as the more weak we are of ourselves, the more illustrious is his grace in supporting us, and giving us the victory under all trials and conflicts.\f*
 \p
 \v 10 For which cause I please myself in my infirmities, in reproaches, in necessities, in persecutions, in distresses, for Christ. For when I am weak, then am I powerful.
 \p
@@ -514,6 +528,7 @@
 \v 21 Lest again, when I come, God humble me among you: and I mourn many of them that sinned before and have not done penance for the uncleanness and fornication and lasciviousness that they have committed.
 \c 13
 \cl 2 Corinthians 13
+\cd He threatens the impenitent, to provoke them to penance.
 \p
 \v 1 Behold, this is the third time I am coming to you: In the mouth of two or three witnesses shall every word stand.
 \p
@@ -527,7 +542,7 @@
 \p
 \v 6 But I trust that you shall know that we are not reprobates.
 \p
-\v 7 Now we pray God that you may do no evil, not that we may appear approved, but that you may do that which is good and that we may be as reprobates.
+\v 7 Now we pray God that you may do no evil, not that we may appear approved, but that you may do that which is good and that we may be as reprobates.\f + \fr 13:7 \fk Reprobates: \ft that is, without proof, by having no occasion of shewing our power in punishing you.\f*
 \p
 \v 8 For we can do nothing against the truth: but for the truth.
 \p
@@ -540,4 +555,3 @@
 \v 12 Salute one another with a holy kiss. All the saints salute you.
 \p
 \v 13 The grace of our Lord Jesus Christ and the charity of God and the communication of the Holy Ghost be with you all. Amen.
-\mte9 The Sacred Bible - The Second Letter to the Corinthians

@@ -1,17 +1,20 @@
-\id EPH ENG (p.sfm) -  <> Ephesians - Challoner Douay Rheims version of the Sacred Bible The Letter to the Ephesians. The Holy Bible. Bishop Challoner's 18th century revision of the Douay Rheims version. Electronic edition 2004. Public domain.
+\id Eph ENG (p.sfm) - DRC1750 - Verify <>
 \ide UTF-8
 \h Ephesians
-\toc1 The Letter to the Ephesians
+\toc1 THE EPISTLE OF ST. PAUL TO THE EPHESIANS
 \toc2 Ephesians
 \toc3 Eph
+\mt1 THE EPISTLE OF ST. PAUL TO THE EPHESIANS
+\im Ephesus was the capital of Lesser Asia, and celebrated for the temple of Diana, to which the most part of the people of the East went frequently to worship. But St. Paul having preached the Gospel there, for two years the first time and afterwards for about a year, converted many. He wrote this Epistle to them when he was a prisoner in Rome; and sent it by Tychicus. He admonishes them to hold firmly the faith which they had received and warns them, and also those of the neighbouring cities, against the sophistry of philosophers and doctrine of false teachers who were come among them. The matters of faith contained in this Epistle are exceedingly sublime, and consequently very difficult to be understood. It was written about twenty-nine years after our Lord's Ascension.
 \c 1
 \cl Ephesians 1
+\cd The great blessings we have received through Christ. He is the head of all the church.
 \p
 \v 1 Paul, an apostle of Jesus Christ, by the will of God, to all the saints who are at Ephesus and to the faithful in Christ Jesus.
 \p
 \v 2 Grace be to you and peace, from God the Father and from the Lord Jesus Christ.
 \p
-\v 3 Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with spiritual blessings in heavenly places, in Christ:
+\v 3 Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with spiritual blessings in heavenly places, in Christ:\f + \fr 1:3 \fk In heavenly places: \ft or, in heavenly things. In coelestibus.\f*
 \p
 \v 4 As he chose us in him before the foundation of the world, that we should be holy and unspotted in his sight in charity.
 \p
@@ -33,7 +36,7 @@
 \p
 \v 13 In whom you also, after you had heard the word of truth (the gospel of your salvation), in whom also believing, you were signed with the holy Spirit of promise.
 \p
-\v 14 Who is the pledge of our inheritance, unto the redemption of acquisition, unto the praise of his glory.
+\v 14 Who is the pledge of our inheritance, unto the redemption of acquisition, unto the praise of his glory.\f + \fr 1:14 \fk Acquisition: \ft that is, a purchased possession.\f*
 \p
 \v 15 Wherefore, I also, hearing of your faith that is in the Lord Jesus and of your love towards all the saints,
 \p
@@ -54,6 +57,7 @@
 \v 23 Which is his body and the fulness of him who is filled all in all.
 \c 2
 \cl Ephesians 2
+\cd All our good comes through Christ. He is our peace.
 \p
 \v 1 And you, when you were dead in your offences and sins,
 \p
@@ -71,7 +75,7 @@
 \p
 \v 8 For by grace you are saved through faith: and that not of yourselves, for it is the gift of God.
 \p
-\v 9 Not of works, that no man may glory.
+\v 9 Not of works, that no man may glory.\f + \fr 2:9 \fk Not of works: \ft as of our own growth, or from ourselves; but as from the grace of God.\f*
 \p
 \v 10 For we are his workmanship, created in Christ Jesus in good works, which God hath prepared that we should walk in them.
 \p
@@ -100,6 +104,7 @@
 \v 22 In whom you also are built together into an habitation of God in the Spirit.
 \c 3
 \cl Ephesians 3
+\cd The mystery hidden from former ages was discovered to the apostle, to be imparted to the Gentiles. He prays that they may be strengthened in God.
 \p
 \v 1 For this cause, I Paul, the prisoner of Jesus Christ, for you Gentiles:
 \p
@@ -129,7 +134,7 @@
 \p
 \v 14 For this cause I bow my knees to the Father of our Lord Jesus Christ,
 \p
-\v 15 Of whom all paternity in heaven and earth is named:
+\v 15 Of whom all paternity in heaven and earth is named:\f + \fr 3:15 \fk All paternity: \ft Or, the whole family. God is the Father, both of angels and men; whosoever besides is named father, is so named with subordination to him.\f*
 \p
 \v 16 That he would grant you, according to the riches of his glory, to be strengthened by his Spirit with might unto the inward man:
 \p
@@ -144,6 +149,7 @@
 \v 21 To him be glory in the church and in Christ Jesus, unto all generations, world without end. Amen.
 \c 4
 \cl Ephesians 4
+\cd He exhorts them to unity, to put on the new man, and to fly sin.
 \p
 \v 1 I therefore, a prisoner in the Lord, beseech you that you walk worthy of the vocation in which you are called:
 \p
@@ -165,7 +171,7 @@
 \p
 \v 10 He that descended is the same also that ascended above all the heavens: that he might fill all things.
 \p
-\v 11 And he gave some apostles, and some prophets, and other some evangelists, and other some pastors and doctors:
+\v 11 And he gave some apostles, and some prophets, and other some evangelists, and other some pastors and doctors:\f + \fr 4:11 \fk Gave some apostles--Until we all meet, etc: \ft Here it is plainly expressed, that Christ has left in his church a perpetual succession of orthodox pastors and teachers, to preserve the faithful in unity and truth.\f*
 \p
 \v 12 For the perfecting of the saints, for the word of the ministry, for the edifying of the body of Christ:
 \p
@@ -210,6 +216,7 @@
 \v 32 And be ye kind one to another: merciful, forgiving one another, even as God hath forgiven you in Christ.
 \c 5
 \cl Ephesians 5
+\cd Exhortations to a virtuous life. The mutual duties of man and wife, by the example of Christ and of the Church.
 \p
 \v 1 Be ye therefore followers of God, as most dear children:
 \p
@@ -257,7 +264,7 @@
 \p
 \v 23 Because the husband is the head of the wife, as Christ is the head of the church. He is the saviour of his body.
 \p
-\v 24 Therefore as the church is subject to Christ: so also let the wives be to their husbands in all things.
+\v 24 Therefore as the church is subject to Christ: so also let the wives be to their husbands in all things.\f + \fr 5:24 \fk As the church is subject to Christ: \ft The church then, according to St. Paul, is ever obedient to Christ, and can never fall from him, but remain faithful to him, unspotted and unchanged to the end of the world.\f*
 \p
 \v 25 Husbands, love your wives, as Christ also loved the church and delivered himself up for it:
 \p
@@ -278,6 +285,7 @@
 \v 33 Nevertheless, let every one of you in particular love for his wife as himself: And let the wife fear her husband.
 \c 6
 \cl Ephesians 6
+\cd Duties of children and servants. The Christian's armour.
 \p
 \v 1 Children, obey your parents in the Lord: for this is just.
 \p
@@ -301,7 +309,7 @@
 \p
 \v 11 Put you on the armour of God, that you may be able to stand against the deceits of the devil.
 \p
-\v 12 For our wrestling is not against flesh and blood; but against principalities and powers, against the rulers of the world of this darkness, against the spirits of wickedness in the high places.
+\v 12 For our wrestling is not against flesh and blood; but against principalities and powers, against the rulers of the world of this darkness, against the spirits of wickedness in the high places.\f + \fr 6:12 \fk High places, or heavenly places: \ft That is to say, in the air, the lowest of the celestial regions; in which God permits these wicked spirits or fallen angels to wander.\f*
 \p
 \v 13 Therefore, take unto you the armour of God, that you may be able to resist in the evil day and to stand in all things perfect.
 \p
@@ -325,5 +333,4 @@
 \p
 \v 23 Peace be to the brethren and charity with faith, from God the Father and the Lord Jesus Christ.
 \p
-\v 24 Grace be with all them that love our Lord Jesus Christ in incorruption. Amen.
-\mte9 The Sacred Bible - The Letter to the Ephesians
+\v 24 Grace be with all them that love our Lord Jesus Christ in incorruption. Amen.\f + \fr 6:24 \fk In incorruption: \ft That is, with a pure and perfect love.\f*

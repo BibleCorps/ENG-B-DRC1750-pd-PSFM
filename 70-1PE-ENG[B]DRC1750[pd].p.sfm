@@ -1,11 +1,14 @@
-\id 1PE ENG (p.sfm) -  <> 1 Peter - Challoner Douay Rheims version of the Sacred Bible The First Letter of Peter. The Holy Bible. Bishop Challoner's 18th century revision of the Douay Rheims version. Electronic edition 2004. Public domain.
+\id 1 P ENG (p.sfm) - DRC1750 - Verify <>
 \ide UTF-8
 \h 1 Peter
-\toc1 The First Letter of Peter
+\toc1 THE FIRST EPISTLE OF ST. PETER THE APOSTLE
 \toc2 1 Peter
-\toc3 1Pt
+\toc3 1 P
+\mt1 THE FIRST EPISTLE OF ST. PETER THE APOSTLE
+\im The first Epistle of St. Peter, though brief, contains much doctrine concerning Faith, Hope, and Charity, with divers instructions to all persons of what state or condition soever. The Apostle commands submission to rulers and superiors and exhorts all to the practice of a virtuous life in imitation, of Christ. This Epistle is written with such apostolical dignity as to manifest the supreme authority with which its writer, the Prince of the Apostles, had been vested by his Lord and Master, Jesus Christ. He wrote it at Rome, which figuratively he calls Babylon, about fifteen years after our Lord's Ascension.
 \c 1
 \cl 1 Peter 1
+\cd He gives thanks to God for the benefit of our being called to the true faith and to eternal life, into which we are to enter by many tribulations. He exhorts to holiness of life, considering the holiness of God and our redemption by the blood of Christ.
 \p
 \v 1 Peter, an apostle of Jesus Christ, to the strangers dispersed through Pontus, Cappadocia, Asia and Bithynia, elect,
 \p
@@ -58,6 +61,7 @@
 \v 25 But the word of the Lord endureth for ever. And this is the word which by the gospel hath been preached unto you.
 \c 2
 \cl 1 Peter 2
+\cd We are to lay aside all guile and go to Christ the living stone, and, as being now his people, walk worthily of him, with submission to superiors and patience under sufferings.
 \p
 \v 1 Wherefore laying away all malice and all guile and dissimulations and envies and all detractions,
 \p
@@ -110,6 +114,7 @@
 \v 25 For you were as sheep going astray: but you are now converted to the shepherd and bishop of your souls.
 \c 3
 \cl 1 Peter 3
+\cd How wives are to behave to their husbands. What ornaments they are to seek. Exhortations to divers Virtues.
 \p
 \v 1 In like manner also, let wives be subject to their husbands: that, if any believe not the word, they may be won without the word, by the conversation of the wives,
 \p
@@ -147,15 +152,16 @@
 \p
 \v 18 Because Christ also died once for our sins, the just for the unjust: that he might offer us to God, being put to death indeed in the flesh, but enlivened in the spirit,
 \p
-\v 19 In which also coming he preached to those spirits that were in prison:
+\v 19 In which also coming he preached to those spirits that were in prison:\f + \fr 3:19 \fk Spirits that were in prison: \ft See here a proof of a third place, or middle state of souls: for these spirits in prison, to whom Christ went to preach, after his death, were not in heaven; nor yet in the hell of the damned: because heaven is no prison: and Christ did not go to preach to the damned.\f*
 \p
 \v 20 Which had been some time incredulous, when they waited for the patience of God in the days of Noe, when the ark was a building: wherein a few, that is, eight souls, were saved by water.
 \p
-\v 21 Whereunto baptism, being of the like form, now saveth you also: not the putting away of the filth of the flesh, but, the examination of a good conscience towards God by the resurrection of Jesus Christ.
+\v 21 Whereunto baptism, being of the like form, now saveth you also: not the putting away of the filth of the flesh, but, the examination of a good conscience towards God by the resurrection of Jesus Christ.\f + \fr 3:21 \fk Whereunto baptism, etc: \ft Baptism is said to be of the like form with the water by which Noe was saved, because the one was a figure of the other.\f*\f + \fr 3:21 \fk Not the putting away, etc: \ft As much as to say, that baptism has not its efficacy, in order to salvation, from its washing away any bodily filth or dirt; but from its purging the conscience from sin, when accompanied with suitable dispositions in the party, to answer the interrogations made at that time, with relation to faith, the renouncing of Satan with all his works; and the obedience to God's commandments.\f*
 \p
 \v 22 Who is on the right hand of God, swallowing down death that we might be made heirs of life everlasting: being gone into heaven, the angels and powers and virtues being made subject to him.
 \c 4
 \cl 1 Peter 4
+\cd Exhortations to cease from sin, to mutual charity, to do all for the glory of God, to be willing to suffer for Christ.
 \p
 \v 1 Christ therefore having suffered in the flesh, be you also armed with the same thought: for he that hath suffered in the flesh hath ceased from sins:
 \p
@@ -191,11 +197,12 @@
 \p
 \v 17 For the time is, that judgment should begin at the house of God. And if at first at us, what shall be the end of them that believe not the gospel of God?
 \p
-\v 18 And if the just man shall scarcely be saved, where shall the ungodly and the sinner appear?
+\v 18 And if the just man shall scarcely be saved, where shall the ungodly and the sinner appear?\f + \fr 4:18 \fk Scarcely: \ft That is, not without much labour and difficulty; and because of the dangers which constantly surround, the temptations of the world, of the devil, and of our own corrupt nature.\f*
 \p
 \v 19 Wherefore let them also that suffer according to the will of God commend their souls in good deeds to the faithful Creator.
 \c 5
 \cl 1 Peter 5
+\cd He exhorts both priests and laity to their respective duties and recommends to all humility and watchfulness.
 \p
 \v 1 The ancients therefore that are among you, I beseech who am myself also an ancient and a witness of the sufferings of Christ, as also a partaker of that glory which is to be revealed in time to come:
 \p
@@ -224,4 +231,3 @@
 \v 13 The church that is in Babylon, elected together with you, saluteth you. And so doth my son, Mark.
 \p
 \v 14 Salute one another with a holy kiss. Grace be to all you who are in Christ Jesus. Amen.
-\mte9 The Sacred Bible - The First Letter of Peter

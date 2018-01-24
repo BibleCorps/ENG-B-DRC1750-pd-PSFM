@@ -1,11 +1,14 @@
-\id MRK ENG (p.sfm) -  <> Mark - Challoner Douay Rheims version of the Sacred Bible The Gospel of Mark. The Holy Bible. Bishop Challoner's 18th century revision of the Douay Rheims version. Electronic edition 2004. Public domain.
+\id Mar ENG (p.sfm) - DRC1750 - Verify <>
 \ide UTF-8
 \h Mark
-\toc1 The Gospel of Mark
+\toc1 THE HOLY GOSPEL OF JESUS CHRIST ACCORDING TO ST. MARK
 \toc2 Mark
 \toc3 Mar
+\mt1 THE HOLY GOSPEL OF JESUS CHRIST ACCORDING TO ST. MARK
+\im St. Mark, the disciple and interpreter of St. Peter (saith St. Jerome), according to what he heard from Peter himself, wrote at Rome a brief Gospel at the request of the Brethren, about ten years after our lord's Ascension; which when Peter had heard, he approved of it and with his authority published it to the church to be read. Baronius and others say that the original was written in Latin: but the more general opinion is that the Evangelist wrote it in Greek.
 \c 1
 \cl Mark 1
+\cd The preaching of John the Baptist. Christ is baptized by him. He calls his disciples and works many miracles.
 \p
 \v 1 The beginning of the gospel of Jesus Christ, the Son of God.
 \p
@@ -98,6 +101,7 @@
 \v 45 But he being gone out, began to publish and to blaze abroad the word: so that he could not openly go into the city. but was without in desert places. And they flocked to him from all sides.
 \c 2
 \cl Mark 2
+\cd Christ heals the sick of the palsy. He calls Matthew and excuses his disciples.
 \p
 \v 1 And again he entered into Capharnaum after some days.
 \p
@@ -127,7 +131,7 @@
 \p
 \v 14 And when he was passing by, he saw Levi, the son of Alpheus, sitting at the receipt of custom; and he saith to him: Follow me. And rising up, he followed him.
 \p
-\v 15 And it came to pass as he sat at meat in his house, many Publicans and sinners sat down together with Jesus and his disciples. For they were many, who also followed him.
+\v 15 And it came to pass as he sat at meat in his house, many Publicans and sinners sat down together with Jesus and his disciples. For they, with Jesus who also followed him. For they were many, who also followed him.
 \p
 \v 16 And the scribes and the Pharisees, seeing that he ate with publicans and sinners, said to his disciples: Why doth your master eat and drink with publicans and sinners?
 \p
@@ -156,6 +160,7 @@
 \v 28 Therefore the Son of man is Lord of the sabbath also.
 \c 3
 \cl Mark 3
+\cd Christ heals the withered hand. He chooses the twelve. He confutes the blasphemy of the Pharisees.
 \p
 \v 1 And he entered again into the synagogue: and there was a man there who had a withered hand.
 \p
@@ -228,6 +233,7 @@
 \v 35 For whosoever shall do the will of God, he is my brother, and my sister, and mother.
 \c 4
 \cl Mark 4
+\cd The parable of the sower. Christ stills the tempest at sea.
 \p
 \v 1 And again he began to teach by the sea side; and a great multitude was gathered together unto him, so that he went up into a ship and sat in the sea: and all the multitude was upon the land by the sea side.
 \p
@@ -251,7 +257,7 @@
 \p
 \v 11 And he said to them: To you it is given to know the mystery of the kingdom of God: but to them that are without, all things are done in parables:
 \p
-\v 12 That seeing they may see, and not perceive; and hearing they may hear, and not understand; lest at any time they should be converted, and their sins should be forgiven them.
+\v 12 That seeing they may see, and not perceive; and hearing they may hear, and not understand; lest at any time they should be converted, and their sins should be forgiven them.\f + \fr 4:12 \fk That seeing they may see, etc: \ft in punishment of their wilfully shutting their eyes, (St. Matt. 13. 15,) God justly withdrew those lights and graces, which otherwise he would have given them, for their effectual conversion.\f*
 \p
 \v 13 And he saith to them: Are you ignorant of this, parable? and how shall you know all parables?
 \p
@@ -310,6 +316,7 @@
 \v 40 And he said to them: Why are you fearful? have you not faith yet? And they feared exceedingly: and they said one to another: Who is this (thinkest thou) that both wind and sea obey him?
 \c 5
 \cl Mark 5
+\cd Christ casts out a legion of devils: he heals the issue of blood, and raises the daughter of Jairus to life.
 \p
 \v 1 And they came over the strait of the sea, into the country of the Gerasens.
 \p
@@ -398,6 +405,7 @@
 \v 43 And he charged them strictly that no man should know it: and commanded that something should be given her to eat.
 \c 6
 \cl Mark 6
+\cd Christ teaches at Nazareth: he sends forth the twelve apostles: he feeds five thousand with five loaves; and walks upon the sea.
 \p
 \v 1 And going out from thence, he went into his own country; and his disciples followed him.
 \p
@@ -407,7 +415,7 @@
 \p
 \v 4 And Jesus said to them: A prophet is not without honour, but in his own country, and in his own house, and among his own kindred.
 \p
-\v 5 And he could not do any miracles there, only that he cured a few that were sick, laying his hands upon them.
+\v 5 And he could not do any miracles there, only that he cured a few that were sick, laying his hands upon them.\f + \fr 6:5 \fk He could not: \ft Not for want of power, but because he would not work miracles in favour of obstinate and incredulous people, who were unworthy of such favours.\f*
 \p
 \v 6 And he wondered because of their unbelief, and he went through the villages round about teaching.
 \p
@@ -437,7 +445,7 @@
 \p
 \v 19 Now Herodias laid snares for him: and was desirous to put him to death and could not.
 \p
-\v 20 For Herod feared John, knowing him to be a just and holy man: and kept him, and when he heard him, did many things: and he heard him willingly.
+\v 20 For Herod feared John, knowing him to be a just and holy man: and kept him, and when he heard him, did many things: and he heard him willingly.\f + \fr 6:20 \fk And kept him: \ft That is, from the designs of Herodias; and for fear of the people, would not put him to death, though she sought it; and through her daughter she effected her wish.\f*
 \p
 \v 21 And when a convenient day was come, Herod made a supper for his birthday, for the princes, and tribunes, and chief men of Galilee.
 \p
@@ -512,6 +520,7 @@
 \v 56 And whithersoever he entered, into towns or into villages or cities, they laid the sick in the streets, and besought him that they might touch but the hem of his garment: and as many as touched him were made whole.
 \c 7
 \cl Mark 7
+\cd Christ rebukes the Pharisees. He heals the daughter of the woman of Chanaan; and the man that was deaf and dumb.
 \p
 \v 1 And there assembled together unto him the Pharisees and some of the scribes, coming from Jerusalem.
 \p
@@ -525,7 +534,7 @@
 \p
 \v 6 But he answering, said to them: Well did Isaias prophesy of you hypocrites, as it is written: This people honoureth me with their lips, but their heart is far from me.
 \p
-\v 7 And in vain do they worship me, teaching doctrines and precepts of men.
+\v 7 And in vain do they worship me, teaching doctrines and precepts of men.\f + \fr 7:7 \fk Doctrines and precepts of men: \ft See the annotations, Matt. 15. 9, 11.\f*
 \p
 \v 8 For leaving the commandment of God, you hold the tradition of men, the washing of pots and of cups: and many other things you do like to these.
 \p
@@ -588,6 +597,7 @@
 \v 37 And so much the more did they wonder, saying: He hath done all things well. He hath made both the deaf to hear and the dumb to speak.
 \c 8
 \cl Mark 8
+\cd Christ feeds four thousand. He gives sight to a blind man. He foretells his passion.
 \p
 \v 1 In those days again, when there was great multitude and they had nothing to eat; calling his disciples together, he saith to them:
 \p
@@ -668,6 +678,7 @@
 \v 39 And he said to them: Amen f say to you that there are some of them that stand here who shall not taste death till they see the kingdom of God coming in power.
 \c 9
 \cl Mark 9
+\cd Christ is transfigured. He casts out the dumb spirit. He teaches humility and to avoid scandal.
 \p
 \v 1 And after six days, Jesus taketh with him Peter and James and John, and leadeth them up into an high mountain apart by themselves, and was transfigured before them.
 \p
@@ -768,6 +779,7 @@
 \v 49 Salt is good. But if the salt become unsavoury, wherewith will you season it? Have salt in you: and have peace among you.
 \c 10
 \cl Mark 10
+\cd Marriage is not to be dissolved. The danger of riches. The ambition of the sons of Zebedee. A blind man is restored to his sight.
 \p
 \v 1 And rising up from thence, he cometh into the coast of Judea beyond the Jordan: and the multitude flocked to him again. And as he was accustomed, he taught them again.
 \p
@@ -803,7 +815,7 @@
 \p
 \v 17 And when he was gone forth into the way, a certain man, running up and kneeling before him, asked him: Good Master, what shall I do that I may receive life everlasting?
 \p
-\v 18 And Jesus said to him: Why callest thou me good? None is good but one, that is God.
+\v 18 And Jesus said to him: Why callest thou me good? None is good but one, that is God.\f + \fr 10:18 \fk None is good: \ft Of himself entirely and essentially, but God alone; men may be good also, but only by participation of God's goodness.\f*
 \p
 \v 19 Thou knowest the commandments: Do not commit adultery, do not kill, do not steal, bear not false witness, do no fraud, honour thy father and mother.
 \p
@@ -874,6 +886,7 @@
 \v 52 And Jesus saith to him: Go thy way. Thy faith hath made thee whole. And immediately he saw and followed him in the way.
 \c 11
 \cl Mark 11
+\cd Christ enters into Jerusalem upon an ass. He curses the barren fig tree and drives the buyers and sellers out of the temple.
 \p
 \v 1 And when they were drawing near to Jerusalem and to Bethania, at the mount of Olives, he sendeth two of his disciples,
 \p
@@ -942,6 +955,7 @@
 \v 33 And they answering, say to Jesus: We know not. And Jesus answering, saith to them: Neither do I tell you by what authority I do these things.
 \c 12
 \cl Mark 12
+\cd The parable of the vineyard and husbandmen. Caesar's right to tribute. The Sadducees are confuted. The first commandment. The widow's mite.
 \p
 \v 1 And he began to speak to them in parables: A certain man planted a vineyard and made a hedge about it and dug a place for the winefat and built a tower and let it to husbandmen: and went into a far country.
 \p
@@ -1032,6 +1046,7 @@
 \v 44 For all they did cast in of their abundance; but she of her want cast in all she had, even her whole living.
 \c 13
 \cl Mark 13
+\cd Christ foretells the destruction of the temple and the signs that shall forerun the day of judgment.
 \p
 \v 1 And as he was going out of the temple, one of his disciples said to him: Master, behold what manner of stones and what buildings are here.
 \p
@@ -1095,7 +1110,7 @@
 \p
 \v 31 Heaven and earth shall pass away: but my word shall not pass away.
 \p
-\v 32 But of that day or hour no man knoweth, neither the angels in heaven, nor the Son, but the Father.
+\v 32 But of that day or hour no man knoweth, neither the angels in heaven, nor the Son, but the Father.\f + \fr 13:32 \fk Nor the Son: \ft Not that the Son of God is absolutely ignorant of the day of judgment, but that he knoweth it not, as our teacher; that is, he knoweth it not so as to teach it to us, as not being expedient.\f*
 \p
 \v 33 Take ye heed, watch and pray. For ye know not when the time is.
 \p
@@ -1108,8 +1123,9 @@
 \v 37 And what I say to you, I say to all: Watch.
 \c 14
 \cl Mark 14
+\cd The first part of the history of the passion of Christ.
 \p
-\v 1 Now the feast of the pasch and of the Azymes was after two days: and the chief priests and the scribes sought how they might by some wile lay hold on him and kill him.
+\v 1 Now the feast of the pasch and of the Azymes was after two days: and the chief priests and the scribes sought how they might by some wile lay hold on him and kill him.\f + \fr 14:1 \fk Azymes: \ft That is, the feast of the unleavened bread.\f*
 \p
 \v 2 But they said: Not on the festival day, lest there should be a tumult among the people.
 \p
@@ -1167,7 +1183,7 @@
 \p
 \v 29 But Peter saith to him: Although all shall be scandalized in thee, yet not I.
 \p
-\v 30 And Jesus saith to him: Amen I say to thee, to-day, even in this night, before the cock crow twice, thou shalt deny me thrice.
+\v 30 And Jesus saith to him: Amen I say to thee, to-day, even in this night, before the cock crow twice, thou shalt deny me thrice.\f + \fr 14:30 \fk Crow twice: \ft The cocks crow at two different times of the night; viz., about midnight for the first time; and then about the time commonly called the cock crowing; and this was the cock crowing our Saviour spoke of; and therefore the other Evangelists take no notice of the first crowing.\f*
 \p
 \v 31 But he spoke the more vehemently: Although I should die together with thee, I will not deny thee. And in like manner also said they all.
 \p
@@ -1254,6 +1270,7 @@
 \v 72 And immediately the cock crew again. And Peter remembered the word that Jesus had said unto him: Before the cock crow twice, thou shalt thrice deny me. And he began to weep,
 \c 15
 \cl Mark 15
+\cd The continuation of the history of the passion.
 \p
 \v 1 And straightway in the morning, the chief priests holding a consultation with the ancients and the scribes and the whole council, binding Jesus, led him away and delivered him to Pilate.
 \p
@@ -1303,7 +1320,7 @@
 \p
 \v 24 And crucifying him, they divided his garments, casting lots upon them, what every man should take.
 \p
-\v 25 And it was the third hour: and they crucified him.
+\v 25 And it was the third hour: and they crucified him.\f + \fr 15:25 \fk The third hour: \ft The ancient account divided the day into four parts, which were named from the hour from which they began; the first, third, sixth, and ninth hour. Our Lord was crucified a little before noon; before the third hour had quite expired; but when the sixth hour was near at hand.\f*
 \p
 \v 26 And the inscription of his cause was written over: THE KING OF THE JEWS.
 \p
@@ -1350,10 +1367,11 @@
 \v 47 And Mary Magdalen and Mary the mother of Joseph, beheld where he was laid.
 \c 16
 \cl Mark 16
+\cd Christ's resurrection and ascension.
 \p
 \v 1 And when the sabbath was past, Mary Magdalen and Mary the mother of James and Salome bought sweet spices, that coming, they might anoint Jesus.
 \p
-\v 2 And very early in the morning, the first day of the week, they come to the sepulchre, the sun being now risen.
+\v 2 And very early in the morning, the first day of the week, they come to the sepulchre, the sun being now risen.\f + \fr 16:2 \fk The sun being now risen: \ft They set out before it was light, to go to the sepulchre; but the sun was risen when they arrived there. Or, figuratively, the sun here spoken of is the sun of justice, Christ Jesus our Lord, who was risen before their coming.\f*
 \p
 \v 3 And they said one to another: Who shall roll us back the stone from the door of the sepulchre?
 \p
@@ -1390,4 +1408,3 @@
 \v 19 And the Lord Jesus, after he had spoken to them, was taken up into heaven and sitteth on the right hand of God.
 \p
 \v 20 But they going forth preached every where: the Lord working withal, and confirming the word with signs that followed.
-\mte9 The Sacred Bible - The Gospel of Mark

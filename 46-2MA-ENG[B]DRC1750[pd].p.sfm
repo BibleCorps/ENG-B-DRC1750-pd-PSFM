@@ -1,11 +1,14 @@
-\id 2MA ENG (p.sfm) -  <> 2 Maccabees - Challoner Douay Rheims version of the Sacred Bible The Second Book of Maccabees. The Holy Bible. Bishop Challoner's 18th century revision of the Douay Rheims version. Electronic edition 2004. Public domain.
+\id 2 M ENG (p.sfm) - DRC1750 - Verify <>
 \ide UTF-8
-\h 2 Maccabees
-\toc1 The Second Book of Maccabees
-\toc2 2 Maccabees
-\toc3 2Mc
+\h 2 Machabees
+\toc1 THE SECOND BOOK OF MACHABEES
+\toc2 2 Machabees
+\toc3 2 M
+\mt1 THE SECOND BOOK OF MACHABEES
+\im This second book of MACHABEES is not a continuation of the history contained in the first: nor does is come down so low as the first does: but relates many of the same facts more at large, and adds other remarkable particulars, omitted in the first book, relating to the state of the Jews, as well before as under the persecution of ANTIOCHUS. The author, who is not the same with that of the first book, has given (as we learn from chap. 2.20, etc.) a short abstract of what JASON of Cyrene had written in the five volumes, concerning JUDAS and his brethren. He wrote in Greek, and begins with two letters, sent by the Jews of Jerusalem to their brethren in Egypt.
 \c 1
-\cl 2 Maccabees 1
+\cl 2 Machabees 1
+\cd Letters of the Jews of Jerusalem to them that were in Egypt. They give thanks for their delivery from Antiochus: and exhort their brethren to keep the feast of the dedication of the altar, and of the miraculous fire.
 \p
 \v 1 To the brethren, the Jews that are throughout Egypt; the brethren, the Jews that are in Jerusalem, and in the land of Judea, send health and good peace.
 \p
@@ -23,15 +26,15 @@
 \p
 \v 8 They burnt the gate, and shed innocent blood: then we prayed to the Lord, and were heard, and we offered sacrifices, and fine flour, and lighted the lamps, and set forth the loaves.
 \p
-\v 9 And now celebrate ye the days of Scenopegia in the month of Casleu.
+\v 9 And now celebrate ye the days of Scenopegia in the month of Casleu.\f + \fr 1:9 \fk Scenopegia: \ft Viz., the Encenia, or feast of the dedication of the altar, called here Scenopegia, or feast of tabernacles, from being celebrated with the like solemnity.\f*
 \p
 \v 10 In the year one hundred and eighty-eight, the people that is at Jerusalem, and in Judea, and the senate, and Judas, to Aristobolus, the preceptor of king Ptolemee, who is of the stock of the anointed priests, and to the Jews that are in Egypt, health and welfare.
 \p
-\v 11 Having been delivered by God out of great dangers, we give him great thanks, forasmuch as we have been in war with such a king.
+\v 11 Having been delivered by God out of great dangers, we give him great thanks, forasmuch as we have been in war with such a king.\f + \fr 1:11 \fk Such a king: \ft Viz., Antiochus Sidetes, who began to make war upon the Jews, whilst Simon was yet alive. 1 Mac. 15.39. And afterwards besieged Jerusalem under John Hircanus. So that the Judas here mentioned, ver. 10, is not Judas Machabeus, who was dead long before the year 188 of the kingdom of the Greeks, for he died in the year 146 of that epoch, (see above 1 Mac. chap. 2., ver. 70, also the note on chap. 1, ver. 2,) but either Judas the eldest son of John Hircanus, or Judas the Essene, renowned for the gift of prophecy, who flourished about that time.\f*
 \p
 \v 12 For he made numbers of men swarm out of Persia, that have fought against us, and the holy city.
 \p
-\v 13 For when the leader himself was in Persia, and with him a very great army, he fell in the temple of Nanea, being deceived by the counsel of the priests of Nanea.
+\v 13 For when the leader himself was in Persia, and with him a very great army, he fell in the temple of Nanea, being deceived by the counsel of the priests of Nanea.\f + \fr 1:13 \fk Nanea: \ft A Persian goddess, which some have taken for Diana, others for Venus.\f*
 \p
 \v 14 For Antiochus, with his friends, came to the place as though he would marry her, and that he might receive great sums of money under the title of a dowry.
 \p
@@ -43,7 +46,7 @@
 \p
 \v 18 Therefore, whereas we purpose to keep the purification of the temple on the five and twentieth day of the month of Casleu, we thought it necessary to signify it to you: that you also may keep the day of Scenopegia, and the day of the fire, that was given when Nehemias offered sacrifice, after the temple and the altar was built.
 \p
-\v 19 For when our fathers were led into Persia, the priests that then were worshippers of God, took privately the fire from the altar, and hid it in a valley where there was a deep pit without water, and there they kept it safe, so that the place was unknown to all men.
+\v 19 For when our fathers were led into Persia, the priests that then were worshippers of God, took privately the fire from the altar, and hid it in a valley where there was a deep pit without water, and there they kept it safe, so that the place was unknown to all men.\f + \fr 1:19 \fk Persia: \ft Babylonia, called here Persia, from being afterwards a part of the Persian empire.\f*
 \p
 \v 20 But when many years had passed, and it pleased God that Nehemias should be sent by the king of Persia, he sent some of the posterity of those priests that had hid it, to seek for the fire: and as they told us, they found no fire, but thick water.
 \p
@@ -73,15 +76,16 @@
 \p
 \v 33 And when this matter became public, it was told to the king of Persia, that in the place where the priests that were led away, had hid the fire, there appeared water, with which Nehemias and they that were with him had purified the sacrifices.
 \p
-\v 34 And the king considering, and diligently examining the matter, made a temple for it, that he might prove what had happened.
+\v 34 And the king considering, and diligently examining the matter, made a temple for it, that he might prove what had happened.\f + \fr 1:34 \fk A temple: \ft That is, an enclosure, or a wall round about the place where the fire was hid, to separate it from profane uses, to the end that it might be respected as a holy place.\f*
 \p
 \v 35 And when he had proved it, he gave the priests many goods, and divers presents, and he took and distributed them to them with his own hand.
 \p
 \v 36 And Nehemias called this place Nephthar, which is interpreted purification. But many call it Nephi.
 \c 2
-\cl 2 Maccabees 2
+\cl 2 Machabees 2
+\cd A continuation of the second letter. Of Jeremias' hiding the ark at the time of the captivity. The author's preface.
 \p
-\v 1 Now it is found in the descriptions of Jeremias, the prophet, that he commanded them that went into captivity, to take the fire, as it hath been signified, and how he gave charge to them that were carried away into captivity.
+\v 1 Now it is found in the descriptions of Jeremias, the prophet, that he commanded them that went into captivity, to take the fire, as it hath been signified, and how he gave charge to them that were carried away into captivity.\f + \fr 2:1 \fk The descriptions: \ft That is, the records or memoirs of Jeremias, a work that is now lost.\f*
 \p
 \v 2 And how he gave them the law, that they should not forget the commandments of the Lord, and that they should not err in their minds, seeing the idols of gold, and silver, and the ornaments of them.
 \p
@@ -111,7 +115,7 @@
 \p
 \v 15 Wherefore, if you want these things, send some that may fetch them to you.
 \p
-\v 16 As we are then about to celebrate the purification, we have written unto you: and you shall do well, if you keep the same days.
+\v 16 As we are then about to celebrate the purification, we have written unto you: and you shall do well, if you keep the same days.\f + \fr 2:16 \fk The purification: \ft That is, the feast of the purifying or cleansing of the temple.\f*
 \p
 \v 17 And we hope that God, who hath delivered his people, and hath rendered to all the inheritance, and the kingdom, and the priesthood, and the sanctuary,
 \p
@@ -133,7 +137,7 @@
 \p
 \v 26 We have taken care for those indeed that are willing to read, that it might be a pleasure of mind: and for the studious, that they may more easily commit to memory: and that all that read might receive profit.
 \p
-\v 27 And as to ourselves indeed, in undertaking this work of abridging, we have taken in hand no easy task; yea, rather a business full of watching and sweat.
+\v 27 And as to ourselves indeed, in undertaking this work of abridging, we have taken in hand no easy task; yea, rather a business full of watching and sweat.\f + \fr 2:27 \fk No easy task, etc: \ft The spirit of God, that assists the sacred penmen, does not exempt them from labour in seeking out the matter which they are to treat of, and the order and manner in which they are to deliver it. So St. Luke writ the gospel having diligently attained to all things. Luke 1. ver. 3.\f*
 \p
 \v 28 But as they that prepare a feast, and seek to satisfy the will of others: for the sake of many, we willingly undergo the labour.
 \p
@@ -147,13 +151,14 @@
 \p
 \v 33 Here then we will begin the narration: let this be enough by way of a preface: for it is a foolish thing to make a long prologue, and to be short in the story itself.
 \c 3
-\cl 2 Maccabees 3
+\cl 2 Machabees 3
+\cd Heliodorus is sent by king Seleucus to take away the treasures deposited in the temple. He is struck by God, and healed by the prayers of the high priest.
 \p
 \v 1 Therefore, when the holy city was inhabited with all peace, and the laws as yet were very well kept, because of the godliness of Onias, the high priest and the hatred his soul had of evil,
 \p
 \v 2 It came to pass that even the kings themselves and the princes esteemed the place worthy of the highest honour, and glorified the temple with very great gifts:
 \p
-\v 3 So that Seleucus, king of Asia, allowed out of his revenues all the charges belonging to the ministry of the sacrifices.
+\v 3 So that Seleucus, king of Asia, allowed out of his revenues all the charges belonging to the ministry of the sacrifices.\f + \fr 3:3 \fk Seleucus: \ft Son of Antiochus the Great, and elder brother of Antiochus Epiphanes.\f*
 \p
 \v 4 But one Simon, of the tribe of Benjamin, who was appointed overseer of the temple, strove in opposition to the high priest, to bring about some unjust thing in the city.
 \p
@@ -229,7 +234,8 @@
 \p
 \v 40 And the things concerning Heliodorus, and the keeping of the treasury, fell out in this manner.
 \c 4
-\cl 2 Maccabees 4
+\cl 2 Machabees 4
+\cd Onias has recourse to the king. The ambition and wickedness of Jason and Menelaus. Onias is treacherously murdered.
 \p
 \v 1 But Simon, of whom we spoke before, who was the betrayer of the money, and of his country, spoke ill of Onias, as though he had incited Heliodorus to do these things, and had been the promoter of evils:
 \p
@@ -319,7 +325,7 @@
 \p
 \v 44 And when the king was come to Tyre, three men were sent from the ancients to plead the cause before him.
 \p
-\v 45 But Menelaus being convicted, promised Ptolemee to give him much money to persuade the king to favour him.
+\v 45 But Menelaus being convicted, promised Ptolemee to give him much money to persuade the king to favour him.\f + \fr 4:45 \fk Ptolemee: \ft The son of Dorymenus, a favourite of the king.\f*
 \p
 \v 46 So Ptolemee went to the king in a certain court where he was, as it were to cool himself, and brought him to be of another mind:
 \p
@@ -331,7 +337,8 @@
 \p
 \v 50 And so through the covetousness of them that were in power, Menelaus continued in authority, increasing in malice to the betraying of the citizens.
 \c 5
-\cl 2 Maccabees 5
+\cl 2 Machabees 5
+\cd Wonderful signs are seen in the air. Jason's wickedness and end. Antiochus takes Jerusalem, and plunders the temple.
 \p
 \v 1 At the same time Antiochus prepared for a second journey into Egypt.
 \p
@@ -385,13 +392,14 @@
 \p
 \v 26 And he slew all that were come forth to flee: and running through the city with armed men, he destroyed a very great multitude.
 \p
-\v 27 But Judas Machabeus, who was the tenth, had withdrawn himself into a desert place, and there lived amongst wild beasts in the mountains with his company: and they continued feeding on herbs, that they might not be partakers of the pollution.
+\v 27 But Judas Machabeus, who was the tenth, had withdrawn himself into a desert place, and there lived amongst wild beasts in the mountains with his company: and they continued feeding on herbs, that they might not be partakers of the pollution.\f + \fr 5:27 \fk Was the tenth: \ft That is, he had nine others in his company.\f*
 \c 6
-\cl 2 Maccabees 6
+\cl 2 Machabees 6
+\cd Antiochus commands the law to be abolished, sets up an idol in the temple, and persecutes the faithful. The martyrdom of Eleazar.
 \p
 \v 1 But not long after the king sent a certain old man of Antioch, to compel the Jews to depart from the laws of their fathers and of God:
 \p
-\v 2 And to defile the temple that was in Jerusalem, and to call it the temple of Jupiter Olympius: and that in Garazim of Jupiter Hospitalis, according as they were that inhabited the place.
+\v 2 And to defile the temple that was in Jerusalem, and to call it the temple of Jupiter Olympius: and that in Garazim of Jupiter Hospitalis, according as they were that inhabited the place.\f + \fr 6:2 \fk That in Gazarim: \ft Viz., the temple of the Samaritans. And as they were originally strangers, the name of Hospitalis (which signifies of or belonging to strangers) was applicable to the idol set up in their temple.\f*
 \p
 \v 3 And very bad was this invasion of evils, and grievous to all.
 \p
@@ -409,7 +417,7 @@
 \p
 \v 10 For two women were accused to have circumcised their children: whom, when they had openly led about through the city, with the infants hanging at their breasts, they threw down headlong from the walls.
 \p
-\v 11 And others that had met together in caves that were near, and were keeping the sabbath day privately, being discovered by Philip, were burnt with fire, because they made a conscience to help themselves with their hands, by reason of the religious observance of the day.
+\v 11 And others that had met together in caves that were near, and were keeping the sabbath day privately, being discovered by Philip, were burnt with fire, because they made a conscience to help themselves with their hands, by reason of the religious observance of the day.\f + \fr 6:11 \fk Philip: \ft The governor of Jerusalem.\f*
 \p
 \v 12 Now I beseech those that shall read this book, that they be not shocked at these calamities, but that they consider the things that happened, not as being for the destruction, but for the correction of our nation.
 \p
@@ -429,7 +437,7 @@
 \p
 \v 20 And considering in what manner he was to come to it, patiently bearing, he determined not to do any unlawful things for the love of life.
 \p
-\v 21 But they that stood by, being moved with wicked pity, for the old friendship they had with the man, taking him aside, desired that flesh might be brought which it was lawful for him to eat, that he might make as if he had eaten, as the king had commanded, of the flesh of the sacrifice:
+\v 21 But they that stood by, being moved with wicked pity, for the old friendship they had with the man, taking him aside, desired that flesh might be brought which it was lawful for him to eat, that he might make as if he had eaten, as the king had commanded, of the flesh of the sacrifice:\f + \fr 6:21 \fk Wicked pity: \ft Their pity was wicked, inasmuch as it suggested that wicked proposal of saving his life by dissimulation.\f*
 \p
 \v 22 That by so doing he might be delivered from death; and for the sake of their old friendship with the man, they did him this courtesy.
 \p
@@ -451,7 +459,8 @@
 \p
 \v 31 Thus did this man die, leaving not only to young men, but also to the whole nation, the memory of his death, for an example of virtue and fortitude.
 \c 7
-\cl 2 Maccabees 7
+\cl 2 Machabees 7
+\cd The glorious martyrdom of the seven brethren and their mother.
 \p
 \v 1 It came to pass also, that seven brethren, together with their mother, were apprehended, and compelled by the king to eat swine's flesh against the law, for which end they were tormented with whips and scourges.
 \p
@@ -537,7 +546,8 @@
 \p
 \v 42 But now there is enough said of the sacrifices and of the excessive cruelties.
 \c 8
-\cl 2 Maccabees 8
+\cl 2 Machabees 8
+\cd Judas Machabeus gathering an army gains divers victories.
 \p
 \v 1 But Judas Machabeus, and they that were with him, went privately into the towns: and calling together their kinsmen and friends, and taking unto them such as continued in the Jews' religion, they assembled six thousand men.
 \p
@@ -553,9 +563,9 @@
 \p
 \v 7 And especially in the nights he went upon these expeditions, and the fame of his valour was spread abroad every where.
 \p
-\v 8 Then Philip seeing that the man gained ground by little and little, and that things for the most part succeeded prosperously with him, wrote to Ptolemee, the governor of Celesyria and Phenicia, to send aid to the king's affairs.
+\v 8 Then Philip seeing that the man gained ground by little and little, and that things for the most part succeeded prosperously with him, wrote to Ptolemee, the governor of Celesyria and Phenicia, to send aid to the king's affairs.\f + \fr 8:8 \fk Philip seeing, etc: \ft The governor of Jerusalem found himself unable to contend with Judas, especially after the victories he had obtained over Apollonius and Seron. 1 Mac. 3.\f*
 \p
-\v 9 And he with all speed sent Nicanor, the son of Patroclus, one of his special friends, giving him no fewer than twenty thousand armed men of different nations, to root out the whole race of the Jews, joining also with him Gorgias, a good soldier, and of great experience in matters of war.
+\v 9 And he with all speed sent Nicanor, the son of Patroclus, one of his special friends, giving him no fewer than twenty thousand armed men of different nations, to root out the whole race of the Jews, joining also with him Gorgias, a good soldier, and of great experience in matters of war.\f + \fr 8:9 \fk Twenty thousand: \ft The whole number of the forces sent at that time into Judea, was 40,000 footmen, and 7000 horsemen, 1 Mac. 3.30. But only 20,000 are here taken notice of, because there were no more with Nicanor at the time of the battle.\f*
 \p
 \v 10 And Nicanor purposed to raise for the king the tribute of two thousand talents, that was to be given to the Romans, by making so much money of the captive Jews:
 \p
@@ -569,7 +579,7 @@
 \p
 \v 15 And if not for their sakes, yet for the covenant that he had made with their fathers, and for the sake of his holy and glorious name that was invoked upon them.
 \p
-\v 16 But Machabeus calling together seven thousand that were with him, exhorted them not to be reconciled to the enemies, nor to fear the multitude of the enemies who came wrongfully against them, but to fight manfully:
+\v 16 But Machabeus calling together seven thousand that were with him, exhorted them not to be reconciled to the enemies, nor to fear the multitude of the enemies who came wrongfully against them, but to fight manfully:\f + \fr 8:16 \fk Seven thousand: \ft In the Greek it is six thousand. But then three thousand of them had no arms. 1 Mac. 4.6.\f*
 \p
 \v 17 Setting before their eyes the injury they had unjustly done the holy place, and also the injury they had done to the city, which had been shamefully abused, besides their destroying the ordinances of the fathers.
 \p
@@ -577,7 +587,7 @@
 \p
 \v 19 Moreover, he put them in mind also of the helps their fathers had received from God: and how, under Sennacherib, a hundred and eighty-five thousand had been destroyed.
 \p
-\v 20 And of the battle that they had fought against the Galatians, in Babylonia; how they, being in all but six thousand, when it came to the point, and the Macedonians, their companions, were at a stand, slew a hundred and twenty thousand, because of the help they had from heaven, and for this they received many favours.
+\v 20 And of the battle that they had fought against the Galatians, in Babylonia; how they, being in all but six thousand, when it came to the point, and the Macedonians, their companions, were at a stand, slew a hundred and twenty thousand, because of the help they had from heaven, and for this they received many favours.\f + \fr 8:20 \fk Galatians: \ft That is, the Gauls, who having ravaged Italy and Greece, poured themselves in upon Asia, in immense multitudes, where also they founded the kingdom of Galatia or Gallo Graecia.\f*
 \p
 \v 21 With these words they were greatly encouraged and disposed even to die for the laws and their country.
 \p
@@ -585,7 +595,7 @@
 \p
 \v 23 And after the holy book had been read to them by Esdras, and he had given them for a watchword, The help of God: himself leading the first band, he joined battle with Nicanor:
 \p
-\v 24 And the Almighty being their helper, they slew above nine thousand men: and having wounded and disabled the greater part of Nicanor's army, they obliged them to fly.
+\v 24 And the Almighty being their helper, they slew above nine thousand men: and having wounded and disabled the greater part of Nicanor's army, they obliged them to fly.\f + \fr 8:24 \fk Above nine thousand: \ft Viz., including the three thousand slain in the pursuit.\f*
 \p
 \v 25 And they took the money of them that came to buy them, and they pursued them on every side.
 \p
@@ -607,15 +617,16 @@
 \p
 \v 34 But as for that most wicked man, Nicanor, who had brought a thousand merchants to the sale of the Jews,
 \p
-\v 35 Being, through the help of the Lord, brought down by them, of whom he had made no account, laying aside his garment of glory, fleeing through the midland country, he came alone to Antioch, being rendered very unhappy by the destruction of his army.
+\v 35 Being, through the help of the Lord, brought down by them, of whom he had made no account, laying aside his garment of glory, fleeing through the midland country, he came alone to Antioch, being rendered very unhappy by the destruction of his army.\f + \fr 8:35 \fk Laying aside his garment of glory: \ft That is, his splendid apparel, which he wore through ostentation; he now throws it off, lest he should be known on his flight.\f*
 \p
 \v 36 And he that had promised to levy the tribute for the Romans, by the means of the captives of Jerusalem, now professed that the Jews had God for their protector, and therefore they could not be hurt, because they followed the laws appointed by him.
 \c 9
-\cl 2 Maccabees 9
+\cl 2 Machabees 9
+\cd The wretched end, and fruitless repentance of king Antiochus.
 \p
 \v 1 At that time Antiochus returned with dishonour out of Persia.
 \p
-\v 2 For he had entered into the city called Persepolis, and attempted to rob the temple, and to oppress the city, but the multitude running together to arms, put them to flight: and so it fell out that Antiochus being put to flight, returned with disgrace.
+\v 2 For he had entered into the city called Persepolis, and attempted to rob the temple, and to oppress the city, but the multitude running together to arms, put them to flight: and so it fell out that Antiochus being put to flight, returned with disgrace.\f + \fr 9:2 \fk Persepolis: \ft Otherwise called Elymais.\f*
 \p
 \v 3 Now when he was come about Ecbatana, he received the news of what had happened to Nicanor and Timotheus.
 \p
@@ -637,7 +648,7 @@
 \p
 \v 12 And when he himself could not now abide his own stench, he spoke thus: It is just to be subject to God, and that a mortal man should not equal himself to God.
 \p
-\v 13 Then this wicked man prayed to the Lord, of whom he was not like to obtain mercy.
+\v 13 Then this wicked man prayed to the Lord, of whom he was not like to obtain mercy.\f + \fr 9:13 \fk Of whom he was not like to obtain mercy: \ft Because his repentance was not for the offence committed against God: but barely on account of his present sufferings.\f*
 \p
 \v 14 And the city, to which he was going in haste to lay it even with the ground, and to make it a common burying place, he now desireth to make free:
 \p
@@ -671,7 +682,8 @@
 \p
 \v 29 But Philip, that was brought up with him, carried away his body: and out of fear of the son of Antiochus, went into Egypt to Ptolemee Philometor.
 \c 10
-\cl 2 Maccabees 10
+\cl 2 Machabees 10
+\cd The purification of the temple and city. Other exploits of Judas. His victory over Timotheus.
 \p
 \v 1 But Machabeus, and they that were with him, by the protection of the Lord, recovered the temple and the city again.
 \p
@@ -701,7 +713,7 @@
 \p
 \v 14 But Gorgias, who was governor of the holds, taking with him the strangers, often fought against the Jews.
 \p
-\v 15 And the Jews that occupied the most commodious holds, received those that were driven out of Jerusalem, and attempted to make war.
+\v 15 And the Jews that occupied the most commodious holds, received those that were driven out of Jerusalem, and attempted to make war.\f + \fr 10:15 \fk The Jews, etc: \ft He speaks of them that had fallen from their religion, and were enemies of their country, who joining with the Idumeans or Edomites, kept possession of the strong holds, and from thence annoyed their countrymen.\f*
 \p
 \v 16 Then they that were with Machabeus, beseeching the Lord by prayers to be their helper, made a strong attack upon the strong holds of the Idumeans:
 \p
@@ -745,11 +757,12 @@
 \p
 \v 36 Moreover, others also getting up after them, went to set fire to the towers and the gates, and to burn the blasphemers alive.
 \p
-\v 37 And having for two days together pillaged and sacked the fortress, they killed Timotheus, who was found hid in a certain place: they slew also his brother Chereas, and Apollophanes.
+\v 37 And having for two days together pillaged and sacked the fortress, they killed Timotheus, who was found hid in a certain place: they slew also his brother Chereas, and Apollophanes.\f + \fr 10:37 \fk Timotheus: \ft This man, who was killed at the taking of Gazara, is different from that Timotheus who is mentioned in the fifth chapter of the first book of Machabees, and of whom there is mention in the following chapter.\f*
 \p
 \v 38 And when this was done, they blessed the Lord with hymns and thanksgiving, who had done great things in Israel, and given them the victory.
 \c 11
-\cl 2 Maccabees 11
+\cl 2 Machabees 11
+\cd Lysias is overthrown by Judas. He sues for peace.
 \p
 \v 1 A short time after this Lysias, the king's lieutenant, and cousin, and who had chief charge over all the affairs, being greatly displeased with what had happened,
 \p
@@ -791,7 +804,7 @@
 \p
 \v 20 But as concerning other particulars, I have given orders by word both to these, and to them that are sent by me, to commune with you.
 \p
-\v 21 Fare ye well. In the year one hundred and forty-eight, the four and twentieth day of the month of Dioscorus.
+\v 21 Fare ye well. In the year one hundred and forty-eight, the four and twentieth day of the month of Dioscorus.\f + \fr 11:21 \fk In the year 148: \ft Viz., according to the computation followed by the Greeks; which was different from that of the Hebrews, followed by the writer of the first book of Machabees. However, by this date, as well as by other circumstances, it appears that the expedition of Lysias, mentioned in this chapter, is different from that which is recorded, 1 Mac. 6.\f*
 \p
 \v 22 But the king's letter contained these words King Antiochus to Lysias, his brother, greeting.
 \p
@@ -827,7 +840,8 @@
 \p
 \v 38 Fare ye well. In the year one hundred and forty-eight, the fifteenth day of the month of Xanthicus.
 \c 12
-\cl 2 Maccabees 12
+\cl 2 Machabees 12
+\cd The Jews are still molested by their neighbours. Judas gains divers victories over them. He orders sacrifice and prayers for the dead.
 \p
 \v 1 When these covenants were made, Lysias went to the king, and the Jews gave themselves to husbandry.
 \p
@@ -857,7 +871,7 @@
 \p
 \v 14 But they that were within it, trusting in the strength of the walls, and the provision of victuals, behaved in a more negligent manner, and provoked Judas with railing and blaspheming, and uttering such words as were not to be spoken.
 \p
-\v 15 But Machabeus calling upon the great Lord of the world, who without any rams or engines of war threw down the walls of Jericho, in the time of Josue, fiercely assaulted the walls.
+\v 15 But Machabeus calling upon the great Lord of the world, who without any rams or engines of war threw down the walls of Jericho, in the time of Josue, fiercely assaulted the walls.\f + \fr 12:15 \fk Rams: \ft That is, engines for battering walls, etc., which were used in sieges in those times.\f*
 \p
 \v 16 And having taken the city by the will of the Lord, he made an unspeakable slaughter, so that a pool adjoining, of two furlongs broad, seemed to run with the blood of the slain.
 \p
@@ -885,7 +899,7 @@
 \p
 \v 28 But when they had invocated the Almighty, who with his power breaketh the strength of the enemies, they took the city: and slew five and twenty thousand of them that were within.
 \p
-\v 29 From thence they departed to Scythopolis, which lieth six hundred furlongs from Jerusalem.
+\v 29 From thence they departed to Scythopolis, which lieth six hundred furlongs from Jerusalem.\f + \fr 12:29 \fk Scythopolis: \ft Formerly called Bethsan.\f*
 \p
 \v 30 But the Jews that were among the Scythopolitans testifying that they were used kindly by them, and that even in the times of their adversity they had treated them with humanity:
 \p
@@ -907,7 +921,7 @@
 \p
 \v 39 And the day following Judas came with his company, to take away the bodies of them that were slain, and to bury them with their kinsmen, in the sepulchres of their fathers.
 \p
-\v 40 And they found under the coats of the slain, some of the donaries of the idols of Jamnia, which the law forbiddeth to the Jews: so that all plainly saw, that for this cause they were slain.
+\v 40 And they found under the coats of the slain, some of the donaries of the idols of Jamnia, which the law forbiddeth to the Jews: so that all plainly saw, that for this cause they were slain.\f + \fr 12:40 \fk Of the donaries, etc: \ft That is, of the votive offerings, which had been hung up in the temples of the idols, which they had taken away when they burnt the port of Jamnia, ver. 9., contrary to the prohibition of the law, Deut. 7.25.\f*
 \p
 \v 41 Then they all blessed the just judgment of the Lord, who had discovered the things that were hidden.
 \p
@@ -917,15 +931,16 @@
 \p
 \v 44 (For if he had not hoped that they that were slain should rise again, it would have seemed superfluous and vain to pray for the dead,)
 \p
-\v 45 And because he considered that they who had fallen asleep with godliness, had great grace laid up for them.
+\v 45 And because he considered that they who had fallen asleep with godliness, had great grace laid up for them.\f + \fr 12:45 \fk With godliness: \ft Judas hoped that these men who died fighting for the cause of God and religion, might find mercy: either because they might be excused from mortal sin by ignorance; or might have repented of their sin, at least at their death.\f*
 \p
-\v 46 It is therefore a holy and wholesome thought to pray for the dead, that they may be loosed from sins.
+\v 46 It is therefore a holy and wholesome thought to pray for the dead, that they may be loosed from sins.\f + \fr 12:46 \fk It is therefore a holy and wholesome thought to pray for the dead: \ft Here is an evident and undeniable proof of the practice of praying for the dead under the old law, which was then strictly observed by the Jews, and consequently could not be introduced at that time by Judas, their chief and high priest, if it had not been always their custom.\f*
 \c 13
-\cl 2 Maccabees 13
+\cl 2 Machabees 13
+\cd Antiochus and Lysias again invade Judea. Menelaus is put to death. The king's great army is worsted twice. The peace is renewed.
 \p
 \v 1 In the year one hundred and forty-nine, Judas understood that Antiochus Eupator was coming with a multitude against Judea,
 \p
-\v 2 And with him Lysias, the regent, who had charge over the affairs of the realm, having with him a hundred and ten thousand footmen, five thousand horsemen, twenty-two elephants, and three hundred chariots.
+\v 2 And with him Lysias, the regent, who had charge over the affairs of the realm, having with him a hundred and ten thousand footmen, five thousand horsemen, twenty-two elephants, and three hundred chariots.\f + \fr 13:2 \fk A hundred and ten thousand, etc: \ft The difference between the numbers here set down, and those recorded, 1 Mac. 4, is easily accounted for; if we consider that such armies as these are liable to be at one time more numerous than at another; either by sending away large detachments, or being diminished by sickness; or increased by receiving fresh supplies of troops, according to different exigencies or occurrences.\f*
 \p
 \v 3 Menelaus also joined himself with them: and with great deceitfulness besought Antiochus, not for the welfare of his country, but in hopes that he should be appointed chief ruler.
 \p
@@ -975,13 +990,14 @@
 \p
 \v 26 Then Lysias went up to the judgment seat, and set forth the reason, and appeased the people, and returned to Antioch: and thus matters went with regard to the king's coming and his return.
 \c 14
-\cl 2 Maccabees 14
+\cl 2 Machabees 14
+\cd Demetrius challenges the kingdom. Alcimus applies to him to be made high priest: Nicanor is sent into Judea: his dealings with Judas: his threats. The history of Razias.
 \p
 \v 1 But after the space of three years Judas, and they that were with him, understood that Demetrius, the son of Seleucus, was come up with a great power, and a navy by the haven of Tripolis, to places proper for his purpose,
 \p
 \v 2 And had made himself master of the countries against Antiochus, and his general, Lysias.
 \p
-\v 3 Now one Alcimus, who had been chief priest, but had wilfully defiled himself in the time of mingling with the heathens, seeing that there was no safety for him, nor access to the altar,
+\v 3 Now one Alcimus, who had been chief priest, but had wilfully defiled himself in the time of mingling with the heathens, seeing that there was no safety for him, nor access to the altar,\f + \fr 14:3 \fk Now Alcimus, who had been chief priest: \ft This Alcimus was of the stock of Aaron, but for his apostasy here mentioned was incapable of the high priesthood, but king Antiochus Eupator appointed him in place of the high priest, (see above, 1 Mac. chap. 7., ver. 9,) as Menelaus had been before him, set up by Antiochus (above chap. 4.), yet neither of them were truly high priests; for the true high priesthood was amongst the Machabees, who were also of the stock of Aaron, and had strictly held their religion, and were ordained according to the rites commanded in the law of Moses.\f*\f + \fr 14:3 \fk Mingling: \ft with the heathens; that is, in their idolatrous worship.\f*
 \p
 \v 4 Came to king Demetrius in the year one hundred and fifty, presenting unto him a crown of gold, and a palm, and besides these, some boughs that seemed to belong to the temple. And that day indeed he held his peace.
 \p
@@ -1057,19 +1073,20 @@
 \p
 \v 40 For he thought by ensnaring him to hurt the Jews very much.
 \p
-\v 41 Now as the multitude sought to rush into his house, and to break open the door, and to set fire to it, when he was ready to be taken, he struck himself with his sword:
+\v 41 Now as the multitude sought to rush into his house, and to break open the door, and to set fire to it, when he was ready to be taken, he struck himself with his sword:\f + \fr 14:41 \fk He struck himself, etc: \ft St. Augustine, (Epist. 61, ad Dulcitium, et lib. 2, cap. 23, ad Epist. 2, Gaud.) discussing this fact of Razias, says, that the holy scripture relates it, but doth not praise it, as to be admired or imitated, and that either it was not well done by him, or at least not proper in this time of grace.\f*
 \p
 \v 42 Choosing to die nobly rather than to fall into the hands of the wicked, and to suffer abuses unbecoming his noble birth.
 \p
 \v 43 But whereas through haste he missed of giving a sure wound, and the crowd was breaking into the doors, he ran boldly to the wall, and manfully threw himself down to the crowd:
 \p
-\v 44 But they quickly making room for his fall, he came upon the midst of the neck.
+\v 44 But they quickly making room for his fall, he came upon the midst of the neck.\f + \fr 14:44 \fk He came upon the midst of the neck: \ft Venit per mediam cervicem. In the Greek it is keneona, which signifies a void place, where there is no building.\f*
 \p
 \v 45 And as he had yet breath in him, being inflamed in mind, he arose: and while his blood ran down with a great stream, and he was grievously wounded, he ran through the crowd:
 \p
 \v 46 And standing upon a steep rock, when he was now almost without blood, grasping his bowels, with both hands he cast them upon the throng, calling upon the Lord of life and spirit, to restore these to him again: and so he departed this life.
 \c 15
-\cl 2 Maccabees 15
+\cl 2 Machabees 15
+\cd Judas encouraged by a vision gains a glorious victory over Nicanor. The conclusion.
 \p
 \v 1 But when Nicanor understood that Judas was in the places of Samaria, he purposed to set upon him with all violence, on the sabbath day.
 \p
@@ -1147,7 +1164,6 @@
 \p
 \v 38 So these things being done with relation to Nicanor, and from that time the city being possessed by the Hebrews, I also will here make an end of my narration.
 \p
-\v 39 Which if I have done well, and as it becometh the history, it is what I desired: but if not so perfectly, it must be pardoned me.
+\v 39 Which if I have done well, and as it becometh the history, it is what I desired: but if not so perfectly, it must be pardoned me.\f + \fr 15:39 \fk If not so perfectly, etc: \ft This is not said with regard to the truth of the narration; but with regard to the style and manner of writing: which in the sacred penmen is not always the most accurate. See St. Paul, 2 Cor. 11.6.\f*
 \p
 \v 40 For as it is hurtful to drink always wine, or always water, but pleasant to use sometimes the one, and sometimes the other: so if the speech be always nicely framed, it will not be grateful to the readers. But here it shall be ended.
-\mte9 The Sacred Bible - The Second Book of Maccabees

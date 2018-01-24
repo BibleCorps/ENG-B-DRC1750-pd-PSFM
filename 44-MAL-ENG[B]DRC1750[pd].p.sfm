@@ -1,14 +1,18 @@
-\id MAL ENG (p.sfm) -  <> Malachi - Challoner Douay Rheims version of the Sacred Bible The Prophecy of Malachi. The Holy Bible. Bishop Challoner's 18th century revision of the Douay Rheims version. Electronic edition 2004. Public domain.
+\id Mal ENG (p.sfm) - DRC1750 - Verify <>
 \ide UTF-8
-\h Malachi
-\toc1 The Prophecy of Malachi
-\toc2 Malachi
+\h Malachias
+\toc1 THE PROPHECY OF MALACHIAS
+\toc2 Malachias
 \toc3 Mal
+\mt1 THE PROPHECY OF MALACHIAS
+\im MALACHIAS, whose name signifies The Angel of the Lord, was contemporary with NEHEMIAS, and by some is believed to have been the same person as ESDRAS. He was the last of the prophets, in the order of time, and flourished about four hundred years before Christ. He foretells the coming of Christ; the reprobation of the Jews and their sacrifices; and the calling of the Gentiles, who shall offer up to God in every place an acceptable sacrifice.
 \c 1
-\cl Malachi 1\p
-\v 1 The burden of the word of the Lord to Israel by the hand of Malachi.
+\cl Malachias 1
+\cd God reproaches the Jews with their ingratitude: and the priests for not offering pure sacrifices. He will accept of the sacrifice that shall be offered in every place among the Gentiles.
 \p
-\v 2 I have loved you, saith the Lord: and you have said: Wherein hast thou loved us? Was not Esau brother to Jacob, saith the Lord, and I have loved Jacob,
+\v 1 The burden of the word of the Lord to Israel by the hand of Malachias.
+\p
+\v 2 I have loved you, saith the Lord: and you have said: Wherein hast thou loved us? Was not Esau brother to Jacob, saith the Lord, and I have loved Jacob,\f + \fr 1:2 \fk I have loved Jacob, etc: \ft I have preferred his posterity, to make them my chosen people, and to lead them with my blessings, without any merit on their part, and though they have been always ungrateful; whilst I have rejected Esau, and executed severe judgments upon his posterity. Not that God punished Esau, or his posterity, beyond their desert: but that by his free election and grace he loved Jacob, and favoured his posterity above their deserts. See the annotations upon Rom. 9.\f*
 \p
 \v 3 But have hated Esau? and I have made his mountains a wilderness, and given his inheritance to the dragons of the desert.
 \p
@@ -26,21 +30,22 @@
 \p
 \v 10 Who is there among you, that will shut the doors, and will kindle the fire on my altar gratis? I have no pleasure in you, saith the Lord of hosts: and I will not receive a gift of your hand.
 \p
-\v 11 For from the rising of the sun even to the going down, my name is great among the Gentiles, and in every place there is sacrifice, and there is offered to my name a clean oblation: for my name is great among the Gentiles, saith the Lord of hosts.
+\v 11 For from the rising of the sun even to the going down, my name is great among the Gentiles, and in every place there is sacrifice, and there is offered to my name a clean oblation: for my name is great among the Gentiles, saith the Lord of hosts.\f + \fr 1:11 \fk A clean oblation: \ft Viz., the precious body and blood of Christ in the eucharistic sacrifice.\f*
 \p
 \v 12 And you have profaned it in that you say: The table of the Lord is defiled: and that which is laid thereupon is contemptible with the fire that devoureth it.
 \p
-\v 13 And you have said: Behold of our labour, and you puffed it away, saith the Lord of hosts, and you brought in of rapine the lame, and the sick, and brought in an offering: shall I accept it at your hands, saith the Lord?
+\v 13 And you have said: Behold of our labour, and you puffed it away, saith the Lord of hosts, and you brought in of rapine the lame, and the sick, and brought in an offering: shall I accept it at your hands, saith the Lord?\f + \fr 1:13 \fk Behold of our labour, etc: \ft You pretended labour and weariness, when you brought your offering; and so made it of no value, by offering it with an evil mind. Moreover, what you offered was both defective in itself, and gotten by rapine and extortion.\f*
 \p
 \v 14 Cursed is the deceitful man that hath in his flock a male, and making a vow offereth in sacrifice that which is feeble to the Lord: for I am a great King, saith the Lord of hosts, and my name is dreadful among the Gentiles.
 \c 2
-\cl Malachi 2
+\cl Malachias 2
+\cd The priests are sharply reproved for neglecting their covenant. The evil of marrying with idolaters: and too easily putting away their wives.
 \p
 \v 1 And now, O ye priests, this commandment is to you.
 \p
 \v 2 If you will not hear, and if you will not lay it to heart, to give glory to my name, saith the Lord of hosts: I will send poverty upon you, and will curse your blessings, yea I will curse them, because you have not laid it to heart.
 \p
-\v 3 Behold, I will cast the shoulder to you, and will scatter upon your face the dung of your solemnities, and it shall take you away with it.
+\v 3 Behold, I will cast the shoulder to you, and will scatter upon your face the dung of your solemnities, and it shall take you away with it.\f + \fr 2:3 \fk I will cast the shoulder to you: \ft I will cast away the shoulder, which in the law was appointed to be your portion, and fling it at you in my anger: and will reject both you and your festivals like dung.\f*
 \p
 \v 4 And you shall know that I sent you this commandment, that my covenant might be with Levi, saith the Lord of hosts.
 \p
@@ -48,7 +53,7 @@
 \p
 \v 6 The law of truth was in his mouth, and iniquity was not found in his lips: he walked with me in peace, and in equity, and turned many away from iniquity.
 \p
-\v 7 For the lips of the priests shall keep knowledge, and they shall seek the law at his mouth: because he is the angel of the Lord of hosts.
+\v 7 For the lips of the priests shall keep knowledge, and they shall seek the law at his mouth: because he is the angel of the Lord of hosts.\f + \fr 2:7 \fk The angel: \ft Viz., the minister and messenger.\f*
 \p
 \v 8 But you have departed out of the way, and have caused many to stumble at the law: you have made void the covenant of Levi, saith the Lord of hosts.
 \p
@@ -60,19 +65,20 @@
 \p
 \v 12 The Lord will cut off the man that hath done this, both the master, and the scholar, out of the tabernacles of Jacob, and him that offereth an offering to the Lord of hosts.
 \p
-\v 13 And this again have you done, you have covered the altar of the Lord with tears, with weeping, and bellowing, so that I have no more a regard to sacrifice, neither do I accept any atonement at your hands.
+\v 13 And this again have you done, you have covered the altar of the Lord with tears, with weeping, and bellowing, so that I have no more a regard to sacrifice, neither do I accept any atonement at your hands.\f + \fr 2:13 \fk With tears: \ft Viz., by occasion of your wives, whom you have put away: and who came to weep and lament before the altar.\f*
 \p
 \v 14 And you have said: For what cause? Because the Lord hath been witness between thee, and the wife of thy youth, whom thou hast despised: yet she was thy partner, and the wife of thy covenant.
 \p
 \v 15 Did not one make her, and she is the residue of his spirit? And what doth one seek, but the seed of God? Keep then your spirit, and despise not the wife of thy youth.
 \p
-\v 16 When thou shalt hate her put her away, saith the Lord, the God of Israel: but iniquity shalt cover his garment, saith the Lord of hosts, keep your spirit, and despise not.
+\v 16 When thou shalt hate her put her away, saith the Lord, the God of Israel: but iniquity shalt cover his garment, saith the Lord of hosts, keep your spirit, and despise not.\f + \fr 2:16 \fk Iniquity shall cover his garment: \ft Viz., of every man that putteth away his wife without just cause; notwithstanding that God permitted it in the law, to prevent the evil of murder.\f*
 \p
 \v 17 You have wearied the Lord with your words, and you said: Wherein have we wearied him? In that you say: Every one that doth evil, is good in the sight of the Lord, and such please him: or surely where is the God of judgment?
 \c 3
-\cl Malachi 3
+\cl Malachias 3
+\cd Christ shall come to his temple, and purify the priesthood. They that continue in their evil ways shall be punished: but true penitents shall receive a blessing.
 \p
-\v 1 Behold I send my angel, and he shall prepare the way before my face. And presently the Lord, whom you seek, and the angel of the testament, whom you desire, shall come to his temple. Behold, he cometh, saith the Lord of hosts.
+\v 1 Behold I send my angel, and he shall prepare the way before my face. And presently the Lord, whom you seek, and the angel of the testament, whom you desire, shall come to his temple. Behold, he cometh, saith the Lord of hosts.\f + \fr 3:1 \fk My angel: \ft Viz., John the Baptist, the messenger of God, and forerunner of Christ.\f*
 \p
 \v 2 And who shall be able to think of the day of his coming? and who shall stand to see him? for he is like a refining fire, and like the fuller's herb:
 \p
@@ -108,7 +114,8 @@
 \p
 \v 18 And you shall return, and shall see the difference between the just and the wicked: and between him that serveth God, and him that serveth him not.
 \c 4
-\cl Malachi 4
+\cl Malachias 4
+\cd The judgment of the wicked, and reward of the just. An exhortation to observe the law. Elias shall come for the conversion of the Jews.
 \p
 \v 1 For behold the day shall come kindled as a furnace: and all the proud, and all that do wickedly shall be stubble: and the day that cometh shall set them on fire, saith the Lord of hosts, it shall not leave them root, nor branch.
 \p
@@ -120,5 +127,4 @@
 \p
 \v 5 Behold, I will send you Elias the prophet, before the coming of the great and dreadful day of the Lord.
 \p
-\v 6 And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers: lest I come, and strike the earth with anathema.
-\mte9 The Sacred Bible - The Prophecy of Malachi
+\v 6 And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers: lest I come, and strike the earth with anathema.\f + \fr 4:6 \fk He shall turn the heart, etc: \ft By bringing over the Jews to the faith of Christ, he shall reconcile them to their fathers, viz., the partiarchs and prophets; whose hearts for many ages have been turned away from them, because of their refusing to believe in Christ.\f*\f + \fr 4:6 \fk With anathema: \ft In the Hebrew, Cherem, that is, with utter destruction.\f*

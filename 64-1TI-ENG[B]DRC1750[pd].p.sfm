@@ -1,11 +1,14 @@
-\id 1TI ENG (p.sfm) -  <> 1 Timothy - Challoner Douay Rheims version of the Sacred Bible The First Letter to Timothy. The Holy Bible. Bishop Challoner's 18th century revision of the Douay Rheims version. Electronic edition 2004. Public domain.
+\id 1 T ENG (p.sfm) - DRC1750 - Verify <>
 \ide UTF-8
 \h 1 Timothy
-\toc1 The First Letter to Timothy
+\toc1 THE FIRST EPISTLE OF ST. PAUL TO TIMOTHY
 \toc2 1 Timothy
-\toc3 1Tm
+\toc3 1 T
+\mt1 THE FIRST EPISTLE OF ST. PAUL TO TIMOTHY
+\im St. Paul write this Epistle to his BELOVED TIMOTHY, being then bishop of Ephesus, to instruct him in the duties of a bishop, both in respect to himself and to his charge; and that he ought to be well informed of the good morals of those on whom he was to impose hands: Impose not hands lightly upon any man. He tells him also how he should behave towards his clergy. The Epistle was written about 33 years after our Lord's Ascension; but where it was written is uncertain: the more general opinion is, that it was in Macedonia.
 \c 1
 \cl 1 Timothy 1
+\cd He puts Timothy in mind of his charge and blesses God for the mercy he himself had received.
 \p
 \v 1 Paul, an apostle of Jesus Christ, according to the commandment of God our Saviour and Christ Jesus our hope:
 \p
@@ -23,7 +26,7 @@
 \p
 \v 8 But we know that the law is good, if a man use it lawfully.
 \p
-\v 9 Knowing this: That the law is not made for the just man but for the unjust and disobedient, for the ungodly and for sinners, for the wicked and defiled, for murderers of fathers and murderers of mothers, for manslayers,
+\v 9 Knowing this: That the law is not made for the just man but for the unjust and disobedient, for the ungodly and for sinners, for the wicked and defiled, for murderers of fathers and murderers of mothers, for manslayers,\f + \fr 1:9 \fk The law is not: \ft He means, that the just man doth good, and avoideth evil, not as compelled by the law, and merely for fear of the punishment appointed for transgressors; but voluntarily, and out of the love of God and virtue; and would do so, though there were no law.\f*
 \p
 \v 10 For fornicators, for them who defile themselves with mankind, for menstealers, for liars, for perjured persons, and whatever other thing is contrary to sound doctrine:
 \p
@@ -48,6 +51,7 @@
 \v 20 Of whom is Hymeneus and Alexander, whom I have delivered up to Satan, that they may learn not to blaspheme.
 \c 2
 \cl 1 Timothy 2
+\cd Prayers are to be said for all men, because God wills the salvation of all. Women are not to teach.
 \p
 \v 1 I desire therefore, first of all, that supplications, prayers, intercessions and thanksgivings be made for all men:
 \p
@@ -57,9 +61,9 @@
 \p
 \v 4 Who will have all men to be saved and to come to the knowledge of the truth.
 \p
-\v 5 For there is one God: and one mediator of God and men, the man Christ Jesus:
+\v 5 For there is one God: and one mediator of God and men, the man Christ Jesus:\f + \fr 2:5 \fk One mediator: \ft Christ is the one and only mediator of redemption, who gave himself, as the apostle writes in the following verse.\f*
 \p
-\v 6 Who gave himself a redemption for all, a testimony in due times.
+\v 6 Who gave himself a redemption for all, a testimony in due times.\f + \fr 2:6 \fk a redemption for all: \ft He is also the only mediator, who stands in need of no other to recommend his petitions to the Father. But this is not against our seeking the prayers and intercession, as well of the faithful upon earth, as of the saints and angels in heaven, for obtaining mercy, grace, and salvation, through Jesus Christ. As St. Paul himself often desired the help of the prayers of the faithful, without any injury to the mediatorship of Jesus Christ.\f*
 \p
 \v 7 Whereunto I am appointed a preacher and an apostle (I say the truth, I lie not), a doctor of the Gentiles in faith and truth.
 \p
@@ -80,10 +84,11 @@
 \v 15 Yet she shall be saved through child bearing; if she continue in faith and love and sanctification with sobriety.
 \c 3
 \cl 1 Timothy 3
+\cd What sort of men are to be admitted into the clergy. The church is the pillar of truth.
 \p
 \v 1 A faithful saying: If a man desire the office of a bishop, he desireth good work.
 \p
-\v 2 It behoveth therefore a bishop to be blameless, the husband of one wife, sober, prudent, of good behaviour, chaste, given to hospitality, a teacher,
+\v 2 It behoveth therefore a bishop to be blameless, the husband of one wife, sober, prudent, of good behaviour, chaste, given to hospitality, a teacher,\f + \fr 3:2 \fk Of one wife: \ft The meaning is not that every bishop should have a wife (for St. Paul himself had none), but that no one should be admitted to the holy orders of bishop, priest, or deacon, who had been married more than once.\f*
 \p
 \v 3 Not given to wine, no striker, but modest, not quarrelsome, not covetous, but
 \p
@@ -91,7 +96,7 @@
 \p
 \v 5 But if a man know not how to rule his own house, how shall he take care of the church of God?
 \p
-\v 6 Not a neophyte: lest, being puffed up with pride, he fall into the judgment of the devil.
+\v 6 Not a neophyte: lest, being puffed up with pride, he fall into the judgment of the devil.\f + \fr 3:6 \fk A neophyte: \ft That is, one lately baptized, a young convert.\f*
 \p
 \v 7 Moreover, he must have a good testimony of them who are without: lest he fall into reproach and the snare of the devil.
 \p
@@ -109,17 +114,18 @@
 \p
 \v 14 These things I write to thee, hoping that I shall come to thee shortly.
 \p
-\v 15 But if I tarry long, that thou mayest know how thou oughtest to behave thyself in the house of God, which is the church of the living God, the pillar and ground of the truth.
+\v 15 But if I tarry long, that thou mayest know how thou oughtest to behave thyself in the house of God, which is the church of the living God, the pillar and ground of the truth.\f + \fr 3:15 \fk The pillar and ground of the truth: \ft Therefore the church of the living God can never uphold error, nor bring in corruptions, superstition, or idolatry.\f*
 \p
 \v 16 And evidently great is the mystery of godliness, which was manifested in the flesh, was justified in the spirit, appeared unto angels, hath been preached unto the Gentiles, is believed in the world, is taken up in glory.
 \c 4
 \cl 1 Timothy 4
+\cd He warns him against heretics, and exhorts him to the exercise of piety.
 \p
 \v 1 Now the Spirit manifestly saith that in the last times some shall depart from the faith, giving heed to spirits of error and doctrines of devils,
 \p
 \v 2 Speaking lies in hypocrisy and having their conscience seared,
 \p
-\v 3 Forbidding to marry, to abstain from meats, which God hath created to be received with thanksgiving by the faithful and by them that have known the truth.
+\v 3 Forbidding to marry, to abstain from meats, which God hath created to be received with thanksgiving by the faithful and by them that have known the truth.\f + \fr 4:3 \fk Forbidding to marry, to abstain from meats: \ft He speaks of the Gnostics, the Marcionites, the Eneratites, the Manicheans, and other ancient heretics, who absolutely condemned marriage, and the use of all kind of meat; because they pretended that all flesh was from an evil principle. Whereas the church of God, so far from condemning marriage, holds it a holy sacrament; and forbids it to none but such as by vow have chosen the better part: and prohibits not the use of any meats whatsoever in proper times and seasons; though she does not judge all kind of diet proper for days of fasting and penance.\f*
 \p
 \v 4 For every creature of God is good, and nothing to be rejected that is received with thanksgiving:
 \p
@@ -148,6 +154,7 @@
 \v 16 Take heed to thyself and to doctrine: be earnest in them. For in doing this thou shalt both save thyself and them that hear thee.
 \c 5
 \cl 1 Timothy 5
+\cd He gives him lessons concerning widows, and how he is to behave to his clergy.
 \p
 \v 1 An ancient man rebuke not, but entreat him as a father: young men, as brethren:
 \p
@@ -171,7 +178,7 @@
 \p
 \v 11 But the younger widows avoid. For when they have grown wanton in Christ, they will marry:
 \p
-\v 12 Having damnation, because they have made void their first faith.
+\v 12 Having damnation, because they have made void their first faith.\f + \fr 5:12 \fk Their first faith: \ft Their vow, by which they had engaged themselves to Christ.\f*
 \p
 \v 13 And withal being idle they learn to go about from house to house: and are not only idle, but tattlers also and busy bodies, speaking things which they ought not.
 \p
@@ -200,6 +207,7 @@
 \v 25 In like manner also good deeds are manifest: and they that are otherwise cannot be hid.
 \c 6
 \cl 1 Timothy 6
+\cd Duties of servants. The danger of covetousness. Lessons for the rich.
 \p
 \v 1 Whosoever are servants under the yoke, let them count their masters worthy of all honour; lest the name of the Lord and his doctrine be blasphemed.
 \p
@@ -242,4 +250,3 @@
 \v 20 O Timothy, keep that which is committed to thy trust, avoiding the profane novelties of words and oppositions of knowledge falsely so called.
 \p
 \v 21 Which some promising, have erred concerning the faith. Grace be with thee. Amen.
-\mte9 The Sacred Bible - The First Letter to Timothy

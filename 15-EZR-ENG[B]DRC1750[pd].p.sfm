@@ -1,11 +1,14 @@
 \id EZR ENG (p.sfm) -  <> Ezra - Challoner Douay Rheims version of the Sacred Bible The Book of Ezra. The Holy Bible. Bishop Challoner's 18th century revision of the Douay Rheims version. Electronic edition 2004. Public domain.
 \ide UTF-8
 \h Ezra
-\toc1 The Book of Ezra
+\toc1 The Book of Ezra (1 Esdras)
 \toc2 Ezra
 \toc3 Ezr
+\mt1 The Book of Ezra (1 Esdras)
+\im This Book taketh its name from the writer: who was a holy priest, and doctor of the law. He is called by the Hebrews, Ezra.
 \c 1
 \cl Ezra 1
+\cd Cyrus king of Persia releaseth God's people from their captivity, with license to return and build the temple in Jerusalem: and restoreth the holy vessels which Nabuchodonosor had taken from thence.
 \p
 \v 1 In the first year of Cyrus king of the Persians, that the word of the Lord by the mouth of Jeremias might be fulfilled, the Lord stirred up the spirit of Cyrus king of the Persians: and he made a proclamation throughout all his kingdom, and in writing also, saying:
 \p
@@ -30,6 +33,7 @@
 \v 11 All the vessels of gold and silver, five thousand four hundred: all these Sassabasar brought with them that came up from the captivity of Babylon to Jerusalem.
 \c 2
 \cl Ezra 2
+\cd The number of them that returned to Judea: their oblations.
 \p
 \v 1 Now these are the children of the province, that went out of the captivity, which Nabuchodonosor king of Babylon had carried away to Babylon, and who returned to Jerusalem and Juda, every man to his city.
 \p
@@ -157,7 +161,7 @@
 \p
 \v 63 And Athersatha said to them, that they should not eat of the holy of holies, till there arose a priest learned and perfect.
 \p
-\v 64 All the multitudes as one man, were forty-two thousand three hundred and sixty:
+\v 64 All the multitudes as one man, were forty-two thousand three hundred and sixty:\f + \fr 2:64 \fk Forty-two thousand, etc: \ft Those who are reckoned up above of the tribes of Juda, Benjamin, and Levi, fall short of this number. The rest, who must be taken in to make up the whole sum, were of the other tribes.\f*
 \p
 \v 65 Besides their menservants, and womenservants, of whom there were seven thousand three hundred and thirty-seven: and among them singing men, and singing women two hundred.
 \p
@@ -172,10 +176,11 @@
 \v 70 So the priests and the Levites, and some of the people, and the singing men, and the porters, and the Nathinites dwelt in their cities, and all Israel in their cities.
 \c 3
 \cl Ezra 3
+\cd An altar is built for sacrifice, the feast of tabernacles is solemnly celebrated, and the foundations of the temple are laid.
 \p
 \v 1 And now the seventh month was come, and the children of Israel were in their cities: and the people gathered themselves together as one man to Jerusalem.
 \p
-\v 2 And Josue the son of Josedec rose up, and his brethren the priests, and Zorobabel the son of Salathiel, and his brethren, and they built the altar of the God of Israel that they might offer holocausts upon it, as it is written in the law of Moses the man of God.
+\v 2 And Josue the son of Josedec rose up, and his brethren the priests, and Zorobabel the son of Salathiel, and his brethren, and they built the altar of the God of Israel that they might offer holocausts upon it, as it is written in the law of Moses the man of God.\f + \fr 3:2 \fk Josue: \ft or Jesus (Jeshua) the son of Josedec; he was the high priest, at that time.\f*
 \p
 \v 3 And they set the altar of God upon its bases, while the people of the lands round about put them in fear, and they offered upon it a holocaust to the Lord morning and evening.
 \p
@@ -200,6 +205,7 @@
 \v 13 So that one could not distinguish the voice of the shout of joy, from the noise of the weeping of the people: for one with another the people shouted with a loud shout, and the voice was heard afar off.
 \c 4
 \cl Ezra 4
+\cd The Samaritans by their letter to the king hinder the building.
 \p
 \v 1 Now the enemies of Juda and Benjamin heard that the children of the captivity were building a temple to the Lord the God of Israel.
 \p
@@ -211,7 +217,7 @@
 \p
 \v 5 And they hired counsellors against them, to frustrate their design all the days of Cyrus king of Persia, even until the reign of Darius king of the Persians.
 \p
-\v 6 And in the reign of Assuerus, in the beginning of his reign, they wrote an accusation against the inhabitants of Juda and Jerusalem.
+\v 6 And in the reign of Assuerus, in the beginning of his reign, they wrote an accusation against the inhabitants of Juda and Jerusalem.\f + \fr 4:6 \fk Assuerus: \ft Otherwise called Cambyses the son and successor of Cyrus. He is also in the following verse named Artaxerxes, a name common to almost all the kings of Persia.\f*
 \p
 \v 7 And in the days of Artaxerxes, Beselam, Mithridates, and Thabeel, and the rest that were in the council wrote to Artaxerxes king of the Persians: and the letter of accusation was written in Syrian, and was read in the Syrian tongue.
 \p
@@ -250,6 +256,7 @@
 \v 24 Then the work of the house of the Lord in Jerusalem was interrupted, and ceased till the second year of the reign of Darius king of the Persians.
 \c 5
 \cl Ezra 5
+\cd By the exhortation of Aggeus, and Zacharias, the people proceed in building the temple. Which their enemies strive in vain to hinder.
 \p
 \v 1 Now Aggeus the prophet, and Zacharias the son of Addo, prophesied to the Jews that were in Judea and Jerusalem, in the name of the God of Israel.
 \p
@@ -286,6 +293,7 @@
 \v 17 Now therefore if it seem good to the king, let him search in the king's library, which is in Babylon, whether it hath been decreed by Cyrus the king, that the house of God in Jerusalem should be built, and let the king send his pleasure to us concerning this matter.
 \c 6
 \cl Ezra 6
+\cd King Darius favoureth the building and contributeth to it.
 \p
 \v 1 Then king Darius gave orders, and they searched in the library of the books that were laid up in Babylon,
 \p
@@ -332,6 +340,7 @@
 \v 22 And they kept the feast of unleavened bread seven days with joy, for the Lord had made them joyful, and had turned the heart of the king of Assyria to them, that he should help their hands in the work of the house of the Lord the God of Israel.
 \c 7
 \cl Ezra 7
+\cd Esdras goeth up to Jerusalem to teach, and assist the people, with a gracious decree of Artaxerxes.
 \p
 \v 1 Now after these things in the reign of Artaxerxes king of the Persians, Esdras the son of Saraias, the son of Azarias, the son of Helcias,
 \p
@@ -390,6 +399,7 @@
 \v 28 And hath inclined his mercy toward me before the king and his counsellors, and all the mighty princes of the king: and I being strengthened by the hand of the Lord my God, which was upon me, gathered together out of Israel chief men to go up with me.
 \c 8
 \cl Ezra 8
+\cd The companions of Esdras. The fast which he appointed. They bring the holy vessels into the temple.
 \p
 \v 1 Now these are the chief of families, and the genealogy of them, who came up with me from Babylon in the reign of Artaxerxes the king.
 \p
@@ -431,7 +441,7 @@
 \p
 \v 20 And of the Nathinites, whom David, and the princes gave for the service of the Levites, Nathinites two hundred and twenty: all these were called by their names.
 \p
-\v 21 And I proclaimed there a fast by the river Ahava, that we might afflict ourselves before the Lord our God, and might ask of him a right way for us and for our children, and for all our substance.
+\v 21 And I proclaimed there a fast by the river Ahava, that we might afflict ourselves before the Lord our God, and might ask of him a right way for us and for our children, and for all our substance.\f + \fr 8:21 \fk And I proclaimed a fast: \ft It is not enough to part from Babylon, that is, figuratively from sin, but we must also do works of penance; and therefore Esdras here proclaimed an extraordinary fast to those that were come from captivity. This shews that fasting was commanded and practised from the earliest times.\f*
 \p
 \v 22 For I was ashamed to ask the king for aid and for horsemen, to defend us from the enemy in the way: because we had said to the king: The hand of our God is upon all them that seek him in goodness: and his power and strength, and wrath upon all them that forsake him.
 \p
@@ -464,8 +474,9 @@
 \v 36 And they gave the king's edicts to the lords that were from the king's court, and the governors beyond the river, and they furthered the people and the house of God.
 \c 9
 \cl Ezra 9
+\cd Esdras mourneth for the transgression of the people: his confession and prayer.
 \p
-\v 1 And after these things were accomplished, the princes came to me, saying: The people of Israel, and the priests and Levites have not separated themselves from the people of the lands, and from their abominations, namely, of the Chanaanites, and the Hethites, and the Pherezites, and the Jebusites, and the Ammonites, and the Moabites, and the Egyptians, and the Amorrhites.
+\v 1 And after these things were accomplished, the princes came to me, saying: The people of Israel, and the priests and Levites have not separated themselves from the people of the lands, and from their abominations, namely, of the Chanaanites, and the Hethites, and the Pherezites, and the Jebusites, and the Ammonites, and the Moabites, and the Egyptians, and the Amorrhites.\f + \fr 9:1 \fk Have not separated themselves: \ft This shows how sinful it is to intermarry with those that the Church forbids us, on account of the danger of perversion and falling off from the true faith.\f*
 \p
 \v 2 For they have taken of their daughters for themselves and for their sons, and they have mingled the holy seed with the people of the lands. And the hand of the princes and magistrates hath been first in this transgression.
 \p
@@ -479,7 +490,7 @@
 \p
 \v 7 From the days of our fathers: and we ourselves also have sinned grievously unto this day, and for our iniquities we and our kings, and our priests have been delivered into the hands of the kings of the lands, and to the sword, and to captivity, and to spoil, and to confusion of face, as it is at this day.
 \p
-\v 8 And now as a little, and for a moment has our prayer been made before the Lord our God, to leave us a remnant, and give us a pin in his holy place, and that our God would enlighten our eyes, and would give us a little life in our bondage.
+\v 8 And now as a little, and for a moment has our prayer been made before the Lord our God, to leave us a remnant, and give us a pin in his holy place, and that our God would enlighten our eyes, and would give us a little life in our bondage.\f + \fr 9:8 \fk A pin: \ft or nail, here signifies a small settlement or holding; which Esdras begs for, to preserve even a part of the people, who, by their great iniquity had incurred the anger of God.\f*
 \p
 \v 9 For we are bondmen, and in our bondage our God hath not forsaken us, but hath extended mercy upon us before the king of the Persians, to give us life, and to set up the house of our God, and to rebuild the desolations thereof, and to give us a fence in Juda and Jerusalem.
 \p
@@ -496,6 +507,7 @@
 \v 15 O Lord God of Israel, thou art just: for we remain yet to be saved as at this day. Behold we are before thee in our sin, for there can be no standing before thee in this matter.
 \c 10
 \cl Ezra 10
+\cd Order is given for discharging strange women: the names of the guilty.
 \p
 \v 1 Now when Esdras was thus praying, and beseeching, and weeping, and lying before the temple of God, there was gathered to him of Israel an exceeding great assembly of men and women and children, and the people wept with much lamentation.
 \p

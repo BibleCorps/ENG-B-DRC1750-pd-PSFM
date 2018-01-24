@@ -1,20 +1,26 @@
 \id JOB ENG (p.sfm) -  <> Job - Challoner Douay Rheims version of the Sacred Bible The Book of Job. The Holy Bible. Bishop Challoner's 18th century revision of the Douay Rheims version. Electronic edition 2004. Public domain.
 \ide UTF-8
+\h Job
+\toc1 The Book of Job
+\toc2 Job
+\toc3 Job
 \mt1 The Book of Job
+\im This Book takes its name from the holy man of whom it treats: who, according to the more probable opinion, was of the race of Esau; and the same as Jobab, king of Edom, mentioned Gen. 36.33. It is uncertain who was the writer of it. Some attribute it to Job himself; others to Moses, or some one of the prophets. In the Hebrew it is written in verse, from the beginning of the third chapter to the forty-second chapter.
 \c 1
 \cl Job 1
+\cd Job's virtue and riches. Satan by permission from God strippeth him of all his substance. His patience.
 \p
-\v 1 There was a man in the land of Hus, whose name was Job, and that man was simple and upright, and fearing God, and avoiding evil.
+\v 1 There was a man in the land of Hus, whose name was Job, and that man was simple and upright, and fearing God, and avoiding evil.\f + \fr 1:1 \fk Hus: \ft The land of Hus was a part of Edom; as appears from Lam. 4.21.\f*\f + \fr 1:1 \fk Simple: \ft That is, innocent, sincere, and without guile.\f*
 \p
 \v 2 And there were born to him seven sons and three daughters.
 \p
 \v 3 And his possession was seven thousand sheep, and three thousand camels, and five hundred yoke of oxen, and five hundred she asses, and a family exceedingly great: and this man was great among all the people of the east.
 \p
-\v 4 And his sons went, and made a feast by houses, every one in his day. And sending, they called their three sisters, to eat and drink with them.
+\v 4 And his sons went, and made a feast by houses, every one in his day. And sending, they called their three sisters, to eat and drink with them.\f + \fr 1:4 \fk And made a feast by houses: \ft That is, each made a feast in his own house and had his day, inviting the others, and their sisters.\f*
 \p
-\v 5 And when the days of their feasting were gone about, Job sent to them, and sanctified them: and rising up early, offered holocausts for every one of them. For he said: Lest perhaps my sons have sinned, and have blessed God in their hearts. So did Job all days.
+\v 5 And when the days of their feasting were gone about, Job sent to them, and sanctified them: and rising up early, offered holocausts for every one of them. For he said: Lest perhaps my sons have sinned, and have blessed God in their hearts. So did Job all days.\f + \fr 1:5 \fk Blessed: \ft For greater horror of the very thought of blasphemy, the scripture both here and ver. 11, and in the following chapter, ver. 5 and 9, uses the word bless to signify its contrary.\f*
 \p
-\v 6 Now on a certain day, when the sons of God came to stand before the Lord, Satan also was present among them.
+\v 6 Now on a certain day, when the sons of God came to stand before the Lord, Satan also was present among them.\f + \fr 1:6 \fk The sons of God: \ft The angels.\f*\f + \fr 1:6 \fk Satan also, etc.: \ft This passage represents to us in a figure, accommodated to the ways and understandings of men, 1. The restless endeavours of Satan against the servants of God; 2. That he can do nothing without God's permission; 3. That God doth not permit him to tempt them above their strength: but assists them by his divine grace in such manner, that the vain efforts of the enemy only serve to illustrate their virtue and increase their merit.\f*
 \p
 \v 7 And the Lord said to him: Whence comest thou? And he answered and said: I have gone round about the earth, and walked through it.
 \p
@@ -49,6 +55,7 @@
 \v 22 In all these things Job sinned not by his lips, nor spoke he any foolish thing against God.
 \c 2
 \cl Job 2
+\cd Satan, by God's permission, striketh Job with ulcers from head to foot : his patience is still invincible.
 \p
 \v 1 And it came to pass, when on a certain day the sons of God came, and stood before the Lord, and Satan came amongst them, and stood in his sight,
 \p
@@ -77,8 +84,9 @@
 \v 13 And they sat with him on the ground seven day and seven nights and no man spoke to him a word: for they saw that his grief was very great.
 \c 3
 \cl Job 3
+\cd Job expresseth his sense of the miseries of man's life, by cursing the day of his birth.
 \p
-\v 1 After this, Job opened his mouth, and cursed his day,
+\v 1 After this, Job opened his mouth, and cursed his day,\f + \fr 3:1 \fk Cursed his day: \ft Job cursed the day of his birth, not by way of wishing evil to any thing of God's creation; but only to express in a stronger manner his sense of human miseries in general, and of his own calamities in particular.\f*
 \p
 \v 2 And he said:
 \p
@@ -131,6 +139,7 @@
 \v 26 Have I not dissembled? have I not kept silence? have I not been quiet? and indignation is come upon me.
 \c 4
 \cl Job 4
+\cd Eliphaz charges Job with impatience, and pretends that God never afflicts the innocent.
 \p
 \v 1 Then Eliphaz, the Themanite, answered, and said:
 \p
@@ -164,7 +173,7 @@
 \p
 \v 16 There stood one whose countenance I knew not, an image before my eyes, and I heard the voice, as it were, of a gentle wind.
 \p
-\v 17 Shall man be justified in comparison of God, or shall a man be more pure than his maker?
+\v 17 Shall man be justified in comparison of God, or shall a man be more pure than his maker?\f + \fr 4:17 \fk Shall man be justified in comparison of God, etc: \ft These are the words which Eliphaz had heard from an angel, which, ver. 15, he calls a spirit.\f*
 \p
 \v 18 Behold, they that serve him are not steadfast, and in his angels he found wickedness:
 \p
@@ -175,6 +184,7 @@
 \v 21 And they that shall be left, shall be taken away from them: they shall die, and not in wisdom.
 \c 5
 \cl Job 5
+\cd EJiphaz proceeds in his charge, and exhorts Job to acknowledge his sins.
 \p
 \v 1 Call now, if there be any that will answer thee, and turn to some of the saints.
 \p
@@ -231,10 +241,11 @@
 \v 27 Behold, this is even so, as we have searched out: which thou having heard, consider it thoroughly in thy mind.
 \c 6
 \cl Job 6
+\cd Job maintains his innocence, and complains of his friends.
 \p
 \v 1 But Job answered, and said:
 \p
-\v 2 O that my sins, whereby I have deserved wrath, and the calamity that I suffer, were weighed in a balance.
+\v 2 O that my sins, whereby I have deserved wrath, and the calamity that I suffer, were weighed in a balance.\f + \fr 6:2 \fk My sins, etc: \ft He does not mean to compare his sufferings with his real sins: but with the imaginary crimes which his friends imputed to him: and especially with his wrath, or grief, expressed in the third chapter, which they so much accused. Though, as he tells them here, it bore no proportion with the greatness of his calamity.\f*
 \p
 \v 3 As the sand of the sea, this would appear heavier: therefore, my words are full of sorrow:
 \p
@@ -293,6 +304,7 @@
 \v 30 And you shall not find iniquity in my tongue, neither shall folly sound in my mouth.
 \c 7
 \cl Job 7
+\cd Job declares the miseries of man's life : and addresses himself to God.
 \p
 \v 1 The life of man upon earth is a warfare, and his days are like the days of a hireling.
 \p
@@ -337,6 +349,7 @@
 \v 21 Why dost thou not remove my sin, and why dost thou not take away my iniquity? Behold now I shall sleep in the dust: and if thou seek me in the morning, I shall not be.
 \c 8
 \cl Job 8
+\cd Baldad, under pretence of defending the justice of God, accuses Job, and exhorts him to return to God.
 \p
 \v 1 Then Baldad, the Suhite, answered, and said:
 \p
@@ -383,6 +396,7 @@
 \v 22 They that hate thee, shall be clothed with confusion: and the dwelling of the wicked shall not stand.
 \c 9
 \cl Job 9
+\cd Job acknowledges God's justice : although he often afflicts the innocent.
 \p
 \v 1 And Job answered, and said:
 \p
@@ -400,7 +414,7 @@
 \p
 \v 8 Who alone spreadeth out the heavens, and walketh upon the waves of the sea.
 \p
-\v 9 Who maketh Arcturus, and Orion, and Hyades, and the inner parts of the south.
+\v 9 Who maketh Arcturus, and Orion, and Hyades, and the inner parts of the south.\f + \fr 9:9 \fk Arcturus, etc: \ft These are names of stars or constellations. In Hebrew, Ash, Cesil, and Cimah. See note chap. 38, ver. 31.\f*
 \p
 \v 10 Who doth things great and incomprehensible, and wonderful, of which there is no number.
 \p
@@ -416,7 +430,7 @@
 \p
 \v 16 And if he should hear me when I call, I should not believe that he had heard my voice.
 \p
-\v 17 For he shall crush me in a whirlwind, and multiply my wounds even without cause.
+\v 17 For he shall crush me in a whirlwind, and multiply my wounds even without cause.\f + \fr 9:17 \fk Without cause: \ft That is, without my knowing the cause: or without any crime of mine.\f*
 \p
 \v 18 He alloweth not my spirit to rest, and he filleth me with bitterness.
 \p
@@ -455,6 +469,7 @@
 \v 35 I will speak, and will not fear him: for I cannot answer while I am in fear.
 \c 10
 \cl Job 10
+\cd Job laments his afflictions, and begs to be delivered.
 \p
 \v 1 My soul is weary of my life, I will let go my speech against myself, I will speak in the bitterness of my soul.
 \p
@@ -501,6 +516,7 @@
 \v 22 A land of misery and darkness, where the shadow of death, and no order, but everlasting horror dwelleth.
 \c 11
 \cl Job 11
+\cd Sophar reproves Job, for justifying himself, and invites him to repentance.
 \p
 \v 1 Then Sophar the Naamathite answered, and said:
 \p
@@ -543,6 +559,7 @@
 \v 20 But the eyes of the wicked shall decay, and the way to escape shall fail them, and their hope the abomination of the soul.
 \c 12
 \cl Job 12
+\cd Job's reply to Sophar. He extols God's power and wisdom.
 \p
 \v 1 Then Job answered, and said:
 \p
@@ -595,6 +612,7 @@
 \v 25 They shall grope as in the dark, and not in the light, and he shall make them stagger like men that are drunk.
 \c 13
 \cl Job 13
+\cd Job persists in maintaining his innocence: and reproves his friends.
 \p
 \v 1 Behold my eye hath seen all these things, and my ear hath heard them, and I have understood them all.
 \p
@@ -653,6 +671,7 @@
 \v 28 Who am to be consumed as rottenness, and as a garment that is motheaten.
 \c 14
 \cl Job 14
+\cd Job declares the shortness of man's days: and professes his belief of a resurrection.
 \p
 \v 1 Man born of a woman, living for a short time, is filled with many miseries.
 \p
@@ -678,7 +697,7 @@
 \p
 \v 12 So man when he is fallen asleep shall not rise again; till the heavens be broken, he shall not awake, nor rise up out of his sleep.
 \p
-\v 13 Who will grant me this, that thou mayst protect me in hell, and hide me till thy wrath pass, and appoint me a time when thou wilt remember me?
+\v 13 Who will grant me this, that thou mayst protect me in hell, and hide me till thy wrath pass, and appoint me a time when thou wilt remember me?\f + \fr 14:13 \fk That thou mayst protect me in hell: \ft That is, in the state of the dead; and in the place where the souls are kept waiting for their Redeemer.\f*
 \p
 \v 14 Shall man that is dead, thinkest thou, live again? all the days in which I am now in warfare, I expect until my change come.
 \p
@@ -699,6 +718,7 @@
 \v 22 But yet his flesh, while he shall live, shall have pain, and his soul shall mourn over him.
 \c 15
 \cl Job 15
+\cd Eliphaz returns to the charge against Job, and describes the wretched state of the wicked.
 \p
 \v 1 And Eliphaz the Themanite, answered, and said:
 \p
@@ -706,7 +726,7 @@
 \p
 \v 3 Thou reprovest him by words, who is not equal to thee, and thou speakest that which is not good for thee.
 \p
-\v 4 As much as is in thee, thou hast made void fear, and hast taken away prayers from before God.
+\v 4 As much as is in thee, thou hast made void fear, and hast taken away prayers from before God.\f + \fr 15:4 \fk Thou hast made void fear: \ft That is, cast off the fear of offending God.\f*
 \p
 \v 5 For thy iniquity hath taught thy mouth, and thou imitatest the tongue of blasphemers.
 \p
@@ -734,7 +754,7 @@
 \p
 \v 17 I will shew thee, hear me: and I will tell thee what I have seen.
 \p
-\v 18 Wise men confess and hide not their fathers.
+\v 18 Wise men confess and hide not their fathers.\f + \fr 15:18 \fk Wise men confess and hide not their fathers: \ft That is, the knowledge and documents they have received from their fathers they are not ashamed to own.\f*
 \p
 \v 19 To whom alone the earth was given, and no stranger hath passed among them.
 \p
@@ -771,6 +791,7 @@
 \v 35 He hath conceived sorrow, and hath brought forth iniquity, and his womb prepareth deceits.
 \c 16
 \cl Job 16
+\cd Job expostulates with his friends: and appeals to the judgment of God.
 \p
 \v 1 Then Job answered, and said:
 \p
@@ -819,10 +840,11 @@
 \v 23 For behold short years pass away, and I am walking in a path by which I shall not return.
 \c 17
 \cl Job 17
+\cd Job's hope in God: he expects rest in death.
 \p
 \v 1 My spirit shall be wasted, my days shall be shortened and only the grave remaineth for me.
 \p
-\v 2 I have not sinned, and my eye abideth in bitterness.
+\v 2 I have not sinned, and my eye abideth in bitterness.\f + \fr 17:2 \fk Not sinned: \ft That is, I am not guilty of such sins as they charge me with.\f*
 \p
 \v 3 Deliver me, O Lord, and set me beside thee, and let any man's hand fight against me.
 \p
@@ -844,15 +866,16 @@
 \p
 \v 12 They have turned night into day, and after darkness I hope for light again.
 \p
-\v 13 If I wait hell is my house, and I have made my bed in darkness.
+\v 13 If I wait hell is my house, and I have made my bed in darkness.\f + \fr 17:13 \fk Hell: \ft Sheol. The region of the dead.\f*
 \p
 \v 14 I have said to rottenness: Thou art my father; to worms, my mother and my sister.
 \p
 \v 15 Where is now then my expectation, and who considereth my patience?
 \p
-\v 16 All that I have shall go down into the deepest pit: thinkest thou that there at least I shall have rest?
+\v 16 All that I have shall go down into the deepest pit: thinkest thou that there at least I shall have rest?\f + \fr 17:16 \fk Deepest pit: \ft Literally, hell.\f*
 \c 18
 \cl Job 18
+\cd Baldad again reproves Job and describes the miseries of the wicked.
 \p
 \v 1 Then Baldad the Suhite answered, and said:
 \p
@@ -897,6 +920,7 @@
 \v 21 These then are the tabernacles of the wicked, and this the place of him that knoweth not God.
 \c 19
 \cl Job 19
+\cd Job complains of the cruelty of his friends; he describes his own sufferings: and his belief of a future resurrection.
 \p
 \v 1 Then Job answered, and said:
 \p
@@ -908,7 +932,7 @@
 \p
 \v 5 But you set yourselves up against me, and reprove me with my reproaches.
 \p
-\v 6 At least now understand, that God hath not afflicted me with an equal judgment, and compassed me with his scourges.
+\v 6 At least now understand, that God hath not afflicted me with an equal judgment, and compassed me with his scourges.\f + \fr 19:6 \fk With an equal judgment: \ft St. Gregory explains these words thus: Job being a just man, and truly considering his own life, thought that his affliction was greater than his sins deserved: and in that respect, that the punishment was not equal, yet it was just, as coming from God, who gives a crown of justice to those who suffer for righteousness' sake, and proves the just with tribulations, as gold is tried by fire.\f*
 \p
 \v 7 Behold I shall cry suffering violence, and no one will hear: I shall cry aloud, and there is none to judge.
 \p
@@ -946,7 +970,7 @@
 \p
 \v 24 With an iron pen and in a plate of lead, or else be graven with an instrument in flint stone?
 \p
-\v 25 For I know that my Redeemer liveth, and in the last day I shall rise out of the earth.
+\v 25 For I know that my Redeemer liveth, and in the last day I shall rise out of the earth.\f + \fr 19:25 \ft Ver. 25, 26, and 27 shew Job's explicit belief in his Redeemer, and also of the resurrection of the flesh, not as one tree riseth in place of another, but that the selfsame flesh shall rise at the last day, by the power of God, changed in quality but not in substance, every one to receive sentence according to his works in this life.\f*
 \p
 \v 26 And I shall be clothed again with my skin, and in my flesh I shall see my God.
 \p
@@ -957,6 +981,7 @@
 \v 29 Flee then from the face of the sword, for the sword is the revenger of iniquities: and know ye that there is a judgment.
 \c 20
 \cl Job 20
+\cd Sophar declares the shortness of the prosperity of the wicked: and their sudden downfall.
 \p
 \v 1 Then Sophar the Naamathite answered, and said:
 \p
@@ -992,7 +1017,7 @@
 \p
 \v 17 Let him not see the streams of the river, the brooks of honey and of butter.
 \p
-\v 18 He shall be punished for all that he did, and yet shall not be consumed: according to the multitude of his devices so also shall he suffer.
+\v 18 He shall be punished for all that he did, and yet shall not be consumed: according to the multitude of his devices so also shall he suffer.\f + \fr 20:18 \fk According to the multitude of his devices: \ft That is, his stratagems to gratify his passions and to oppress and destroy the poor.\f*
 \p
 \v 19 Because he broke in and stripped the poor: he hath violently taken away a house which he did not build.
 \p
@@ -1017,6 +1042,7 @@
 \v 29 This is the portion of a wicked man from God, and the inheritance of his doings from the Lord.
 \c 21
 \cl Job 21
+\cd Job shews that the wicked often prosper in this world, even to the end of their life: but that their judgment is in another world.
 \p
 \v 1 Then Job answered, and said:
 \p
@@ -1082,11 +1108,12 @@
 \p
 \v 32 He shall be brought to the graves, and shall watch in the heap of the dead.
 \p
-\v 33 He hath been acceptable to the gravel of Cocytus, and he shall draw every man after him, and there are innumerable before him.
+\v 33 He hath been acceptable to the gravel of Cocytus, and he shall draw every man after him, and there are innumerable before him.\f + \fr 21:33 \fk Acceptable to the gravel of Cocytus: \ft The Hebrew word, which St. Jerome has here rendered by the name Cocytus, (which the poets represent as a river in hell,) signifies a valley or a torrent: and in this place, is taken for the low region of death and hell: which willingly, as it were, receives the wicked at their death: who are ushered in by innumerable others that have gone before them; and are followed by multitudes above number.\f*
 \p
 \v 34 How then do ye comfort me in vain, whereas your answer is shewn to be repugnant to truth?
 \c 22
 \cl Job 22
+\cd Eliphaz falsely imputes many crimes to Job, but promises him prosperity if he will repent.
 \p
 \v 1 Then Eliphaz the Themanite answered, and said:
 \p
@@ -1116,7 +1143,7 @@
 \p
 \v 14 The clouds are his covert, and he doth not consider our things, and he walketh about the poles of heaven.
 \p
-\v 15 Dost thou desire to keep the path of ages, which wicked men have spurned?
+\v 15 Dost thou desire to keep the path of ages, which wicked men have trodden?
 \p
 \v 16 Who were taken away before their time, and a flood hath overthrown their foundation.
 \p
@@ -1149,6 +1176,7 @@
 \v 30 The innocent shall be saved, and he shall be saved by the cleanness of his hands.
 \c 23
 \cl Job 23
+\cd Job wishes to be tried at God's tribunal.
 \p
 \v 1 Then Job answered, and said:
 \p
@@ -1178,13 +1206,14 @@
 \p
 \v 14 And when he shall have fulfilled his will in me, many other like things are also at hand with him.
 \p
-\v 15 And therefore I am troubled at his presence, and when I consider him, I am made pensive with fear.
+\v 15 And therefore I am troubled at his presence, and when I consider him I am made pensive with fear.
 \p
 \v 16 God hath softened my heart, and the Almighty hath troubled me.
 \p
 \v 17 For I have not perished because of the darkness that hangs over me, neither hath the mist covered my face.
 \c 24
 \cl Job 24
+\cd God's providence often suffers the wicked to go on a long time in their sins: but punisheth them in another life.
 \p
 \v 1 Times are not hid from the Almighty: but they that know him, know not his days.
 \p
@@ -1237,6 +1266,7 @@
 \v 25 And if it be not so, who can convince me that I have lied, and set my words before God?
 \c 25
 \cl Job 25
+\cd God's providence often suffers the wicked to go on a long time in their sins: but punisheth them in another life.
 \p
 \v 1 Then Baldad the Suhite answered, and said:
 \p
@@ -1248,9 +1278,10 @@
 \p
 \v 5 Behold even the moon doth not shine, and the stars are not pure in his sight.
 \p
-\v 6 How much more is man than rottenness and the son of man than a worm?
+\v 6 How much less man that is rottenness and the son of man who is a worm?
 \c 26
 \cl Job 26
+\cd Job declares his sentiments of the wisdom and power of God.
 \p
 \v 1 Then Job answered, and said:
 \p
@@ -1276,11 +1307,12 @@
 \p
 \v 12 By his power the seas are suddenly gathered together, and his wisdom has struck the proud one.
 \p
-\v 13 His spirit hath adorned the heavens, and his obstetric hand brought forth the winding serpent.
+\v 13 His spirit hath adorned the heavens, and his obstetric hand brought forth the winding serpent.\f + \fr 26:13 \fk His obstetric hand brought forth the winding serpent: \ft That is, the omnipotent power of God: which brought forth all things created in time, but conceived in the Divine mind from all eternity. The winding serpent, a constellation of fixed stars winding round the north pole, called Draco. This appears from the foregoing part of the same verse, His spirit hath adorned the heavens.\f*
 \p
 \v 14 Lo, these things are said in part of his ways: and seeing we have heard scarce a little drop of his word, who shall be able to behold the thunder of his greatness?
 \c 27
 \cl Job 27
+\cd Job persists in asserting his own innocence, and that hypocrites will be punished in the end.
 \p
 \v 1 Job also added, taking up his parable, and said:
 \p
@@ -1329,6 +1361,7 @@
 \v 23 He shall clasp his hands upon him, and shall hiss at him, beholding his place.
 \c 28
 \cl Job 28
+\cd Man's industry searcheth out many things: true wisdom is taught by God alone.
 \p
 \v 1 Silver hath beginnings of its veins, and gold hath a place wherein it is melted.
 \p
@@ -1387,6 +1420,7 @@
 \v 28 And he said to man: Behold the fear of the Lord, that is wisdom: and to depart from evil, is understanding.
 \c 29
 \cl Job 29
+\cd Job relates his former happiness, and the respect that all men shewed him.
 \p
 \v 1 Job also added, taking up his parable, and said:
 \p
@@ -1439,8 +1473,9 @@
 \v 25 If I had a mind to go to them, I sat first, and when I sat as a king, with his army standing about him, yet I was a comforter of them that mourned.
 \c 30
 \cl Job 30
+\cd Job shews the wonderful change of his temporal estate, from welfare to great calamity.
 \p
-\v 1 But now the younger in time scorn me, whose fathers I would not have set with the dogs of my flock:
+\v 1 But now the younger in time scorn me, whose fathers I would not have set with the dogs of my flock:\f + \fr 30:1 \fk But now the younger in time: \ft That is, younger than I am, and as it were obscure, when I was conspicuous and in magnificence; they now look down on me.\f*
 \p
 \v 2 The strength of whose hands was to me as nothing, and they were thought unworthy of life itself.
 \p
@@ -1496,13 +1531,14 @@
 \p
 \v 28 I went mourning without indignation; I rose up, and cried in the crowd.
 \p
-\v 29 I was the brother of dragons, and companion of ostriches.
+\v 29 I was the brother of dragons, and companion of ostriches.\f + \fr 30:29 \fk Brother of dragons, etc: \ft Imitating these creatures in their lamentable noise.\f*
 \p
 \v 30 My skin is become black upon me, and my bones are dried up with heat.
 \p
 \v 31 My harp is turned to mourning, and my organ into the voice of those that weep.
 \c 31
 \cl Job 31
+\cd Job, to defend himself from the unjust judgments of his friends, gives a sincere account of his own virtues.
 \p
 \v 1 I made a covenant with my eyes, that I would not so much as think upon a virgin.
 \p
@@ -1554,7 +1590,7 @@
 \p
 \v 25 If I have rejoiced over my great riches, and because my hand had gotten much.
 \p
-\v 26 If I beheld the sun when it shined and the moon going in brightness:
+\v 26 If I beheld the sun when it shined and the moon going in brightness:\f + \fr 31:26 \fk If I beheld the sun, etc: \ft If I behold the sun and moon with admiration, knowing them to be created and governed by the power of God, I call on my adversaries to produce any thing against me, whereby I could be charged with worshipping the sun or moon.\f*
 \p
 \v 27 And my heart in secret hath rejoiced, and I have kissed my hand with my mouth:
 \p
@@ -1562,7 +1598,7 @@
 \p
 \v 29 If I have been glad at the downfall of him that hated me, and have rejoiced that evil had found him.
 \p
-\v 30 For I have not been given my mouth to sin, by wishing a curse to his soul.
+\v 30 For I have not given my mouth to sin, by wishing a curse to his soul.
 \p
 \v 31 If the men of my tabernacle have not said: Who will give us of his flesh that we may be filled?
 \p
@@ -1582,9 +1618,10 @@
 \p
 \v 39 If I have eaten the fruits thereof without money, and have afflicted the son of the tillers thereof:
 \p
-\v 40 Let thistles grow up to me instead of wheat, and thorns instead of barley.
+\v 40 Let thistles grow up to me instead of wheat, and thorns instead of barley.\f + \fr 31:40 \ft The words of Job are ended.\f*
 \c 32
 \cl Job 32
+\cd Eliu is angry with Job and his friends. He boasts of himself.
 \p
 \v 1 So these three men ceased to answer Job, because he seemed just to himself.
 \p
@@ -1626,11 +1663,12 @@
 \p
 \v 20 I will speak and take breath a little: I will open my lips, and will answer.
 \p
-\v 21 I will not accept the person of man, and I will not level God with man.
+\v 21 I will not accept the person of man, and I will not level God with man.\f + \fr 32:21 \fk I will not level God with man: \ft Here Eliu considers that Job hath put himself on a level with God, by the manner he assumed to justify his own life in speaking to God as if he spoke to an equal: Eliu expresses in the following ver. 22 his fear of punishment hereafter for such an attempt.\f*
 \p
 \v 22 For I know not how long I shall continue, and whether after a while my Maker may take me away.
 \c 33
 \cl Job 33
+\cd Eliu blames Job for asserting his own innocence.
 \p
 \v 1 Hear therefore, O Job, my speeches, and hearken to all my words.
 \p
@@ -1699,6 +1737,7 @@
 \v 33 And if thou have not, hear me: hold thy peace, and I will teach thee wisdom.
 \c 34
 \cl Job 34
+\cd Eliu charges Job with blasphemy: and sets forth the power and justice of God.
 \p
 \v 1 And Eliu continued his discourse, and said:
 \p
@@ -1758,7 +1797,7 @@
 \p
 \v 29 For when he granteth peace, who is there that can condemn? When he hideth his countenance, who is there that can behold him, whether it regard nations, or all men?
 \p
-\v 30 Who maketh a man that is a hypocrite to reign for the sins of the people.
+\v 30 Who maketh a man that is a hypocrite to reign for the sins of the people?
 \p
 \v 31 Seeing then I have spoken of God, I will not hinder thee in thy turn.
 \p
@@ -1775,6 +1814,7 @@
 \v 37 Because he addeth blasphemy upon his sins, let him be tied fast in the mean time amongst us: and then let him provoke God to judgment with his speeches.
 \c 35
 \cl Job 35
+\cd Eliu declares that the good or evil done by man cannot reach God.
 \p
 \v 1 Moreover Eliu spoke these words:
 \p
@@ -1809,6 +1849,7 @@
 \v 16 Therefore Job openeth his mouth in vain, and multiplieth words without knowledge.
 \c 36
 \cl Job 36
+\cd Eliu proceeds in setting forth the justice and power of God.
 \p
 \v 1 Eliu also proceeded, and said:
 \p
@@ -1840,7 +1881,7 @@
 \p
 \v 15 He shall deliver the poor out of his distress, and shall open his ear in affliction.
 \p
-\v 16 Therefore he shall set thee at large out of the narrow mouth, and which hath no foundation under it: and the rest of thy table shall be full of fatness.
+\v 16 Therefore he shall set thee at large out of the narrow mouth, and which hath no foundation under it: and the rest of thy table shall be full of fatness.\f + \fr 36:16 \fk Out of the narrow mouth: \ft That is, out of hell, whose entrance is narrow, and its depth bottomless; but figuratively meant here, that is, from his miseries and calamity to be restored to his former state of happiness.\f*
 \p
 \v 17 Thy cause hath been judged as that of the wicked, cause and judgment thou shalt recover.
 \p
@@ -1850,7 +1891,7 @@
 \p
 \v 20 Prolong not the night that people may come up for them.
 \p
-\v 21 Beware thou turn not aside to iniquity: for this thou hast begun to follow after misery.
+\v 21 Beware thou turn not aside to iniquity: for this thou hast begun to follow after misery.\f + \fr 36:21 \fk For this thou hast begun to follow after misery: \ft Eliu charges Job, that notwithstanding his misery, he does not fear God as he ought: but in his judgment, falls into iniquity.\f*
 \p
 \v 22 Behold, God is high in his strength, and none is like him among the lawgivers.
 \p
@@ -1877,6 +1918,7 @@
 \v 33 He sheweth his friend concerning it, that it is his possession, and that he may come up to it.
 \c 37
 \cl Job 37
+\cd Eliu goes on in his discourse, shewing God's wisdom and power, by his wonderful works.
 \p
 \v 1 At this my heart trembleth, and is moved out of its place.
 \p
@@ -1890,7 +1932,7 @@
 \p
 \v 6 He commandeth the snow to go down upon the earth, and the winter rain, and the shower of his strength.
 \p
-\v 7 He sealeth up the hand of all men, that every one may know his works.
+\v 7 He sealeth up the hand of all men, that every one may know his works.\f + \fr 37:7 \fk He sealeth up, etc: \ft When he sends those showers of his strength, that is, those storms of rain, he seals up, that is, he shuts up the hands of men from their usual works abroad, and confines them within doors, to consider his works; or to forecast their works, that is, what they themselves are to do.\f*
 \p
 \v 8 Then the beast shall go into his covert, and shall abide in his den.
 \p
@@ -1916,7 +1958,7 @@
 \p
 \v 19 Shew us what we may say to him: or we are wrapped up in darkness.
 \p
-\v 20 Who shall tell him the things I speak? even if a man shall speak, he shall be swallowed up.
+\v 20 Who shall tell him the things I speak? even if a man shall speak, he shall be swallowed up.\f + \fr 37:20 \fk He shall be swallowed up: \ft All that man can say when he speaks of God, is so little and inconsiderable in comparison with the subject, that man is lost, and as it were swallowed up in so immense an ocean.\f*
 \p
 \v 21 But now they see not the light: the air on a sudden shall be thickened into clouds, and the wind shall pass and drive them away.
 \p
@@ -1927,8 +1969,9 @@
 \v 24 Therefore men shall fear him, and all that seem to themselves to be wise, shall not dare to behold him.
 \c 38
 \cl Job 38
+\cd God interposes and shews from the things he hath made, that man cannot comprehend his power and wisdom.
 \p
-\v 1 Then the Lord answered Job out of a whirlwind, and said:
+\v 1 Then the Lord answered Job out of a whirlwind, and said:\f + \fr 38:1 \fk The Lord: \ft That is, an angel speaking in the name of the Lord.\f*
 \p
 \v 2 Who is this that wrappeth up sentences in unskilful words?
 \p
@@ -1962,7 +2005,7 @@
 \p
 \v 17 Have the gates of death been opened to thee, and hast thou seen the darksome doors?
 \p
-\v 18 Hast thou considered the breadth of the earth? tell me, if thou knowest all things.
+\v 18 Hast thou considered the breadth of the earth? tell me, if thou knowest all things?
 \p
 \v 19 Where is the way where light dwelleth, and where is the place of darkness?
 \p
@@ -1988,7 +2031,7 @@
 \p
 \v 30 The waters are hardened like a stone, and the surface of the deep is congealed.
 \p
-\v 31 Shalt thou be able to join together the shining stars the Pleiades, or canst thou stop the turning about of Arcturus?
+\v 31 Shalt thou be able to join together the shining stars the Pleiades, or canst thou stop the turning about of Arcturus?\f + \fr 38:31 \fk Pleiades: \ft Hebrew, Cimah. A cluster of seven stars in the constellation Taurus or the Bull. Arcturus, a bright star in the constellation Bootes. The Hebrew name Cesil, is variously interpreted; by some, Orion; by others, the Great Bear is understood.\f*
 \p
 \v 32 Canst thou bring forth the day star in its time, and make the evening star to rise upon the children of the earth?
 \p
@@ -1998,7 +2041,7 @@
 \p
 \v 35 Canst thou send lightnings, and will they go, and will they return and say to thee: Here we are?
 \p
-\v 36 Who hath put wisdom in the heart of man? or who gave the cock understanding?
+\v 36 Who hath put wisdom in the heart of man? or who gave the cock understanding?\f + \fr 38:36 \fk Understanding: \ft That instinct by which he distinguishes the times of crowing in the night.\f*
 \p
 \v 37 Who can declare the order of the heavens, or who can make the harmony of heaven to sleep?
 \p
@@ -2011,6 +2054,7 @@
 \v 41 Who provideth food for the raven, when her young ones cry to God, wandering about, because they have no meat?
 \c 39
 \cl Job 39
+\cd The wonders of the power and providence of God in many of his creatures.
 \p
 \v 1 Knowest thou the time when the wild goats bring forth among the rocks, or hast thou observed the hinds when they fawn?
 \p
@@ -2078,11 +2122,12 @@
 \p
 \v 33 Then Job answered the Lord, and said:
 \p
-\v 34 What can I answer, who hath spoken inconsiderately? I will lay my hand upon my mouth.
+\v 34 What can I answer, who hath spoken inconsiderately? I will lay my hand upon my mouth.\f + \fr 39:34 \fk Spoken inconsiderately: \ft If we discuss all Job's words (saith St. Gregory), we shall find nothing impiously spoken; as may be gathered from the words of the Lord himself, chap. 42, ver. 7, 8; but what was reprehensible in him, was the manner of expressing himself at times, speaking too much of his own affliction, and too little of God's goodness towards him, which here he acknowledges as inconsiderate.\f*
 \p
 \v 35 One thing I have spoken, which I wish I had not said: and another, to which I will add no more.
 \c 40
 \cl Job 40
+\cd Of the power of God in the behemoth and the leviathan.
 \p
 \v 1 And the Lord answering Job out of the whirlwind, said:
 \p
@@ -2102,7 +2147,7 @@
 \p
 \v 9 Then I will confess that thy right hand is able to save thee.
 \p
-\v 10 Behold behemoth whom I made with thee, he eateth grass like an ox.
+\v 10 Behold behemoth whom I made with thee, he eateth grass like an ox.\f + \fr 40:10 \fk Behemoth: \ft In Hebrew, behema, which signifies in general an animal; but many authors explain, that here it is put for the elephant.\f*
 \p
 \v 11 His strength is in his loins, and his force in the navel of his belly.
 \p
@@ -2110,7 +2155,7 @@
 \p
 \v 13 His bones are like pipes of brass, his gristle like plates of iron.
 \p
-\v 14 He is the beginning of the ways of God, who made him, he will apply his sword.
+\v 14 He is the beginning of the ways of God, who made him, he will apply his sword.\f + \fr 40:14 \fk He will apply his sword: \ft This text is variously explained: some explain the sword, the horn given to the animal for his defence: others, the power that God hath given to the animal for his defence: others, the power that God hath given to man to slay him, notwithstanding his great size and strength.\f*
 \p
 \v 15 To him the mountains bring forth grass: there all the beasts of the field shall play.
 \p
@@ -2122,7 +2167,7 @@
 \p
 \v 19 In his eyes as with a hook he shall take him, and bore through his nostrils with stakes.
 \p
-\v 20 Canst thou draw out the leviathan with a hook, or canst thou tie his tongue with a cord?
+\v 20 Canst thou draw out the leviathan with a hook, or canst thou tie his tongue with a cord?\f + \fr 40:20 \fk Leviathan: \ft The whale or some sea monster.\f*
 \p
 \v 21 Canst thou put a ring in his nose, or bore through his jaw with a buckle?
 \p
@@ -2141,6 +2186,7 @@
 \v 28 Behold his hope shall fail him, and in the sight of all he shall be cast down.
 \c 41
 \cl Job 41
+\cd A further description of the leviathan.
 \p
 \v 1 I will not stir him up, like one that is cruel, for who can resist my countenance?
 \p
@@ -2172,7 +2218,7 @@
 \p
 \v 15 His heart shall be as hard as a stone, and as firm as a smith's anvil.
 \p
-\v 16 When he shall raise him up, the angels shall fear, and being affrighted shall purify themselves.
+\v 16 When he shall raise him up, the angels shall fear, and being affrighted shall purify themselves.\f + \fr 41:16 \fk Angels: \ft Elim, Hebrew: which signifies here, the mighty, the most valiant, shall fear this monstrous fish, and in their fear shall seek to be purified.\f*
 \p
 \v 17 When a sword shall lay at him, it shall not be able to hold, nor a spear, nor a breastplate.
 \p
@@ -2182,17 +2228,18 @@
 \p
 \v 20 As stubble will he esteem the hammer, and he will laugh him to scorn who shaketh the spear.
 \p
-\v 21 The beams of the sun shall be under him, and he shall strew gold under him like mire.
+\v 21 The beams of the sun shall be under him, and he shall strew gold under him like mire.\f + \fr 41:21 \fk Under him: \ft He shall not value the beams of the sun; and gold to him shall be like mire.\f*
 \p
 \v 22 He shall make the deep sea to boil like a pot, and shall make it as when ointments boil.
 \p
-\v 23 A path shall shine after him, he shall esteem the deep as growing old.
+\v 23 A path shall shine after him, he shall esteem the deep as growing old.\f + \fr 41:23 \fk The deep as growing old: \ft Growing hoary, as it were with the froth which he leaves behind him.\f*
 \p
 \v 24 There is no power upon earth that can be compared with him who was made to fear no one.
 \p
-\v 25 He beholdeth every high thing, he is king over all the children of pride.
+\v 25 He beholdeth every high thing, he is king over all the children of pride.\f + \fr 41:25 \fk He is king, etc: \ft He is superior in strength to all that are great and strong amongst living creatures: mystically it is understood of the devil, who is king over all the proud.\f*
 \c 42
 \cl Job 42
+\cd Job submits himself. God pronounces in his favour. Job offers sacrifice for his friends. He is blessed with riches and children, and dies happily,
 \p
 \v 1 Then Job answered the Lord, and said:
 \p

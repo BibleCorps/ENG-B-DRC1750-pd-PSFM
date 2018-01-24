@@ -1,17 +1,20 @@
-\id AMO ENG (p.sfm) -  <> Amos - Challoner Douay Rheims version of the Sacred Bible The Prophecy of Amos. The Holy Bible. Bishop Challoner's 18th century revision of the Douay Rheims version. Electronic edition 2004. Public domain.
+\id Amo ENG (p.sfm) - DRC1750 - Verify <>
 \ide UTF-8
 \h Amos
-\toc1 The Prophecy of Amos
+\toc1 THE PROPHECY OF AMOS
 \toc2 Amos
 \toc3 Amo
+\mt1 THE PROPHECY OF AMOS
+\im AMOS prophesied in Israel about the same time as OSEE: and was called from following the cattle to denounce GOD'S judgments to the people of Israel, and the neighbouring nations, for their repeated crimes, in which they continued without repentance.
 \c 1
 \cl Amos 1
+\cd The prophet threatens Damascus, Gaza, Tyre, Edom, and Ammon with the judgments of God, for their obstinacy in sin.
 \p
-\v 1 The words of Amos, who was among the herdsmen of Thecua: which he saw concerning Israel in the days of Ozias king of Juda, and in the days of Jeroboam the son of Joas king of Israel two years before the earthquake.
+\v 1 The words of Amos, who was among the herdsmen of Thecua: which he saw concerning Israel in the days of Ozias king of Juda, and in the days of Jeroboam the son of Joas king of Israel two years before the earthquake.\f + \fr 1:1 \fk The earthquake: \ft Many understand this of a great earthquake, which they say was felt at the time that king Ozias attempted to offer incense in the temple. But the best chronologists prove that the earthquake here spoken of must have been before that time: because Jeroboam the second, under whom Amos prophesied, was dead long before that attempt of Ozias.\f*
 \p
 \v 2 And he said: The Lord will roar from Sion, and utter his voice from Jerusalem: and the beautiful places of the shepherds have mourned, and the top of Carmel is withered.
 \p
-\v 3 Thus saith the Lord: For three crimes of Damascus, and for four I will not convert it: because they have thrashed Galaad with iron wains.
+\v 3 Thus saith the Lord: For three crimes of Damascus, and for four I will not convert it: because they have thrashed Galaad with iron wains.\f + \fr 1:3 \fk For three crimes--and for four: \ft That is, for their many unrepented of crimes.\f*\f + \fr 1:3 \fk I will not convert it: \ft That is, I will not spare them, nor turn away the punishments I design to inflict upon them.\f*
 \p
 \v 4 And I will send a fire into the house of Azael, and it shall devour the houses of Benadad.
 \p
@@ -35,9 +38,10 @@
 \p
 \v 14 And I will kindle a fire in the wall of Rabba: and it shall devour the houses thereof with shouting in the day of battle, and with a whirlwind in the day of trouble.
 \p
-\v 15 And Melchom shall go into captivity, both he, and his princes together, saith the Lord.
+\v 15 And Melchom shall go into captivity, both he, and his princes together, saith the Lord.\f + \fr 1:15 \fk Melchom: \ft The god or idol of the Ammonites, otherwise called Moloch, and Melech: which in Hebrew signifies a king, and Melchom their king.\f*
 \c 2
 \cl Amos 2
+\cd The judgments with which God threatens Moab, Juda, and Israel for their sins, and their ingratitude.
 \p
 \v 1 Thus saith the Lord: For three crimes of Moab, and for four I will not convert him: because he hath burnt the bones of the king of Edom even to ashes.
 \p
@@ -63,7 +67,7 @@
 \p
 \v 12 And you will present wine to the Nazarites: and command the prophets, saying: Prophesy not.
 \p
-\v 13 Behold, I will screak under you as a wain screaketh that is laden with hay.
+\v 13 Behold, I will screak under you as a wain screaketh that is laden with hay.\f + \fr 2:13 \fk I will screak: \ft Unable to bear any longer the enormous load of your sins, etc. The spirit of God, as St. Jerome takes notice, accommodates himself to the education of the prophet and inspires him with comparisons taken from country affairs.\f*
 \p
 \v 14 And flight shall perish from the swift, and the valiant shall not possess his strength, neither shall the strong save his life.
 \p
@@ -72,10 +76,11 @@
 \v 16 And the stout of heart among the valiant shall flee away naked in that day, saith the Lord.
 \c 3
 \cl Amos 3
+\cd The evils that shall fall upon Israel for their sins.
 \p
 \v 1 Hear the word that the Lord hath spoken concerning you, O ye children of Israel: concerning the whole family that I brought up out of the land of Egypt, saying:
 \p
-\v 2 You only have I known of all the families of the earth: therefore will I visit upon you all your iniquities.
+\v 2 You only have I known of all the families of the earth: therefore will I visit upon you all your iniquities.\f + \fr 3:2 \fk Visit upon: \ft That is, punish.\f*
 \p
 \v 3 Shall two walk together except they be agreed?
 \p
@@ -83,7 +88,7 @@
 \p
 \v 5 Will the bird fall into the snare upon the earth, if there be no fowler? Shall the snare be taken up from the earth, before it hath taken somewhat?
 \p
-\v 6 Shall the trumpet sound in a city, and the people not be afraid? Shall there be evil in a city, which the Lord hath not done?
+\v 6 Shall the trumpet sound in a city, and the people not be afraid? Shall there be evil in a city, which the Lord hath not done?\f + \fr 3:6 \fk Evil in a city: \ft He speaks of the evil of punishments of war, famine, pestilence, desolation, etc., but not of the evil of sin, of which God is not the author.\f*
 \p
 \v 7 For the Lord God doth nothing without revealing his secret to his servants the prophets.
 \p
@@ -104,12 +109,13 @@
 \v 15 And I will strike the winter house with the summer house: and the houses of ivory shall perish, and many houses shall be destroyed, saith the Lord.
 \c 4
 \cl Amos 4
+\cd The Israelites are reproved for their oppressing the poor, for their idolatry, and their incorrigibleness.
 \p
-\v 1 Hear this word, ye fat kine that are in the mountains of Samaria: you that oppress the needy, and crush the poor: that say to your masters: Bring, and we will drink.
+\v 1 Hear this word, ye fat kine that are in the mountains of Samaria: you that oppress the needy, and crush the poor: that say to your masters: Bring, and we will drink.\f + \fr 4:1 \fk Fat kine: \ft He means the great ones that lived in plenty and wealth.\f*
 \p
 \v 2 The Lord God hath sworn by his holiness, that lo, the days shall come upon you, when they shall lift you up on pikes, and what shall remain of you in boiling pots.
 \p
-\v 3 And you shall go out at the breaches one over against the other, and you shall be cast forth into Armon, saith the Lord.
+\v 3 And you shall go out at the breaches one over against the other, and you shall be cast forth into Armon, saith the Lord.\f + \fr 4:3 \fk Armon: \ft A foreign country; some understand it of Armenia.\f*
 \p
 \v 4 Come ye to Bethel, and do wickedly: to Galgal, and multiply transgressions: and bring in the morning your victims, your tithes in three days.
 \p
@@ -132,6 +138,7 @@
 \v 13 For behold he that formeth the mountains and createth the wind, and declareth his word to man, he that maketh the morning mist, and walketh upon the high places of the earth: the Lord the God of hosts is his name.
 \c 5
 \cl Amos 5
+\cd A lamentation for Israel: an exhortation to return to God.
 \p
 \v 1 Hear ye this word, which I take up concerning you for a lamentation. The house of Israel is fallen, and it shall rise no more.
 \p
@@ -141,15 +148,15 @@
 \p
 \v 4 For thus saith the Lord to the house of Israel: Seek ye me, and you shall live.
 \p
-\v 5 But seek not Bethel, and go not into Galgal, neither shall you pass over to Bersabee: for Galgal shall go into captivity, and Bethel shall be unprofitable.
+\v 5 But seek not Bethel, and go not into Galgal, neither shall you pass over to Bersabee: for Galgal shall go into captivity, and Bethel shall be unprofitable.\f + \fr 5:5 \fk Bethel,--Galgal,--Bersabee: \ft The places where they worshipped their idols.\f*
 \p
 \v 6 Seek ye the Lord, and live: lest the house of Joseph be burnt with fire, and it shall devour, and there shall be none to quench Bethel.
 \p
 \v 7 You that turn judgment into wormwood, and forsake justice in the land,
 \p
-\v 8 Seek him that maketh Arcturus, and Orion, and that turneth darkness into morning, and that changeth day into night: that calleth the waters of the sea, and poureth them out upon the face of the earth: The Lord is his name.
+\v 8 Seek him that maketh Arcturus, and Orion, and that turneth darkness into morning, and that changeth day into night: that calleth the waters of the sea, and poureth them out upon the face of the earth: The Lord is his name.\f + \fr 5:8 \fk Arcturus and Orion: \ft Arcturus is a bright star in the north: Orion a beautiful constellation in the south.\f*
 \p
-\v 9 He that with a smile bringeth destruction upon the strong, and waste upon the mighty.
+\v 9 He that with a smile bringeth destruction upon the strong, and waste upon the mighty.\f + \fr 5:9 \fk With a smile: \ft That is, with all ease, and without making any effort.\f*
 \p
 \v 10 They have hated him that rebuketh in the gate: and have abhorred him that speaketh perfectly.
 \p
@@ -181,13 +188,14 @@
 \p
 \v 24 But judgment shall be revealed as water, and justice as a mighty torrent.
 \p
-\v 25 Did you offer victims and sacrifices to me in the desert for forty years, O house of Israel?
+\v 25 Did you offer victims and sacrifices to me in the desert for forty years, O house of Israel?\f + \fr 5:25 \fk Did you offer, etc: \ft Except the sacrifices that were offered at the first, in the dedication of the tabernacle, the Israelites offered no sacrifices in the desert.\f*
 \p
-\v 26 But you carried a tabernacle for your Moloch, and the image of your idols, the star of your god, which you made to yourselves.
+\v 26 But you carried a tabernacle for your Moloch, and the image of your idols, the star of your god, which you made to yourselves.\f + \fr 5:26 \fk A tabernacle, etc: \ft All this alludes to the idolatry which they committed, when they were drawn away by the daughters of Moab to the worship of their gods. Num. 25.\f*
 \p
 \v 27 And I will cause you to go into captivity beyond Damascus, saith the Lord, the God of hosts is his name.
 \c 6
 \cl Amos 6
+\cd The desolation of Israel for their pride and luxury.
 \p
 \v 1 Woe to you that are wealthy in Sion, and to you that have confidence in the mountain of Samaria: ye great men, heads of the people, that go in with state into the house of Israel.
 \p
@@ -220,8 +228,9 @@
 \v 15 But behold, I will raise up a nation against you, O house of Israel, saith the Lord the God of hosts; and they shall destroy you from the entrance of Emath, even to the torrent of the desert.
 \c 7
 \cl Amos 7
+\cd The prophet sees, in three visions, evils coming upon Israel: he is accused of treason by the false priest of Bethel.
 \p
-\v 1 These things the Lord God shewed to me: and behold the locust was formed in the beginning of the shooting up of the latter rain, and lo, it was the latter rain after the king's mowing.
+\v 1 These things the Lord God shewed to me: and behold the locust was formed in the beginning of the shooting up of the latter rain, and lo, it was the latter rain after the king's mowing.\f + \fr 7:1 \fk The locust, etc: \ft These judgments by locusts and fire, which, by the prophet's intercession, were moderated, signify the former invasions of the Assyrians under Phul and Theglathphalasar, before the utter desolation of Israel by Salmanasar.\f*
 \p
 \v 2 And it came to pass, that when they had made an end of eating the grass of the land, I said: O Lord God, be merciful, I beseech thee: who shall raise up Jacob, for he is very little?
 \p
@@ -241,21 +250,22 @@
 \p
 \v 10 And Amasias the priest of Bethel sent to Jeroboam king of Israel, saying: Amos hath rebelled against thee in the midst of the house of Israel: the land is not able to bear all his words.
 \p
-\v 11 For thus saith Amos: Jeroboam shall die by the sword, and Israel shall be carried away captive out of their own land.
+\v 11 For thus saith Amos: Jeroboam shall die by the sword, and Israel shall be carried away captive out of their own land.\f + \fr 7:11 \fk Jeroboam shall die by the sword: \ft The prophet did not say this; but that the Lord would rise up against the house of Jeroboam with the sword: which was verified, when Zacharias, the son and successor of Jeroboam, was slain by the sword. 4 Kings 15.10.\f*
 \p
 \v 12 And Amasias said to Amos: Thou seer, go, flee away into the land of Juda: and eat bread there, and prophesy there.
 \p
 \v 13 But prophesy not again any more in Bethel: because it is the king's sanctuary, and it is the house of the kingdom.
 \p
-\v 14 And Amos answered and said to Amasias: I am not a prophet, nor am I the son of a prophet: but I am a herdsman plucking wild figs.
+\v 14 And Amos answered and said to Amasias: I am not a prophet, nor am I the son of a prophet: but I am a herdsman plucking wild figs.\f + \fr 7:14 \fk I am not a prophet: \ft That is, I am not a prophet by education: nor is prophesying my calling or profession: but I am a herdsman, whom God was pleased to send hither to prophesy to Israel.\f*
 \p
 \v 15 And the Lord took me when I followed the flock, and the Lord said to me: Go, prophesy to my people Israel.
 \p
-\v 16 And now hear thou the word of the Lord: Thou sayest, thou shalt not prophesy against Israel, and thou shalt not drop thy word upon the house of the idol.
+\v 16 And now hear thou the word of the Lord: Thou sayest, thou shalt not prophesy against Israel, and thou shalt not drop thy word upon the house of the idol.\f + \fr 7:16 \fk The house of the idol: \ft Viz., of the calf worshipped in Bethel.\f*
 \p
 \v 17 Therefore thus saith the Lord: Thy wife shall play the harlot in the city, and thy sons and thy daughters shall fall by the sword, and thy land shall be measured by a line: and thou shalt die in a polluted land, and Israel shall go into captivity out of their land.
 \c 8
 \cl Amos 8
+\cd Under the figure of a hook, which bringeth down the fruit, the approaching desolation of Israel is foreshewed for their avarice and injustices.
 \p
 \v 1 These things the Lord shewed to me: and behold a hook to draw down the fruit.
 \p
@@ -286,6 +296,7 @@
 \v 14 They that swear by the sin of Samaria, and say: Thy God, O Dan, liveth: and the way of Bersabee liveth: and they shall fall, and shall rise no more.
 \c 9
 \cl Amos 9
+\cd The certainty of the desolation of Israel: the restoring of the tabernacle of David, and the conversion of the Gentiles to the church; which shall flourish for ever.
 \p
 \v 1 I saw the Lord standing upon the altar, and he said: Strike the hinges, and let the lintels be shook: for there is covetousness in the head of them all, and I will slay the last of them with the sword: there shall be no flight for them: they shall flee, and he that shall flee of them shall not be delivered.
 \p
@@ -297,9 +308,9 @@
 \p
 \v 5 And the Lord the God of hosts is he who toucheth the earth, and it shall melt: and all that dwell therein shall mourn: and it shall rise up as a river, and shall run down as the river of Egypt.
 \p
-\v 6 He that buildeth his ascension in heaven, and hath founded his bundle upon the earth: who calleth the waters of the sea, and poureth them out upon the face of the earth, the Lord is his name.
+\v 6 He that buildeth his ascension in heaven, and hath founded his bundle upon the earth: who calleth the waters of the sea, and poureth them out upon the face of the earth, the Lord is his name.\f + \fr 9:6 \fk His ascension: \ft That is, his high throne.\f*\f + \fr 9:6 \fk His bundle: \ft That is, his church bound up together by the bands of one faith and communion.\f*
 \p
-\v 7 Are not you as the children of the Ethiopians unto me, O children of Israel, saith the Lord? did not I bring up Israel, out of the land of Egypt: and the Philistines out of Cappadocia, and the Syrians out of Cyrene?
+\v 7 Are not you as the children of the Ethiopians unto me, O children of Israel, saith the Lord? did not I bring up Israel, out of the land of Egypt: and the Philistines out of Cappadocia, and the Syrians out of Cyrene?\f + \fr 9:7 \fk As the children of the Ethiopians: \ft That is, as black as they, by your iniquities.\f*
 \p
 \v 8 Behold the eyes of the Lord God are upon the sinful kingdom, and I will destroy it from the face of the earth: but yet I will not utterly destroy the house of Jacob, saith the Lord.
 \p
@@ -311,9 +322,6 @@
 \p
 \v 12 That they may possess the remnant of Edom, and all nations, because my name is invoked upon them: saith the Lord that doth these things.
 \p
-\v 13 Behold the days come, saith the Lord, when the ploughman shall overtake the reaper, and the treader of grapes him that soweth seed: and the mountains shall drop sweetness, and every hill shall be tilled.
+\v 13 Behold the days come, saith the Lord, when the ploughman shall overtake the reaper, and the treader of grapes him that soweth seed: and the mountains shall drop sweetness, and every hill shall be tilled.\f + \fr 9:13 \fk Shall overtake, etc: \ft By this is meant the great abundance of spiritual blessings; which, as it were, by a constant succession, shall enrich the church of Christ.\f*
 \p
-\v 14 And I will bring back the captivity of my people Israel: and they shall build the abandoned cities, and inhabit them: and they shall plant vineyards, and drink the wine of them: and shall make gardens, and eat the fruits of them.
-\p
-\v 15 And I will plant them upon their own land: and I will no more pluck them out of their land which I have given them, saith the Lord thy God.
-\mte9 The Sacred Bible - The Prophecy of Amos
+\v 14 And I will bring back the captivity of my people Israel: and they shall build the abandoned cities, and inhabit them: and they shall plant vineyards, and drink the wine of them: and shall make gardens, and eat the fruits of them. And I will plant them upon their own land: and I will no more pluck them out of their land which I have given them, saith the Lord thy God.

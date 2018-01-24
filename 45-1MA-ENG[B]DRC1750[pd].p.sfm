@@ -1,11 +1,14 @@
-\id 1MA ENG (p.sfm) -  <> 1 Maccabees - Challoner Douay Rheims version of the Sacred Bible The First Book of Maccabees. The Holy Bible. Bishop Challoner's 18th century revision of the Douay Rheims version. Electronic edition 2004. Public domain.
+\id 1 M ENG (p.sfm) - DRC1750 - Verify <>
 \ide UTF-8
-\h 1 Maccabees
-\toc1 The First Book of Maccabees
-\toc2 1 Maccabees
-\toc3 1Mc
+\h 1 Machabees
+\toc1 THE FIRST BOOK OF MACHABEES
+\toc2 1 Machabees
+\toc3 1 M
+\mt1 THE FIRST BOOK OF MACHABEES
+\im These books are so called, because they contain the history of the people of God under the command of Judas Machabeus and his brethren: and he, as some will have it, was surnamed Machabeus, from carrying in his ensigns, or standards, those words of Exodus 15.11, Who is like to thee among the strong, O Lord: in which the initial letters, in the Hebrew, are M. C. B. E. I. It is not known who is the author of these books. But as to their authority, though they are not received by the Jews, saith St. Augustine, (lib. 18, De Civ. Dei, c. 36,) they are received by the church: who, in settling her canon of the scriptures, chose rather to be directed by the tradition she had received from the apostles of Christ, than by that of the scribes and Pharisees. And as the church has declared these two Books canonical, even in two general councils, viz., Florence and Trent, there can be no doubt of their authenticity.
 \c 1
-\cl 1 Maccabees 1
+\cl 1 Machabees 1
+\cd The reign of Alexander and his successors: Antiochus rifles and profanes the temple of God: and persecutes unto death all that will not forsake the law of God, and the religion of their fathers.
 \p
 \v 1 Now it came to pass, after that Alexander the son of Philip the Macedonian, who first reigned in Greece, coming out of the land of Cethim, had overthrown Darius, king of the Persians and Medes:
 \p
@@ -19,7 +22,7 @@
 \p
 \v 6 And after these things, he fell down upon his bed, and knew that he should die.
 \p
-\v 7 And he called his servants, the nobles that were brought up with him from his youth: and he divided his kingdom among them, while he was yet alive.
+\v 7 And he called his servants, the nobles that were brought up with him from his youth: and he divided his kingdom among them, while he was yet alive.\f + \fr 1:7 \fk Divided his kingdom, etc: \ft This is otherwise related by Q. Curtius; though he acknowledges that divers were of that opinion, and that it had been delivered by some authors, lib. 10. But here we find from the sacred text, that he was in error.\f*
 \p
 \v 8 And Alexander reigned twelve years, and he died.
 \p
@@ -27,7 +30,7 @@
 \p
 \v 10 And they all put crowns upon themselves after his death, and their sons after them, many years; and evils were multiplied in the earth.
 \p
-\v 11 And there came out of them a wicked root, Antiochus the Illustrious, the son of king Antiochus, who had been a hostage at Rome: and he reigned in the hundred and thirty-seventh year of the kingdom of the Greeks.
+\v 11 And there came out of them a wicked root, Antiochus the Illustrious, the son of king Antiochus, who had been a hostage at Rome: and he reigned in the hundred and thirty-seventh year of the kingdom of the Greeks.\f + \fr 1:11 \fk Antiochus the Illustrius: \ft Epiphanes, the younger son of Antiochus the Great, who usurped the kingdom, to the prejudice of his nephew Demetrius, son of his elder brother Seleucus Philopater.\f*\f + \fr 1:11 \fk Of the kingdom of the Greeks: \ft Counting, not from the beginning of the reign of Alexander, but from the first year of Seleucus Nicator.\f*
 \p
 \v 12 In those days there went out of Israel wicked men, and they persuaded many, saying: Let us go and make a covenant with the heathens that are round about us: for since we departed from them, many evils have befallen us.
 \p
@@ -65,7 +68,7 @@
 \p
 \v 29 And the land was moved for the inhabitants thereof, and all the house of Jacob was covered with confusion.
 \p
-\v 30 And after two full years, the king sent the chief collector of his tributes to the cities of Juda, and he came to Jerusalem with a great multitude.
+\v 30 And after two full years, the king sent the chief collector of his tributes to the cities of Juda, and he came to Jerusalem with a great multitude.\f + \fr 1:30 \fk The chief collector, etc: \ft Apollonius.\f*
 \p
 \v 31 And he spoke to them peaceable words in deceit; and they believed him.
 \p
@@ -75,13 +78,13 @@
 \p
 \v 34 And they took the women captive, and the children, and the cattle they possessed.
 \p
-\v 35 And they built the city of David with a great and strong wall, and with strong towers, and made it a fortress for them:
+\v 35 And they built the city of David with a great and strong wall, and with strong towers, and made it a fortress for them:\f + \fr 1:35 \fk The city of David: \ft That is, the castle of Sion.\f*
 \p
 \v 36 And they placed there a sinful nation, wicked men, and they fortified themselves therein: and they stored up armour; and victuals, and gathered together the spoils of Jerusalem;
 \p
 \v 37 And laid them up there: and they became a great snare.
 \p
-\v 38 And this was a place to lie in wait against the sanctuary, and an evil devil in Israel.
+\v 38 And this was a place to lie in wait against the sanctuary, and an evil devil in Israel.\f + \fr 1:38 \fk An evil devil: \ft That is, an adversary watching constantly to do harm, as the evil spirit is always watching and seeking whom he may devour.\f*
 \p
 \v 39 And they shed innocent blood round about the sanctuary, and defiled the holy place.
 \p
@@ -119,7 +122,7 @@
 \p
 \v 56 And they drove away the people of Israel into lurking holes, and into the secret places of fugitives.
 \p
-\v 57 On the fifteenth day of the month, Casleu, in the hundred and forty-fifth year, king Antiochus set up the abominable idol of desolation upon the altar of God, and they built altars throughout all the cities of Juda round about:
+\v 57 On the fifteenth day of the month, Casleu, in the hundred and forty-fifth year, king Antiochus set up the abominable idol of desolation upon the altar of God, and they built altars throughout all the cities of Juda round about:\f + \fr 1:57 \fk The abominable idol, etc: \ft Viz., the statue of Jupiter Olympius.\f*
 \p
 \v 58 And they burnt incense, and sacrificed at the doors of the houses and in the streets.
 \p
@@ -141,7 +144,8 @@
 \p
 \v 67 And there was very great wrath upon the people.
 \c 2
-\cl 1 Maccabees 2
+\cl 1 Machabees 2
+\cd The zeal and success of Mathathias. His exhortation to his sons at his death.
 \p
 \v 1 In those days arose Mathathias, the son of John, the son of Simeon, a priest of the sons of Joarib, from Jerusalem, and he abode in the mountain of Modin:
 \p
@@ -225,7 +229,7 @@
 \p
 \v 41 And they determined in that day, saying: Whosoever shall come up against us to fight on the sabbath day, we will fight against him: and we will not all die, as our brethren that were slain in the secret places.
 \p
-\v 42 Then was assembled to them the congregation of the Assideans, the stoutest of Israel, every one that had a good will for the law.
+\v 42 Then was assembled to them the congregation of the Assideans, the stoutest of Israel, every one that had a good will for the law.\f + \fr 2:42 \fk The Assideans: \ft A set of men that led a religious life; and were zealous for the law and worship of God.\f*
 \p
 \v 43 And all they that fled from the evils, joined themselves to them, and were a support to them.
 \p
@@ -237,7 +241,7 @@
 \p
 \v 47 And they pursued after the children of pride, and the work prospered in their hands:
 \p
-\v 48 And they recovered the law out of the hands of the nations, and out of the hands of the kings: and they yielded not the horn to the sinner.
+\v 48 And they recovered the law out of the hands of the nations, and out of the hands of the kings: and they yielded not the horn to the sinner.\f + \fr 2:48 \fk They yielded not the horn, etc: \ft That is, they suffered not the power of Antiochus, that man of sin, to abolish the law and religion of God.\f*
 \p
 \v 49 Now the days drew near that Mathathias should die, and he said to his sons: Now hath pride and chastisement gotten strength, and the time of destruction, and the wrath of indignation:
 \p
@@ -251,7 +255,7 @@
 \p
 \v 54 Phinees, our father, by being fervent in the zeal of God, received the covenant of an everlasting priesthood.
 \p
-\v 55 Jesus, whilst he fulfilled the word, was made ruler in Israel.
+\v 55 Jesus, whilst he fulfilled the word, was made ruler in Israel.\f + \fr 2:55 \fk Jesus: \ft That is, Josue.\f*
 \p
 \v 56 Caleb, for bearing witness before the congregation, received an inheritance.
 \p
@@ -283,7 +287,8 @@
 \p
 \v 70 And he died in the hundred and forty-sixth year: and he was buried by his sons in the sepulchres of his fathers, in Modin, and all Israel mourned for him with great mourning.
 \c 3
-\cl 1 Maccabees 3
+\cl 1 Machabees 3
+\cd Judas Machabeus succeeds his father, and overthrows Apollonius and Seron. A great army is sent against him out of Syria. He prepares his people for battle by fasting and prayer.
 \p
 \v 1 Then his son Judas, called Machabeus, rose up in his stead.
 \p
@@ -391,21 +396,22 @@
 \p
 \v 53 How shall we be able to stand before their face, unless thou, O God, help us?
 \p
-\v 54 Then they sounded with trumpets, and cried out with a loud voice.
+\v 64 Then they sounded with trumpets, and cried out with a loud voice.
 \p
-\v 55 And after this, Judas appointed captains over the people, over thousands, and over hundreds, and over fifties, and over tens.
+\v 66 And after this, Judas appointed captains over the people, over thousands, and over hundreds, and over fifties, and over tens.
 \p
-\v 56 And he said to them that were building houses, or had betrothed wives, or were planting vineyards, or were fearful, that they should return every man to his house, according to the law.
+\v 66 And he said to them that were building houses, or had betrothed wives, or were planting vineyards, or were fearful, that they should return every man to his house, according to the law.
 \p
-\v 57 So they removed the camp, and pitched on the south side of Emmaus.
+\v 67 So they removed the camp, and pitched on the south side of Emmaus.
 \p
-\v 58 And Judas said: Gird yourselves, and be valiant men, and be ready against the morning, that you may fight with these nations that are assembled against us to destroy us and our sanctuary.
+\v 68 And Judas said: Gird yourselves, and be valiant men, and be ready against the morning, that you may fight with these nations that are assembled against us to destroy us and our sanctuary.
 \p
 \v 59 For it is better for us to die in battle, than to see the evils of our nation, and of the holies:
 \p
 \v 60 Nevertheless, as it shall be the will of God in heaven, so be it done.
 \c 4
-\cl 1 Maccabees 4
+\cl 1 Machabees 4
+\cd Judas routs the king's army. Gorgias flies before him. Lysias comes against him with a great army, but is defeated. Judas cleanses the temple, sets up a new altar, and fortifies the sanctuary.
 \p
 \v 1 Then Gorgias took five thousand men, and a thousand of the best horsemen; and they removed out of the camp by night.
 \p
@@ -413,11 +419,11 @@
 \p
 \v 3 And Judas heard of it, and rose up, he and the valiant men, to attack the king's forces that were in Emmaus.
 \p
-\v 4 For as yet the army was dispersed from the camp
+\v 4 For as yet the army was dispersed from the camp\f + \fr 4:4 \fk The army was dispersed: \ft That is, in different divisions, not altogether encamped.\f*
 \p
 \v 5 And Gorgias came by night into the camp of Judas, and found no man; and he sought them in the mountains: for he said: These men flee from us.
 \p
-\v 6 And when it was day, Judas shewed himself in the plain with three thousand men only, who neither had armour nor swords:
+\v 6 And when it was day, Judas shewed himself in the plain with three thousand men only, who neither had armour nor swords:\f + \fr 4:6 \fk Who neither had armour nor swords: \ft Such as they wished for.\f*
 \p
 \v 7 And they saw the camp of the Gentiles that it was strong, and the men in breastplates, and the horsemen round about them, and these were trained up to war.
 \p
@@ -529,7 +535,8 @@
 \p
 \v 61 And he placed a garrison there, to keep it, and he fortified it, to secure Bethsura, that the people might have a defence against Idumea.
 \c 5
-\cl 1 Maccabees 5
+\cl 1 Machabees 5
+\cd Judas and his brethren attack the enemies of their country, and deliver them that were distressed. Josephus and Azarius, attempting contrary to order to fight against their enemies, are defeated.
 \p
 \v 1 Now it came to pass, when the nations round about heard that the altar and the sanctuary were built up, as before, that they were exceeding angry.
 \p
@@ -667,7 +674,8 @@
 \p
 \v 68 And Judas turned to Azotus, into the land of the strangers, and he threw down their altars, and he burnt the statues of their gods with fire: and he took the spoils of the cities, and returned into the land of Juda.
 \c 6
-\cl 1 Maccabees 6
+\cl 1 Machabees 6
+\cd The fruitless repentance and death of Antiochus. His son comes against Judas with a formidable army. He besieges Sion: but at last makes peace with the Jews.
 \p
 \v 1 Now king Antiochus was going through the higher countries, and he heard that the city of Elymais in Persia, was greatly renowned, and abounding in silver and gold,
 \p
@@ -729,7 +737,7 @@
 \p
 \v 30 And the number of his army was an hundred thousand footmen, and twenty thousand horsemen, and thirty-two elephants trained to battle.
 \p
-\v 31 And they went through Idumea, and approached to Bethsura, and fought many days, and they made engines: but they sallied forth, and burnt them with fire, and fought manfully.
+\v 31 And they went through Idumea, and approached to Bethsura, and fought many days, and they made engines: but they sallied forth, and burnt them with fire, and fought manfully.\f + \fr 6:31 \fk But they sallied forth: \ft That is, the citizens of Bethsura sallied forth and burnt them, that is, burnt the engines of the besiegers.\f*
 \p
 \v 32 And Judas departed from the castle, and removed the camp to Bethzacharam, over against the king's camp.
 \p
@@ -739,7 +747,7 @@
 \p
 \v 35 And they distributed the beasts by the legions: and there stood by every elephant a thousand men in coats of mail, and with helmets of brass on their heads: and five hundred horsemen set in order were chosen for every beast.
 \p
-\v 36 These before the time wheresoever the beast was they were there: and whithersoever it went, they went, and they departed not from it.
+\v 36 These before the time wheresoever the beast was they were there: and whithersoever it went, they went, and they departed not from it.\f + \fr 6:36 \fk These before the time: \ft That is, these were ready for every occasion.\f*
 \p
 \v 37 And upon the beast, there were strong wooden towers which covered every one of them: and engines upon them, and upon every one thirty-two valiant men, who fought from above: and an Indian to rule the beast.
 \p
@@ -795,7 +803,8 @@
 \p
 \v 63 And he departed in haste and returned to Antioch, where he found Philip master of the city: and he fought against him, and took the city.
 \c 7
-\cl 1 Maccabees 7
+\cl 1 Machabees 7
+\cd Demetrius is made king, and sends Bacchides and Alcimus the priest into Judea, and after them Nicanor, who is slain by Judas with all his army.
 \p
 \v 1 In the hundred and fifty-first year, Demetrius, the son of Seleucus, departed from the city of Rome, and came up with few men into a city of the sea coast, and reigned there.
 \p
@@ -897,23 +906,24 @@
 \p
 \v 50 And the land of Juda was quiet for a short time.
 \c 8
-\cl 1 Maccabees 8
+\cl 1 Machabees 8
+\cd Judas hears of the great character of the Romans: he makes a league with them.
 \p
 \v 1 Now Judas heard of the fame of the Romans, that they are powerful and strong, and willingly agree to all things that are requested of them: and that whosoever have come to them, they have made amity with them, and that they are mighty in power.
 \p
-\v 2 And they heard of their battles, and their noble acts which they had done in Galatia, how they had conquered them, and brought them under tribute:
+\v 2 And they heard of their battles, and their noble acts which they had done in Galatia, how they had conquered them, and brought them under tribute:\f + \fr 8:2 \fk They heard, etc: \ft What is here set down of the history and character of the ancient Romans, is not an assertion, or affirmation of the sacred writer: but only a relation of what Judas had heard of them.\f*
 \p
 \v 3 And how great things they had done in the land of Spain, and that they had brought under their power the mines of silver and of gold that are there, and had gotten possession of all the place by their counsel and patience:
 \p
 \v 4 And had conquered places that were very far off from them, and kings that came against them from the ends of the earth, and had overthrown them with great slaughter: and the rest pay them tribute every year.
 \p
-\v 5 And that they had defeated in battle Philip and Perses the king of the Ceteans, and the rest that had borne arms against them, and had conquered them:
+\v 5 And that they had defeated in battle Philip and Perses the king of the Ceteans, and the rest that had borne arms against them, and had conquered them:\f + \fr 8:5 \fk Ceteans: \ft That is, the Macedonians.\f*
 \p
 \v 6 And how Antiochus, the great king of Asia, who went to fight against them, having a hundred and twenty elephants, with horsemen, and chariots, and a very great army, was routed by them.
 \p
 \v 7 And how they took him alive, and appointed to him, that both he and they that should reign after him, should pay a great tribute, and that he should give hostages, and that which was agreed upon,
 \p
-\v 8 And the country of the Indians, and of the Medes, and of the Lydians, some of their best provinces: and those which they had taken from them, they gave to king Eumenes.
+\v 8 And the country of the Indians, and of the Medes, and of the Lydians, some of their best provinces: and those which they had taken from them, they gave to king Eumenes.\f + \fr 8:8 \fk Eumenes: \ft King of Pergamus.\f*
 \p
 \v 9 And that they who were in Greece, had a mind to go and to destroy them: and they had knowledge thereof,
 \p
@@ -929,7 +939,7 @@
 \p
 \v 15 And that they had made themselves a senate house, and consulted daily three hundred and twenty men, that sat in counsel always for the people, that they might do the things that were right:
 \p
-\v 16 And that they committed their government to one man every year, to rule over all their country, and they all obey one, and there is no envy nor jealousy amongst them.
+\v 16 And that they committed their government to one man every year, to rule over all their country, and they all obey one, and there is no envy nor jealousy amongst them.\f + \fr 8:16 \fk To one man: \ft There were two consuls: but one only ruled at one time, each in his day.\f*\f + \fr 8:16 \fk No envy, etc: \ft So Judas had heard: and it was so far true, with regard to the ancient Romans, that as yet no envy or jealousy had divided them into such open factions and civil wars, as they afterwards experienced in the time of Marius and Sylla, etc.\f*
 \p
 \v 17 So Judas chose Eupolemus, the son of John, the son of Jacob, and Jason, the son of Eleazar, and he sent them to Rome to make a league of amity and confederacy with them:
 \p
@@ -963,7 +973,8 @@
 \p
 \v 32 If, therefore, they come again to us complaining of thee, we will do them justice, and will make war against thee by sea and land.
 \c 9
-\cl 1 Maccabees 9
+\cl 1 Machabees 9
+\cd Bacchides is sent again into Judea: Judas fights against him with eight hundred men and is slain. Jonathan succeeds him and revenges the murder of his brother John. He fights against Bacchides. Alcimus dies miserably. Bacchides besieges Bethbessen. He is forced to raise the siege and leave the country.
 \p
 \v 1 In the mean time, when Demetrius heard that Nicanor and his army were fallen in battle, he sent again Bacchides and Alcimus into Judea; and the right wing of his army with them.
 \p
@@ -1111,7 +1122,8 @@
 \p
 \v 73 So the sword ceased from Israel: and Jonathan dwelt in Machmas, and Jonathan began there to judge the people, and he destroyed the wicked out of Israel.
 \c 10
-\cl 1 Maccabees 10
+\cl 1 Machabees 10
+\cd Alexander Bales sets himself up for king: both he and Demetrius seek to make Jonathan their friend. Alexander kills Demetrius in battle, and honours Jonathan. His victory over Apollonius.
 \p
 \v 1 Now in the hundred and sixtieth year, Alexander, the son of Antiochus, surnamed the Illustrious, came up and took Ptolemais, and they received him, and he reigned there.
 \p
@@ -1213,7 +1225,7 @@
 \p
 \v 50 And the battle was hard fought, till the sun went down: and Demetrius was slain that day.
 \p
-\v 51 And Alexander sent ambassadors to Ptolemee king of Egypt, with words to this effect, saying:
+\v 51 And Alexander sent ambassadors to Ptolemee king of Egypt, with words to this effect, saying:\f + \fr 10:51 \fk Ptolemee: \ft Surnamed Philometer.\f*
 \p
 \v 52 Forasmuch as I am returned into my kingdom and am set in the throne of my ancestors, and have gotten the dominion, and have overthrown Demetrius and possessed our country,
 \p
@@ -1291,7 +1303,8 @@
 \p
 \v 89 And he sent him a buckle of gold, as the custom is, to be given to such as are of the royal blood. And he gave him Accaron, and all the borders thereof, in possession.
 \c 11
-\cl 1 Maccabees 11
+\cl 1 Machabees 11
+\cd Ptolemee invades the kingdom of Alexander: the latter is slain: and the former dies soon after. Demetrius honours Jonathan, and is rescued by the Jews from his own subjects in Antioch. Antiochus the younger favours Jonathan. His exploits in divers places.
 \p
 \v 1 And the king of Egypt gathered together an army, like the sand that lieth upon the sea shore, and many ships: and he sought to get the kingdom of Alexander by deceit, and join it to his own kingdom.
 \p
@@ -1299,7 +1312,7 @@
 \p
 \v 3 Now when Ptolemee entered into the cities, he put garrisons of soldiers in every city.
 \p
-\v 4 And when he came near to Azotus, they shewed him the temple of Dagon that was burnt with fire, and Azotus, and the suburbs thereof, that were destroyed, and the bodies that were cast abroad, and the graves of them that were slain in the battle, which they had made near the way.
+\v 4 And when he came near to Azotns, they shewed him the temple of Dagon that was burnt with fire, and Azotus, and the suburbs thereof, that were destroyed, and the bodies that were cast abroad, and the graves of them that were slain in the battle, which they had made near the way.
 \p
 \v 5 And they told the king that Jonathan had done these things, to make him odious: but the king held his peace.
 \p
@@ -1359,7 +1372,7 @@
 \p
 \v 33 We have determined to do good to the nation of the Jews, who are our friends, and keep the things that are just with us, for their good will which they bear towards us.
 \p
-\v 34 We have ratified, therefore, unto them all the borders of Judea, and the three cities, Apherema, Lydda, and Ramatha, which are added to Judea, out of Samaria, and all their confines, to be set apart to all them that sacrifice in Jerusalem, instead of the payments which the king received of them every year, and for the fruits of the land, and of the trees.
+\v 34 We have ratified, therefore, unto them all the borders of Judea, and the three cities, Apherema, Lydda, and Ramatha, which are added to Judea, out of Samaria, and all their confines, to be set apart to all them that sacrifice in Jerusalem, instead of the payments which the king received of them every year, and for the fruits of the land, and of the trees.\f + \fr 11:34 \fk Apherema: \ft is found only in the Greek version.\f*
 \p
 \v 35 And as for other things that belonged to us of the tithes, and of the tributes, from this time we discharge them of them: the saltpans also, and the crowns that were presented to us.
 \p
@@ -1441,7 +1454,8 @@
 \p
 \v 74 And there fell of the aliens in that day three thousand men: and Jonathan returned to Jerusalem.
 \c 12
-\cl 1 Maccabees 12
+\cl 1 Machabees 12
+\cd Jonathan renews his league with the Romans and Lacedemonians. The forces of Demetrius flee away from him. He is deceived and made prisoner by Tryphon.
 \p
 \v 1 And Jonathan saw that the time served him, and he chose certain men, and sent them to Rome, to confirm and to renew the amity with them:
 \p
@@ -1551,7 +1565,8 @@
 \p
 \v 54 They have no prince, nor any to help them: now therefore, let us make war upon them, and take away the memory of them from amongst men.
 \c 13
-\cl 1 Maccabees 13
+\cl 1 Machabees 13
+\cd Simon is made captain general in the room of his brother. Jonathan is slain by Tryphon. Simon is favoured by Demetrius: he taketh Gaza, and the castle of Jerusalem.
 \p
 \v 1 Now Simon heard that Tryphon was gathering together a very great army to invade the land of Juda, and to destroy it.
 \p
@@ -1591,7 +1606,7 @@
 \p
 \v 19 So he sent the children and the hundred talents and he lied, and did not let Jonathan go.
 \p
-\v 20 And after this, Tryphon entered within the country, to destroy it: and they went about by the way that leadeth to Ador: and Simon and his army marched to every place whithersoever they went.
+\v 20 And after this, Tryphon entered within the country, to destroy it: and they went about by the way that leadeth to Ador: and Simon and his army marched to every place whithersoever they went.\f + \fr 13:20 \fk Simon and his army marched to every place whithersoever they went: \ft That is, whithersoever Tryphon and his horsemen went in order to oppose them.\f*
 \p
 \v 21 And they that were in the castle, sent messengers to Tryphon, that he should make haste to come through the desert, and send them victuals.
 \p
@@ -1661,7 +1676,8 @@
 \p
 \v 54 And Simon saw that John, his son, was a valiant man for war: and he made him captain of all the forces: and he dwelt in Gazara.
 \c 14
-\cl 1 Maccabees 14
+\cl 1 Machabees 14
+\cd Demetrius is taken by the king of Persia. Judea flourishes under the government of Simon.
 \p
 \v 1 In the year one hundred and seventy-two king Demetrius assembled his army, and went into Media to get him succours to fight against Tryphon.
 \p
@@ -1761,7 +1777,8 @@
 \p
 \v 49 And that a copy thereof should be put in the treasury, that Simon, and his sons, may have it.
 \c 15
-\cl 1 Maccabees 15
+\cl 1 Machabees 15
+\cd Antiochus son of Demetrius honours Simon. The Romans write to divers nations in favour of the Jews. Antiochus quarrels with Simon, and sends troops to annoy him.
 \p
 \v 1 And king Antiochus, the son of Demetrius, sent letters from the isles of the sea to Simon, the priest, and prince of the nation of the Jews, and to all the people:
 \p
@@ -1793,7 +1810,7 @@
 \p
 \v 15 And Numenius, and they that had been with him, came from the city of Rome, having letters written to the kings, and countries, the contents whereof were these:
 \p
-\v 16 Lucius, the consul of the Romans, to king Ptolemee, greeting.
+\v 16 Lucius, the consul of the Romans, to king Ptolemee, greeting.\f + \fr 15:16 \fk Ptolemee: \ft Surnamed Physeon, brother and successor to Philometer.\f*
 \p
 \v 17 The ambassadors of the Jews, our friends, came to us, to renew the former friendship and alliance, being sent from Simon, the high priest, and the people of the Jews.
 \p
@@ -1805,7 +1822,7 @@
 \p
 \v 21 If, therefore, any pestilent men are fled out of their country to you, deliver them to Simon, the high priest, that he may punish them according to their law.
 \p
-\v 22 These same things were written to king Demetrius, and to Attalus, and to Ariarathes, and to Arsaces,
+\v 22 These same things were written to king Demetrius, and to Attalus, and to Ariarathes, and to Arsaces,\f + \fr 15:22 \fk Attalus, etc: \ft Attalus was king of Pergamus; Ariarathes was king of Cappadocia; and Arsaces was king of the Parthians.\f*
 \p
 \v 23 And to all the countries: and to Lampsacus and to the Spartans, and to Delus, and Myndus, and Sicyon, and Caria, and Samus, and Pamphylia, and Lycia, and Alicarnassus, and Cos, and Side, and Aradus, and Rhodes, and Phaselis, and Gortyna, and Gnidus, and Cyprus, and Cyrene.
 \p
@@ -1845,9 +1862,10 @@
 \p
 \v 41 And he placed there horsemen, and an army: that they might issue forth, and make incursions upon the ways of Judea, as the king had commanded him.
 \c 16
-\cl 1 Maccabees 16
+\cl 1 Machabees 16
+\cd The sons of Simon defeat the troops of Antiochus. Simon with two of his sons are treacherously murdered by Ptolemee his son in law.
 \p
-\v 1 Then John came up from Gazara, and told Simon, his father, what Cendebeus had done against their people.
+\v 1 Then John came up from Gazara, and told Simon, his father, what Cendebeus had done against their people.\f + \fr 16:1 \fk John: \ft He was afterwards surnamed Hircanus, and succeeded his father in both his dignities of high priest and prince. He conquered the Edomites, and obliged them to a conformity with the Jews in religion; and destroyed the schismatical temple of the Samaritans.\f*
 \p
 \v 2 And Simon called his two eldest sons, Judas and John, and said to them: I and my brethren, and my father's house, have fought against the enemies of Israel from our youth even to this day: and things have prospered so well in our hands, that we have delivered Israel oftentimes.
 \p
@@ -1857,13 +1875,13 @@
 \p
 \v 5 And they arose in the morning, and went into the plain: and behold a very great army of footmen and horsemen came against them, and there was a running river between them.
 \p
-\v 6 And he and his people pitched their camp over against them, and he saw that the people were afraid to go over the river, so he went over first: then the men seeing him, passed over after him.
+\v 6 And he and his people pitched their camp over against them, and he saw that the people were afraid to go over the river, so he went over first: then the men seeing him, passed over after him.\f + \fr 16:6 \fk He: \ft Viz., John.\f*
 \p
 \v 7 And he divided the people, and set the horsemen in the midst of the footmen: but the horsemen of the enemies were very numerous.
 \p
 \v 8 And they sounded the holy trumpets: and Cendebeus and his army were put to flight: and there fell many of them wounded, and the rest fled into the strong hold.
 \p
-\v 9 At that time, Judas, John's brother, was wounded: but John pursued after them, till he came to Cedron, which he had built:
+\v 9 At that time, Judas, John's brother, was wounded: but John pursued after them, till he came to Cedron, which he had built:\f + \fr 16:9 \fk Cedron: \ft Otherwise called Gedon, the city that Cendebeus was fortifying.\f*
 \p
 \v 10 And they fled even to the towers that were in the fields of Azotus, and he burnt them with fire. And there fell of them two thousand men, and he returned into Judea in peace.
 \p
@@ -1894,4 +1912,3 @@
 \v 23 And as concerning the rest of the acts of John, and his wars, and the worthy deeds, which he bravely achieved, and the building of the walls, which he made, and the things that he did:
 \p
 \v 24 Behold, these are written in the book of the days of his priesthood, from the time that he was made high priest after his father.
-\mte9 The Sacred Bible - The First Book of Maccabees

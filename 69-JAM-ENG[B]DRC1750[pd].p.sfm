@@ -1,15 +1,18 @@
-\id JAS ENG (p.sfm) -  <> James - Challoner Douay Rheims version of the Sacred Bible The Letter of James. The Holy Bible. Bishop Challoner's 18th century revision of the Douay Rheims version. Electronic edition 2004. Public domain.
+\id Jam ENG (p.sfm) - DRC1750 - Verify <>
 \ide UTF-8
 \h James
-\toc1 The Letter of James
+\toc1 THE CATHOLIC EPISTLE OF ST. JAMES THE APOSTLE
 \toc2 James
-\toc3 Jas
+\toc3 Jam
+\mt1 THE CATHOLIC EPISTLE OF ST. JAMES THE APOSTLE
+\im This Epistle is called Catholic or Universal, as formerly were also the two Epistles of St. Peter, the first of St. John and that of St. Jude, because they were not written to any peculiar people or particular person, but to the faithful in general. It was written by the apostle St. James, called the Less, who was also called the brother of our Lord, being his kinsman (for cousins german with the Hebrews were called brothers). He was the first Bishop of Jerusalem. In this Epistle are set forth many precepts appertaining to faith and morals; particularly, that faith without good works will not save a man and that true wisdom is given only from above. In the fifth chapter he publishes the sacrament of anointing the sick. It was written a short time before his martyrdom, about twenty-eight years after our Lord's Ascension.
 \c 1
 \cl James 1
+\cd The benefit of tribulations. Prayer with faith. God is the author of all good, but not of evil. We must be slow to anger and not hearers only, but doers of the word. Of bridling the tongue and of pure religion.
 \p
 \v 1 James, the servant of God and of our Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting.
 \p
-\v 2 My brethren, count it all joy, when you shall fall into divers temptations:
+\v 2 My brethren, count it all joy, when you shall fall into divers temptations:\f + \fr 1:2 \fk Into divers temptations: \ft The word temptation, in this epistle, is sometimes taken for trials by afflictions or persecutions, as in this place: at other times, it is to be understood, tempting, enticing, or drawing others into sin.\f*
 \p
 \v 3 Knowing that the trying of your faith worketh patience
 \p
@@ -41,7 +44,7 @@
 \p
 \v 17 Every best gift and every perfect gift is from above, coming down from the Father of lights, with whom there is no change nor shadow of alteration.
 \p
-\v 18 For of his own will hath he begotten us by the word of truth, that we might be some beginning of his creature.
+\v 18 For of his own will hath he begotten us by the word of truth, that we might be some beginning of his creature.\f + \fr 1:18 \fk Some beginning: \ft That is, a kind of first fruits of his creatures.\f*
 \p
 \v 19 You know, my dearest brethren. And let every man be swift to hear, but slow to speak and slow to anger.
 \p
@@ -62,8 +65,9 @@
 \v 27 Religion clean and undefiled before God and the Father is this: to visit the fatherless and widows in their tribulation and to keep one's self unspotted from this world.
 \c 2
 \cl James 2
+\cd Against respect of persons. The danger of transgressing one point of the law. Faith is dead without works.
 \p
-\v 1 My brethren, have not the faith of our Lord Jesus Christ of glory, with respect of persons.
+\v 1 My brethren, have not the faith of our Lord Jesus Christ of glory, with respect of persons.\f + \fr 2:1 \fk With respect of persons: \ft The meaning is, that in matters relating to faith, the administering of the sacraments, and other spiritual functions in God's church, there should be no respect of persons; but that the souls of the poor should be as much regarded as those of the rich. See Deut. 1.17.\f*
 \p
 \v 2 For if there shall come into your assembly a man having a golden ring, in fine apparel; and there shall come in also a poor man in mean attire:
 \p
@@ -81,7 +85,7 @@
 \p
 \v 9 But if you have respect to persons, you commit sin, being reproved by the law as transgressors.
 \p
-\v 10 And whosoever shall keep the whole law, but offend in one point, is become guilty of all.
+\v 10 And whosoever shall keep the whole law, but offend in one point, is become guilty of all.\f + \fr 2:10 \fk Guilty of all;: \ft That is, he becomes a transgressor of the law in such a manner, that the observing of all other points will not avail him to salvation; for he despises the lawgiver, and breaks through the great and general commandment of charity, even by one mortal sin. For all the precepts of the law are to be considered as one total and entire law, and as it were a chain of precepts, where, by breaking one link of this chain, the whole chain is broken, or the integrity of the law consisting of a collection of precepts. A sinner, therefore, by a grievous offence against any one precept, incurs eternal punishment; yet the punishment in hell shall be greater for those who have been greater sinners, as a greater reward shall be for those in heaven who have lived with greater sanctity and perfection.\f*
 \p
 \v 11 For he that said: Thou shalt not commit adultery, said also: Thou shalt not kill. Now if thou do not commit adultery, but shalt kill, thou art become a transgressor of the law.
 \p
@@ -116,6 +120,7 @@
 \v 26 For even as the body without the spirit is dead: so also faith without works is dead.
 \c 3
 \cl James 3
+\cd Of the evils of the tongue. Of the difference between the earthly and heavenly wisdom.
 \p
 \v 1 Be ye not many masters, my brethren, knowing that you receive the greater judgment.
 \p
@@ -154,6 +159,7 @@
 \v 18 And the fruit of justice is sown in peace, to them that make peace.
 \c 4
 \cl James 4
+\cd The evils that flow from yielding to concupiscence and being friends to this world. Admonitions against pride, detraction and the like.
 \p
 \v 1 From whence are wars and contentions among you? Are they not hence, from your concupiscences, which war in your members?
 \p
@@ -190,6 +196,7 @@
 \v 17 To him therefore who knoweth to do good and doth it not, to him it is sin.
 \c 5
 \cl James 5
+\cd A woe to the rich that oppress the poor. Exhortations to patience and to avoid swearing. Of the anointing the sick, confession of sins and fervour in prayer.
 \p
 \v 1 Go to now, ye rich men: weep and howl in your miseries, which shall come upon you.
 \p
@@ -217,11 +224,11 @@
 \p
 \v 13 Is any of you sad? Let him pray: Is he cheerful in mind? Let him sing.
 \p
-\v 14 Is any man sick among you? Let him bring in the priests of the church and let them pray over him, anointing him with oil in the name of the Lord.
+\v 14 Is any man sick among you? Let him bring in the priests of the church and let them pray over him, anointing him with oil in the name of the Lord.\f + \fr 5:14 \fk Let him bring in, etc: \ft See here a plain warrant of scripture for the sacrament of extreme unction, that any controversy against its institution would be against the express words of the sacred text in the plainest terms.\f*
 \p
 \v 15 And the prayer of faith shall save the sick man. And the Lord shall raise him up: and if he be in sins, they shall be forgiven him.
 \p
-\v 16 Confess therefore your sins one to another: and pray one for another, that you may be saved. For the continual prayer of a just man availeth much.
+\v 16 Confess therefore your sins one to another: and pray one for another, that you may be saved. For the continual prayer of a just man availeth much.\f + \fr 5:16 \fk Confess your sins one to another: \ft That is, to the priests of the church, whom (ver.14) he had ordered to be called for, and brought in to the sick; moreover, to confess to persons who had no power to forgive sins, would be useless. Hence the precept here means, that we must confess to men whom God hath appointed, and who, by their ordination and jurisdiction, have received the power of remitting sins in his name.\f*
 \p
 \v 17 Elias was a man passible like unto us: and with prayer he prayed that it might not rain upon the earth. And it rained not for three years and six months.
 \p
@@ -230,4 +237,3 @@
 \v 19 My brethren, if any of you err from the truth and one convert him:
 \p
 \v 20 He must know that he who causeth a sinner to be converted from the error of his way shall save his soul from death and shall cover a multitude of sins.
-\mte9 The Sacred Bible - The Letter of James

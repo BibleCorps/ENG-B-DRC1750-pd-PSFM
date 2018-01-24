@@ -4,22 +4,23 @@
 \toc1 Ecclesiasticus (Sirach)
 \toc2 Sirach
 \toc3 Sir
-\mt1 Ecclesiasticus
-\mt3 The Wisdom of Ben Sirach
-\c0
-\cl Prologue
+\mt1 ECCLESIASTICUS
+\im This Book is so called from a Greek word that signifies a preacher: because, like an excellent preacher, it gives admirable lessons of all virtues. The author was Jesus the son of Sirach of Jerusalem, who flourished about two hundred years before Christ. As it was written after the time of Esdras, it is not in the Jewish canon; but is received as canonical and divine by the Catholic Church, instructed by apostolical tradition, and directed by the spirit of God. It was first written in the Hebrew, but afterwards translated into Greek, by another Jesus, the grandson of the author, whose prologue to this book is the following:
+\c 0
+\cl THE PROLOGUE.
 \p
 \v 1 The knowledge of many and great things hath been shewn us by the law, and the prophets, and others that have followed them: for which things Israel is to be commended for doctrine and wisdom, because not only they that speak must needs be skilful, but strangers also, both speaking and writing, may by their means become most learned.
 \p
 \v 2 My grandfather Jesus, after he had much given himself to a diligent reading of the law, and the prophets, and other books, that were delivered to us from our fathers, had a mind also to write something himself, pertaining to doctrine and wisdom; that such as are desirous to learn, and are made knowing in these things, may be more and more attentive in mind, and be strengthened to live according to the law.
 \p
-\v 3 I entreat you therefore to come with benevolence, and to read with attention, and to pardon us for those things wherein we may seem, while we follow the image of wisdom, to come short in the composition of words; for the Hebrew words have not the same force in them when translated into another tongue. And not only these, but the law also itself, and the prophets, and the rest of the books, have no small difference, when they are spoken in their own language.
+\v 3 I entreat you therefore to come with benevolence, and to read with attention, and to pardon us for those things wherein we may seem, while we follow the image of wisdom, to come short in the composition of words; for the Hebrew words have not the same force in them when translated into another tongue.
 \p
-\v 4 For in the eight and thirtieth year coming into Egypt, when Ptolemy Evergetes was king, and continuing there a long time, I found there books left, of no small nor contemptible learning.
+\v 4 And not only these, but the law also itself, and the prophets, and the rest of the books, have no small difference, when they are spoken in their own language. For in the eight and thirtieth year coming into Egypt, when Ptolemy Evergetes was king, and continuing there a long time, I found there books left, of no small nor contemptible learning.
 \p
 \v 5 Therefore I thought it good, and necessary for me to bestow some diligence and labour to interpret this book; and with much watching and study in some space of time, I brought the book to an end, and set it forth for the service of them that are willing to apply their mind, and to learn how they ought to conduct themselves, who purpose to lead their life according to the law of the Lord.
 \c 1
 \cl Ecclesiasticus 1
+\cd All wisdom is from God, and is given to them that fear and love God.
 \p
 \v 1 All wisdom is from the Lord God, and hath been always with him, and is before all time.
 \p
@@ -102,6 +103,7 @@
 \v 40 Because thou camest to the Lord wickedly, and thy heart is full of guile and deceit.
 \c 2
 \cl Ecclesiasticus 2
+\cd God's servants must look for temptations: and must arm themselves with patience and confidence in God.
 \p
 \v 1 Son, when thou comest to the service of God, stand in justice and in fear, and prepare thy soul for temptation.
 \p
@@ -150,6 +152,7 @@
 \v 23 For according to his greatness, so also is his mercy with him.
 \c 3
 \cl Ecclesiasticus 3
+\cd Lessons concerning the honour of parents, and humility, and avoiding curiosity.
 \p
 \v 1 The sons of wisdom are the church of the just: and their generation, obedience and love.
 \p
@@ -220,6 +223,7 @@
 \v 34 And God provideth for him that sheweth favour: he remembereth him afterwards, and in the time of his fall he shall find a sure stay.
 \c 4
 \cl Ecclesiasticus 4
+\cd An exhortation to works of mercy, and to the love of wisdom.
 \p
 \v 1 Son, defraud not the poor of alms, and turn not away thy eyes from the poor.
 \p
@@ -255,7 +259,7 @@
 \p
 \v 17 If he trust to her, he shall inherit her, and his generation shall be in assurance.
 \p
-\v 18 For she walketh with him in temptation, and at the first she chooseth him.
+\v 18 For she walketh with him in temptation, and at the first she chooseth him.\f + \fr 4:18 \fk In temptation, etc: \ft The meaning is, that before wisdom will choose any for her favourite, she will try them by leading them through contradictions, afflictions, and temptations, the usual noviceship of the children of God.\f*
 \p
 \v 19 She will bring upon him fear and dread and trial: and she will scourge him with the affliction of her discipline, till she try him by her laws, and trust his soul.
 \p
@@ -294,6 +298,7 @@
 \v 36 Let not thy hand be stretched out to receive, and shut when thou shouldst give.
 \c 5
 \cl Ecclesiasticus 5
+\cd We must not presume of our wealth or strength: nor of the mercy of God, to go on in sin: we must be steadfast in virtue and truth.
 \p
 \v 1 Set not thy heart upon unjust possessions, and say not: I have enough to live on: for it shall be of no service in the time of vengeance and darkness.
 \p
@@ -332,6 +337,7 @@
 \v 18 Justify alike the small and the great.
 \c 6
 \cl Ecclesiasticus 6
+\cd Of true and false friends: and of the of the fruits of wisdom.
 \p
 \v 1 Instead of a friend become not an enemy to thy neighbour: for an evil man shall inherit reproach and shame, so shall every sinner that is envious and double tongued.
 \p
@@ -408,6 +414,7 @@
 \v 37 Let thy thoughts be upon the precepts of God, and meditate continually on his commandments: and he will give thee a heart, and the desire of wisdom shall be given to thee.
 \c 7
 \cl Ecclesiasticus 7
+\cd Religious and moral duties.
 \p
 \v 1 Do no evils, and no evils shall lay hold of thee.
 \p
@@ -437,7 +444,7 @@
 \p
 \v 14 Be not willing to make any manner of lie: for the custom thereof is not good.
 \p
-\v 15 Be not full of words in a multitude of ancients, and repeat not the word in thy prayer.
+\v 15 Be not full of words in a multitude of ancients, and repeat not the word in thy prayer.\f + \fr 7:15 \fk Repeat not, etc: \ft Make not much babbling by repetition of words: but aim more at fervour of heart.\f*
 \p
 \v 16 Hate not laborious works, nor husbandry ordained by the most High.
 \p
@@ -473,7 +480,7 @@
 \p
 \v 32 With all thy strength love him that made thee: and forsake not his ministers.
 \p
-\v 33 Honour God with all thy soul and give honour to the priests, and purify thyself with thy arms.
+\v 33 Honour God with all thy soul and give honour to the priests, and purify thyself with thy arms.\f + \fr 7:33 \fk Thy arms: \ft That is, with all thy power: or else by arms (brachiis) are here signified the right shoulders of the victims, which by the law fell to the priests. See ver. 35.\f*
 \p
 \v 34 Give them their portion, as it is commanded thee, of the firstfruits and of purifications: and for thy negligences purify thyself with a few.
 \p
@@ -481,7 +488,7 @@
 \p
 \v 36 And stretch out thy hand to the poor, that thy expiation and thy blessing may be perfected.
 \p
-\v 37 A gift hath grace in the sight of all the living, and restrain not grace from the dead.
+\v 37 A gift hath grace in the sight of all the living, and restrain not grace from the dead.\f + \fr 7:37 \fk And restrain not grace from the dead: \ft That is, withhold not from them the benefit of alms, prayers, and sacrifices. Such was the doctrine and practice of the church of God even in the time of the Old Testament. And the same has always been continued from the days of the apostles in the church of the New Testament.\f*
 \p
 \v 38 Be not wanting in comforting them that weep, and walk with them that mourn.
 \p
@@ -490,6 +497,7 @@
 \v 40 In all thy works remember thy last end, and thou shalt never sin.
 \c 8
 \cl Ecclesiasticus 8
+\cd Other lessons of wisdom and virtue.
 \p
 \v 1 Strive not with a powerful man, lest thou fall into his hands.
 \p
@@ -536,6 +544,7 @@
 \v 22 Open not thy heart to every man: lest he repay thee with an evil turn, and speak reproachfully to thee.
 \c 9
 \cl Ecclesiasticus 9
+\cd Cautions with regard to women, and dangerous conversations.
 \p
 \v 1 Be not jealous over the wife of thy bosom, lest she shew in thy regard the malice of a wicked lesson.
 \p
@@ -588,8 +597,9 @@
 \v 25 A man full of tongue is terrible in his city, and he that is rash in his word shall be hateful.
 \c 10
 \cl Ecclesiasticus 10
+\cd The virtues and vices of men in power: the great evil of pride.
 \p
-\v 1 A wise judge shall judge his people, and the government of a prudent man shall be steady.
+\v 1 A wise judge shall judge his people, and the government of a prudent man shall be steady.\f + \fr 10:1 \fk Judge his people: \ft In the Greek it is, instruct his people.\f*
 \p
 \v 2 As the judge of the people is himself, so also are his ministers: and what manner of man the ruler of a city is, such also are they that dwell therein.
 \p
@@ -597,7 +607,7 @@
 \p
 \v 4 The power of the earth is in the hand of God, and in his time he will raise up a profitable ruler over it.
 \p
-\v 5 The prosperity of man is in the hand of God, and upon the person of the scribe he shall lay his honour.
+\v 5 The prosperity of man is in the hand of God, and upon the person of the scribe he shall lay his honour.\f + \fr 10:5 \fk The scribe: \ft That is, the man that is wise and learned in the law.\f*
 \p
 \v 6 Remember not any injury done thee by thy neighbour, and do thou nothing by deeds of injury.
 \p
@@ -658,6 +668,7 @@
 \v 34 But he that is glorified in poverty, how much more in wealth? and he that is glorified in wealth, let him fear poverty.
 \c 11
 \cl Ecclesiasticus 11
+\cd Lessons of humility and moderation in all things.
 \p
 \v 1 The wisdom of the humble shall exalt his head, and shall make him sit in the midst of great men.
 \p
@@ -732,6 +743,7 @@
 \v 36 Receive a stranger in, and he shall overthrow thee with a whirlwind, and shall turn thee out of thy own.
 \c 12
 \cl Ecclesiasticus 12
+\cd We are to be liberal to the just: and not to trust the wicked.
 \p
 \v 1 If thou do good, know to whom thou dost it, and there shall be much thanks for thy good deeds.
 \p
@@ -772,6 +784,7 @@
 \v 19 He will shake his head, and clap his hands, and whisper much, and change his countenance.
 \c 13
 \cl Ecclesiasticus 13
+\cd Cautions in the choice of company.
 \p
 \v 1 He that toucheth pitch, shall be defiled with it: and he that hath fellowship with the proud, shall put on pride.
 \p
@@ -838,6 +851,7 @@
 \v 32 The token of a good heart, and a good countenance thou shalt hardly find, and with labour.
 \c 14
 \cl Ecclesiasticus 14
+\cd The evil of avarice: works of mercy are recommended, and the love of wisdom.
 \p
 \v 1 Blessed is the man that hath not slipped by a word out of his mouth, and is not pricked with the remorse of sin.
 \p
@@ -861,7 +875,7 @@
 \p
 \v 11 My son, if thou have any thing, do good to thyself, and offer to God worthy offerings.
 \p
-\v 12 Remember that death is not slow, and that the covenant of hell hath been shewn to thee: for the covenant of this world shall surely die.
+\v 12 Remember that death is not slow, and that the covenant of hell hath been shewn to thee: for the covenant of this world shall surely die.\f + \fr 14:12 \fk Covenant of hell: \ft The decree by which all are to go down to the regions of death.\f*
 \p
 \v 13 Do good to thy friend before thou die, and according to thy ability, stretching out thy hand give to the poor.
 \p
@@ -894,6 +908,7 @@
 \v 27 He shall be protected under her covering from the heat, and shall rest in her glory.
 \c 15
 \cl Ecclesiasticus 15
+\cd Wisdom embraceth them that fear God. God is not the author of sin.
 \p
 \v 1 He that feareth God, will do good: and he that possesseth justice, shall lay hold on her,
 \p
@@ -940,6 +955,7 @@
 \v 22 For he desireth not a multitude of faithless and unprofitable children.
 \c 16
 \cl Ecclesiasticus 16
+\cd It is better to have none than many wicked children. Of the justice and mercy of God. His ways are unsearchable.
 \p
 \v 1 Rejoice not in ungodly children, if they be multiplied: neither be delighted in them, if the fear of God be not with them.
 \p
@@ -961,7 +977,7 @@
 \p
 \v 10 He had not pity on them, destroying the whole nation that extolled themselves in their sins.
 \p
-\v 11 So did he with the six hundred thousand footmen, who were gathered together in the hardness of their heart: and if one had been stiffnecked, it is a wonder if he had escaped unpunished:
+\v 11 So did he with the six hundred thousand footmen, who were gathered together in the hardness of their heart: and if one had been stiffnecked, it is a wonder if he had escaped unpunished:\f + \fr 16:11 \fk Six hundred thousand footmen, etc: \ft Viz., the children of Israel, whom he sentenced to die in the wilderness. Num. 14.\f*
 \p
 \v 12 For mercy and wrath are with him. He is mighty to forgive, and to pour out indignation:
 \p
@@ -1001,9 +1017,10 @@
 \p
 \v 30 After this God looked upon the earth, and filled it with his goods.
 \p
-\v 31 The soul of every living thing hath shewn forth before the face thereof, and into it they return again.
+\v 31 The soul of every living thing hath shewn forth before the face thereof, and into it they return again.\f + \fr 16:31 \fk Shewn forth: \ft Viz., the glory and power of God upon the earth.\f*
 \c 17
 \cl Ecclesiasticus 17
+\cd The creation and favour of God to man. An exhortation to turn to God.
 \p
 \v 1 God created man of the earth, and made him after his own image.
 \p
@@ -1025,7 +1042,7 @@
 \p
 \v 10 He made an everlasting covenant with them, and he shewed them his justice and judgments.
 \p
-\v 11 And their eye saw the majesty of his glory, and their ears heard his glorious voice, and he said to them: Beware of all iniquity.
+\v 11 And their eye saw the majesty of his glory, and their ears heard his glorious voice, and he said to them: Beware of all iniquity.\f + \fr 17:11 \fk Their eye saw, etc: \ft Viz., when he gave the law on mount Sinai.\f*
 \p
 \v 12 And he gave to every one of them commandment concerning his neighbour.
 \p
@@ -1047,13 +1064,13 @@
 \p
 \v 21 Turn to the Lord, and forsake thy sins:
 \p
-\v 22 Make thy prayer before the face of the Lord, and offend less.
+\v 22 Make thy prayer before the face of the Lord, and offend less.\f + \fr 17:22 \fk Offend less: \ft Minue offendicula. That is, remove sins and the occasions of sins.\f*
 \p
 \v 23 Return to the Lord, and turn away from thy injustice, and greatly hate abomination.
 \p
 \v 24 And know the justices and judgments of God, and stand firm in the lot set before thee, and in prayer to the most high God.
 \p
-\v 25 Go to the side of the holy age, with them that live and give praise to God.
+\v 25 Go to the side of the holy age, with them that live and give praise to God.\f + \fr 17:25 \fk Go to the side, etc: \ft Fly from the side of Satan and sin, and join with the holy ones, that follow God and godliness.\f*
 \p
 \v 26 Tarry not in the error of the ungodly, give glory before death. Praise perisheth from the dead as nothing.
 \p
@@ -1068,6 +1085,7 @@
 \v 31 He beholdeth the power of the height of heaven: and all men are earth and ashes.
 \c 18
 \cl Ecclesiasticus 18
+\cd God's works are wonderful: we must serve him, and not our lusts.
 \p
 \v 1 He that liveth for ever created all things together. God only shall be justified, and he remaineth an invincible king for ever.
 \p
@@ -1079,7 +1097,7 @@
 \p
 \v 5 Nothing may be taken away, nor added, neither is it possible to find out the glorious works of God.
 \p
-\v 6 When a man hath done, then shall he begin: and when he leaveth off, he shall be at a loss.
+\v 6 When a man hath done, then shall he begin: and when he leaveth off, he shall be at a loss.\f + \fr 18:6 \fk Then shall he begin: \ft God is so great and incomprehensible, that when man has done all that he can to find out his greatness and boundless perfections, he is still to begin: for what he has found out, is but a mere nothing in comparison with his infinity.\f*
 \p
 \v 7 What is man, and what is his grace? and what is his good, or what is his evil?
 \p
@@ -1136,6 +1154,7 @@
 \v 33 Make not thyself poor by borrowing to contribute to feasts when thou hast nothing in thy purse: for thou shalt be an enemy to thy own life.
 \c 19
 \cl Ecclesiasticus 19
+\cd Admonition against sundry vices.
 \p
 \v 1 A workman that is a drunkard shall not be rich: and he that contemneth small things, shall fall by little and little.
 \p
@@ -1194,6 +1213,7 @@
 \v 28 There is a lying rebuke in the anger of an injurious man: and there is a judgment that is not allowed to be good: and there is one that holdeth his peace, he is wise.
 \c 20
 \cl Ecclesiasticus 20
+\cd Rules with regard to correction, discretion, and avoiding lies.
 \p
 \v 1 How much better is it to reprove, than to be angry, and not to hinder him that confesseth in prayer.
 \p
@@ -1262,6 +1282,7 @@
 \v 33 Better is he that hideth his folly, than the man that hideth his wisdom.
 \c 21
 \cl Ecclesiasticus 21
+\cd Cautions against sin in general, and some sins in particular.
 \p
 \v 1 My son, hast thou sinned? do so no more: but for thy former sins also pray that they may be forgiven thee.
 \p
@@ -1321,11 +1342,12 @@
 \p
 \v 29 The heart of fools is in their mouth: and the mouth of wise men is in their heart.
 \p
-\v 30 While the ungodly curseth the devil, he curseth his own soul.
+\v 30 While the ungodly curseth the devil, he curseth his own soul.\f + \fr 21:30 \fk While the ungodly, etc: \ft He condemneth and curseth himself: inasmuch as by sin he takes part with the devil, and is, as it were, his member and subject.\f*
 \p
 \v 31 The talebearer shall defile his own soul, and shall be hated by all: and he that shall abide with him shall be hateful: the silent and wise man shall be honoured.
 \c 22
 \cl Ecclesiasticus 22
+\cd Wise sayings on divers subjects.
 \p
 \v 1 The sluggard is pelted with a dirty stone, and all men will speak of his disgrace.
 \p
@@ -1345,7 +1367,7 @@
 \p
 \v 9 He speaketh with one that is asleep, who uttereth wisdom to a fool: and in the end of the discourse he saith: Who is this?
 \p
-\v 10 Weep for the dead, for his light hath failed: and weep for the fool, for his understanding faileth.
+\v 10 Weep for the dead, for his light hath failed: and weep for the fool, for his understanding faileth.\f + \fr 22:10 \fk For the fool: \ft In the language of the Holy Ghost, he is styled a fool, that turns away from God to follow vanity and sin. And what is said by the wise man against fools is meant of such fools as these.\f*
 \p
 \v 11 Weep but a little for the dead, for he is at rest.
 \p
@@ -1394,10 +1416,11 @@
 \v 33 Who will set a guard before my mouth, and a sure seal upon my lips, that I fall not by them, and that my tongue destroy me not?
 \c 23
 \cl Ecclesiasticus 23
+\cd A prayer for grace to flee sin: cautions against profane swearing and other vices.
 \p
-\v 1 O Lord, father, and sovereign ruler of my life, leave me not to their counsel: nor suffer me to fall by them.
+\v 1 O Lord, father, and sovereign ruler of my life, leave me not to their counsel: nor suffer me to fall by them.\f + \fr 23:1 \fk By them: \ft Viz., the tongue and the lips, mentioned in the last verse of the foregoing chapter.\f*
 \p
-\v 2 Who will set scourges over my thoughts, and the discipline of wisdom over my heart, that they spare me not in their ignorances, and that their sins may not appear:
+\v 2 Who will set scourges over my thoughts, and the discipline of wisdom over my heart, that they spare me not in their ignorances, and that their sins may not appear:\f + \fr 23:2 \fk That they spare me not in their ignorances, etc: \ft That is, that the scourges and discipline of wisdom may restrain the ignorances, that is, the slips and offences which are usually committed by the tongue and the lips.\f*
 \p
 \v 3 Lest my ignorances increase, and my offences be multiplied, and my sins abound, and I fall before my adversaries, and my enemy rejoice over me?
 \p
@@ -1472,6 +1495,7 @@
 \v 38 It is great glory to follow the Lord: for length of days shall be received from him.
 \c 24
 \cl Ecclesiasticus 24
+\cd Wisdom praiseth herself: her origin, her dwelling, her dignity, and her fruits.
 \p
 \v 1 Wisdom shall praise her own self, and shall be honoured in God, and shall glory in the midst of her people,
 \p
@@ -1539,7 +1563,7 @@
 \p
 \v 33 Moses commanded a law in the precepts of justices, and an inheritance to the house of Jacob, and the promises to Israel.
 \p
-\v 34 He appointed to David his servant to raise up of him a most mighty king, and sitting on the throne of glory for ever.
+\v 34 He appointed to David his servant to raise up of him a most mighty king, and sitting on the throne of glory for ever.\f + \fr 24:34 \fk A most mighty king: \ft Viz., Christ, who by his gospel, like an overflowing river, has enriched the earth with heavenly wisdom.\f*
 \p
 \v 35 Who filleth up wisdom as the Phison, and as the Tigris in the days of the new fruits.
 \p
@@ -1547,7 +1571,7 @@
 \p
 \v 37 Who sendeth knowledge as the light, and riseth up as Gehon in the time of the vintage.
 \p
-\v 38 Who first hath perfect knowledge of her, and a weaker shall not search her out.
+\v 38 Who first hath perfect knowledge of her, and a weaker shall not search her out.\f + \fr 24:38 \fk Who first hath perfect knowledge of her: \ft Christ was the first that had perfect knowledge of heavenly wisdom.\f*
 \p
 \v 39 For her thoughts are more vast than the sea, and her counsels more deep than the great ocean.
 \p
@@ -1568,6 +1592,7 @@
 \v 47 See ye that I have not laboured myself only, but for all that seek out the truth.
 \c 25
 \cl Ecclesiasticus 25
+\cd Documents of wisdom on several subjects.
 \p
 \v 1 With three things my spirit is pleased, which are approved before God and men:
 \p
@@ -1642,6 +1667,7 @@
 \v 36 Cut her off from thy flesh, lest she always abuse thee.
 \c 26
 \cl Ecclesiasticus 26
+\cd Of good and bad women.
 \p
 \v 1 Happy is the husband of a good wife: for the number of his years is double.
 \p
@@ -1697,9 +1723,10 @@
 \p
 \v 27 And he that passeth over from justice to sin, God hath prepared such an one for the sword.
 \p
-\v 28 Two sorts of callings have appeared to me hard and dangerous: a merchant is hardly free from negligence: and a huckster shall not be justified from the sins of the lips.
+\v 28 Two sorts of callings have appeared to me hard and dangerous: a merchant is hardly free from negligence: and a huckster shall not be justified from the sins of the lips.\f + \fr 26:28 \fk From negligence: \ft That is, from the neglect of the service of God: because the eager pursuit of the mammon of this world, is apt to make men of that calling forget the great duties of loving God above all things, and their neighbours as themselves.\f*\f + \fr 26:28 \fk A huckster: \ft Or, a retailer of wine. Men of that profession are both greatly exposed to danger of sin themselves, and are too often accessary to the sins of others.\f*
 \c 27
 \cl Ecclesiasticus 27
+\cd Dangers of sin from several heads: the fear of God is the best preservative. He that diggeth a pit, shall fall into it.
 \p
 \v 1 Through poverty many have sinned: and he that seeketh to be enriched, turneth away his eye.
 \p
@@ -1745,7 +1772,7 @@
 \p
 \v 22 Follow after him no more, for he is gone afar off, he is fled, as a roe escaped out of the snare because his soul is wounded.
 \p
-\v 23 Thou canst no more bind him up. And of a curse there is reconciliation:
+\v 23 Thou canst no more bind him up. And of a curse there is reconciliation:\f + \fr 27:23 \fk And of a curse there is reconciliation: \ft That is, it is easier to obtain a reconciliation after a curse, than after disclosing a secret.\f*
 \p
 \v 24 But to disclose the secrets of a friend, leaveth no hope to an unhappy soul.
 \p
@@ -1768,6 +1795,7 @@
 \v 33 Anger and fury are both of them abominable, and the sinful man shall be subject to them.
 \c 28
 \cl Ecclesiasticus 28
+\cd Lessons against revenge and quarrels. The evils of the tongue.
 \p
 \v 1 He that seeketh to revenge himself, shall find vengeance from the Lord, and he will surely keep his sins in remembrance.
 \p
@@ -1781,7 +1809,7 @@
 \p
 \v 6 Remember thy last things, and let enmity cease:
 \p
-\v 7 For corruption and death hang over in his commandments.
+\v 7 For corruption and death hang over in his commandments.\f + \fr 28:7 \fk In his commandments: \ft Supply the sentence out of the Greek thus: Remember corruption and death, and abide in the commandments.\f*
 \p
 \v 8 Remember the fear of God, and be not angry with thy neighbour.
 \p
@@ -1830,8 +1858,9 @@
 \v 30 And take heed lest thou slip with thy tongue, and fall in the sight of thy enemies who lie in wait for thee, and thy fall be incurable unto death.
 \c 29
 \cl Ecclesiasticus 29
+\cd Of charity in lending money, and justice in repaying. Of alms, and of being surety.
 \p
-\v 1 He that sheweth mercy, lendeth to his neighbour: and he that is stronger in hand, keepeth the commandments.
+\v 1 He that sheweth mercy, lendeth to his neighbour: and he that is stronger in hand, keepeth the commandments.\f + \fr 29:1 \fk And he that is stronger in hand: \ft That is, he that is hearty and bountiful in lending to his neighbour in his necessity.\f*
 \p
 \v 2 Lend to thy neighbour in the time of his need, and pay thou thy neighbour again in due time.
 \p
@@ -1900,6 +1929,7 @@
 \v 34 These things are grievous to a man of understanding: the upbraiding of houseroom, and the reproaching of the lender.
 \c 30
 \cl Ecclesiasticus 30
+\cd Of correction of children. Health is better than wealth. Excessive grief is hurtful.
 \p
 \v 1 He that loveth his son, frequently chastiseth him, that he may rejoice in his latter end, and not grope after the doors of his neighbours.
 \p
@@ -1956,6 +1986,7 @@
 \v 27 A cheerful and good heart is always feasting: for his banquets are prepared with diligence.
 \c 31
 \cl Ecclesiasticus 31
+\cd Of the desire of riches, and of moderation in eating and drinking.
 \p
 \v 1 Watching for riches consumeth the flesh, and the thought thereof driveth away sleep.
 \p
@@ -2042,6 +2073,7 @@
 \v 42 Speak not to him words of reproach: and press him not in demanding again.
 \c 32
 \cl Ecclesiasticus 32
+\cd Lessons for superiors and inferiors. Advantages of fearing God, and doing nothing without counsel.
 \p
 \v 1 Have they made thee ruler? be not lifted up: be among them as one of them.
 \p
@@ -2095,11 +2127,12 @@
 \p
 \v 26 And beware of thy own children, and take heed of them of thy household.
 \p
-\v 27 In every work of thine regard thy soul in faith: for this is the keeping of the commandments.
+\v 27 In every work of thine regard thy soul in faith: for this is the keeping of the commandments.\f + \fr 32:27 \fk In faith: \ft That is, follow sincerely thy soul in her faith and conscience.\f*
 \p
 \v 28 He that believeth God, taketh heed to the commandments: and he that trusteth in him, shall fare never the worse.
 \c 33
 \cl Ecclesiasticus 33
+\cd The fear of God is the best security. Times and men are in the hands of God. Take care of thyself as long as thou livest, and look to thy servants.
 \p
 \v 1 No evils shall happen to him that feareth the Lord, but in temptation God will keep him and deliver him from evils.
 \p
@@ -2141,11 +2174,11 @@
 \p
 \v 20 Give not to son or wife, brother or friend, power over thee while thou livest; and give not thy estate to another, lest thou repent, and thou entreat for the same.
 \p
-\v 21 As long as thou livest, and hast breath in thee, let no man change thee.
+\v 21 As long as thou livest, and hast breath in thee, let no man change thee.\f + \fr 33:21 \fk Change thee: \ft That is, so as to have this power over thee.\f*
 \p
 \v 22 For it is better that thy children should ask of thee, than that thou look toward the hands of thy children.
 \p
-\v 23 In all thy works keep the pre-eminence.
+\v 23 In all thy works keep the pre-eminence.\f + \fr 33:23 \fk The pre-eminence: \ft That is, be master in thy own house, and part not with thy authority.\f*
 \p
 \v 24 Let no stain sully thy glory. In the time when thou shalt end the days of thy life, and in the time of thy decease, distribute thy inheritance.
 \p
@@ -2168,6 +2201,7 @@
 \v 33 And if he rise up and depart, thou knowest not whom to ask, and in what way to seek him.
 \c 34
 \cl Ecclesiasticus 34
+\cd The vanity of dreams. The advantage of experience, and of the fear of God.
 \p
 \v 1 The hopes of a man that is void of understanding are vain and deceitful: and dreams lift up fools.
 \p
@@ -2232,6 +2266,7 @@
 \v 31 So a man that fasteth for his sins, and doth the same again, what doth his humbling himself profit him? who will hear his prayer?
 \c 35
 \cl Ecclesiasticus 35
+\cd What sacrifices are pleasing to God.
 \p
 \v 1 He that keepeth the law, multiplieth offerings.
 \p
@@ -2286,6 +2321,7 @@
 \v 26 The mercy of God is beautiful in the time of affliction, as a cloud of rain in the time of drought.
 \c 36
 \cl Ecclesiasticus 36
+\cd A prayer for the church of God. Of a good heart, and a good wife.
 \p
 \v 1 Have mercy upon us, O God of all, and behold us, and shew us the light of thy mercies:
 \p
@@ -2331,7 +2367,7 @@
 \p
 \v 22 A perverse heart will cause grief, and a man of experience will resist it.
 \p
-\v 23 A woman will receive every man: yet one daughter is better than another.
+\v 23 A woman will receive every man: yet one daughter is better than another.\f + \fr 36:23 \fk A woman will receive every man: \ft That is, any man that her parents propose to her to marry, though she does not like him, but marries in obedience to her parents, who make the choice for her.\f*
 \p
 \v 24 The beauty of a woman cheereth the countenance of her husband, and a man desireth nothing more.
 \p
@@ -2344,6 +2380,7 @@
 \v 28 Who will trust him that hath no rest, and that lodgeth wheresoever the night taketh him, as a robber well appointed, that skippeth from city to city.
 \c 37
 \cl Ecclesiasticus 37
+\cd Of the choice of friends and counsellors.
 \p
 \v 1 Every friend will say: I also am his friend: but there is a friend, that is only a friend in name. Is not this a grief even to death?
 \p
@@ -2414,6 +2451,7 @@
 \v 34 By surfeiting many have perished, but he that is temperate, shall prolong life.
 \c 38
 \cl Ecclesiasticus 38
+\cd Of physicians and medicines: what is to be done in sickness, and how we are to mourn for the dead. Of the employments of labourers and artificers.
 \p
 \v 1 Honour the physician for the need thou hast of him: for the most High hath created him.
 \p
@@ -2463,7 +2501,7 @@
 \p
 \v 24 When the dead is at rest, let his remembrance rest, and comfort him in the departing of his spirit.
 \p
-\v 25 The wisdom of a scribe cometh by his time of leisure: and he that is less in action, shall receive wisdom.
+\v 25 The wisdom of a scribe cometh by his time of leisure: and he that is less in action, shall receive wisdom.\f + \fr 38:25 \fk A scribe: \ft That is, a doctor of the law, or, a learned man.\f*
 \p
 \v 26 With what wisdom shall he be furnished that holdeth the plough, and that glorieth in the goad, that driveth the oxen therewith, and is occupied in their labours, and his whole talk is about the offspring of bulls?
 \p
@@ -2494,6 +2532,7 @@
 \v 39 But they shall strengthen the state of the world, and their prayer shall be in the work of their craft, applying their soul, and searching in the law of the most High.
 \c 39
 \cl Ecclesiasticus 39
+\cd The exercises of the wise man. The Lord is to be glorified for his works.
 \p
 \v 1 The wise man will seek out the wisdom of all the ancients, and will be occupied in the prophets.
 \p
@@ -2527,7 +2566,7 @@
 \p
 \v 16 I will yet meditate that I may declare: for I am filled as with a holy transport.
 \p
-\v 17 By a voice he saith: Hear me, ye divine offspring, and bud forth as the rose planted by the brooks of waters.
+\v 17 By a voice he saith: Hear me, ye divine offspring, and bud forth as the rose planted by the brooks of waters.\f + \fr 39:17 \fk Ye divine offspring: \ft He speaks to the children of Israel, the people of God: whom he exhorts to bud forth and flourish with virtue.\f*
 \p
 \v 18 Give ye a sweet odour as frankincense.
 \p
@@ -2578,6 +2617,7 @@
 \v 41 Now therefore with the whole heart and mouth praise ye him, and bless the name of the Lord.
 \c 40
 \cl Ecclesiasticus 40
+\cd The miseries of the life of man are relieved by the grace of God and his fear.
 \p
 \v 1 Great labour is created for all men, and a heavy yoke is upon the children of Adam from the day of their coming out of their mother's womb, until the day of their burial into the mother of all.
 \p
@@ -2644,6 +2684,7 @@
 \v 32 Begging will be sweet in the mouth of the unwise, but in his belly there shall burn a fire.
 \c 41
 \cl Ecclesiasticus 41
+\cd Of the remembrance of death: of an evil and of a good name: of what things we ought to be ashamed.
 \p
 \v 1 O death, how bitter is the remembrance of thee to a man that hath peace in his possessions!
 \p
@@ -2681,7 +2722,7 @@
 \p
 \v 18 Better is the man that hideth his folly, than the man that hideth his wisdom.
 \p
-\v 19 Wherefore have a shame of these things I am now going to speak of.
+\v 19 Wherefore have a shame of these things I am now going to speak of.\f + \fr 41:19 \fk Have a shame, etc: \ft That is to say, be ashamed of doing any of these things, which I am now going to mention; for though sometimes shamefacedness is not to be indulged: yet it is often good and necessary: as in the following cases.\f*
 \p
 \v 20 For it is not good to keep all shamefacedness: and all things do not please all men in opinion.
 \p
@@ -2702,6 +2743,7 @@
 \v 28 Be ashamed of upbraiding speeches before friends: and after thou hast given, upbraid not.
 \c 42
 \cl Ecclesiasticus 42
+\cd Of what things we ought not to be ashamed. Cautions with regard to women. The works and greatness of God.
 \p
 \v 1 Repeat not the word which thou hast heard, and disclose not the thing that is secret; so shalt thou be truly without confusion, and shalt find favour before all men: be not ashamed of any of these things, and accept no person to sin thereby:
 \p
@@ -2729,7 +2771,7 @@
 \p
 \v 13 For from garments cometh a moth, and from a woman the iniquity of a man.
 \p
-\v 14 For better is the iniquity of a man, than a woman doing a good turn, and a woman bringing shame and reproach.
+\v 14 For better is the iniquity of a man, than a woman doing a good turn, and a woman bringing shame and reproach.\f + \fr 42:14 \fk Better is the iniquity, etc: \ft That is, there is, commonly speaking, less danger to be apprehended to the soul from the churlishness, or injuries we receive from men, than from the flattering favours and familiarity of women.\f*
 \p
 \v 15 I will now remember the works of the Lord, and I will declare the things I have seen. By the words of the Lord are his works.
 \p
@@ -2756,6 +2798,7 @@
 \v 26 He hath established the good things of every one. And who shall be filled with beholding his glory?
 \c 43
 \cl Ecclesiasticus 43
+\cd The works of God are exceedingly glorious and wonderful: no man is able sufficiently to praise him.
 \p
 \v 1 The firmament on high is his beauty, the beauty of heaven with its glorious shew.
 \p
@@ -2832,6 +2875,7 @@
 \v 37 But the Lord hath made all things, and to the godly he hath given wisdom.
 \c 44
 \cl Ecclesiasticus 44
+\cd The praises of the holy fathers, in particular of Enoch, Noe, Abraham, Isaac, and Jacob.
 \p
 \v 1 Let us now praise men of renown and our fathers in their generation.
 \p
@@ -2888,6 +2932,7 @@
 \v 27 And he preserved for him men of mercy, that found grace in the eyes of all flesh.
 \c 45
 \cl Ecclesiasticus 45
+\cd The praises of Moses, of Aaron, and of Phinees.
 \p
 \v 1 Moses was beloved of God, and men: whose memory is in benediction.
 \p
@@ -2952,8 +2997,9 @@
 \v 31 And a covenant to David the king, the son of Jesse of the tribe of Juda, an inheritance to him and to his seed, that he might give wisdom into our heart to judge his people in justice, that their good things might not be abolished, and he made their glory in their nation everlasting.
 \c 46
 \cl Ecclesiasticus 46
+\cd The praise of Josue, of Caleb, and of Samuel.
 \p
-\v 1 Valiant in war was Jesus the son of Nave, who was successor of Moses among the prophets, who was great according to his name,
+\v 1 Valiant in war was Jesus the son of Nave, who was successor of Moses among the prophets, who was great according to his name,\f + \fr 46:1 \fk Jesus the son of Nave: \ft So Josue is named in the Greek Bibles. For Josue and Jesus signify the same thing, viz., a saviour.\f*
 \p
 \v 2 Very great for the saving the elect of God, to overthrow the enemies that rose up against them, that he might get the inheritance for Israel.
 \p
@@ -2965,7 +3011,7 @@
 \p
 \v 6 He called upon the most high Sovereign when the enemies assaulted him on every side, and the great and holy God heard him by hailstones of exceeding great force.
 \p
-\v 7 He made a violent assault against the nation of his enemies, and in the descent he destroyed the adversaries.
+\v 7 He made a violent assault against the nation of his enemies, and in the descent he destroyed the adversaries.\f + \fr 46:7 \fk And in the descent: \ft Of Beth-horon (Jos. 10.).\f*
 \p
 \v 8 That the nations might know his power, that it is not easy to fight against God. And he followed the mighty one:
 \p
@@ -3000,6 +3046,7 @@
 \v 23 And after this he slept, and he made known to the king, and shewed him the end of his life, and he lifted up his voice from the earth in prophecy to blot out the wickedness of the nation.
 \c 47
 \cl Ecclesiasticus 47
+\cd The praise of Nathan, of David, and of Solomon: Of his fall and punishment.
 \p
 \v 1 Then Nathan the prophet arose in the days of David.
 \p
@@ -3064,6 +3111,7 @@
 \v 31 And they sought out all iniquities, till vengeance came upon them, and put an end to all their sins.
 \c 48
 \cl Ecclesiasticus 48
+\cd The praise of Elias, of Eliseus, of Ezechias, and of Isaias.
 \p
 \v 1 And Elias the prophet stood up, as a fire, and his word burnt like a torch.
 \p
@@ -3122,6 +3170,7 @@
 \v 28 He showed what should come to pass for ever, and secret things before they came.
 \c 49
 \cl Ecclesiasticus 49
+\cd The praise of Josias, of Jeremias, Ezechiel, and the twelve prophets. Also of Zorobabel, Jesus the son of Josedech, Nehemias, Enoch, Joseph, Seth, Sem, and Adam.
 \p
 \v 1 The memory of Josias is like the composition of a sweet smell made by the art of a perfumer:
 \p
@@ -3157,11 +3206,12 @@
 \p
 \v 17 Nor as Joseph, who was a man born prince of his brethren, the support of his family, the ruler of his brethren, the stay of the people:
 \p
-\v 18 And his bones were visited, and after death they prophesied.
+\v 18 And his bones were visited, and after death they prophesied.\f + \fr 49:18 \fk They prophesied: \ft That is, by their being carried out of Egypt they verified the prophetic prediction of Joseph. Gen. 50.\f*
 \p
 \v 19 Seth and Sem obtained glory among men: and above every soul Adam in the beginning,
 \c 50
 \cl Ecclesiasticus 50
+\cd The praises of Simon the high priest. The conclusion.
 \p
 \v 1 Simon the high priest, the son of Onias, who in his life propped up the house, and in his days fortified the temple.
 \p
@@ -3183,7 +3233,7 @@
 \p
 \v 10 As a massy vessel of gold, adorned with every precious stone.
 \p
-\v 11 As an olive tree budding forth, and a cypress tree rearing itself on high, when he put on the robe of glory, and was clothed with the perfection of power.
+\v 11 As an olive tree budding forth, and a cypress tree rearing itself on high, when he put on the robe of glory, and was clothed with the perfection of power.\f + \fr 50:11 \fk Clothed with the perfection of power: \ft That is, with all the vestments denoting his dignity and authority.\f*
 \p
 \v 12 When he went up to the holy altar, he honoured the vesture of holiness.
 \p
@@ -3215,7 +3265,7 @@
 \p
 \v 26 That Israel may believe that the mercy of God is with us, to deliver us in his days.
 \p
-\v 27 There are two nations which my soul abhorreth: and the third is no nation: which I hate:
+\v 27 There are two nations which my soul abhorreth: and the third is no nation: which I hate:\f + \fr 50:27 \fk Abhorreth: \ft Viz., with a holy indignation, as enemies of God and persecutors of his people. Such were then the Edomites who abode in mount Seir, the Philistines, and the Samaritans who dwelt in Sichem, and had their schismatical temple in that neighbourhood.\f*
 \p
 \v 28 They that sit on mount Seir, and the Philistines, and the foolish people that dwell in Sichem.
 \p
@@ -3226,6 +3276,7 @@
 \v 31 For if he do them, he shall be strong to do all things: because the light of God guideth his steps.
 \c 51
 \cl Ecclesiasticus 51
+\cd A prayer of praise and thanksgiving.
 \p
 \v 1 A prayer of Jesus the son of Sirach. I will give glory to thee, O Lord, O King, and I will praise thee, O God my Saviour.
 \p

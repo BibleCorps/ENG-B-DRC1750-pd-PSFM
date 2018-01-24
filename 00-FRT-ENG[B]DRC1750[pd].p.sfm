@@ -1,115 +1,144 @@
-\id FRT ENG (p.sfm) - Challoner Douay Rheims version of the Sacred Bible
+\id FRT ENG (p.sfm) -  The Holy Bible: Douay-Rheims Version, Challoner Revision, The Old and New Testaments
 \ide UTF-8
-\rem Title Page
-\h Title Page
-\toc3 Title
-\imt1 The Holy Bible.
-\imt3 Bishop Challoner's 18th century revision of the Douay Rheims version.
-\imt5 Electronic edition 2004. Public domain.">
+\rem Title
+\h ~
+\h0 ~
+\h1 ~
+\imt1 THE HOLY BIBLE
+\imt3 Translated from the Latin Vulgate
+\imt5 Diligently Compared with the Hebrew, Greek, and Other Editions in Divers Languages
+\ib3
+\imt2 THE OLD TESTAMENT
+\imt5 First Published by the English College at Douay
+\iq A.D. 1609 & 1610
+\ib
+\iq and
+\ib
+\imt2 THE NEW TESTAMENT
+\imt5 First Published by the English College at Rheims
+\iq A.D. 1582
+\ib
+\iq With Annotations
+\ib
+\imt6 The Whole Revised and Diligently Compared with the Latin Vulgate by Bishop Richard Challoner
+\iq A.D. 1749-1752
 \periph Publication Data
-\h Copyright
-\toc3 Rights
-\im The Holy Bible. Bishop Challoner's 18th century revision of the Douay Rheims version. 2004. Public domain.
+\imt3 CREDITS
+\im Without the assistance of many individuals and groups, this text of the Douay-Rheims Version of the Holy Bible would not be available.  Our most grateful and sincere thanks goes to those at 'Catholic Software' who have provided the electronic plain texts of the 73 books of the Bible.  'Catholic Software' also produces a Douay Bible program on CD-ROM that features a fully searchable Douay- Rheims Bible, footnotes, Latin text and dictionary, topical index, maps, Biblical art gallery, and other features.  For more information of this and many other products contact:
 \ib
-\imi This entire text is in the public domain. No copyright.
+\im Catholic Software
+\im Box 1914 Murray, KY 42071
+\im (502) 753-8198
+\im http://www.catholicity.com/market/CSoftware/
+\im waubrey@aol.com
 \ib
+\im Additional production assistance has been provided by volunteers from the Atlanta Council of the Knights of Columbus.  Tad Book compiled and reformatted the texts.  Dennis McCarthy assisted Mr. Book and transcribed selections from the first editions included as appendices.
+\periph Publication Data
+\h0 History
+\h1 of the Duay Rheims Challoner Version
+\imt3 HISTORY
+\im This e-text comes from multiple editions of Challoner's revised Douay- Rheims Version of the Holy Bible.  In 1568 English exiles, many from Oxford, established the English College of Douay (Douai/Doway), Flanders, under William (later Cardinal) Allen.  In October, 1578, Gregory Martin began the work of preparing an English translation of the Bible for Catholic readers, the first such translation into Modern English. Assisting were William Allen, Richard Bristow, Thomas Worthington, and William Reynolds who revised, criticized, and corrected Dr. Martin's work.  The college published the New Testament at Rheims (Reims/Rhemes), France, in 1582 through John Fogny with a preface and explanatory notes, authored chiefly by Bristol, Allen, and Worthington.  Later the Old Testament was published at Douay in two parts (1609 and 1610) by Laurence Kellam through the efforts of Dr. Worthington, then superior of the seminary.  The translation had been prepared before the appearance of the New Testament, but the publication was delayed due to financial difficulties.  The religious and scholarly adherence to the Latin Vulgate text led to the less elegant and idiomatic words and phrases often found in the translation.  In some instances where no English word conveyed the full meaning of the Latin, a Latin word was Anglicized and its meaning defined in a glossary.  Although ridiculed by critics, many of these words later found common usage in the English language.  Spellings of proper names and the numbering of the Psalms are adopted from the Latin Vulgate.
+\ip In 1749 Dr. Richard Challoner began a major revision of the Douay and Rheims texts, the spellings and phrasing of which had become increasingly archaic in the almost two centuries since the translations were first produced.  He modernized the diction and introduced a more fluid style, while faithfully maintaining the accuracy of Dr. Martin's texts.  This revision became the 'de facto' standard text for English speaking Catholics until the twentieth century.  It is still highly regarded by many for its style, although it is now rarely used for liturgical purposes.  The notes included in this electronic edition are generally attributed to Bishop Challoner.
+\ip The 1610 printing of the second tome of the Old Testament includes an appendix containing the non-canonical books 'Prayer of Manasses,' 'Third Booke of Esdras,' and 'Fourth Booke of Esdras.'  While not part of Challoner's revision, the 1610 texts are placed in the appendices of this e-text.  Also included are the original texts of two short books, 'The Prophecie of Abdias' and 'The Catholike Epistle of Iude the Apostle,' to give the reader a sense of the language of the first editions in comparison to the Challoner revision.  Further background on the Douay-Rheims version may be found in a selection from the preface to the 1582 edition and the original glossary included in the appendices.
 \periph Table of Contents
-\imt3 The Holy Bible
-\imt5 Challoner Douay Rheims Version
-\rem Published Order of Books
-\rem Genesis
-\rem Exodus
-\rem Leviticus
-\rem Numbers
-\rem Deuteronomy
-\rem Joshua
-\rem Judges
-\rem Ruth
-\rem 1 Samuel
-\rem 2 Samuel
-\rem 1 Kings
-\rem 2 Kings
-\rem 1 Chronicles
-\rem 2 Chronicles
-\rem Ezra
-\rem Nehemiah
-\rem Tobit
-\rem Judith
-\rem Esther
-\rem Job
-\rem Psalms
-\rem Proverbs
-\rem Ecclesiastes
-\rem Song of Solomon
-\rem Wisdom
-\rem Sirach
-\rem Isaiah
-\rem Jeremiah
-\rem Lamentations
-\rem Baruch
-\rem Ezekiel
-\rem Daniel
-\rem Hosea
-\rem Joel
-\rem Amos
-\rem Obadiah
-\rem Jonah
-\rem Micah
-\rem Nahum
-\rem Habakkuk
-\rem Zephaniah
-\rem Haggai
-\rem Zechariah
-\rem Malachi
-\rem 1 Maccabees
-\rem 2 Maccabees
-\rem Matthew
-\rem Mark
-\rem Luke
-\rem John
-\rem Acts of the Apostles
-\rem Romans
-\rem 1 Corinthians
-\rem 2 Corinthians
-\rem Galatians
-\rem Ephesians
-\rem Philippians
-\rem Colossians
-\rem 1 Thessalonians
-\rem 2 Thessalonians
-\rem 1 Timothy
-\rem 2 Timothy
-\rem Titus
-\rem Philemon
-\rem Hebrews
-\rem James
-\rem 1 Peter
-\rem 2 Peter
-\rem 1 John
-\rem 2 John
-\rem 3 John
-\rem Jude
-\rem Revelation
-\periph Preface
-\h0 Preface
-\h1 Preface
-\toc1 Version Information
-\toc2 Version Info
-\toc3 About
-\imt3 Information about
-\imt5 the Challoner Douay Rheims version of the Sacred Bible
-\im The original Douay Rheims version was translated from the Latin Vulgate and diligently compared with editions in Hebrew, Greek, and other languages. The New Testament of the Douay Rheims was first published by the English college at Rheims in A.D. 1582. The Old Testament of the Douay Rheims was first published by the English college at Douay in A.D. 1609.
-\ip The Challoner Douay Rheims version was prepared by Bishop Richard Challoner, about A.D. 1749-1752, by revising the original Douay Rheims version and by comparing it to the Latin Vulgate version of the Bible. The Challoner Douay Rheims was a combination of an update of the original Douay Rheims version and a new translation of the Latin Vulgate Bible.
-\ip The version of the Latin Vulgate used by Bishop Challoner was probably the Clementine Vulgate, a version approved by Pope Clement VIII in A.D. 1598. Clement VIII's version was based in large part on a version published under his predecessor, Pope Sixtus V, and so his name often appears on this version along with Pope Clement VIII.
-\ip Jerome's Latin Vulgate was translated by Saint Jerome from Hebrew and Greek manuscripts in the late 4th and early 5th century. Saint Jerome was not the first to translate the Bible into Latin. In the centuries before Jerome, there were many varied translations of the books of the Bible into Latin. Jerome consulted with these texts in addition to translating from the Hebrew and Greek. Saint Jerome actually was responsible for three different versions of the Bible in Latin.
-\ip The older Latin versions of the Bible, those that predate Saint Jerome's versions, are called Vetus Latina, meaning "Old Latin." During the time of Saint Jerome, there were almost as many different versions of the Bible in Latin as there were copies of the Bible in Latin. Pope Damasus I ordered Jerome to work on an updated Latin version of the Bible in order to address this problem.
-\ip This edition of the Challoner Douay Rheims version is entirely in the public domain.
-\imt6 \it May God be ever blessed.\it*
-\periph Old Testament Title Page
-\h
+\h ~
+\h0 ~
+\h1 ~
+\toc1
+\toc2 CONTENTS
+\toc3 Contents
+\rem Publication Order (and names in TOC)
+\rem The Old Testament
+\ib
+\rem   Book of Genesis
+\rem   Book of Exodus
+\rem   Book of Leviticus
+\rem   Book of Numbers
+\rem   Book of Deuteronomy
+\rem   Book of Josue
+\rem   Book of Judges
+\rem   Book of Ruth
+\rem   First Book of Samuel, alias 1 Kings
+\rem   Second Book of Samuel, alias 2 Kings
+\rem   Third Book of Kings
+\rem   Fourth Book of Kings
+\rem   First Book of Paralipomenon
+\rem   Second Book of Paralipomenon
+\rem   First Book of Esdras
+\rem   Book of Nehemias, alias 2 Esdras
+\rem   Book of Tobias
+\rem   Book of Judith
+\rem   Book of Esther
+\rem   Book of Job
+\rem   Book of Psalms
+\rem   Book of Proverbs
+\rem   Ecclesiastes
+\rem   Solomon's Canticle of Canticles
+\rem   Book of Wisdom
+\rem   Ecclesiasticus
+\rem   Prophecy of Isaias
+\rem   Prophecy of Jeremias
+\rem   Lamentations of Jeremias
+\rem   Prophecy of Baruch
+\rem   Prophecy of Ezechiel
+\rem   Prophecy of Daniel
+\rem   Prophecy of Osee
+\rem   Prophecy of Joel
+\rem   Prophecy of Amos
+\rem   Prophecy of Abdias
+\rem   Prophecy of Jonas
+\rem   Prophecy of Micheas
+\rem   Prophecy of Nahum
+\rem   Prophecy of Habacuc
+\rem   Prophecy of Sophonias
+\rem   Prophecy of Aggeus
+\rem   Prophecy of Zacharias
+\rem   Prophecy of Malachias
+\rem   First Book of Machabees
+\rem   Second Book of Machabees
+
+\rem The New Testament
+\rem
+\rem   Gospel According to St. Matthew
+\rem   Gospel According to St. Mark
+\rem   Gospel According to St. Luke
+\rem   Gospel According to St. John
+\rem   Acts of the Apostles
+\rem   Epistle of St. Paul to the Romans
+\rem   First Epistle of St. Paul to the Corinthians
+\rem   Second Epistle of St. Paul to the Corinthians
+\rem   Epistle of St. Paul to the Galatians
+\rem   Epistle of St. Paul to the Ephesians
+\rem   Epistle of St. Paul to the Philippians
+\rem   Epistle of St. Paul to the Colossians
+\rem   First Epistle of St. Paul to the Thessalonians
+\rem   Second Epistle of St. Paul to the Thessalonians
+\rem   First Epistle of St. Paul to Timothy
+\rem   Second Epistle of St. Paul to Timothy
+\rem   Epistle of St. Paul to Titus
+\rem   Epistle of St. Paul to Philemon
+\rem   Epistle of St. Paul to the Hebrews
+\rem   Catholic Epistle of St. James the Apostle
+\rem   First Epistle of St. Peter the Apostle
+\rem   Second Epistle of St. Peter the Apostle
+\rem   First Epistle of St. John the Apostle
+\rem   Second Epistle of St. John the Apostle
+\rem   Third Epistle of St. John the Apostle
+\rem   Catholic Epistle of St. Jude the Apostle
+\rem   Apocalypse of St. John the Apostle
+\rem Appendices
+\rem
+\rem   The Prayer of Manasses
+\rem   The Third Booke of Esdras
+\rem   The Fourth Booke of Esdras
+\rem  The Prophecie of Abdias
+\rem   The Catholike Epistle of Iude the Apostle
+\rem   The Preface to the Reader
+\rem   Hard Vvordes Explicated
+\periph Old Testament Title page
+\h0 ~
+\h1 ~
+\h ~
+\toc0 The Old Testament
 \ib7
-\mt1 Old Testament
-\periph New Testament Title Page
-\h
-\ib7
-\mt1 New Testament
+\imt3 THE OLD TESTAMENT

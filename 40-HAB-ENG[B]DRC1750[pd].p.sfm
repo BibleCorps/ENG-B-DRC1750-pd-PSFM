@@ -1,13 +1,16 @@
-\id HAB ENG (p.sfm) -  <> Habakkuk - Challoner Douay Rheims version of the Sacred Bible The Prophecy of Habakkuk. The Holy Bible. Bishop Challoner's 18th century revision of the Douay Rheims version. Electronic edition 2004. Public domain.
+\id Hab ENG (p.sfm) - DRC1750 - Verify <>
 \ide UTF-8
-\h Habakkuk
-\toc1 The Prophecy of Habakkuk
-\toc2 Habakkuk
+\h Habacuc
+\toc1 THE PROPHECY OF HABACUC
+\toc2 Habacuc
 \toc3 Hab
+\mt1 THE PROPHECY OF HABACUC
+\im HABACUC was a native of Bezocher, and prophesied in JUDA, some time before the invasion of the CHALDEANS, which he foretold. He lived to see this prophecy fulfilled, and for many years after, according to the general opinion, which supposes him to be the same that was brought by the ANGEL to DANIEL in BABYLON, Dan. 14.
 \c 1
-\cl Habakkuk 1
+\cl Habacuc 1
+\cd The prophet complains of the wickedness of the people: God reveals to him the vengeance he is going to take of them by the Chaldeans.
 \p
-\v 1 The burden that Habakkuk the prophet saw.
+\v 1 The burden that Habacuc the prophet saw.\f + \fr 1:1 \fk Burden: \ft Such prophecies more especially are called burdens, as threaten grievous evils and punishments.\f*
 \p
 \v 2 How long, O Lord, shall I cry, and thou wilt not hear? shall I cry out to thee suffering violence, and thou wilt not save?
 \p
@@ -27,7 +30,7 @@
 \p
 \v 10 And their prince shall triumph over kings, and princes shall be his laughingstock: and he shall laugh at every strong hold, and shall cast up a mount, and shall take it.
 \p
-\v 11 Then shall his spirit be changed, and he shall pass, and fall: this is his strength of his god.
+\v 11 Then shall his spirit be changed, and he shall pass, and fall: this is his strength of his god.\f + \fr 1:11 \fk Then shall his spirit, etc: \ft Viz., the spirit of the king of Babylon. It alludes to the judgment of God upon Nabuchodonosor, recorded Dan. 4., and to the speedy fall of the Chaldean empire.\f*
 \p
 \v 12 Wast thou not from the beginning, O Lord my God, my holy one, and we shall not die? Lord, thou hast appointed him for judgment: and made him strong for correction.
 \p
@@ -41,9 +44,10 @@
 \p
 \v 17 For this cause therefore he spreadeth his net, and will not spare continually to slay the nations.
 \c 2
-\cl Habakkuk 2
+\cl Habacuc 2
+\cd The prophet is admonished to wait with faith. The enemies of God's people shall assuredly be punished.
 \p
-\v 1 I will stand upon my watch, and fix my foot upon the tower: and I will watch, to see what will be said to me, and what I may answer to him that reproveth me.
+\v 1 I will stand upon my watch, and fix my foot upon the tower: and I will watch, to see what will be said to me, and what I may answer to him that reproveth me.\f + \fr 2:1 \fk Will stand, etc: \ft Waiting to see what the Lord will answer to my complaint, viz., that the Chaldeans, who are worse than the Jews, and who attribute all their success to their own strength, or to their idols, should nevertheless prevail over the people of the Lord. The Lord's answer is, that the prophet must wait with patience and faith: that all should be set right in due time; and the enemies of God and his people punished according to their deserts.\f*
 \p
 \v 2 And the Lord answered me, and said: Write the vision, and make it plain upon tables: that he that readeth it may run over it.
 \p
@@ -51,9 +55,9 @@
 \p
 \v 4 Behold, he that is unbelieving, his soul shall not be right in himself: but the just shall live in his faith.
 \p
-\v 5 And as wine deceiveth him that drinketh it: so shall the proud man be, and he shall not be honoured: who hath enlarged his desire like hell: and is himself like death, and he is never satisfied: but will gather together unto him all nations, and heap together unto him all people.
+\v 5 And as wine deceiveth him that drinketh it: so shall the proud man be, and he shall not be honoured: who hath enlarged his desire like hell: and is himself like death, and he is never satisfied: but will gather together unto him all nations, and heap together unto him all people.\f + \fr 2:5 \fk As wine deceiveth, etc: \ft Viz., by affording only a short passing pleasure; followed by the evils and disgrace that are the usual consequences of drunkenness; so shall it be with the proud enemies of the people of God; whose success affordeth them only a momentary pleasure, followed by innumerable and everlasting evils.\f*
 \p
-\v 6 Shall not all these take up a parable against him, and a dark speech concerning him: and it shall be said: Woe to him that heapeth together that which is not his own? how long also doth he load himself with thick clay?
+\v 6 Shall not all these take up a parable against him, and a dark speech concerning him: and it shall be said: Woe to him that heapeth together that which is not his own? how long also doth he load himself with thick clay?\f + \fr 2:6 \fk Thick clay: \ft Ill-gotten goods, that, like mire, both burden and defile the soul.\f*
 \p
 \v 7 Shall they not rise up suddenly that shall bite thee: and they be stirred up that shall tear thee, and thou shalt be a spoil to them?
 \p
@@ -67,7 +71,7 @@
 \p
 \v 12 Woe to him that buildeth a town with blood, and prepareth a city by iniquity.
 \p
-\v 13 Are not these things from the Lord of hosts? for the people shall labour in a great fire: and the nations in vain, and they shall faint.
+\v 13 Are not these things from the Lord of hosts? for the people shall labour in a great fire: and the nations in vain, and they shall faint.\f + \fr 2:13 \fk Are not these things, etc: \ft That is, shall not these punishments that are here recorded, come from the Lord upon him that is guilty of such crimes.\f*\f + \fr 2:13 \fk The people shall labour, etc: \ft Viz., the enemies of God's people.\f*
 \p
 \v 14 For the earth shall be filled, that men may know the glory of the Lord, as waters covering the sea.
 \p
@@ -75,7 +79,7 @@
 \p
 \v 16 Thou art filled with shame instead of glory: drink thou also, and fall fast asleep: the cup of the right hand of the Lord shall compass thee, and shameful vomiting shall be on thy glory.
 \p
-\v 17 For the iniquity of Libanus shall cover thee, and the ravaging of beasts shall terrify them because of the blood of men, and the iniquity of the land, and of the city, and of all that dwell therein.
+\v 17 For the iniquity of Libanus shall cover thee, and the ravaging of beasts shall terrify them because of the blood of men, and the iniquity of the land, and of the city, and of all that dwell therein.\f + \fr 2:17 \fk The iniquity of Libanus: \ft That is, the iniquity committed by the Chaldeans against the temple of God, signified here by the name of Libanus.\f*
 \p
 \v 18 What doth the graven thing avail, because the maker thereof hath graven it, a molten, and a false image? because the forger thereof hath trusted in a thing of his own forging, to make dumb idols.
 \p
@@ -83,23 +87,24 @@
 \p
 \v 20 But the Lord is in his holy temple: let all the earth keep silence before him.
 \c 3
-\cl Habakkuk 3
+\cl Habacuc 3
+\cd
 \p
-\v 1 A PRAYER OF Habakkuk THE PROPHET FOR IGNORANCES.
+\v 1 A PRAYER OF HABACUC THE PROPHET FOR IGNORANCES.\f + \fr 3:1 \fk For ignorances: \ft That is, for the sins of his people. In the Hebrew, it is Sigionoth: which some take to signify a musical instrument, or tune; with which this sublime prayer and canticle was to be sung.\f*
 \p
-\v 2 O Lord, I have heard thy hearing, and was afraid. O Lord, thy work, in the midst of the years bring it to life: In the midst of the years thou shalt make it known: when thou art angry, thou wilt remember mercy.
+\v 2 O Lord, I have heard thy hearing, and was afraid. O Lord, thy work, in the midst of the years bring it to life: In the midst of the years thou shalt make it known: when thou art angry, thou wilt remember mercy.\f + \fr 3:2 \fk Thy hearing, etc: \ft That is, thy oracles, the great and wonderful things thou hast revealed to me; and I was struck with a reverential fear and awe.\f*\f + \fr 3:2 \fk Thy work: \ft The great work of the redemption of man, which thou wilt bring to life and light in the midst of the years, when our calamities and miseries shall be at their height.\f*
 \p
-\v 3 God will come from the south, and the holy one from mount Pharan: His glory covered the heavens, and the earth is full of his praise.
+\v 3 God will come from the south, and the holy one from mount Pharan: His glory covered the heavens, and the earth is full of his praise.\f + \fr 3:3 \fk God will come from the south, etc: \ft God himself will come to give us his law, and to conduct us into the true land of promise: as heretofore he came from the South (in the Hebrew Theman) and from mount Pharan to give his law to his people in the desert. See Deut. 33.2.\f*
 \p
-\v 4 His brightness shall be as the light: horns are in his hands: There is his strength hid:
+\v 4 His brightness shall be as the light: horns are in his hands: There is his strength hid:\f + \fr 3:4 \fk Horns, etc: \ft That is, strength and power, which, by a Hebrew phrase, are called horns. Or beams of light, which come forth from his hands. Or it may allude to the cross, in the horns of which the hands of Christ were fastened, where his strength was hidden, by which he overcame the world, and drove out death and the devil.\f*
 \p
-\v 5 Death shall go before his face. And the devil shall go forth before his feet.
+\v 5 Death shall go before his face. And the devil shall go forth before his feet.\f + \fr 3:5 \fk Death shall go before his face, etc: \ft Both death and the devil shall be the executioners of his justice against his enemies: as they were heretofore against the Egyptians and Chanaanites.\f*
 \p
-\v 6 He stood and measured the earth. He beheld, and melted the nations: and the ancient mountains were crushed to pieces. The hills of the world were bowed down by the journeys of his eternity.
+\v 6 He stood and measured the earth. He beheld, and melted the nations: and the ancient mountains were crushed to pieces. The hills of the world were bowed down by the journeys of his eternity.\f + \fr 3:6 \fk He beheld, etc: \ft One look of his eye is enough to melt all the nations, and to reduce them to nothing. For all heaven and earth disappear when they come before his light. Apoc. 20.11.\f*\f + \fr 3:6 \fk The ancient mountains, etc: \ft By the mountains and hills are signified the great ones of the world, that persecute the church, whose power was quickly crushed by the Almighty.\f*
 \p
-\v 7 I saw the tents of Ethiopia for their iniquity, the curtains of the land of Madian shall be troubled.
+\v 7 I saw the tents of Ethiopia for their iniquity, the curtains of the land of Madian shall be troubled.\f + \fr 3:7 \fk Ethiopia: \ft the land of the Blacks, and Madian, are here taken for the enemies of God and his people: who shall perish for their iniquity.\f*
 \p
-\v 8 Wast thou angry, O Lord, with the rivers? or was thy wrath upon the rivers? or thy indignation in the sea? Who will ride upon thy horses: and thy chariots are salvation.
+\v 8 Wast thou angry, O Lord, with the rivers? or was thy wrath upon the rivers? or thy indignation in the sea? Who will ride upon thy horses: and thy chariots are salvation.\f + \fr 3:8 \fk With the rivers, etc: \ft He alludes to the wonders wrought heretofore by the Lord in favour of his people Israel, when the waters of the rivers, viz., of Arnon and Jordan, and of the Red Sea, retired before their face: when he came as it were with his horses and chariots to save them when he took up his bow for their defence, in consequence of the oath he had made to their tribes: when the mountains trembled, and the deep stood with its waves raised up in a heap, as with hands lifted up to heaven: when the sun and the moon stood still at his command, etc., to comply with his anger, not against the rivers and sea, but against the enemies of his people. How much more will he do in favour of his Son: and against the enemies of his church?\f*
 \p
 \v 9 Thou wilt surely take up thy bow: according to the oaths which thou hast spoken to the tribes. Thou wilt divide the rivers of the earth.
 \p
@@ -109,17 +114,16 @@
 \p
 \v 12 In thy anger thou wilt tread the earth under foot: in thy wrath thou wilt astonish the nations.
 \p
-\v 13 Thou wentest forth for the salvation of thy people: for salvation with thy Christ. Thou struckest the head of the house of the wicked: thou hast laid bare his foundation even to the neck.
+\v 13 Thou wentest forth for the salvation of thy people: for salvation with thy Christ. Thou struckest the head of the house of the wicked: thou hast laid bare his foundation even to the neck.\f + \fr 3:13 \fk The head of the house of the wicked: \ft Such was Pharao heretofore: such shall Antichrist be hereafter.\f*
 \p
 \v 14 Thou hast cursed his sceptres, the head of his warriors, them that came out as a whirlwind to scatter me. Their joy was like that of him that devoureth the poor man in secret.
 \p
-\v 15 Thou madest a way in the sea for thy horses, in the mud of many waters.
+\v 15 Thou madest a way in the sea for thy horses, in the mud of many waters.\f + \fr 3:15 \fk Thou madest a way in the sea, etc: \ft To deliver thy people from the Egyptian bondage: and thou shalt work the like wonders in the spiritual way, to rescue the children of the church from their enemies.\f*
 \p
-\v 16 I have heard and my bowels were troubled: my lips trembled at the voice. Let rottenness enter into my bones, and swarm under me. That I may rest in the day of tribulation: that I may go up to our people that are girded.
+\v 16 I have heard and my bowels were troubled: my lips trembled at the voice. Let rottenness enter into my bones, and swarm under me. That I may rest in the day of tribulation: that I may go up to our people that are girded.\f + \fr 3:16 \fk I have heard, etc: \ft Viz., the evils that are now coming upon the Israelites for their sins; and that shall come hereafter upon all impenitent sinners; and the foresight that I have of these miseries makes me willing to die, that I may be at rest, before this general tribulation comes, in which all good things shall be withdrawn from the wicked.\f*\f + \fr 3:16 \fk That I may go up to our people, etc: \ft That I may join the happy company in the bosom of Abraham, that are girded, that is, prepared for their journey, by which they shall attend their Lord, when he shall ascend into heaven. To which high and happy place, my Jesus, that is, my Saviour, the great conqueror of death and hell, shall one day conduct me rejoicing and singing psalms of praise, ver. 18 and 19.\f*
 \p
 \v 17 For the fig tree shall not blossom: and there shall be no spring in the vines. The labour of the olive tree shall fail: and the fields shall yield no food: the flock shall be cut off from the fold, and there shall be no herd in the stalls.
 \p
 \v 18 But I will rejoice in the Lord: and I will joy in God my Jesus.
 \p
 \v 19 The Lord God is my strength: and he will make my feet like the feet of harts: and he the conqueror will lead me upon my high places singing psalms.
-\mte9 The Sacred Bible - The Prophecy of Habakkuk

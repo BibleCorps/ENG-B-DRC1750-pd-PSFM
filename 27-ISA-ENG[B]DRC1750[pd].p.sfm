@@ -1,11 +1,14 @@
 \id ISA ENG (p.sfm) -  <> Isaiah - Challoner Douay Rheims version of the Sacred Bible The Prophecy of Isaiah. The Holy Bible. Bishop Challoner's 18th century revision of the Douay Rheims version. Electronic edition 2004. Public domain.
 \ide UTF-8
 \h Isaiah
-\toc1 The Prophecy of Isaiah
+\toc1 The Prophecy of Isaiah (Isaiah)
 \toc2 Isaiah
 \toc3 Isa
+\mt1 THE PROPHECY OF Isaiah
+\im This inspired writer is called by the Holy Ghost, the great prophet, (Ecclesiasticus 48.25,) from the greatness of his prophetic spirit, by which he hath foretold so long before, and in so clear a manner, the coming of Christ, the mysteries of our redemption, the calling of the Gentiles, and the glorious establishment, and perpetual flourishing of the church of Christ: insomuch that he may seem to have been rather an evangelist than a prophet. His very name is not without mystery; for Isaiah in Hebrew signifies the salvation of the Lord, or Jesus is the Lord. He was, according to the tradition of the Hebrews, of the blood royal of the kings of Juda: and after a most holy life, ended his days by a glorious martyrdom; being sawed in two, at the command of his wicked son in law, King Manasses, for reproving his evil ways.
 \c 1
 \cl Isaiah 1
+\cd The prophet complains of the sins of Juda and Jerusalem, and exhorts them to a sincere conversion.
 \p
 \v 1 The vision of Isaiah the Son of Amos, which he saw concerning Juda and Jerusalem in the days of Ozias, Joathan, Achaz, and Ezechias, kings of Juda.
 \p
@@ -70,10 +73,11 @@
 \v 31 And your strength shall be as the ashes of tow, and your work as a spark: and both shall burn together, and there shall be none to quench it.
 \c 2
 \cl Isaiah 2
+\cd All nations shall flow to the church of Christ. The Jews shall be rejected for their sins. Idolatry shall be destroyed.
 \p
 \v 1 The word that Isaiah the son of Amos saw, concerning Juda and Jerusalem.
 \p
-\v 2 And in the last days the mountain of the house of the Lord shall be prepared on the top of mountains, and it shall be exalted above the hills, and all nations shall flow unto it.
+\v 2 And in the last days the mountain of the house of the Lord shall be prepared on the top of mountains, and it shall be exalted above the hills, and all nations shall flow unto it.\f + \fr 2:2 \fk The last days: \ft The whole time of the new law, from the coming of Christ till the end of the world, is called in the scripture the last days; because no other age or time shall come after it, but only eternity.\f*\f + \fr 2:2 \fk On the top of mountains, etc: \ft This shews the perpetual visibility of the church of Christ: for a mountain upon the top of mountains cannot be hid.\f*
 \p
 \v 3 And many people shall go, and say: Come and let us go up to the mountain of the Lord, and to the house of the God of Jacob, and he will teach us his ways, and we will walk in his paths: for the law shall come forth from Sion, and the word of the Lord from Jerusalem.
 \p
@@ -105,7 +109,7 @@
 \p
 \v 17 And the loftiness of men shall be bowed down, and the haughtiness of men shall be humbled, and the Lord alone shall be exalted in that day.
 \p
-\v 18 And idols shall be utterly destroyed.
+\v 18 And idols shall be utterly destroyed.\f + \fr 2:18 \fk Idols shall be utterly destroyed: \ft or utterly pass away. This was verified by the establishment of Christianity. And by this and other texts of the like nature, the wild system of some modern sectaries is abundantly confuted, who charge the whole Christian church with worshipping idols, for many ages.\f*
 \p
 \v 19 And they shall go into the holes of rocks, and into the caves of the earth from the face of the fear of the Lord, and from the glory of his majesty, when he shall rise up to strike the earth.
 \p
@@ -116,6 +120,7 @@
 \v 22 Cease ye therefore from the man, whose breath is in his nostrils, for he is reputed high.
 \c 3
 \cl Isaiah 3
+\cd The confusion and other evils that shall come upon the Jews for their sins. The pride of their women shall be punished.
 \p
 \v 1 For behold the sovereign Lord of hosts shall take away from Jerusalem, and from Juda the valiant and the strong, the whole strength of bread, and the whole strength of water.
 \p
@@ -170,10 +175,11 @@
 \v 26 And her gates shall lament and mourn, and she shall sit desolate on the ground.
 \c 4
 \cl Isaiah 4
+\cd After an extremity of evils that shall fall upon the Jews, a remnant shall be comforted by Christ.
 \p
 \v 1 And in that day seven women shall take hold of one man, saying: We will eat our own bread, and wear our own apparel: only let us be called by thy name, take away our reproach.
 \p
-\v 2 In that day the bud of the Lord shall be in magnificence and glory, and the fruit of the earth shall be high, and a great joy to them that shall have escaped of Israel.
+\v 2 In that day the bud of the Lord shall be in magnificence and glory, and the fruit of the earth shall be high, and a great joy to them that shall have escaped of Israel.\f + \fr 4:2 \fk The bud of the Lord: \ft That is, Christ.\f*
 \p
 \v 3 And it shall come to pass, that every one that shall be left in Sion, and that shall remain in Jerusalem, shall be called holy, every one that is written in life in Jerusalem.
 \p
@@ -184,8 +190,9 @@
 \v 6 And there shall be a tabernacle for a shade in the daytime from the heat, and for a security and covert from the whirlwind, and from rain.
 \c 5
 \cl Isaiah 5
+\cd The reprobation of the Jews is foreshewn under the parable of a vineyard. A woe is pronounced against sinners: the army of God shall send against them.
 \p
-\v 1 I will sing to my beloved the canticle of my cousin concerning his vineyard. My beloved had a vineyard on a hill in a fruitful place.
+\v 1 I will sing to my beloved the canticle of my cousin concerning his vineyard. My beloved had a vineyard on a hill in a fruitful place.\f + \fr 5:1 \fk My cousin: \ft So the prophet calls Christ, as being of his family and kindred, by descending from the house of David.\f*\f + \fr 5:1 \fk On a hill, etc: \ft Literally, in the horn, the son of oil.\f*
 \p
 \v 2 And he fenced it in, and picked the stones out of it, and planted it with the choicest vines, and built a tower in the midst thereof, and set up a winepress therein: and he looked that it should bring forth grapes, and it brought forth wild grapes.
 \p
@@ -246,6 +253,7 @@
 \v 30 And they shall make a noise against them that day, like the roaring of the sea; we shall look towards the land, and behold darkness of tribulation, and the light is darkened with the mist thereof.
 \c 6
 \cl Isaiah 6
+\cd A glorious vision, in which the prophet's lips are cleansed: he foretelleth the obstinacy of the Jews.
 \p
 \v 1 In the year that king Ozias died, I saw the Lord sitting upon a throne high and elevated: and his train filled the temple.
 \p
@@ -274,6 +282,7 @@
 \v 13 And there shall be still a tithing therein, and she shall turn, and shall be made a show as a turpentine tree, and as an oak that spreadeth its branches: that which shall stand therein, shall be a holy seed.
 \c 7
 \cl Isaiah 7
+\cd The prophet assures king Achaz that the two kings his enemies shall not take Jerusalem. A virgin shall conceive and bear a son.
 \p
 \v 1 And it came to pass in the days of Achaz the son of Joathan, the son of Ozias, king of Juda, that Rasin king of Syria and Phacee the son of Romelia king of Israel, came up to Jerusalem, to fight against it: but they could not prevail over it.
 \p
@@ -326,6 +335,7 @@
 \v 25 And as for the hills that shall be raked with a rake, the fear of thorns and briers shall not come thither, but they shall be for the ox to feed on, and the lesser cattle to tread upon.
 \c 8
 \cl Isaiah 8
+\cd The name of a child that is to be born: many evils shall come upon the Jews for their sins.
 \p
 \v 1 And the Lord said to me: Take thee a great book, and write in it with a man's pen. Take away the spoils with speed, quickly take the prey.
 \p
@@ -363,7 +373,7 @@
 \p
 \v 18 Behold I and my children, whom the Lord hath given me for a sign, and for a wonder in Israel from the Lord of hosts, who dwelleth in mount Sion.
 \p
-\v 19 And when they shall say to you: Seek of pythons, and of diviners, who mutter in their enchantments: should not the people seek of their God, for the living of the dead?
+\v 19 And when they shall say to you: Seek of pythons, and of diviners, who mutter in their enchantments: should not the people seek of their God, for the living of the dead?\f + \fr 8:19 \fk Seek of pythons: \ft That is, people pretending to tell future things by a prophesying spirit.\f*\f + \fr 8:19 \fk Should not the people seek of their God, for the living of the dead?: \ft Here is signified, that it is to God we should pray to be directed, and not to seek of the dead, (that is, of fortune-tellers dead in sin,) for the health of the living.\f*
 \p
 \v 20 To the law rather, and to the testimony. And if they speak not according to this word, they shall not have the morning light.
 \p
@@ -372,6 +382,7 @@
 \v 22 And they shall look to the earth, and behold trouble and darkness, weakness and distress, and a mist following them, and they cannot fly away from their distress.
 \c 9
 \cl Isaiah 9
+\cd What joy shall come after afflictions by the birth and kingdom of Christ; which shall flourish for ever. Judgments upon Israel for their sins.
 \p
 \v 1 At the first time the land of Zabulon, and the land of Nephtali was lightly touched: and at the last the way of the sea beyond the Jordan of the Galilee of the Gentiles was heavily loaded.
 \p
@@ -416,6 +427,7 @@
 \v 21 After all these things his indignation is not turned away, but his hand is stretched out still.
 \c 10
 \cl Isaiah 10
+\cd Woe to the makers of wicked laws. The Assyrian shall be a rod for punishing Israel: but for their pride they shall be destroyed: and a remnant of Israel saved.
 \p
 \v 1 Woe to them that make wicked laws: and when they write, write injustice:
 \p
@@ -459,7 +471,7 @@
 \p
 \v 21 The remnant shall be converted, the remnant, I say, of Jacob, to the mighty God.
 \p
-\v 22 For if thy people, O Israel, shall be as the sand of the sea, a remnant of them shall be converted, the consumption abridged shall overflow with justice.
+\v 22 For if thy people, O Israel, shall be as the sand of the sea, a remnant of them shall be converted, the consumption abridged shall overflow with justice.\f + \fr 10:22 \fk A remnant of them shall be converted: \ft This was partly verified in the children of Israel who remained after the devastations of the Assyrians, in the time of king Ezechias: and partly in the conversion of a remnant of the Jews to the faithful of Christ.\f*\f + \fr 10:22 \fk The consumption abridged, etc: \ft That is, the number of them cut short, and reduced to few, shall flourish in abundance of justice.\f*
 \p
 \v 23 For the Lord God of hosts shall make a consumption, and an abridgment in the midst of all the land.
 \p
@@ -469,9 +481,9 @@
 \p
 \v 26 And the Lord of hosts shall raise up a scourge against him, according to the slaughter of Madian in the rock of Oreb, and his rod over the sea, and he shall lift it up in the way of Egypt.
 \p
-\v 27 And it shall come to pass in that day, that his burden shall be taken away from off thy shoulder, and his yoke from off thy neck, and the yoke shall putrefy at the presence of the oil.
+\v 27 And it shall come to pass in that day, that his burden shall be taken away from off thy shoulder, and his yoke from off thy neck, and the yoke shall putrefy at the presence of the oil.\f + \fr 10:27 \fk At the presence of the oil: \ft That is, by the sweet unction of divine mercy.\f*
 \p
-\v 28 He shall come into Aiath, he shall pass into Magron: at Machmas he shall lay up his carriages.
+\v 28 He shall come into Aiath, he shall pass into Magron: at Machmas he shall lay up his carriages.\f + \fr 10:28 \fk Into Aiath, etc: \ft Here the prophet describes the march of the Assyrians under Sennacherib; and the terror they should carry with them; and how they should suddenly be destroyed.\f*
 \p
 \v 29 They have passed in haste, Gaba is our lodging: Rama was astonished, Gabaath of Saul fled away.
 \p
@@ -486,6 +498,7 @@
 \v 34 And the thickets of the forest shall be cut down with iron, and Libanus with its high ones shall fall.
 \c 11
 \cl Isaiah 11
+\cd Of the spiritual kingdom of Christ, to which all nations shall repair.
 \p
 \v 1 And there shall come forth a rod out of the root of Jesse, and a flower shall rise up out of his root.
 \p
@@ -520,6 +533,7 @@
 \v 16 And there shall be a highway for the remnant of my people, which shall be left from the Assyrians: as there was for Israel in the day that he came up out of the land of Egypt.
 \c 12
 \cl Isaiah 12
+\cd A canticle of thanksgiving for the benefits of Christ.
 \p
 \v 1 And thou shalt say in that day: I will give thanks to thee, O Lord, for thou wast angry with me: thy wrath is turned away, and thou hast comforted me.
 \p
@@ -534,8 +548,9 @@
 \v 6 Rejoice, and praise, O thou habitation of Sion: for great is he that is in the midst of thee, the Holy One of Israel.
 \c 13
 \cl Isaiah 13
+\cd The desolation of Babylon.
 \p
-\v 1 The burden of Babylon which Isaiah the son of Amos saw.
+\v 1 The burden of Babylon which Isaiah the son of Amos saw.\f + \fr 13:1 \fk The burden of Babylon: \ft That is, a prophecy against Babylon.\f*
 \p
 \v 2 Upon the dark mountain lift ye up a banner, exalt the voice, lift up the hand, and let the rulers go into the gates.
 \p
@@ -580,6 +595,7 @@
 \v 22 And owls shall answer one another there, in the houses thereof, and sirens in the temples of pleasure.
 \c 14
 \cl Isaiah 14
+\cd The restoration of Israel after their captivity. The parable or song insulting over the king of Babylon. A prophecy against the Philistines.
 \p
 \v 1 Her time is near at hand, and her days shall not be prolonged. For the Lord will have mercy on Jacob, and will yet choose out of Israel, and will make them rest upon their own ground: and the stranger shall be joined with them, and shall adhere to the house of Jacob.
 \p
@@ -603,7 +619,7 @@
 \p
 \v 11 Thy pride is brought down to hell, thy carcass is fallen down: under thee shall the moth be strewed, and worms shall be thy covering.
 \p
-\v 12 How art thou fallen from heaven, O Lucifer, who didst rise in the morning? how art thou fallen to the earth, that didst wound the nations?
+\v 12 How art thou fallen from heaven, O Lucifer, who didst rise in the morning? how art thou fallen to the earth, that didst wound the nations?\f + \fr 14:12 \fk O Lucifer: \ft O day star. All this, according to the letter, is spoken of the king of Babylon. It may also be applied, in a spiritual sense, to Lucifer the prince of devils, who was created a bright angel, but fell by pride and rebellion against God.\f*
 \p
 \v 13 And thou saidst in thy heart: I will ascend into heaven, I will exalt my throne above the stars of God, I will sit in the mountain of the covenant, in the sides of the north.
 \p
@@ -646,6 +662,7 @@
 \v 32 And what shall be answered to the messengers of the nations? That the Lord hath founded Sion, and the poor of his people shall hope in him.
 \c 15
 \cl Isaiah 15
+\cd A prophecy of the desolation of the Moabites.
 \p
 \v 1 The burden of Moab. Because in the night Ar of Moab is laid waste, it is silent: because the wall of Moab is destroyed in the night, it is silent.
 \p
@@ -659,13 +676,14 @@
 \p
 \v 6 For the waters of Nemrim shall be desolate, for the grass is withered away, the spring is faded, all the greenness is perished.
 \p
-\v 7 According to the greatness of their work, is their visitation also: they shall lead them to the torrent of the willows.
+\v 7 According to the greatness of their work, is their visitation also: they shall lead them to the torrent of the willows.\f + \fr 15:7 \fk Torrent of the willows: \ft That is, as some say, the waters of Babylon: others render it, a valley of the Arabians.\f*
 \p
 \v 8 For the cry is gone round about the border of Moab: the howling thereof unto Gallim, and unto the well of Elim the cry thereof.
 \p
 \v 9 For the waters of Dibon are filled with blood: for I will bring more upon Dibon: the lion upon them that shall flee of Moab, and upon the remnant of the land.
 \c 16
 \cl Isaiah 16
+\cd The prophet prayeth for Christ's coming. The affliction of the Moabites for their pride.
 \p
 \v 1 Send forth, O Lord, the lamb, the ruler of the earth, from Petra of the desert, to the mount of the daughter of Sion.
 \p
@@ -685,7 +703,7 @@
 \p
 \v 9 Therefore I will lament with the weeping of Jazer the vineyard of Sabama: I will water thee with my tears, O Hesebon, and Eleale: for the voice of the treaders hath rushed in upon thy vintage, and upon thy harvest.
 \p
-\v 10 And gladness and joy shall be taken away from Carmel, and there shall be no rejoicing nor shouting in the vineyards. He shall not tread out wine in the press that was wont to tread it out: the voice of the treaders I have taken away.
+\v 10 And gladness and joy shall be taken away from Carmel, and there shall be no rejoicing nor shouting in the vineyards. He shall not tread out wine in the press that was wont to tread it out: the voice of the treaders I have taken away.\f + \fr 16:10 \fk Carmel: \ft This name is often taken to signify a fair and fruitful hill or field, such as mount Carmel is.\f*
 \p
 \v 11 Wherefore my bowels shall sound like a harp for Moab, and my inward parts for the brick wall.
 \p
@@ -696,6 +714,7 @@
 \v 14 And now the Lord hath spoken, saying: In three years, as the years of a hireling, the glory of Moab shall be taken away for all the multitude of the people, and it shall be left small and feeble, not many.
 \c 17
 \cl Isaiah 17
+\cd Judgments upon Damascus and Samaria. The overthrow of the Assyrians.
 \p
 \v 1 The burden of Damascus. Behold Damascus shall cease to be a city, and shall be as a ruinous heap of stones.
 \p
@@ -713,23 +732,24 @@
 \p
 \v 8 And he shall not look to the altars which his hands made; and he shall not have respect to the things that his fingers wrought, such as groves and temples.
 \p
-\v 9 In that day his strong cities shall be forsaken, as the ploughs, and the corn that were left before the face of the children of Israel, and thou shalt be desolate.
+\v 9 In that day his strong cities shall be forsaken, as the ploughs, and the corn that were left before the face of the children of Israel, and thou shalt be desolate.\f + \fr 17:9 \fk That were left: \ft Viz., by the Chanaanites, when the children of Israel came into their land.\f*
 \p
 \v 10 Because thou hast forgotten God thy saviour, and hast not remembered thy strong helper: therefore shalt thou plant good plants, and shalt sow strange seed.
 \p
 \v 11 In the day of thy planting shall be the wild grape, and in the morning thy seed shall flourish: the harvest is taken away in the day of inheritance, and shall grieve thee much.
 \p
-\v 12 Woe to the multitude of many people, like the multitude of the roaring sea: and the tumult of crowds, like the noise of many waters.
+\v 12 Woe to the multitude of many people, like the multitude of the roaring sea: and the tumult of crowds, like the noise of many waters.\f + \fr 17:12 \fk The multitude, etc: \ft This and all that follows to the end of the chapter, relates to the Assyrian army under Sennacherib.\f*
 \p
 \v 13 Nations shall make a noise like the noise of waters overflowing, but he shall rebuke him, and he shall flee far off: and he shall be carried away as the dust of the mountains before the wind, and as a whirlwind before a tempest.
 \p
 \v 14 In the time of the evening, behold there shall be trouble: the morning shall come, and he shall not be: this is the portion of them that have wasted us, and the lot of them that spoiled us.
 \c 18
 \cl Isaiah 18
+\cd A woe to the Ethiopians, who fed Israel with vain hopes, their future conversion.
 \p
 \v 1 Woe to the land, the winged cymbal, which is beyond the rivers of Ethiopia,
 \p
-\v 2 That sendeth ambassadors by the sea, and in vessels of bulrushes upon the waters. Go, ye swift angels, to a nation rent and torn in pieces: to a terrible people, after which there is no other: to a nation expecting and trodden underfoot, whose land the rivers have spoiled.
+\v 2 That sendeth ambassadors by the sea, and in vessels of bulrushes upon the waters. Go, ye swift angels, to a nation rent and torn in pieces: to a terrible people, after which there is no other: to a nation expecting and trodden underfoot, whose land the rivers have spoiled.\f + \fr 18:2 \fk Angels: \ft Or messengers.\f*
 \p
 \v 3 All ye inhabitants of the world, who dwell on the earth, when the sign shall be lifted up on the mountains, you shall see, and you shall hear the sound of the trumpet.
 \p
@@ -742,6 +762,7 @@
 \v 7 At that time shall a present be brought to the Lord of hosts, from a people rent and torn in pieces: from a terrible people, after which there hath been no other: from a nation expecting, expecting and trodden under foot, whose land the rivers have spoiled, to the place of the name of the Lord of hosts, to mount Sion.
 \c 19
 \cl Isaiah 19
+\cd The punishment of Egypt: their call to the church.
 \p
 \v 1 The burden of Egypt. Behold the Lord will ascend upon a swift cloud, and will enter into Egypt, and the idols of Egypt shall be moved at his presence, and the heart of Egypt shall melt in the midst thereof.
 \p
@@ -794,6 +815,7 @@
 \v 25 Which the Lord of hosts hath blessed, saying: Blessed be my people of Egypt, and the work of my hands to the Assyrian: but Israel is my inheritance.
 \c 20
 \cl Isaiah 20
+\cd The ignominious captivity of the Egyptians, and the Ethiopians.
 \p
 \v 1 In the year that Tharthan entered into Azotus, when Sargon the king of the Assyrians had sent him, and he had fought against Azotus, and had taken it:
 \p
@@ -808,10 +830,11 @@
 \v 6 And the inhabitants of this isle shall say in that day: Lo this was our hope, to whom we fled for help, to deliver us from the face of the king of the Assyrians: and how shall we be able to escape?
 \c 21
 \cl Isaiah 21
+\cd The destruction of Babylon by the Medes and Persians: a prophecy against the Edomites and the Arabians.
 \p
-\v 1 The burden of the desert of the sea. As whirlwinds come from the south, it cometh from the desert from a terrible land.
+\v 1 The burden of the desert of the sea. As whirlwinds come from the south, it cometh from the desert from a terrible land.\f + \fr 21:1 \fk The desert of the sea: \ft So Babylon is here called, because from a city as full of people as the sea is with water, it was become a desert.\f*
 \p
-\v 2 A grievous vision is told me: he that is unfaithful dealeth unfaithfully: and he that is a spoiler, spoileth. Go up, O Elam, besiege, O Mede: I have made all the mourning thereof to cease.
+\v 2 A grievous vision is told me: he that is unfaithful dealeth unfaithfully: and he that is a spoiler, spoileth. Go up, O Elam, besiege, O Mede: I have made all the mourning thereof to cease.\f + \fr 21:2 \fk O Elam: \ft That is, O Persia.\f*
 \p
 \v 3 Therefore are my loins filled with pain, anguish hath taken hold of me, as the anguish of a woman in labour: I fell down at the hearing of it, I was troubled at the seeing of it.
 \p
@@ -821,15 +844,15 @@
 \p
 \v 6 For thus hath the Lord said to me: Go, and set a watchman: and whatsoever he shall see, let him tell.
 \p
-\v 7 And he saw a chariot with two horsemen, a rider upon an ass, and a rider upon a camel: and he beheld them diligently with much heed.
+\v 7 And he saw a chariot with two horsemen, a rider upon an ass, and a rider upon a camel: and he beheld them diligently with much heed.\f + \fr 21:7 \fk A rider upon an ass, etc: \ft These two riders are the kings of the Persians and Medes.\f*
 \p
-\v 8 And a lion cried out: I am upon the watchtower of the Lord, standing continually by day: and I am upon my ward, standing whole nights.
+\v 8 And a lion cried out: I am upon the watchtower of the Lord, standing continually by day: and I am upon my ward, standing whole nights.\f + \fr 21:8 \fk And a lion cried out: \ft That is, I Isaiah seeing the approaching ruin of Babylon, have cried out as a lion roaring.\f*
 \p
 \v 9 Behold this man cometh, the rider upon the chariot with two horsemen, and he answered, and said: Babylon is fallen, she is fallen, and all the graven gods thereof are broken unto the ground.
 \p
 \v 10 O my thrashing, and the children of my floor, that which I have heard of the Lord of hosts, the God of Israel, I have declared unto you.
 \p
-\v 11 The burden of Duma calleth to me out of Seir: Watchman, what of the night? watchman, what of the night?
+\v 11 The burden of Duma calleth to me out of Seir: Watchman, what of the night? watchman, what of the night?\f + \fr 21:11 \fk Duma: \ft That is, Idumea, or Edom.\f*
 \p
 \v 12 The watchman said: The morning cometh, also the night: if you seek, seek: return, come.
 \p
@@ -839,13 +862,14 @@
 \p
 \v 15 For they are fled from before the swords, from the sword that hung over them, from the bent bow, from the face of a grievous battle.
 \p
-\v 16 For thus saith the Lord to me: Within a year, according to the years of a hireling, all the glory of Cedar shall be taken away.
+\v 16 For thus saith the Lord to me: Within a year, according to the years of a hireling, all the glory of Cedar shall be taken away.\f + \fr 21:16 \fk Cedar: \ft Arabia.\f*
 \p
 \v 17 And the residue of the number of strong archers of the children of Cedar shall be diminished: for the Lord the God of Israel hath spoken it.
 \c 22
 \cl Isaiah 22
+\cd The prophet laments the devastation of Juda. He foretells the deprivation of Sobna, and the substitution of Eliacim, a figure of Christ.
 \p
-\v 1 The burden of the valley of vision. What aileth thee also, that thou too art wholly gone up to the housetops?
+\v 1 The burden of the valley of vision. What aileth thee also, that thou too art wholly gone up to the housetops?\f + \fr 22:1 \fk The valley of vision: \ft Jerusalem. The temple of Jerusalem was built upon mount Moria, or the mountain of vision. But the city is here called the valley of vision; either because it was lower than the temple, or because of the low condition to which it was to be reduced.\f*
 \p
 \v 2 Full of clamour, a populous city, a joyous city: thy slain are not slain by the sword, nor dead in battle.
 \p
@@ -896,6 +920,7 @@
 \v 25 In that day, saith the Lord of hosts, shall the peg be removed, that was fastened in the sure place: and it shall be broken and shall fall: and that which hung thereon, shall perish, because the Lord hath spoken it.
 \c 23
 \cl Isaiah 23
+\cd The destruction of Tyre. It shall be repaired again after seventy years.
 \p
 \v 1 The burden of Tyre. Howl, ye ships of the sea, for the house is destroyed, from whence they were wont to come: from the land of Cethim it is revealed to them.
 \p
@@ -931,9 +956,10 @@
 \p
 \v 17 And it shall come to pass after seventy years, that the Lord will visit Tyre, and will bring her back again to her traffic: and she shall commit fornication again with all the kingdoms of the world upon the face of the earth.
 \p
-\v 18 And her merchandise and her hire shall be sanctified to the Lord: they shall not be kept in store, nor laid up: for her merchandise shall be for them that shall dwell before the Lord, that they may eat unto fulness, and be clothed for a continuance.
+\v 18 And her merchandise and her hire shall be sanctified to the Lord: they shall not be kept in store, nor laid up: for her merchandise shall be for them that shall dwell before the Lord, that they may eat unto fulness, and be clothed for a continuance.\f + \fr 23:18 \fk Sanctified to the Lord: \ft This alludes to the conversion of the Gentiles.\f*
 \c 24
 \cl Isaiah 24
+\cd The judgments of God upon all the sinners of the world. A remnant shall joyfully praise him.
 \p
 \v 1 Behold the Lord shall lay waste the earth, and shall strip it, and shall afflict the face thereof, and scatter abroad the inhabitants thereof.
 \p
@@ -975,13 +1001,14 @@
 \p
 \v 20 With shaking shall the earth be shaken as a drunken man, and shall be removed as the tent of one night: and the iniquity thereof shall be heavy upon it, and it shall fall, and not rise again.
 \p
-\v 21 And it shall come to pass, that in that day the Lord shall visit upon the host of heaven on high, and upon the kings of the earth, on the earth.
+\v 21 And it shall come to pass, that in that day the Lord shall visit upon the host of heaven on high, and upon the kings of the earth, on the earth.\f + \fr 24:21 \fk The host of heaven on high: \ft The stars, which in many places of the Scripture are so called. Some commentators explain that these words here signify the demons of the air.\f*
 \p
 \v 22 And they shall be gathered together as in the gathering of one bundle into the pit, and they shall be shut up there in prison: and after many days they shall be visited.
 \p
 \v 23 And the moon shall blush, and the sun shall be ashamed, when the Lord of hosts shall reign in mount Sion, and in Jerusalem, and shall be glorified in the sight of his ancients.
 \c 25
 \cl Isaiah 25
+\cd A canticle of thanksgiving for God's judgments and benefits.
 \p
 \v 1 O Lord, thou art my God, I will exalt O thee, and give glory to thy name: for thou hast done wonderful things, thy designs of old faithful, amen.
 \p
@@ -1001,13 +1028,14 @@
 \p
 \v 9 And they shall say in that day: Lo, this is our God, we have waited for him, and he will save us: this is the Lord, we have patiently waited for him, we shall rejoice and be joyful in his salvation.
 \p
-\v 10 For the hand of the Lord shall rest in this mountain: and Moab shall be trodden down under him, as straw is broken in pieces with the wain.
+\v 10 For the hand of the Lord shall rest in this mountain: and Moab shall be trodden down under him, as straw is broken in pieces with the wain.\f + \fr 25:10 \fk Moab: \ft That is, the reprobate, whose eternal punishment, from which they can no way escape, is described under these figures.\f*
 \p
 \v 11 And he shall stretch forth his hands under him, as he that swimmeth stretcheth forth his hands to swim: and he shall bring down his glory with the dashing of his hands.
 \p
 \v 12 And the bulwarks of thy high walls shall fall, and be brought low, and shall be pulled down to the ground, even to the dust.
 \c 26
 \cl Isaiah 26
+\cd A canticle of thanks for the deliverance of God's people.
 \p
 \v 1 In that day shall this canticle be sung in the land of Juda. Sion the city of our strength a saviour, a wall and a bulwark shall be set therein.
 \p
@@ -1049,39 +1077,41 @@
 \p
 \v 20 Go, my people, enter into thy chambers, shut thy doors upon thee, hide thyself a little for a moment, until the indignation pass away.
 \p
-\v 21 For behold the Lord will come out of his place, to visit the iniquity of the inhabitant of the earth against him: and the earth shall disclose her blood, and shall cover her slain no more.
+\v 21 For behold the Lord will come out of his place, to visit the iniquity of the inhabitant of the earth against him: and the earth shall disclose her blood, and shall cover her slain no more.\f + \fr 26:21 \fk Shall cover her slain no more: \ft This is said with relation to the martyrs, and their happy resurrection.\f*
 \c 27
 \cl Isaiah 27
+\cd The punishment of the oppressors of God's people. The Lord's favour to his church.
 \p
-\v 1 In that day the Lord with his hard, and great, and strong sword shall visit leviathan the bar serpent, and leviathan the crooked serpent, and shall slay the whale that is in the sea.
+\v 1 In that day the Lord with his hard, and great, and strong sword shall visit leviathan the bar serpent, and leviathan the crooked serpent, and shall slay the whale that is in the sea.\f + \fr 27:1 \fk Leviathan: \ft That is, the devil, the great enemy of the people of God. He is called the bar serpent from his strength, and the crooked serpent from his wiles; and the whale of the sea, from the tyranny he exercises in the sea of this world. He was spiritually slain by the death of Christ, when his power was destroyed.\f*
 \p
-\v 2 In that day there shall be singing to the vineyard of pure wine.
+\v 2 In that day there shall be singing to the vineyard of pure wine.\f + \fr 27:2 \fk The vineyard, etc: \ft The church of Christ.\f*
 \p
-\v 3 I am the Lord that keep it, I will suddenly give it drink: lest any hurt come to it, I keep it night and day.
+\v 3 I am the Lord that keep it, I will suddenly give it drink: lest any hurt come to it, I keep it night and day.\f + \fr 27:3 \fk I will suddenly give it drink: \ft Or, as the Hebrew may also be rendered, I will continually water it.\f*
 \p
-\v 4 There is no indignation in me: who shall make me a thorn and a brier in battle: shall I march against it, shall, I set it on fire together?
+\v 4 There is no indignation in me: who shall make me a thorn and a brier in battle: shall I march against it, shall, I set it on fire together?\f + \fr 27:4 \fk No indignation in me, etc: \ft Viz., against the church: nor shall I become as a thorn or brier in its regard; or march against it, or set it on fire: but it shall always take fast hold of me, and keep an everlasting peace with me.\f*
 \p
 \v 5 Or rather shall it take hold of my strength, shall it make peace with me, shall it make peace with me?
 \p
-\v 6 When they shall rush in unto Jacob, Israel shall blossom and bud, and they shall fill the face of the world with seed.
+\v 6 When they shall rush in unto Jacob, Israel shall blossom and bud, and they shall fill the face of the world with seed.\f + \fr 27:6 \fk When they shall rush in, etc: \ft Some understand this of the enemies of the true Israel, that shall invade it in vain. Others of the spiritual invasion made by the apostles of Christ.\f*
 \p
-\v 7 Hath he struck him according to the stroke of him that struck him? or is he slain, as he killed them that were slain by him?
+\v 7 Hath he struck him according to the stroke of him that struck him? or is he slain, as he killed them that were slain by him?\f + \fr 27:7 \fk Hath he struck him, etc: \ft Hath God punished the carnal persecuting Jews, in proportion to their doings against Christ and his saints?\f*
 \p
-\v 8 In measure against measure, when it shall be cast off, thou shalt judge it. He hath meditated with his severe spirit in the day of heat.
+\v 8 In measure against measure, when it shall be cast off, thou shalt judge it. He hath meditated with his severe spirit in the day of heat.\f + \fr 27:8 \fk When it shall be cast off, etc: \ft When the synagogue shall be cast off, thou shalt judge it in measure, and in proportion to its crimes.\f*\f + \fr 27:8 \fk He hath meditated, etc: \ft God hath designed severe punishments in the day of his wrath.\f*
 \p
-\v 9 Therefore upon this shall the iniquity of the house of Jacob be forgiven: and this is all the fruit, that the sin thereof should be taken away, when he shall have made all the stones of the altar, as burnt stones broken in pieces, the groves and temples shall not stand.
+\v 9 Therefore upon this shall the iniquity of the house of Jacob be forgiven: and this is all the fruit, that the sin thereof should be taken away, when he shall have made all the stones of the altar, as burnt stones broken in pieces, the groves and temples shall not stand.\f + \fr 27:9 \fk Of the house of Jacob: \ft Viz., of such of them as shall be converted.\f*
 \p
-\v 10 For the strong city shall be desolate, the beautiful city shall be forsaken, and shall be left as a wilderness: there the calf shall feed, and there shall he lie down, and shall consume its branches.
+\v 10 For the strong city shall be desolate, the beautiful city shall be forsaken, and shall be left as a wilderness: there the calf shall feed, and there shall he lie down, and shall consume its branches.\f + \fr 27:10 \fk The strong city: \ft Jerusalem.\f*
 \p
 \v 11 Its harvest shall be destroyed with drought, women shall come and teach it: for it is not a wise people, therefore he that made it, shall not have mercy on it: and he that formed it, shall not spare it.
 \p
 \v 12 And it shall come to pass, that in that day the Lord will strike from the channel of the river even to the torrent of Egypt, and you shall be gathered together one by one, O ye children of Israel.
 \p
-\v 13 And it shall come to pass, that in that day a noise shall be made with a great trumpet, and they that were lost, shall come from the land of the Assyrians, and they that were outcasts in the land of Egypt, and they shall adore the Lord in the holy mount in Jerusalem.
+\v 13 And it shall come to pass, that in that day a noise shall be made with a great trumpet, and they that were lost, shall come from the land of the Assyrians, and they that were outcasts in the land of Egypt, and they shall adore the Lord in the holy mount in Jerusalem.\f + \fr 27:13 \fk A great trumpet: \ft The preaching of the gospel for the conversion of the Jews.\f*
 \c 28
 \cl Isaiah 28
+\cd The punishment of the Israelites, for their pride, intemperance, and contempt of religion. Christ the cornerstone.
 \p
-\v 1 Woe to the crown of pride, to the drunkards of Ephraim, and to the fading flower the glory his joy, who were on the head of the fat valley, staggering with wine.
+\v 1 Woe to the crown of pride, to the drunkards of Ephraim, and to the fading flower the glory his joy, who were on the head of the fat valley, staggering with wine.\f + \fr 28:1 \fk Ephraim: \ft That is, the kingdom of the ten tribes.\f*\f + \fr 28:1 \fk The head of the fat valley: \ft Samaria, situate on a hill, having under it a most fertile valley.\f*
 \p
 \v 2 Behold the Lord is mighty and strong, as a storm of hail: a destroying whirlwind, as the violence of many waters overflowing, and sent forth upon a spacious land.
 \p
@@ -1093,13 +1123,13 @@
 \p
 \v 6 And a spirit of judgment to him that sitteth in judgment, and strength to them that return out of the battle to the gate.
 \p
-\v 7 But these also have been ignorant through wine, and through drunkenness have erred: the priest and the prophet have been ignorant through drunkenness, they are swallowed up with wine, they have gone astray in drunkenness, they have not known him that seeth, they have been ignorant of judgment.
+\v 7 But these also have been ignorant through wine, and through drunkenness have erred: the priest and the prophet have been ignorant through drunkenness, they are swallowed up with wine, they have gone astray in drunkenness, they have not known him that seeth, they have been ignorant of judgment.\f + \fr 28:7 \fk These also: \ft The kingdom of Juda.\f*
 \p
 \v 8 For all the tables were full of vomit and filth, so that there was no more place.
 \p
 \v 9 Whom shall he teach knowledge? and whom shall he make to understand the hearing? them that are weaned from the milk, that are drawn away from the breasts.
 \p
-\v 10 For command, command again; command, command again; expect, expect again; a little there, a little there.
+\v 10 For command, command again; command, command again; expect, expect again; a little there, a little there.\f + \fr 28:10 \fk Command, command again, etc: \ft This is said in the person of the Jews, resisting the repeated commands of God, and still putting him off.\f*
 \p
 \v 11 For with the speech of lips, and with another tongue he will speak to this people.
 \p
@@ -1111,7 +1141,7 @@
 \p
 \v 15 For you have said: We have entered into a league with death, and we have made a covenant with hell. When the overflowing scourge shall pass through, it shall not come upon us: for we have placed our hope in lies, and by falsehood we are protected.
 \p
-\v 16 Therefore thus saith the Lord God: Behold I will lay a stone in the foundations of Sion, a tried stone, a corner stone, a precious stone, founded in the foundation. He that believeth, let him not hasten.
+\v 16 Therefore thus saith the Lord God: Behold I will lay a stone in the foundations of Sion, a tried stone, a corner stone, a precious stone, founded in the foundation. He that believeth, let him not hasten.\f + \fr 28:16 \fk A stone in the foundations: \ft Viz., Christ.\f*\f + \fr 28:16 \fk Let him not hasten, etc: \ft Let him expect his coming with patience.\f*
 \p
 \v 17 And I will set judgment in weight, and justice in measure: and hail shall overturn the hope of falsehood: and waters shall overflow its protection.
 \p
@@ -1119,9 +1149,9 @@
 \p
 \v 19 Whensoever it shall pass through, it shall take you away: because in the morning early it shall pass through, in the day and in the night, and vexation alone shall make you understand what you hear.
 \p
-\v 20 For the bed is straitened, so that one must fall out, and a short covering cannot cover both.
+\v 20 For the bed is straitened, so that one must fall out, and a short covering cannot cover both.\f + \fr 28:20 \fk The bed is straitened, etc: \ft It is too narrow to hold two: God will have the bed of our heart all to himself.\f*
 \p
-\v 21 For the Lord shall stand up as in the mountain of divisions: he shall be angry as in the valley which is in Gabaon: that he may do his work, his strange work: that he may perform his work, his work is strange to him.
+\v 21 For the Lord shall stand up as in the mountain of divisions: he shall be angry as in the valley which is in Gabaon: that he may do his work, his strange work: that he may perform his work, his work is strange to him.\f + \fr 28:21 \fk As in the mountain, etc: \ft As the Lord fought against the Philistines in Baal Pharasim, 2 Kings 5., and against the Chanaanites, in the valley of Gabaon, Jos. 10.\f*
 \p
 \v 22 And now do not mock, lest your bonds be tied strait. For I have heard of the Lord the God of hosts a consumption and a cutting short upon all the earth.
 \p
@@ -1137,11 +1167,12 @@
 \p
 \v 28 But breadcorn shall be broken small: but the thrasher shall not thrash it for ever, neither shall the cart wheel hurt it, nor break it with its teeth.
 \p
-\v 29 This also is come forth from the Lord God of hosts, to make his counsel wonderful, and magnify justice.
+\v 29 This also is come forth from the Lord God of hosts, to make his counsel wonderful, and magnify justice.\f + \fr 28:29 \fk This also, etc: \ft Such also is the proceeding of the Lord with his land, and the divers seeds he throws therein.\f*
 \c 29
 \cl Isaiah 29
+\cd God's heavy judgments upon Jerusalem, for their obstinacy: with a prophecy of the conversion of the Gentiles.
 \p
-\v 1 Woe to Ariel, to Ariel the city which David took: year is added to year. the solemnities are at an end.
+\v 1 Woe to Ariel, to Ariel the city which David took: year is added to year. the solemnities are at an end.\f + \fr 29:1 \fk Ariel: \ft This word signifies, the lion of God, and here is taken for the strong city of Jerusalem.\f*
 \p
 \v 2 And I will make a trench about Ariel, and it shall be in sorrow and mourning, and it shall be to me as Ariel.
 \p
@@ -1173,7 +1204,7 @@
 \p
 \v 16 This thought of yours is perverse: as if the clay should think against the potter, and the work should say to the maker thereof: Thou madest me not: or the thing framed should say to him that fashioned it: Thou understandest not.
 \p
-\v 17 Is it not yet a very little while, and Libanus shall be turned into charmel, and charmel shall be esteemed as a forest?
+\v 17 Is it not yet a very little while, and Libanus shall be turned into charmel, and charmel shall be esteemed as a forest?\f + \fr 29:17 \fk Charmel: \ft This word signifies a fruitful field.\f*
 \p
 \v 18 And in that day the deaf shall hear the words of the book, and out of darkness and obscurity the eyes of the blind shall see.
 \p
@@ -1190,6 +1221,7 @@
 \v 24 And they that erred in spirit, shall know understanding, and they that murmured, shall learn the law.
 \c 30
 \cl Isaiah 30
+\cd The people are blamed for their confidence in Egypt. God's mercies towards his church. The punishment of sinners.
 \p
 \v 1 Woe to you, apostate children, saith the Lord, that you would take counsel, and not of me: and would begin a web, and not by my spirit, that you might add sin upon sin:
 \p
@@ -1255,9 +1287,10 @@
 \p
 \v 32 And the passage of the rod shall be strongly grounded, which the Lord shall make to rest upon him with timbrels and harps, and in great battles he shall overthrow them.
 \p
-\v 33 For Topheth is prepared from yesterday, prepared by the king, deep, and wide. The nourishment thereof is fire and much wood: the breath of the Lord as a torrent of brimstone kindling it.
+\v 33 For Topheth is prepared from yesterday, prepared by the king, deep, and wide. The nourishment thereof is fire and much wood: the breath of the Lord as a torrent of brimstone kindling it.\f + \fr 30:33 \fk Topheth: \ft It is the same as Gehenna, and is taken for hell.\f*
 \c 31
 \cl Isaiah 31
+\cd The folly of trusting to Egypt, and forgetting God. He will fight for his people against the Assyrians.
 \p
 \v 1 Woe to them that go down to Egypt for help, trusting in horses, and putting their confidence in chariots, because they are many: and in horsemen, because they are very strong: and have not trusted in the Holy One of Israel, and have not sought after the Lord.
 \p
@@ -1278,6 +1311,7 @@
 \v 9 And his strength shall pass away with dread, and his princes fleeing shall be afraid: the Lord hath said it, whose fire is in Sion, and his furnace in Jerusalem.
 \c 32
 \cl Isaiah 32
+\cd The blessings of the reign of Christ. The desolation of the Jews, and prosperity of the church of Christ.
 \p
 \v 1 Behold a king shall reign in justice, and princes shall rule in judgment.
 \p
@@ -1320,8 +1354,9 @@
 \v 20 Blessed are ye that sow upon all waters, sending thither the foot of the ox and the ass.
 \c 33
 \cl Isaiah 33
+\cd God's revenge against the enemies of his church. The happiness of the heavenly Jerusalem.
 \p
-\v 1 Woe to thee that spoilest, shalt not thou thyself also be spoiled? and thou that despisest, shalt not thyself also be despised? when thou shalt have made an end of spoiling, thou shalt be spoiled: when being wearied thou shalt cease to despise, thou shalt be despised.
+\v 1 Woe to thee that spoilest, shalt not thou thyself also be spoiled? and thou that despisest, shalt not thyself also be despised? when thou shalt have made an end of spoiling, thou shalt be spoiled: when being wearied thou shalt cease to despise, thou shalt be despised.\f + \fr 33:1 \fk That spoilest, etc: \ft This is particularly directed to Sennacherib.\f*
 \p
 \v 2 O Lord, have mercy on us: for we have waited for thee: be thou our arm in the morning, and our salvation in the time of trouble.
 \p
@@ -1333,7 +1368,7 @@
 \p
 \v 6 And there shall be faith in thy times: riches of salvation, wisdom and knowledge: the fear of the Lord is his treasure.
 \p
-\v 7 Behold they that see shall cry without, the angels of peace shall weep bitterly.
+\v 7 Behold they that see shall cry without, the angels of peace shall weep bitterly.\f + \fr 33:7 \fk The angels of peace: \ft The messengers or deputies sent to negotiate a peace.\f*
 \p
 \v 8 The ways are made desolate, no one passeth by the road, the covenant is made void, he hath rejected the cities, he hath not regarded the men.
 \p
@@ -1361,15 +1396,16 @@
 \p
 \v 20 Look upon Sion the city of our solemnity: thy eyes shall see Jerusalem, a rich habitation, a tabernacle that cannot be removed: neither shall the nails thereof be taken away for ever, neither shall any of the cords thereof be broken.
 \p
-\v 21 Because only there our Lord is magnificent: a place of rivers, very broad and spacious streams: no ship with oars shall pass by it, neither shall the great galley pass through it.
+\v 21 Because only there our Lord is magnificent: a place of rivers, very broad and spacious streams: no ship with oars shall pass by it, neither shall the great galley pass through it.\f + \fr 33:21 \fk Of rivers: \ft He speaks of the rivers of endless joys that flow from the throne of God to water the heavenly Jerusalem, where no enemy's ship can come, etc.\f*
 \p
 \v 22 For the Lord is our judge, the Lord is our lawgiver, the Lord is our king: he will save us.
 \p
-\v 23 Thy tacklings are loosed, and they shall be of no strength: thy mast shall be in such condition, that thou shalt not be able to spread the flag. Then shall the spoils of much prey be divided: the lame shall take the spoil.
+\v 23 Thy tacklings are loosed, and they shall be of no strength: thy mast shall be in such condition, that thou shalt not be able to spread the flag. Then shall the spoils of much prey be divided: the lame shall take the spoil.\f + \fr 33:23 \fk Thy tacklings: \ft He speaks of the enemies of the church, under the allegory of a ship that is disabled.\f*
 \p
 \v 24 Neither shall he that is near, say: I am feeble. The people that dwell therein, shall have their iniquity taken away from them.
 \c 34
 \cl Isaiah 34
+\cd The general judgment of the wicked.
 \p
 \v 1 Come near, ye Gentiles, and hear, and hearken, ye people: let the earth hear, and all that is therein, the world, and every thing that cometh forth of it.
 \p
@@ -1377,15 +1413,15 @@
 \p
 \v 3 Their slain shall be cast forth, and out of their carcasses shall rise a stink: the mountains shall be melted with their blood.
 \p
-\v 4 And all the host of the heavens shall pine away, and the heavens shall be folded together as a book: and all their host shall fall down as the leaf falleth from the vine, and from the fig tree.
+\v 4 And all the host of the heavens shall pine away, and the heavens shall be folded together as a book: and all their host shall fall down as the leaf falleth from the vine, and from the fig tree.\f + \fr 34:4 \fk And all the host of the heavens: \ft That is, the sun, moon, and stars.\f*
 \p
-\v 5 For my sword is inebriated in heaven: behold it shall come down upon Idumea, and upon the people of my slaughter unto judgment.
+\v 5 For my sword is inebriated in heaven: behold it shall come down upon Idumea, and upon the people of my slaughter unto judgment.\f + \fr 34:5 \fk Idumea: \ft Under the name of Idumea, or Edom a people that were enemies of the Jews, are here understood the wicked in general, the enemies of God and his church.\f*
 \p
 \v 6 The sword of the Lord is filled with blood, it is made thick with the blood of lambs and buck goats, with the blood of rams full of marrow: for there is a victim of the Lord in Bosra and a great slaughter in the land of Edom.
 \p
-\v 7 And the unicorns shall go down with them, and the bulls with the mighty: their land shall be soaked with blood, and their ground with the fat of fat ones.
+\v 7 And the unicorns shall go down with them, and the bulls with the mighty: their land shall be soaked with blood, and their ground with the fat of fat ones.\f + \fr 34:7 \fk The unicorns: \ft That is, the great and mighty.\f*
 \p
-\v 8 For it is the day of the vengeance of the Lord, the year of recompenses of the judgment of Sion.
+\v 8 For it is the day of the vengeance of the Lord, the year of recompenses of the judgment of Sion.\f + \fr 34:8 \fk The year of recompenses, etc: \ft When the persecutors of Sion, that is, of the church, shall receive their reward.\f*
 \p
 \v 9 And the streams thereof shall be turned into pitch, and the ground thereof into brimstone: and the land thereof shall become burning pitch.
 \p
@@ -1406,6 +1442,7 @@
 \v 17 And he hath cast the lot for them, and his hand hath divided it to them by line: they shall possess it for ever, from generation to generation they shall dwell therein.
 \c 35
 \cl Isaiah 35
+\cd The joyful flourishing of Christ's kingdom: in his church shall be a holy and secure way.
 \p
 \v 1 The land that was desolate and impassable shall be glad, and the wilderness shall rejoice, and shall flourish like the lily.
 \p
@@ -1428,6 +1465,7 @@
 \v 10 And the redeemed of the Lord shall return, and shall come into Sion with praise, and everlasting joy shall be upon their heads: they shall obtain joy and gladness, and sorrow and mourning shall flee away.
 \c 36
 \cl Isaiah 36
+\cd Sennacherib invades Juda: his blasphemies.
 \p
 \v 1 And it came to pass in the fourteenth year of king Ezechias, that Sennacherib king of the Assyrians came up against all the fenced cities of Juda, and took them.
 \p
@@ -1474,6 +1512,7 @@
 \v 22 And Eliacim the son of Helcias, that was over the house, and Sobna the scribe, and Joahe the son of Asaph the recorder, went in to Ezechias with their garments rent, and told him the words of Rabsaces.
 \c 37
 \cl Isaiah 37
+\cd Ezechias, his mourning and prayer. God's promise of protection. The Assyrian army is destroyed. Sennacherib is slain.
 \p
 \v 1 And it came to pass, when king Ezechias had heard it, that he rent his garments and covered himself with sackcloth, and went into the house of the Lord.
 \p
@@ -1521,7 +1560,7 @@
 \p
 \v 23 Whom hast thou reproached, and whom hast thou blasphemed, and against whom hast thou exalted thy voice, and lifted up thy eyes on high? Against the Holy One of Israel.
 \p
-\v 24 By the hand of thy servants thou hast reproached the Lord: and hast said: With the multitude of my chariots I have gone up to the height of the mountains, to the top of Libanus: and I will cut down its tall cedars, and its choice fir trees, and will enter to the top of its height, to the forest of its Carmel.
+\v 24 By the hand of thy servants thou hast reproached the Lord: and hast said: With the multitude of my chariots I have gone up to the height of the mountains, to the top of Libanus: and I will cut down its tall cedars, and its choice fir trees, and will enter to the top of its height, to the forest of its Carmel.\f + \fr 37:24 \fk Carmel: \ft See these figurative expressions explained in the annotations on the nineteenth chapter of the fourth book of Kings.\f*
 \p
 \v 25 I have digged, and drunk water, and have dried up with the sole of my foot, all the rivers shut up in banks.
 \p
@@ -1552,6 +1591,7 @@
 \v 38 And it came to pass, as he was worshipping in the temple of Nesroch his god, that Adramelech and Sarasar his sons slew him with the sword: and they fled into the land of Ararat, and Asarhaddon his son reigned in his stead.
 \c 38
 \cl Isaiah 38
+\cd Ezechias being advertised that he shall die, obtains by prayer a prolongation of his life: in confirmation of which the sun goes back. The canticle of Ezechias.
 \p
 \v 1 In those days Ezechias was sick even to death, and Isaiah the son of Amos the prophet cane unto him, and said to him: Thus saith the Lord: Take order with thy house, for thou shalt die, and not live.
 \p
@@ -1571,7 +1611,7 @@
 \p
 \v 9 The writing of Ezechias king of Juda, when he had been sick, and was recovered of his sickness.
 \p
-\v 10 I said: In the midst of my days I shall go to the gates of hell: I sought for the residue of my years.
+\v 10 I said: In the midst of my days I shall go to the gates of hell: I sought for the residue of my years.\f + \fr 38:10 \fk Hell: \ft Sheol, or Hades, the region of the dead.\f*
 \p
 \v 11 I said: I shall not see the Lord God in the land of the living. I shall behold man no more, nor the inhabitant of rest.
 \p
@@ -1598,6 +1638,7 @@
 \v 22 And Ezechias had said: What shall be the sign that I shall go up to the house of the Lord?
 \c 39
 \cl Isaiah 39
+\cd Ezechias shews all his treasures to the ambassadors of Babylon: upon which Isaiah foretells the Babylonish captivity.
 \p
 \v 1 At that time Merodach Baladan, the son of Baladan king of Babylon, sent letters and presents to Ezechias: for he had heard that he had been sick and was recovered.
 \p
@@ -1616,6 +1657,7 @@
 \v 8 And Ezechias said to Isaiah: The word of the Lord, which he hath spoken, is good. And he said: Only let peace and truth be in my days.
 \c 40
 \cl Isaiah 40
+\cd The prophet comforts the people with the promise of the coming of Christ to forgive their sins. God's almighty power and majesty.
 \p
 \v 1 Be comforted, be comforted, my people, saith your God.
 \p
@@ -1680,6 +1722,7 @@
 \v 31 But they that hope in the Lord shall renew their strength, they shall take wings as eagles, they shall run and not be weary, they shall walk and not faint.
 \c 41
 \cl Isaiah 41
+\cd The reign of the just one: the vanity of idols.
 \p
 \v 1 Let the islands keep silence before me, and the nations take new strength: let them come near, and then speak, let us come near to judgment together.
 \p
@@ -1717,7 +1760,7 @@
 \p
 \v 18 I will open rivers in the high hills, and fountains in the midst of the plains: I will turn the desert into pools of waters, and the impassable land into streams of waters.
 \p
-\v 19 I will plant in the wilderness the cedar, and the thorn, and the myrtle, and the olive tree: I will set in the desert the fir tree, the elm, and the box tree together:
+\v 19 I will plant in the wilderness the cedar, and the thorn, and the myrtle, and the olive tree: I will set in the desert the fir tree, the elm, and the box tree together:\f + \fr 41:19 \fk The thorn: \ft In Hebrew, the shitta, or setim, a tree resembling the white thorn.\f*
 \p
 \v 20 That they may see and know, and consider, and understand together that the hand of the Lord hath done this, and the Holy One of Israel hath created it.
 \p
@@ -1740,8 +1783,9 @@
 \v 29 Behold they are all in the wrong, and their works are vain: their idols are wind and vanity.
 \c 42
 \cl Isaiah 42
+\cd The office of Christ. The preaching of the gospel to the Gentiles. The blindness and reprobation of the Jews.
 \p
-\v 1 Behold my servant, I will uphold him: my elect, my soul delighteth in him: I have given my spirit upon him, he shall bring forth judgment to the Gentiles.
+\v 1 Behold my servant, I will uphold him: my elect, my soul delighteth in him: I have given my spirit upon him, he shall bring forth judgment to the Gentiles.\f + \fr 42:1 \fk My servant: \ft Christ, who according to his humanity, is the servant of God.\f*
 \p
 \v 2 He shall not cry, nor have respect to person, neither shall his voice be heard abroad.
 \p
@@ -1761,7 +1805,7 @@
 \p
 \v 10 Sing ye to the Lord a new song, his praise is from the ends of the earth: you that go down to the sea, and all that are therein: ye islands, and ye inhabitants of them.
 \p
-\v 11 Let the desert and the cities thereof be exalted: Cedar shall dwell in houses: ye inhabitants of Petra, give praise, they shall cry from the top of the mountains.
+\v 11 Let the desert and the cities thereof be exalted: Cedar shall dwell in houses: ye inhabitants of Petra, give praise, they shall cry from the top of the mountains.\f + \fr 42:11 \fk Petra: \ft A city that gives name to Arabia Petraea.\f*
 \p
 \v 12 They shall give glory to the Lord, and shall declare his praise in the islands.
 \p
@@ -1792,6 +1836,7 @@
 \v 25 And he hath poured out upon him the indignation of his fury, and a strong battle, and hath burnt him round about, and he knew not: and set him on fire, and he understood not.
 \c 43
 \cl Isaiah 43
+\cd God comforts his church, promising to protect her for ever: he expostulates with the Jews for their ingratitude.
 \p
 \v 1 And now thus saith the Lord that created thee, O Jacob, and formed thee, O Israel: Fear not, for I have redeemed thee, and called thee by thy name: thou art mine.
 \p
@@ -1850,6 +1895,7 @@
 \v 28 And I have profaned the holy princes, I have given Jacob to slaughter, and Israel to reproach.
 \c 44
 \cl Isaiah 44
+\cd God's favour to his church. The folly of idolatry. The people shall be delivered from captivity.
 \p
 \v 1 And now hear, O Jacob, my servant, and Israel whom I have chosen.
 \p
@@ -1908,6 +1954,7 @@
 \v 28 Who say to Cyrus: Thou art my shepherd, and thou shalt perform all my pleasure. Who say to Jerusalem: Thou shalt be built: and to the temple: Thy foundations shall be laid.
 \c 45
 \cl Isaiah 45
+\cd A prophecy of Cyrus, as a figure of Christ, the great deliverer of God's people.
 \p
 \v 1 Thus saith the Lord to my anointed Cyrus, whose right hand I have taken hold of, to subdue nations before his face, and to turn the backs of kings, and to open the doors before him, and the gates shall not be shut.
 \p
@@ -1921,7 +1968,7 @@
 \p
 \v 6 That they may know who are from the rising of the sun, and they who are from the west, that there is none besides me. I am the Lord, and there is none else:
 \p
-\v 7 I form the light, and create darkness, I make peace, and create evil: I the Lord that do all these things.
+\v 7 I form the light, and create darkness, I make peace, and create evil: I the Lord that do all these things.\f + \fr 45:7 \fk Create evil, etc: \ft The evils of afflictions and punishments, but not the evil of sin.\f*
 \p
 \v 8 Drop down dew, ye heavens, from above, and let the clouds rain the just: let the earth be opened, and bud forth a saviour: and let justice spring up together: I the Lord have created him.
 \p
@@ -1962,6 +2009,7 @@
 \v 26 In the Lord shall all the seed of Israel be justified and praised.
 \c 46
 \cl Isaiah 46
+\cd The idols of Babylon shall be destroyed. Salvation is promised through Christ.
 \p
 \v 1 Bel is broken, Nebo is destroyed: their idols are put upon beasts and cattle, your burdens of heavy weight even unto weariness.
 \p
@@ -1988,6 +2036,7 @@
 \v 12 I have brought my justice near, it shall not be afar off: and my salvation shall not tarry. I will give salvation in Sion, and my glory in Israel.
 \c 47
 \cl Isaiah 47
+\cd God's judgment upon Babylon.
 \p
 \v 1 Come down, sit in the dust, O virgin daughter of Babylon, sit on the ground: there is no throne for the daughter of the Chaldeans, for thou shalt no more be called delicate and tender.
 \p
@@ -2020,6 +2069,7 @@
 \v 15 Such are all the things become to thee, in which thou hast laboured: thy merchants from thy youth, every one hath erred in his own way, there is none that can save thee.
 \c 48
 \cl Isaiah 48
+\cd He reproaches the Jews for their obstinacy: he will deliver them out of their captivity, for his own name's sake.
 \p
 \v 1 Hear ye these things, O house of Jacob, you that are called by the name of Israel, and are come forth out of the waters of Juda, you who swear by the name of the Lord, and make mention of the God of Israel, but not in truth, nor in justice.
 \p
@@ -2066,6 +2116,7 @@
 \v 22 There is no peace to the wicked, saith the Lord.
 \c 49
 \cl Isaiah 49
+\cd Christ shall bring the Gentiles to salvation. God's love to his church is perpetual.
 \p
 \v 1 Give ear, ye islands, and hearken, ye people from afar. The Lord hath called me from the womb, from the bowels of my mother he hath been mindful of my name.
 \p
@@ -2120,6 +2171,7 @@
 \v 26 And I will feed thy enemies with their own flesh: and they shall be made drunk with their own blood, as with new wine: and all flesh shall know, that I am the Lord that save thee, and thy Redeemer the Mighty One of Jacob.
 \c 50
 \cl Isaiah 50
+\cd The synagogue shall be divorced for her iniquities. Christ for her sake will endure ignominious afflictions.
 \p
 \v 1 Thus saith the Lord: What is this bill of the divorce of your mother, with which I have put her away? or who is my creditor, to whom I sold you: behold you are sold for your iniquities, and for your wicked deeds have I put your mother away.
 \p
@@ -2144,6 +2196,7 @@
 \v 11 Behold all you that kindle a fire, encompassed with flames, walk in the light of your fire, and in the flames which you have kindled: this is done to you by my hand, you shall sleep in sorrows.
 \c 51
 \cl Isaiah 51
+\cd An exhortation to trust in Christ. He shall protect the children of his church.
 \p
 \v 1 Give ear to me, you that follow that which is just, and you that seek the Lord: look unto the rock whence you are hewn, and to the hole of the pit from which you are dug out.
 \p
@@ -2192,6 +2245,7 @@
 \v 23 And I will put it in the hand of them that have oppressed thee, and have said to thy soul: Bow down, that we may go over: and thou hast laid thy body as the ground, and as a way to them that went over.
 \c 52
 \cl Isaiah 52
+\cd Under the figure of the deliverance from the Babylonish captivity, the church is invited to rejoice for her redemption from sin. Christ's kingdom shall be exalted.
 \p
 \v 1 Arise, arise, put on thy strength, O Sion, put on the garments of thy glory, O Jerusalem, the city of the Holy One: for henceforth the uncircumcised, and unclean shall no more pass through thee.
 \p
@@ -2224,6 +2278,7 @@
 \v 15 He shall sprinkle many nations, kings shall shut their mouth at him: for they to whom it was not told of him, have seen: and they that heard not, have beheld.
 \c 53
 \cl Isaiah 53
+\cd A prophecy of the passion of Christ.
 \p
 \v 1 Who a hath believed our report? and to whom is the arm of the Lord revealed?
 \p
@@ -2250,6 +2305,7 @@
 \v 12 Therefore will I distribute to him very many, and he shall divide the spoils of the strong, because he hath delivered his soul unto death, and was reputed with the wicked: and he hath borne the sins of many, and hath prayed for the transgressors.
 \c 54
 \cl Isaiah 54
+\cd The Gentiles, who were barren before, shall multiply in the church of Christ: from which God's mercy shall never depart.
 \p
 \v 1 Give praise, O thou barren, that bearest not: sing forth praise, and make a joyful noise, thou that didst not travail with child: for many are the children of the desolate, more than of her that hath a husband, saith the Lord.
 \p
@@ -2286,6 +2342,7 @@
 \v 17 No weapon that is formed against thee shall prosper: and every tongue that resisteth thee in judgment, thou shalt condemn. This is the inheritance of the servants of the Lord, and their justice with me, saith the Lord.
 \c 55
 \cl Isaiah 55
+\cd God promises abundance of spiritual graces to the faithful, that shall believe in Christ out of all nations, and sincerely serve him.
 \p
 \v 1 All you that thirst, come to the waters: and you that have no money make haste, buy, and eat: come ye, buy wine and milk without money, and without any price.
 \p
@@ -2314,6 +2371,7 @@
 \v 13 Instead of the shrub, shall come up the fir tree, and instead of the nettle, shall come up the myrtle tree: and the Lord shall be named for an everlasting sign, that shall not be taken away.
 \c 56
 \cl Isaiah 56
+\cd God invites all to keep his commandments: the Gentiles that keep them shall be the people of God: the Jewish pastors are reproved.
 \p
 \v 1 Thus saith the Lord: Keep ye judgment, and do justice: for my salvation is near to come, and my justice to be revealed.
 \p
@@ -2340,6 +2398,7 @@
 \v 12 Come, let us take wine, and be filled with drunkenness: and it shall be as to day, so also to morrow, and much more.
 \c 57
 \cl Isaiah 57
+\cd The infidelity of the Jews: their idolatry. Promises to humble penitents.
 \p
 \v 1 The just perisheth, and no man layeth it to heart, and men of mercy are taken away, because there is none that understandeth; for the just man is taken away from before the face of evil.
 \p
@@ -2384,6 +2443,7 @@
 \v 21 There is no peace to the wicked, saith the Lord God.
 \c 58
 \cl Isaiah 58
+\cd God rejects the hypocritical fasts of the Jews: recommends works of mercy, and sincere godliness.
 \p
 \v 1 Cry, cease not, lift up thy voice like a trumpet, and shew my people their wicked doings, and the house of Jacob their sins.
 \p
@@ -2414,6 +2474,7 @@
 \v 14 Then shalt thou be delighted in the Lord, and I will lift thee up above the high places of the earth, and will feed thee with the inheritance of Jacob thy father. For the mouth of the Lord hath spoken it.
 \c 59
 \cl Isaiah 59
+\cd The dreadful evil of sin is displayed, as the great obstacle to all good from God: yet he will send a Redeemer, and make an everlasting covenant with his church.
 \p
 \v 1 Behold the hand of the Lord is not shortened that it cannot save, neither is his ear heavy that it cannot hear.
 \p
@@ -2455,9 +2516,10 @@
 \p
 \v 20 And there shall come a redeemer to Sion, and to them that return from iniquity in Jacob, saith the Lord.
 \p
-\v 21 This is my covenant with them, saith the Lord: My spirit that is in thee, and my words that I have put in thy mouth, shall not depart out of thy mouth, nor out of the mouth of thy seed, nor out of the mouth of thy seed's seed, saith the Lord, from henceforth and for ever.
+\v 21 This is my covenant with them, saith the Lord: My spirit that is in thee, and my words that I have put in thy mouth, shall not depart out of thy mouth, nor out of the mouth of thy seed, nor out of the mouth of thy seed's seed, saith the Lord, from henceforth and for ever.\f + \fr 59:21 \fk This is my covenant, etc: \ft Note here a clear promise of perpetual orthodoxy to the church of Christ.\f*
 \c 60
 \cl Isaiah 60
+\cd The light of true faith shall shine forth in the church of Christ, and shall be spread through all nations, and continue for all ages.
 \p
 \v 1 Arise, be enlightened, O Jerusalem: for thy light is come, and the glory of the Lord is risen upon thee.
 \p
@@ -2495,7 +2557,7 @@
 \p
 \v 18 Iniquity shall no more be heard in thy land, wasting nor destruction in thy borders, and salvation shall possess thy walls, and praise thy gates.
 \p
-\v 19 Thou shalt no more have the sun for thy light by day, neither shall the brightness of the moon enlighten thee: but the Lord shall be unto thee for an everlasting light, and thy God for thy glory.
+\v 19 Thou shalt no more have the sun for thy light by day, neither shall the brightness of the moon enlighten thee: but the Lord shall be unto thee for an everlasting light, and thy God for thy glory.\f + \fr 60:19 \fk Thou shalt no more, etc: \ft In this latter part of the chapter, the prophet passes from the illustrious promises made to the church militant on earth, to the glory of the church triumphant in heaven.\f*
 \p
 \v 20 Thy sun shall go down no more, and thy moon shall not decrease: for the Lord shall be unto thee for an everlasting light, and the days of thy mourning shall be ended.
 \p
@@ -2504,6 +2566,7 @@
 \v 22 The least shall become a thousand, and a little one a most strong nation: I the Lord will suddenly do this thing in its time.
 \c 61
 \cl Isaiah 61
+\cd The office of Christ: the mission of the Apostles; the happiness of their converts.
 \p
 \v 1 The spirit of the Lord is upon me, because the Lord hath anointed me: he hath sent me to preach to the meek, to heal the contrite of heart, and to preach a release to the captives, and deliverance to them that are shut up.
 \p
@@ -2528,6 +2591,7 @@
 \v 11 For as the earth bringeth forth her bud, and as the garden causeth her seed to shoot forth: so shall the Lord God make justice to spring forth, and praise before all the nations.
 \c 62
 \cl Isaiah 62
+\cd The prophet will not cease from preaching Christ: to whom all nations shall be converted: and whose church shall continue for ever.
 \p
 \v 1 For Sion's sake I will not hold my peace, and for the sake of Jerusalem, I will not rest till her just one come forth as brightness, and her saviour be lighted as a lamp.
 \p
@@ -2554,8 +2618,9 @@
 \v 12 And they shall call them, The holy people, the redeemed of the Lord. But thou shalt be called: A city sought after, and not forsaken.
 \c 63
 \cl Isaiah 63
+\cd Christ's victory over his enemies: his mercies to his people: their complaint.
 \p
-\v 1 Who is this that cometh from Edom, with dyed garments from Bosra, this beautiful one in his robe, walking in the greatness of his strength. I, that speak justice, and am a defender to save.
+\v 1 Who is this that cometh from Edom, with dyed garments from Bosra, this beautiful one in his robe, walking in the greatness of his strength. I, that speak justice, and am a defender to save.\f + \fr 63:1 \fk Edom: \ft Edom and Bosra (a strong city of Edom) are here taken in a mystical sense for the enemies of Christ and his church.\f*
 \p
 \v 2 Why then is thy apparel red, and thy garments like theirs that tread in the winepress?
 \p
@@ -2583,17 +2648,18 @@
 \p
 \v 14 As a beast that goeth down in the field, the spirit of the Lord was their leader: so didst thou lead thy people to make thyself a glorious name.
 \p
-\v 15 Look down from heaven, and behold from thy holy habitation and the place of thy glory: where is thy zeal, and thy strength, the multitude of thy bowels, and of thy mercies? they have held back themselves from me.
+\v 15 Look down from heaven, and behold from thy holy habitation and the place of thy glory: where is thy zeal, and thy strength, the multitude of thy bowels, and of thy mercies? they have held back themselves from me.\f + \fr 63:15 \fk They have held back, etc: \ft This is spoken by the prophet in the person of the Jews at the time when, for their sins, they were given up to their enemies.\f*
 \p
-\v 16 For thou art our father, and Abraham hath not known us, and Israel hath been ignorant of us: thou, O Lord, art our father, our redeemer, from everlasting is thy name.
+\v 16 For thou art our father, and Abraham hath not known us, and Israel hath been ignorant of us: thou, O Lord, art our father, our redeemer, from everlasting is thy name.\f + \fr 63:16 \fk Abraham hath not know us, etc: \ft That is, Abraham will not now acknowledge us for his children, by reason of our degeneracy; but thou, O Lord, art our true father and our redeemer, and no other can be called our parent in comparison with thee.\f*
 \p
-\v 17 Why hast thou made us to err, O Lord, from thy ways: why hast thou hardened our heart, that we should not fear thee? return for the sake of thy servants, the tribes of thy inheritance.
+\v 17 Why hast thou made us to err, O Lord, from thy ways: why hast thou hardened our heart, that we should not fear thee? return for the sake of thy servants, the tribes of thy inheritance.\f + \fr 63:17 \fk Made us to err, etc. Hardened our heart, etc: \ft The meaning is, that God in punishment of their great and manifold crimes, and their long abuse of his mercy and grace, had withdrawn his graces from them, and so given them up to error and hardness of heart.\f*
 \p
 \v 18 They have possessed thy holy people as nothing: our enemies have trodden down thy sanctuary.
 \p
 \v 19 We are become as in the beginning, when thou didst not rule over us, and when we were not called by thy name.
 \c 64
 \cl Isaiah 64
+\cd The prophet prays for the release of his people; and for the remission of their sins.
 \p
 \v 1 O that thou wouldst rend the heavens, and wouldst come down: the mountains would melt away at thy presence.
 \p
@@ -2605,7 +2671,7 @@
 \p
 \v 5 Thou hast met him that rejoiceth, and doth justice: in thy ways they shall remember thee: behold thou art angry, and we have sinned: in them we have been always, and we shall be saved.
 \p
-\v 6 And we are all become as one unclean, and all our justices as the rag of a menstruous woman: and we have all fallen as a leaf, and our iniquities, like the wind, have taken us away.
+\v 6 And we are all become as one unclean, and all our justices as the rag of a menstruous woman: and we have all fallen as a leaf, and our iniquities, like the wind, have taken us away.\f + \fr 64:6 \fk Our justices, etc: \ft That is, the works by which we pretended to make ourselves just. This is spoken particularly of the sacrifices, sacraments, and ceremonies of the Jews, after the death of Christ, and the promulgation of the new law.\f*
 \p
 \v 7 There is none that calleth upon thy name: that riseth up, and taketh hold of thee: thou hast hid thy face from us, and hast crushed us in the hand of our iniquity.
 \p
@@ -2620,6 +2686,7 @@
 \v 12 Wilt thou refrain thyself, O Lord, upon these things, wilt thou hold thy peace, and afflict us vehemently?
 \c 65
 \cl Isaiah 65
+\cd The Gentiles shall seek and find Christ, but the Jews will persecute him, and be rejected, only a remnant shall be reserved. The church shall multiply, and abound with graces.
 \p
 \v 1 They have sought me that before asked not for me, they have found me that sought me not. I said: Behold me, behold me, to a nation that did not call upon my name.
 \p
@@ -2672,20 +2739,21 @@
 \v 25 The wolf and the lamb shall feed together; the lion and the ox shall eat straw; and dust shall be the serpent's food: they shall not hurt nor kill in all my holy mountain, saith the Lord.
 \c 66
 \cl Isaiah 66
+\cd More of the reprobation of the Jews, and of the call of the Gentiles.
 \p
-\v 1 Thus saith the Lord: Heaven is my throne, and the earth my footstool: what is this house that you will build to me? and what is this place of my rest?
+\v 1 Thus saith the Lord: Heaven is my throne, and the earth my footstool: what is this house that you will build to me? and what is this place of my rest?\f + \fr 66:1 \fk What is this house, etc: \ft This is a prophecy that the temple should be cast off.\f*
 \p
 \v 2 My hand made all these things, and all these things were made, saith the Lord. But to whom shall I have respect, but to him that is poor and little, and of a contrite spirit, and that trembleth at my words?
 \p
-\v 3 He that sacrificeth an ox, is as if he slew a man: he that killeth a sheep in sacrifice, as if he should brain a dog: he that offereth an oblation, as if he should offer swine's blood; he that remembereth incense, as if he should bless an idol. All these things have they chosen in their ways, and their soul is delighted in their abominations.
+\v 3 He that sacrificeth an ox, is as if he slew a man: he that killeth a sheep in sacrifice, as if he should brain a dog: he that offereth an oblation, as if he should offer swine's blood; he that remembereth incense, as if he should bless an idol. All these things have they chosen in their ways, and their soul is delighted in their abominations.\f + \fr 66:3 \fk He that sacrificeth an ox, etc: \ft This is a prophecy that the sacrifices which were offered in the old law should be abolished in the new; and that the offering of them should be a crime.\f*\f + \fr 66:3 \fk Remembereth incense: \ft Viz., to offer it in the way of a sacrifice.\f*
 \p
-\v 4 Wherefore I also will choose their mockeries, and will bring upon them the things they feared: because I called, and there was none that would answer; I have spoken, and they heard not; and they have done evil in my eyes, and have chosen the things that displease me.
+\v 4 Wherefore I also will choose their mockeries, and will bring upon them the things they feared: because I called, and there was none that would answer; I have spoken, and they heard not; and they have done evil in my eyes, and have chosen the things that displease me.\f + \fr 66:4 \fk I will choose their mockeries: \ft I will turn their mockeries upon themselves; and will cause them to be mocked by their enemies.\f*
 \p
 \v 5 Hear the word of the Lord, you that tremble at his word: Your brethren that hate you, and cast you out for my name's sake, have said: Let the Lord be glorified, and we shall see in your joy: but they shall be confounded.
 \p
 \v 6 A voice of the people from the city, a voice from the temple, the voice of the Lord that rendereth recompense to his enemies.
 \p
-\v 7 Before she was in labour, she brought forth; before her time came to be delivered, she brought forth a man child.
+\v 7 Before she was in labour, she brought forth; before her time came to be delivered, she brought forth a man child.\f + \fr 66:7 \fk Before she was in labour, etc: \ft This relates to the conversion of the Gentiles, who were born, as it were, all on a sudden to the church of God.\f*
 \p
 \v 8 Who hath ever heard such a thing? and who hath seen the like to this? shall the earth bring forth in one day? or shall a nation be brought forth at once, because Sion hath been in labour, and hath brought forth her children?
 \p

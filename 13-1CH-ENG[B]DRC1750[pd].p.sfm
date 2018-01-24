@@ -1,11 +1,14 @@
 \id 1CH ENG (p.sfm) -  <> 1 Chronicles - Challoner Douay Rheims version of the Sacred Bible The First Book of Chronicles. The Holy Bible. Bishop Challoner's 18th century revision of the Douay Rheims version. Electronic edition 2004. Public domain.
 \ide UTF-8
 \h 1 Chronicles
-\toc1 The First Book of Chronicles
+\toc1 The First Book of Chronicles (1 Paralipomenon)
 \toc2 1 Chronicles
 \toc3 1Chr
+\mt1 The First Book of Chronicles (1 Paralipomenon)
+\im These Books are called by the Greek interpreters, Paralipomenon, that is, of things left out, or omitted; because they are a kind of a supplement of such things as were passed over in the books of the Kings. The Hebrews call them Dibre Haijamim, that is, The words of the days, or The Chronicles.--Not that they are the books which are so often quoted in the Kings, under the title of the words of the days of the kings of Israel, and of the kings of Juda: for the books of Paralipomenon were written after the books of Kings: but because in all probability they have been abridged from those ancient words of the days, by Esdras or some other sacred writer.
 \c 1
 \cl 1 Chronicles 1
+\cd The genealogy of the patriarchs down to Abraham: The posterity of Abraham and of Esau.
 \p
 \v 1 Adam, Seth, Enos,
 \p
@@ -69,7 +72,7 @@
 \p
 \v 31 Jetur, Naphis, Cedma: these are the sons of Ismahel.
 \p
-\v 32 And the sons of Cetura, Abraham's concubine, whom she bore: Zamran, Jecsan, Madan, Madian, Jesboc, and Sue. And the sons of Jecsan, Saba, and Dadan. And the sons of Dadan: Assurim, and Latussim, and Laomin.
+\v 32 And the sons of Cetura, Abraham's concubine, whom she bore: Zamran, Jecsan, Madan, Madian, Jesboc, and Sue. And the sons of Jecsan, Saba, and Dadan. And the sons of Dadan: Assurim, and Latussim, and Laomin.\f + \fr 1:32 \fk Concubine: \ft She was his lawful wife, but of an inferior degree.\f*
 \p
 \v 33 And the sons of Madian: Epha, and Epher, and Henoch, and Abida, and Eldaa. All these are the sons of Cetura.
 \p
@@ -116,6 +119,7 @@
 \v 54 Duke Magdiel, duke Hiram. These are the dukes of Edom.
 \c 2
 \cl 1 Chronicles 2
+\cd The twelve tribes of Israel. The genealogy of Juda down to David. Other genealogies of the tribe of Juda.
 \p
 \v 1 And these are the sons of Israel: Ruben, Simeon, Levi, Juda, Issachar, and Zabulon,
 \p
@@ -129,13 +133,13 @@
 \p
 \v 6 And the sons also of Zare: Zamri, and Ethan, and Eman, and Chalchal, and Dara, five in all.
 \p
-\v 7 And the sons of Charmi: Achar, who troubled Israel, and sinned by the theft of the anathema.
+\v 7 And the sons of Charmi: Achar, who troubled Israel, and sinned by the theft of the anathema.\f + \fr 2:7 \fk Achar: \ft Alias Achan. Jos. 7.\f*\f + \fr 2:7 \fk The anathema: \ft The thing devoted or accursed, viz., the spoils of Jericho.\f*
 \p
 \v 8 The sons of Ethan: Azarias,
 \p
 \v 9 And the sons of Hesron that were born to him: Jerameel, and Ram, and Calubi.
 \p
-\v 10 And Ram begot Aminadab, and Aminadab begot Nahasson, prince of the children of Juda.
+\v 10 And Ram begot Aminadab, and Aminadab begot Nahasson, prince of the children of Juda.\f + \fr 2:10 \fk Ram: \ft He is commonly called Aram. But it is to be observed here, once for all, that it was a common thing among the Hebrews for the same persons to have different names: and that it is not impossible among so many proper names, as here occur in the first nine chapters of this book, that the transcribers of the ancient Hebrew copies may have made some slips in the orthography.\f*
 \p
 \v 11 And Nahasson begot Salma, the father of Booz.
 \p
@@ -151,7 +155,7 @@
 \p
 \v 17 And Abigail bore Amasa, whose father was Jether the Ismahelite.
 \p
-\v 18 And Caleb the son of Hesron took a wife named Azuba, of whom he had Jerioth: and her sons were Jaser, and Sobab, and Ardon.
+\v 18 And Caleb the son of Hesron took a wife named Azuba, of whom he had Jerioth: and her sons were Jaser, and Sobab, and Ardon.\f + \fr 2:18 \fk Caleb: \ft Alias Calubi, ver. 9.\f*
 \p
 \v 19 And when Azuba was dead, Caleb took to wife Ephrata: who bore him Hur.
 \p
@@ -219,7 +223,7 @@
 \p
 \v 51 Salma the father of Bethlehem, Hariph the father of Bethgader.
 \p
-\v 52 And Sobal the father of Cariathiarim had sons: he that saw half of the places of rest.
+\v 52 And Sobal the father of Cariathiarim had sons: he that saw half of the places of rest.\f + \fr 2:52 \fk He that saw, etc: \ft The Latin interpreter seems to have given us here, instead of the proper names, the meaning of those names in the Hebrew. He has done in like manner, ver. 55.\f*
 \p
 \v 53 And of the kindred of Cariathiarim, the Jethrites, and Aphuthites, and Semathites, and Maserites. Of them came the Saraites, and Esthaolites.
 \p
@@ -228,6 +232,7 @@
 \v 55 And the families of the scribes that dwell in Jabes, singing and making melody, and abiding in tents. These are the Cinites, who came of Calor (Chamath) father of the house of Rechab.
 \c 3
 \cl 1 Chronicles 3
+\cd The genealogy of the house of David.
 \p
 \v 1 Now these were the sons of David that were born to him in Hebron: the firstborn Amnon of Achinoam the Jezrahelitess, the second Daniel of Abigail the Carmelitess.
 \p
@@ -245,7 +250,7 @@
 \p
 \v 8 And Elisama, and Eliada, and Elipheleth, nine:
 \p
-\v 9 All these the sons of David, beside the sons of the concubines: and they had a sister Thamar.
+\v 9 All these the sons of David, beside the sons of the concubines: and they had a sister Thamar.\f + \fr 3:9 \fk The concubines: \ft The inferior wives.\f*
 \p
 \v 10 And Solomon's son was Roboam: whose son Abia begot Asa. And his son was Josaphat,
 \p
@@ -271,13 +276,14 @@
 \p
 \v 21 And the son of Hananias was Phaltias the father of Jeseias, whose son was Raphaia. And his son was Arnan, of whom was born Obdia, whose son was Sechenias.
 \p
-\v 22 The son of Sechenias was Semeia, whose sons were Hattus, and Jegaal, and Baria, and Naaria, and Saphat, six in number.
+\v 22 The son of Sechenias was Semeia, whose sons were Hattus, and Jegaal, and Baria, and Naaria, and Saphat, six in number.\f + \fr 3:22 \fk Six: \ft Counting the father in the number.\f*
 \p
 \v 23 The sons of Naaria, Elioenai, and Ezechias, and Ezricam, three.
 \p
 \v 24 The sons of Elioenai, Oduia, and Eliasub, and Pheleia, and Accub, and Johanan, and Dalaia, and Anani, seven.
 \c 4
 \cl 1 Chronicles 4
+\cd Other genealogies of Juda and Simeon, and their victories.
 \p
 \v 1 The sons of Juda: Phares, Hesron, and Charmi and Hur, and Sobal.
 \p
@@ -295,7 +301,7 @@
 \p
 \v 8 And Cos begot Anob, and Soboba, and the kindred of Aharehel the son of Arum.
 \p
-\v 9 And Jabes was more honourable than any of his brethren, and his mother called his name Jabes, saying: Because I bore him with sorrow.
+\v 9 And Jabes was more honourable than any of his brethren, and his mother called his name Jabes, saying: Because I bore him with sorrow.\f + \fr 4:9 \fk Jabes: \ft That is, sorrowful.\f*
 \p
 \v 10 And Jabes called upon the God of Israel, saying: If blessing thou wilt bless me, and wilt enlarge my borders, and thy hand be with me, and thou save me from being oppressed by evil. And God granted him the things he prayed for.
 \p
@@ -321,9 +327,9 @@
 \p
 \v 21 The sons of Sela the son of Juda: Her the father of Lecha, and Laada the father of Maresa, and the families of the house of them that wrought fine linen in the House of oath.
 \p
-\v 22 And he that made the sun to stand, and the men of Lying, and Secure, and Burning, who were princes in Moab, and who returned into Lahem. Now these are things of old.
+\v 22 And he that made the sun to stand, and the men of Lying, and Secure, and Burning, who were princes in Moab, and who returned into Lahem. Now these are things of old.\f + \fr 4:22 \fk He that made, etc: \ft Viz., Joazim, the meaning of whose name in Hebrew is, he that made the sun to stand. In like manner the following names, Lying (Chozeba), Secure (Joas), and Burning (Saraph), are substituted in place of the Hebrew names of the same signification.\f*
 \p
-\v 23 These are the potters, and they dwelt in Plantations, and Hedges, with the king for his works, and they abode there.
+\v 23 These are the potters, and they dwelt in Plantations, and Hedges, with the king for his works, and they abode there.\f + \fr 4:23 \fk Plantations and Hedges: \ft These are the proper names of the places where they dwelt. In Hebrew Atharim and Gadira.\f*
 \p
 \v 24 The sons of Simeon: Namuel and Jamin, Jarib, Zara, Saul:
 \p
@@ -366,10 +372,11 @@
 \v 43 And they slew the remnant of the Amalecites, who had been able to escape, and they dwelt there in their stead unto this day.
 \c 5
 \cl 1 Chronicles 5
+\cd Genealogies of Ruben and Gad: their victories over the Agarites: their captivity.
 \p
 \v 1 Now the sons of Ruben the firstborn of Israel, (for he was his firstborn: but forasmuch as he defiled his father's bed, his first birthright was given to the sons of Joseph the son of Israel, and he was not accounted for the firstborn.
 \p
-\v 2 But of the race of Juda, who was the strongest among his brethren, came the princes: but the first birthright was accounted to Joseph.)
+\v 2 But of the race of Juda, who was the strongest among his brethren, came the princes: but the first birthright was accounted to Joseph.)\f + \fr 5:2 \fk Accounted to Joseph: \ft Viz., as to the double portion, which belonged to the firstborn; but the princely dignity was given to Juda, and the priesthood to Levi.\f*
 \p
 \v 3 The sons then of Ruben the firstborn of Israel were Enoch, and Phallu, Esron, and Charmi.
 \p
@@ -420,6 +427,7 @@
 \v 26 And the God of Israel stirred up the spirit of Phul king of the Assyrians. and the spirit of Thelgathphalnasar king of Assur: and he carried away Ruben, and Gad, and the half tribe of Manasses, and brought them to Lahela, and to Habor, and to Ara, and to the river of Gozan, unto this day.
 \c 6
 \cl 1 Chronicles 6
+\cd The genealogies of Levi, and of Aaron: the cities of the Levites.
 \p
 \v 1 The sons of Levi were Gerson, Caath, and Merari.
 \p
@@ -584,6 +592,7 @@
 \v 81 Hesebon also with its suburbs, and Jazer with its suburbs.
 \c 7
 \cl 1 Chronicles 7
+\cd Genealogies of Issachar, Benjamin, Nephtali, Manasses, Ephraim, and Aser.
 \p
 \v 1 Now the sons of Issachar were Thola, and Phua, Jasub and Simeron, four.
 \p
@@ -629,7 +638,7 @@
 \p
 \v 22 And Ephraim their father mourned many days, and his brethren came to comfort him.
 \p
-\v 23 And he went in to his wife: and she conceived and bore a son, and he called his name Beria, because he was born when it went evil with his house:
+\v 23 And he went in to his wife: and she conceived and bore a son, and he called his name Beria, because he was born when it went evil with his house:\f + \fr 7:23 \fk Beria: \ft This name signifies in evil, or in affliction.\f*
 \p
 \v 24 And his daughter was Sara, who built Bethoron, the nether and the upper, and Ozensara.
 \p
@@ -666,6 +675,7 @@
 \v 40 All these were sons of Aser, heads of their families, choice and most valiant captains of captains: and the number of them that were of the age that was fit for war, was six and twenty thousand.
 \c 8
 \cl 1 Chronicles 8
+\cd The posterity of Benjamin is further declared down to Saul. His issue.
 \p
 \v 1 Now Benjamin begot Bale his firstborn, Asbel the second, Ahara the third,
 \p
@@ -731,9 +741,9 @@
 \p
 \v 32 And Macelloth begot Samaa: and they dwelt over against their brethren in Jerusalem with their brethren.
 \p
-\v 33 And Ner begot Cis and Cis begot Saul. And Saul begot Jonathan and Melchisua, and Abinadab, and Esbaal.
+\v 33 And Ner begot Cis and Cis begot Saul. And Saul begot Jonathan and Melchisua, and Abinadab, and Esbaal.\f + \fr 8:33 \fk Esbaal: \ft Alias Isboseth.\f*
 \p
-\v 34 And the son of Jonathan was Meribbaal: and Meribbaal begot Micha.
+\v 34 And the son of Jonathan was Meribbaal: and Meribbaal begot Micha.\f + \fr 8:34 \fk Meribbaal: \ft Alias Miphiboseth. 2 Kings 4.4.\f*
 \p
 \v 35 And the sons of Micha were Phithon, and Melech, and Tharaa, and Ahaz.
 \p
@@ -748,10 +758,11 @@
 \v 40 And the sons of Ulam were most valiant men, and archers of great strength: and they had many sons and grandsons, even to a hundred and fifty. All these were children of Benjamin.
 \c 9
 \cl 1 Chronicles 9
+\cd The Israelites, priests, and Levites, who first dwelt in Jerusalem after the captivity. A repetition of the genealogy of Saul.
 \p
 \v 1 And all Israel was numbered: and the sum of them was written in the book of the kings of Israel, and Juda: and they were carried away to Babylon for their transgression.
 \p
-\v 2 Now the first that dwelt in their possessions, and in their cities, were the Israelites, and the priests, and the Levites, and the Nathineans.
+\v 2 Now the first that dwelt in their possessions, and in their cities, were the Israelites, and the priests, and the Levites, and the Nathineans.\f + \fr 9:2 \fk Nathineans: \ft These were the posterity of the Gabaonites, whose office was to bring wood, water, etc., for the service of the temple.\f*
 \p
 \v 3 And in Jerusalem dwelt of the children of Juda, and of the children of Benjamin, and of the children of Ephraim, and of Manasses.
 \p
@@ -838,6 +849,7 @@
 \v 44 And Asel had six sons whose names are, Ezricam Bochru, Ismahel, Saria, Obdia, Hanan: these are the sons of Asel.
 \c 10
 \cl 1 Chronicles 10
+\cd Saul is slain for his sins: he is buried by the men of Jabes.
 \p
 \v 1 Now the Philistines fought against Israel, and the men of Israel fled from before the Philistines, and fell down wounded in mount Gelboe.
 \p
@@ -868,6 +880,7 @@
 \v 14 And trusted not in the Lord: therefore he slew him, and transferred his kingdom to David the son of Isai.
 \c 11
 \cl 1 Chronicles 11
+\cd David is made king. He taketh the castle of Sion. A catalogue of his valiant men.
 \p
 \v 1 Then all Israel gathered themselves to David in Hebron, saying: We are thy bone, and thy flesh.
 \p
@@ -911,7 +924,7 @@
 \p
 \v 21 And illustrious among the second three, and their captain: but yet he attained not to the first three.
 \p
-\v 22 Banaias the son of Joiada a most valiant man, of Cabseel, who had done many acts: he slew the two ariels of Moab: and he went down, and killed a lion in the midst of a pit in the time of snow.
+\v 22 Banaias the son of Joiada a most valiant man, of Cabseel, who had done many acts: he slew the two ariels of Moab: and he went down, and killed a lion in the midst of a pit in the time of snow.\f + \fr 11:22 \fk Two ariels: \ft That is, two lions, or lion-like men; for Ariel in Hebrew signifies a lion.\f*
 \p
 \v 23 And he slew an Egyptian, whose stature was of five cubits, and who had a spear like a weaver's beam: and he went down to him with a staff, and plucked away the spear, that he held in his hand, and slew him with his own spear.
 \p
@@ -962,6 +975,7 @@
 \v 46 Eliel a Mahumite, and Jeribai, and Josaia the sons of Elnaim, and Jethma a Moabite, Eliel, and Obed, and Jasiel of Masobia.
 \c 12
 \cl 1 Chronicles 12
+\cd Who followed David when he fled from Saul. And who came to Hebron to make him king.
 \p
 \v 1 Now these are they that came to David to Siceleg, while he yet fled from Saul the son of Cis, and they were most valiant and excellent warriors,
 \p
@@ -1044,6 +1058,7 @@
 \v 40 Moreover they that were near them even as far as Issachar, and Zabulon, and Nephtali, brought loaves on asses, and on camels, and on mules, and on oxen, to eat: meal, figs, raisins, wine, oil, and oxen, and sheep in abundance, for there was joy in Israel.
 \c 13
 \cl 1 Chronicles 13
+\cd The ark is brought from Cariathiarim. Oza for touching it is struck dead.
 \p
 \v 1 David consulted with the captains of thousands, and of hundreds, and with all the commanders.
 \p
@@ -1074,6 +1089,7 @@
 \v 14 And the ark of God remained in the house of Obededom three months: and the Lord blessed his house, and all that he had.
 \c 14
 \cl 1 Chronicles 14
+\cd David's house, and children: his victories over the Philistines.
 \p
 \v 1 And Hiram king of Tyre sent messengers to David, and cedar trees, and masons, and carpenters, to build him a house.
 \p
@@ -1110,6 +1126,7 @@
 \v 17 And the name of David became famous in all countries, and the Lord made all nations fear aim.
 \c 15
 \cl 1 Chronicles 15
+\cd The ark is brought into the city of David, with great solemnity. Michol derideth David's devotion.
 \p
 \v 1 He made also houses for himself in the city of David: and built a place for the ark of God, and pitched a tabernacle for it.
 \p
@@ -1153,7 +1170,7 @@
 \p
 \v 21 And Mathathias, and Eliphalu, and Macenias and Obededom, and Jehiel and Ozaziu, sung a song of victory for the octave upon harps.
 \p
-\v 22 And Chonenias chief of the Levites, presided over the prophecy, to give out the tunes: for he was very skilful.
+\v 22 And Chonenias chief of the Levites, presided over the prophecy, to give out the tunes: for he was very skilful.\f + \fr 15:22 \fk The prophecy, to give out the tunes: \ft Singing praises to God is here called prophecy: the more, because these singers were often inspired men.\f*
 \p
 \v 23 And Barachias, and Elcana, were doorkeepers of the ark.
 \p
@@ -1170,6 +1187,7 @@
 \v 29 And when the ark of the covenant of the Lord was come to the city of David, Michol the daughter of Saul looking out at a window, saw king David dancing and playing, and she despised him in her heart.
 \c 16
 \cl 1 Chronicles 16
+\cd The ark is placed in the tabernacle. Sacrifice is offered. David blesseth the people, disposeth the offices of Levites, and maketh a psalm of praise to God.
 \p
 \v 1 So they brought the ark of God, and set it in the midst of the tent, which David had pitched for it: and they offered holocausts, and peace offerings before God.
 \p
@@ -1258,6 +1276,7 @@
 \v 43 And all the people returned to their houses: and David to bless also his own house.
 \c 17
 \cl 1 Chronicles 17
+\cd David's purpose to build a temple, is rewarded by most ample promises: David's thanksgiving.
 \p
 \v 1 Now when David was dwelling in his house, he said to Nathan the prophet: Behold I dwell in a house of cedar: and the ark of the covenant of the Lord is under skins.
 \p
@@ -1314,6 +1333,7 @@
 \v 27 And thou hast begun to bless the house of thy servant, that it may be always before thee: for seeing thou blessest it, O Lord, it shall be blessed for ever.
 \c 18
 \cl 1 Chronicles 18
+\cd David's victories. His chief officers.
 \p
 \v 1 And it came to pass after this, that David defeated the Philistines, and humbled them, and took away Geth, and her daughters out of the hands of the Philistines,
 \p
@@ -1350,6 +1370,7 @@
 \v 17 And Banaias the son of Joiada was over the bands of the Cerethi, and the Phelethi: and the sons of David were chief about the king.
 \c 19
 \cl 1 Chronicles 19
+\cd The Ammonites abuse David's ambassadors: both they and their confederates are overthrown.
 \p
 \v 1 Now it came to pass that Naas the king of the children of Ammon died, and his son reigned in his stead.
 \p
@@ -1385,11 +1406,12 @@
 \p
 \v 17 And it was told David, and he gathered together all Israel, and passed the Jordan, and came upon them, and put his army in array against them, and they fought with him.
 \p
-\v 18 But the Syrian fled before Israel: and David slew of the Syrians seven thousand chariots, and forty thousand footmen, and Sophach the general of the army.
+\v 18 But the Syrian fled before Israel: and David slew of the Syrians seven thousand chariots, and forty thousand footmen, and Sophach the general of the army.\f + \fr 19:18 \fk Seven thousand chariots: \ft That is, of men who fought in chariots.\f*
 \p
 \v 19 And when the servants of Adarezer saw themselves overcome by Israel, they went over to David, and served him: and Syria would not help the children of Ammon any more.
 \c 20
 \cl 1 Chronicles 20
+\cd Rabba is taken. Other victories over the Philistines.
 \p
 \v 1 And it came to pass after the course of a year, at the time that kings go out to battle, Joab gathered together an army and the strength of the troops, and wasted the land of the children of Ammon: and went and besieged Rabba. But David stayed at Jerusalem, when Joab smote Rabba, and destroyed it.
 \p
@@ -1406,6 +1428,7 @@
 \v 7 He reviled Israel: but Jonathan the son of Samaa the brother of David slew him. These were the sons of Rapha in Geth, who fell by the hand of David and his servants.
 \c 21
 \cl 1 Chronicles 21
+\cd David's sin in numbering the people is punished by a pestilence: which ceaseth upon his offering sacrifice in the thrashingfloor of Ornan.
 \p
 \v 1 And Satan rose up against Israel: and moved David to number Israel.
 \p
@@ -1415,7 +1438,7 @@
 \p
 \v 4 But the king's word rather prevailed: and Joab departed, and went through all Israel: and returned to Jerusalem.
 \p
-\v 5 And he gave David the number of them, whom he had surveyed: and all the number of Israel was found to be eleven hundred thousand men that drew the sword: and of Juda four hundred and seventy thousand fighting men.
+\v 5 And he gave David the number of them, whom he had surveyed: and all the number of Israel was found to be eleven hundred thousand men that drew the sword: and of Juda four hundred and seventy thousand fighting men.\f + \fr 21:5 \fk The number, etc: \ft The difference of the numbers here and 2 Kings 24. is to be accounted for, by supposing the greater number to be that which was really found, and the lesser to be that which Joab gave in.\f*
 \p
 \v 6 But Levi and Benjamin he did not number: for Joab unwillingly executed the king's orders.
 \p
@@ -1429,13 +1452,13 @@
 \p
 \v 11 And when Gad was come to David, he said to him: Thus saith the Lord: choose which thou wilt:
 \p
-\v 12 Either three years famine: or three months to flee from thy enemies, and not to be able to escape their sword: or three days to have the sword of the Lord, and pestilence in the land, and the angel of the Lord destroying in all the coasts of Israel: now therefore see what I shall answer him who sent me.
+\v 12 Either three years famine: or three months to flee from thy enemies, and not to be able to escape their sword: or three days to have the sword of the Lord, and pestilence in the land, and the angel of the Lord destroying in all the coasts of Israel: now therefore see what I shall answer him who sent me.\f + \fr 21:12 \fk Three years famine: \ft Which joined with the three foregoing years of famine mentioned, 2 Kings 21. and the seventh year of the land's resting, would make up the seven years proposed by the prophet, 2 Kings 24.13.\f*
 \p
 \v 13 And David said to Gad: I am on every side in a great strait: but it is better for me to fall into the hands of the Lord, for his mercies are many, than into the hands of men.
 \p
 \v 14 So the Lord sent a pestilence upon Israel. And there fell of Israel seventy thousand men.
 \p
-\v 15 And he sent an angel to Jerusalem, to strike it: and as he was striking it, the Lord beheld, and took pity for the greatness of the evil: and said to the angel that destroyed: It is enough, now stop thy hand. And the angel of the Lord stood by the thrashingfloor of Ornan the Jebusite.
+\v 15 And he sent an angel to Jerusalem, to strike it: and as he was striking it, the Lord beheld, and took pity for the greatness of the evil: and said to the angel that destroyed: It is enough, now stop thy hand. And the angel of the Lord stood by the thrashingfloor of Ornan the Jebusite.\f + \fr 21:15 \fk Ornan: \ft Otherwise Areuna.\f*
 \p
 \v 16 And David lifting up his eyes, saw the angel of the Lord standing between heaven and earth, with a drawn sword in his hand, turned against Jerusalem: and both he and the ancients clothed in haircloth, fell down flat on the ground.
 \p
@@ -1455,7 +1478,7 @@
 \p
 \v 24 And king David said to him: It shall not be so, but I will give thee money as much as it is worth: for I must not take it from thee, and so offer to the Lord holocausts free cost.
 \p
-\v 25 So David gave to Ornan for the place, six hundred sicles of gold of just weight.
+\v 25 So David gave to Ornan for the place, six hundred sicles of gold of just weight.\f + \fr 21:25 \fk Six hundred sicles, etc: \ft This was the price of the whole place, on which the temple was afterwards built; but the price of the oxen was fifty sicles of silver. 2 Kings 24.24.\f*
 \p
 \v 26 And he built there an altar to the Lord: and he offered holocausts, and peace offerings, and he called upon the Lord, and he heard him by sending fire from heaven upon the altar of the holocaust.
 \p
@@ -1468,6 +1491,7 @@
 \v 30 And David could not go to the altar there to pray to God: for he was seized with an exceeding great fear, seeing the sword of the angel of the Lord.
 \c 22
 \cl 1 Chronicles 22
+\cd David having prepared all necessaries, chargeth Solomon to build the temple and the princes to assist him.
 \p
 \v 1 Then David said: This is the house of God, And this is the altar for the holocaust of Israel.
 \p
@@ -1508,6 +1532,7 @@
 \v 19 Give therefore your hearts and your souls, to seek the Lord your God and arise, and build a sanctuary to the Lord God, that the ark of the covenant of the Lord, and the vessels consecrated to the Lord, may be brought into the house, which is built to the name of the Lord.
 \c 23
 \cl 1 Chronicles 23
+\cd David appointeth Solomon king. The distribution of the Levites and their offices.
 \p
 \v 1 David being old and full of days, made Solomon his son king over Israel.
 \p
@@ -1574,6 +1599,7 @@
 \v 32 And let them keep the observances of the tabernacle of the covenant, and the ceremonies of the sanctuary, and the charge of the sons of Aaron their brethren, that they may minister in the house of the Lord.
 \c 24
 \cl 1 Chronicles 24
+\cd The divisions of the priests into four and twenty courses, to serve in the temple: the chiefs of the Levites.
 \p
 \v 1 Now these were the divisions of the sons of Aaron: The sons of Aaron: Nadab, and Abiu, and Eleazar, and Ithamar.
 \p
@@ -1638,6 +1664,7 @@
 \v 31 And they also cast lots over against their brethren the sons of Aaron before David the king, and Sadoc, and Ahimelech, and the princes of the priestly and Levitical families, both the elder and the younger. The lot divided all equally.
 \c 25
 \cl 1 Chronicles 25
+\cd The number and divisions of the musicians.
 \p
 \v 1 Moreover David and the chief officers of the army separated for the ministry the sons of Asaph, and of Heman, and of Idithun: to prophesy with harps, and with psalteries, and with cymbals according to their number serving in their appointed office.
 \p
@@ -1702,6 +1729,7 @@
 \v 31 The four and twentieth to Romemthiezer, to his sons and his brethren twelve.
 \c 26
 \cl 1 Chronicles 26
+\cd The divisions of the porters. Offices of other Levites.
 \p
 \v 1 And the divisions of the porters: of the Corites Meselemia, the son of Core, of the sons of Asaph.
 \p
@@ -1721,7 +1749,7 @@
 \p
 \v 9 And the sons of Meselemia, and their brethren strong men, were eighteen.
 \p
-\v 10 And of Hosa, that is, of the sons of Merari: Semri the chief, (for he had not a firstborn, and therefore his father made him chief.)
+\v 10 And of Hosa, that is, of the sons of Merari: Semri the chief, (for he had not a firstborn, and therefore his father made him chief.)\f + \fr 26:10 \fk He had not a firstborn: \ft That is, his firstborn was either dead or not fit to be chief; and therefore he made Semri the chief.\f*
 \p
 \v 11 Helcias the second, Tabelias the third, Zacharias the fourth: all these the sons, and the brethren of Hosa, were thirteen.
 \p
@@ -1741,7 +1769,7 @@
 \p
 \v 19 These are the divisions of the porters of the sons of Core, and of Merari.
 \p
-\v 20 Now Achias was over the treasures of the house of God, and the holy vessels.
+\v 20 Now Achias was over the treasures of the house of God, and the holy vessels.\f + \fr 26:20 \fk Holy vessels: \ft Or vessels of the holy places, or of things holy. Vasa sanctorum.\f*
 \p
 \v 21 The sons of Ledan, the sons of Gersonni: of Ledan were heads of the families, of Ledan, and Gersonni, Jehieli.
 \p
@@ -1768,6 +1796,7 @@
 \v 32 And his brethren of stronger age, two thousand seven hundred chiefs of families. And king David made them rulers over the Rubenites and the Gadites, and the half tribe of Manasses, for all the service of God, and the king.
 \c 27
 \cl 1 Chronicles 27
+\cd The twelve captains for every month; the twelve princes of the tribes. David's several officers.
 \p
 \v 1 Now the children of Israel according to their number, the heads of families, captains of thousands and of hundreds, and officers, that served the king according to their companies, who came in and went out every month in the year, under every chief were four and twenty thousand.
 \p
@@ -1838,6 +1867,7 @@
 \v 34 And after Achitophel was Joiada the son of Banaias, and Abiathar. And the general of the king's army was Joab.
 \c 28
 \cl 1 Chronicles 28
+\cd David's speech, in a solemn assembly: his exhortation to Solomon. He giveth him a pattern of the temple.
 \p
 \v 1 And David assembled all the chief men of Israel, the princes of the tribes, and the captains of the companies, who waited on the king: and the captains over thousands, and over hundreds, and them who had the charge over the substance and possessions of the king, and his sons with the officers of the court, and the men of power, and all the bravest of the army at Jerusalem.
 \p
@@ -1882,6 +1912,7 @@
 \v 21 Behold the courses of the priests and the Levites, for every ministry of the house of the Lord, stand by thee, and are ready, and both the princes, and the people know how to execute all thy commandments.
 \c 29
 \cl 1 Chronicles 29
+\cd David by word and example encourageth the princes to contribute liberally to the building of the temple. His thanksgiving, prayer, and sacrifices: his death.
 \p
 \v 1 And king David said to all the assembly: Solomon my son, whom alone God hath chosen, is as yet young and tender: and the work is great, for a house is prepared not for man, but for God.
 \p

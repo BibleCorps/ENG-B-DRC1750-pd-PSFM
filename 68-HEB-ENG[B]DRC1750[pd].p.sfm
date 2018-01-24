@@ -1,17 +1,20 @@
-\id HEB ENG (p.sfm) -  <> Hebrews - Challoner Douay Rheims version of the Sacred Bible The Letter to the Hebrews. The Holy Bible. Bishop Challoner's 18th century revision of the Douay Rheims version. Electronic edition 2004. Public domain.
+\id Heb ENG (p.sfm) - DRC1750 - Verify <>
 \ide UTF-8
 \h Hebrews
-\toc1 The Letter to the Hebrews
+\toc1 THE EPISTLE OF ST. PAUL TO THE HEBREWS
 \toc2 Hebrews
 \toc3 Heb
+\mt1 THE EPISTLE OF ST. PAUL TO THE HEBREWS
+\im St. Paul wrote this Epistle to the Christians in Palestine, the most part of whom being Jews before their conversion, they were called Hebrews. He exhorts them to be thoroughly converted and confirmed in the faith of Christ, clearly shewing them the preeminence of Christ's priesthood above the Levitical, and also the excellence of the new law above the old. He commends faith by the example of the ancient fathers: and exhorts them to patience and perseverance and to remain in fraternal charity. It appears from chap. 13 that this Epistle was written in Italy, and probably at Rome, about twenty-nine years after our Lord's Ascension.
 \c 1
 \cl Hebrews 1
+\cd God spoke of old by the prophets, but now by his Son, who is incomparably greater than the angels.
 \p
 \v 1 God, who, at sundry times and in divers manners, spoke in times past to the fathers by the prophets, last of all,
 \p
 \v 2 In these days, hath spoken to us by his Son, whom he hath appointed heir of all things, by whom also he made the world.
 \p
-\v 3 Who being the brightness of his glory and the figure of his substance and upholding all things by the word of his power, making purgation of sins, sitteth on the right hand of the majesty on high:
+\v 3 Who being the brightness of his glory and the figure of his substance and upholding all things by the word of his power, making purgation of sins, sitteth on the right hand of the majesty on high:\f + \fr 1:3 \fk The figure: \ft that is, the express image, and most perfect resemblance.\f*\f + \fr 1:3 \fk Making purgation: \ft That is, having purged away our sins by his passion.\f*
 \p
 \v 4 Being made so much better than the angels as he hath inherited a more excellent name than they.
 \p
@@ -36,6 +39,7 @@
 \v 14 Are they not all ministering spirits, sent to minister for them who shall receive the inheritance of salvation?
 \c 2
 \cl Hebrews 2
+\cd The transgression of the precepts of the Son of God is far more condemnable than of those of the Old Testament given by angels.
 \p
 \v 1 Therefore ought we more diligently to observe the things which we have heard lest perhaps we should let them slip.
 \p
@@ -55,7 +59,7 @@
 \p
 \v 9 But we see Jesus, who was made a little lower than the angels, for the suffering of death, crowned with glory and honour: that, through the grace of God he might taste death for all.
 \p
-\v 10 For it became him for whom are all things and by whom are all things, who had brought many children into glory, to perfect the author of their salvation, by his passion.
+\v 10 For it became him for whom are all things and by whom are all things, who had brought many children into glory, to perfect the author of their salvation, by his passion.\f + \fr 2:10 \fk Perfect by his passion: \ft By suffering, Christ was to enter into his glory, Luke 24.26, which the apostle here calls being made perfect.\f*
 \p
 \v 11 For both he that sanctifieth and they who are sanctified are all of one. For which cause he is not ashamed to call them brethren, saying:
 \p
@@ -67,13 +71,14 @@
 \p
 \v 15 And might deliver them, who through the fear of death were all their lifetime subject to servitude.
 \p
-\v 16 For nowhere doth he take hold of the angels: but of the seed of Abraham he taketh hold.
+\v 16 For nowhere doth he take hold of the angels: but of the seed of Abraham he taketh hold.\f + \fr 2:16 \fk No where doth he, etc: \ft That is, he never took upon him the nature of angels, but that of the seed of Abraham.\f*
 \p
 \v 17 Wherefore, it behoved him in all things to be made like unto his brethren, that he might become a merciful and faithful high priest before God, that he might be a propitiation for the sins of the people.
 \p
 \v 18 For in that wherein he himself hath suffered and been tempted he is able to succour them also that are tempted.
 \c 3
 \cl Hebrews 3
+\cd Christ is more excellent than Moses. Wherefore we must adhere to him by faith and obedience.
 \p
 \v 1 Wherefore, holy brethren, partakers of the heavenly vocation consider the apostle and high priest of our confession, Jesus:
 \p
@@ -114,6 +119,7 @@
 \v 19 And we see that they could not enter in, because of unbelief.
 \c 4
 \cl Hebrews 4
+\cd The Christian's rest. We are to enter into it through Jesus Christ.
 \p
 \v 1 Let us fear therefore lest, the promise being left of entering into his rest, any of you should be thought to be wanting.
 \p
@@ -129,7 +135,7 @@
 \p
 \v 7 Again he limiteth a certain day, saying in David; To day, after so long a time as it is above said: To day if you shall hear his voice, harden not your hearts.
 \p
-\v 8 For if Jesus had given them rest he would never have afterwards spoken of another day.
+\v 8 For if Jesus had given them rest he would never have afterwards spoken of another day.\f + \fr 4:8 \fk Jesus: \ft Josue, who in Greek is called Jesus.\f*
 \p
 \v 9 There remaineth therefore a day of rest for the people of God.
 \p
@@ -148,6 +154,7 @@
 \v 16 Let us go therefore with confidence to the throne of grace: that we may obtain mercy and find grace in seasonable aid.
 \c 5
 \cl Hebrews 5
+\cd The office of a high priest. Christ is our high priest.
 \p
 \v 1 For every high priest taken from among men is ordained for men in the things that appertain to God, that he may offer up gifts and sacrifices for sins:
 \p
@@ -178,14 +185,15 @@
 \v 14 But strong meat is for the perfect: for them who by custom have their senses exercised to the discerning of good and evil.
 \c 6
 \cl Hebrews 6
+\cd He warns them of the danger of falling by apostasy and exhorts them to patience and perseverance.
 \p
-\v 1 Wherefore, leaving the word of the beginning of Christ, let us go on to things more perfect: not laying again the foundation of penance from dead works and of faith towards God,
+\v 1 Wherefore, leaving the word of the beginning of Christ, let us go on to things more perfect: not laying again the foundation of penance from dead works and of faith towards God,\f + \fr 6:1 \fk The word of the beginning: \ft The first rudiments of the Christian doctrine.\f*
 \p
 \v 2 Of the doctrine of baptisms and imposition of hands, and of the resurrection of the dead, and of eternal judgment.
 \p
 \v 3 And this will we do, if God permit.
 \p
-\v 4 For it is impossible for those who were once illuminated, have tasted also the heavenly gift and were made partakers of the Holy Ghost,
+\v 4 For it is impossible for those who were once illuminated, have tasted also the heavenly gift and were made partakers of the Holy Ghost,\f + \fr 6:4 \fk It is impossible, etc: \ft The meaning is, that it is impossible for such as have fallen after baptism, to be again baptized; and very hard for such as have apostatized from the faith, after having received many graces, to return again to the happy state from which they fell.\f*
 \p
 \v 5 Have moreover tasted the good word of God and the powers of the world to come,
 \p
@@ -220,12 +228,13 @@
 \v 20 Where the forerunner Jesus is entered for us, made a high priest for ever according to the order of Melchisedech.
 \c 7
 \cl Hebrews 7
+\cd The priesthood of Christ according to the order of Melchisedech excels the Levitical priesthood and puts an end both to that and to the law.
 \p
 \v 1 For this Melchisedech was king of Salem, priest of the most high God, who met Abraham returning from the slaughter of the kings and blessed him:
 \p
 \v 2 To whom also Abraham divided the tithes of all: who first indeed by interpretation is king of justice: and then also king of Salem, that is, king of peace:
 \p
-\v 3 Without father, without mother, without genealogy, having neither beginning of days nor end of life, but likened unto the Son of God, continueth a priest for ever.
+\v 3 Without father, without mother, without genealogy, having neither beginning of days nor end of life, but likened unto the Son of God, continueth a priest for ever.\f + \fr 7:3 \fk Without father, etc: \ft Not that he had no father, etc., but that neither his father, nor his pedigree, nor his birth, nor his death, are set down in scripture.\f*
 \p
 \v 4 Now consider how great this man is, to whom also Abraham the patriarch gave tithes out of the principal things.
 \p
@@ -265,11 +274,11 @@
 \p
 \v 22 By so much is Jesus made a surety of a better testament.
 \p
-\v 23 And the others indeed were made many priests, because by reason of death they were not suffered to continue:
+\v 23 And the others indeed were made many priests, because by reason of death they were not suffered to continue:\f + \fr 7:23 \fk Many priests, etc: \ft The apostle notes this difference between the high priests of the law, and our high priest Jesus Christ; that they being removed by death, made way for their successors; whereas our Lord Jesus is a priest for ever, and hath no successor; but liveth and concurreth for ever with his ministers, the priests of the new testament, in all their functions. Also, that no one priest of the law, nor all of them together, could offer that absolute sacrifice of everlasting redemption, which our one high priest Jesus Christ has offered once, and for ever.\f*
 \p
 \v 24 But this, for that he continueth for ever, hath an everlasting priesthood:
 \p
-\v 25 Whereby he is able also to save for ever them that come to God by him; always living to make intercession for us.
+\v 25 Whereby he is able also to save for ever them that come to God by him; always living to make intercession for us.\f + \fr 7:25 \fk Make intercession: \ft Christ, as man, continually maketh intercession for us, by representing his passion to his Father.\f*
 \p
 \v 26 For it was fitting that we should have such a high priest, holy, innocent, undefiled, separated from sinners, and made higher than the heavens:
 \p
@@ -278,16 +287,17 @@
 \v 28 For the law maketh men priests, who have infirmity: but the word of the oath (which was since the law) the Son who is perfected for evermore.
 \c 8
 \cl Hebrews 8
+\cd More of the excellence of the priesthood of Christ and of the New Testament.
 \p
 \v 1 Now of the things which we have spoken, this is the sum: We have such an high priest who is set on the right hand of the throne of majesty in the heavens,
 \p
-\v 2 A minister of the holies and of the true tabernacle, which the Lord hath pitched, and not man.
+\v 2 A minister of the holies and of the true tabernacle, which the Lord hath pitched, and not man.\f + \fr 8:2 \fk The holies: \ft That is, the sanctuary.\f*
 \p
 \v 3 For every high priest is appointed to offer gifts and sacrifices: wherefore it is necessary that he also should have some thing to offer.
 \p
-\v 4 If then he were on earth, he would not be a priest: seeing that there would be others to offer gifts according to the law.
+\v 4 If then he were on earth, he would not be a priest: seeing that there would be others to offer gifts according to the law.\f + \fr 8:4 \fk If then he were on earth, etc: \ft That is, if he were not of a higher condition than the Levitical order of earthly priests, and had not another kind of sacrifice to offer, he should be excluded by them from the priesthood, and its functions, which by the law were appropriated to their tribe.\f*
 \p
-\v 5 Who serve unto the example and shadow of heavenly things. As it was answered to Moses, when he was to finish the tabernacle: See (saith he) that thou make all things according to the pattern which was shewn thee on the mount.
+\v 5 Who serve unto the example and shadow of heavenly things. As it was answered to Moses, when he was to finish the tabernacle: See (saith he) that thou make all things according to the pattern which was shewn thee on the mount.\f + \fr 8:5 \fk Who serve unto, etc: \ft The priesthood of the law and its functions were a kind of an example and shadow of what is done by Christ in his church militant and triumphant, of which the tabernacle was a pattern.\f*
 \p
 \v 6 But now he hath obtained a better ministry, by how much also he is a mediator of a better testament which is established on better promises.
 \p
@@ -299,13 +309,14 @@
 \p
 \v 10 For this is the testament which I will make to the house of Israel after those days, saith the Lord: I will give my laws into their mind: and in their heart will I write them. And I will be their God: and they shall be my people.
 \p
-\v 11 And they shall not teach every man his neighbour and every man his brother, saying: Know the Lord. For all shall know me, from the least to the greatest of them.
+\v 11 And they shall not teach every man his neighbour and every man his brother, saying: Know the Lord. For all shall know me, from the least to the greatest of them.\f + \fr 8:11 \fk They shall not teach, etc: \ft So great shall be light and grace of the new testament, that it shall not be necessary to inculcate to the faithful the belief and knowledge of the true God, for they shall all know him.\f*
 \p
 \v 12 Because I will be merciful to their iniquities: and their sins I will remember no more.
 \p
-\v 13 Now in saying a new, he hath made the former old. And that which decayeth and groweth old is near its end.
+\v 13 Now in saying a new, he hath made the former old. And that which decayeth and groweth old is near its end.\f + \fr 8:13 \fk A new: \ft Supply 'covenant'.\f*
 \c 9
 \cl Hebrews 9
+\cd The sacrifices of the law were far inferior to that of Christ.
 \p
 \v 1 The former indeed had also justifications of divine service and a sanctuary.
 \p
@@ -325,11 +336,11 @@
 \p
 \v 9 Which is a parable of the time present: according to which gifts and sacrifices are offered, which cannot, as to the conscience, make him perfect that serveth, only in meats and in drinks,
 \p
-\v 10 And divers washings and justices of the flesh laid on them until the time of correction.
+\v 10 And divers washings and justices of the flesh laid on them until the time of correction.\f + \fr 9:10 \fk Of correction: \ft Viz., when Christ should correct and settle all things.\f*
 \p
 \v 11 But Christ, being come an high Priest of the good things to come, by a greater and more perfect tabernacle, not made with hand, that is, not of this creation:
 \p
-\v 12 Neither by the blood of goats or of calves, but by his own blood, entered once into the Holies, having obtained eternal redemption.
+\v 12 Neither by the blood of goats or of calves, but by his own blood, entered once into the Holies, having obtained eternal redemption.\f + \fr 9:12 \fk Eternal redemption: \ft By that one sacrifice of his blood, once offered on the cross, Christ our Lord paid and exhibited, once for all, the general price and ransom of all mankind: which no other priest could do.\f*
 \p
 \v 13 For if the blood of goats and of oxen, and the ashes of an heifer, being sprinkled, sanctify such as are defiled, to the cleansing of the flesh:
 \p
@@ -355,19 +366,20 @@
 \p
 \v 24 For Jesus is not entered into the Holies made with hands, the patterns of the true: but into Heaven itself, that he may appear now in the presence of God for us.
 \p
-\v 25 Nor yet that he should offer himself often, as the high priest entereth into the Holies every year with the blood of others:
+\v 25 Nor yet that he should offer himself often, as the high priest entereth into the Holies every year with the blood of others:\f + \fr 9:25 \fk Offer himself often: \ft Christ shall never more offer himself in sacrifice, in that violent, painful, and bloody manner, nor can there be any occasion for it: since by that one sacrifice upon the cross, he has furnished the full ransom, redemption, and remedy for all the sins of the world. But this hinders not that he may offer himself daily in the sacred mysteries in an unbloody manner, for the daily application of that one sacrifice of redemption to our souls.\f*
 \p
 \v 26 For then he ought to have suffered often from the beginning of the world. But now once, at the end of ages, he hath appeared for the destruction of sin by the sacrifice of himself.
 \p
 \v 27 And as it is appointed unto men once to die, and after this the judgment:
 \p
-\v 28 So also Christ was offered once to exhaust the sins of many. The second time he shall appear without sin to them that expect him unto salvation.
+\v 28 So also Christ was offered once to exhaust the sins of many. The second time he shall appear without sin to them that expect him unto salvation.\f + \fr 9:28 \fk To exhaust: \ft That is, to empty, or draw out to the very bottom, by a plentiful and perfect redemption.\f*
 \c 10
 \cl Hebrews 10
+\cd Because of the insufficiency of the sacrifices of the law, Christ our high priest shed his own blood for us, offering up once for all the sacrifice of our redemption. He exhorts them to perseverance.
 \p
 \v 1 For the law, having a shadow of the good things to come, not the very image of the things, by the selfsame sacrifices which they offer continually every year, can never make the comers thereunto perfect.
 \p
-\v 2 For then they would have ceased to be offered: because the worshippers once cleansed should have no conscience of sin any longer.
+\v 2 For then they would have ceased to be offered: because the worshippers once cleansed should have no conscience of sin any longer.\f + \fr 10:2 \fk They would have ceased: \ft If they had been of themselves perfect to all the intents of redemption and remission, as Christ's death is there would have been no occasion of so often repeating them: as there is no occasion for Christ's dying any more for our sins.\f*
 \p
 \v 3 But in them there is made a commemoration of sins every year:
 \p
@@ -399,7 +411,7 @@
 \p
 \v 17 And their sins and iniquities I will remember no more.
 \p
-\v 18 Now, where there is a remission of these, there is no more an oblation for sin.
+\v 18 Now, where there is a remission of these, there is no more an oblation for sin.\f + \fr 10:18 \fk There is no more an oblation for sin: \ft Where there is a full remission of sins, as in baptism, there is no more occasion for a sin offering to be made for such sins already remitted; and as for sins committed afterwards, they can only be remitted in virtue of the one oblation of Christ's death.\f*
 \p
 \v 19 Having therefore, brethren, a confidence in the entering into the holies by the blood of Christ:
 \p
@@ -415,7 +427,7 @@
 \p
 \v 25 Not forsaking our assembly, as some are accustomed: but comforting one anther, and so much the more as you see the day approaching.
 \p
-\v 26 For if we sin wilfully after having the knowledge of the truth, there is now left no sacrifice for sins:
+\v 26 For if we sin wilfully after having the knowledge of the truth, there is now left no sacrifice for sins:\f + \fr 10:26 \fk If we sin wilfully: \ft He speaks of the sin of wilful apostasy from the known truth; after which, as we can not be baptized again, we can not expect to have that abundant remission of sins, which Christ purchased by his death, applied to our souls in that ample manner as it is in baptism: but we have rather all manner of reason to look for a dreadful judgment; the more because apostates from the known truth, seldom or never have the grace to return to it.\f*
 \p
 \v 27 But a certain dreadful expectation of judgment, and the rage of a fire which shall consume the adversaries.
 \p
@@ -444,6 +456,7 @@
 \v 39 But we are not the children of withdrawing unto perdition, but of faith to the saving of the soul.
 \c 11
 \cl Hebrews 11
+\cd What faith is. Its wonderful fruits and efficacy demonstrated in the fathers.
 \p
 \v 1 Now, faith is the substance of things to be hoped for, the evidence of things that appear not.
 \p
@@ -459,7 +472,7 @@
 \p
 \v 7 By faith Noe, having received an answer concerning those things which as yet were not seen, moved with fear, framed the ark for the saving of his house: by the which he condemned the world and was instituted heir of the justice which is by faith.
 \p
-\v 8 By faith he that is called Abraham obeyed to go out into a place which he was to receive for an inheritance. And he went out, not knowing whither he went.
+\v 8 By faith he that is called Abraham obeyed to go out into a place which he was to receive for an inheritance. And he went out, not knowing whither he went.\f + \fr 11:8 \fk He that is called Abraham: \ft or, Abraham being called.\f*
 \p
 \v 9 By faith he abode in the land of promise, as in a strange country, dwelling in cottages, with Isaac and Jacob, the co-heirs of the same promise.
 \p
@@ -481,11 +494,11 @@
 \p
 \v 18 (To whom it was said: In Isaac shalt thy seed be called:)
 \p
-\v 19 Accounting that God is able to raise up even from the dead. Whereupon also he received him for a parable.
+\v 19 Accounting that God is able to raise up even from the dead. Whereupon also he received him for a parable.\f + \fr 11:19 \fk For a parable: \ft That is, as a figure of Christ, slain and coming to life again.\f*
 \p
 \v 20 By faith also of things to come Isaac blessed Jacob and Esau.
 \p
-\v 21 By faith Jacob, dying, blessed each of the sons of Joseph and adored the top of his rod.
+\v 21 By faith Jacob, dying, blessed each of the sons of Joseph and adored the top of his rod.\f + \fr 11:21 \fk Adored the top of his rod: \ft The apostle here follows the ancient Greek Bible of the seventy interpreters, (which translates in this manner, Gen. 47. 31.,) and alleges this fact of Jacob, in paying a relative honour and veneration to the top of the rod or sceptre of Joseph, as to a figure of Christ's sceptre and kingdom, as an instance and argument of his faith. But some translators, who are no friends to this relative honour, have corrupted the text, by translating it, he worshipped, leaning upon the top of his staff; as if this circumstance of leaning upon his staff were any argument of Jacob's faith, or worthy the being thus particularly taken notice of by the Holy Ghost.\f*
 \p
 \v 22 By faith Joseph, when he was dying, made mention of the going out of the children of Israel and gave commandment concerning his bones.
 \p
@@ -526,6 +539,7 @@
 \v 40 God providing some better thing for us, that they should not be perfected without us.
 \c 12
 \cl Hebrews 12
+\cd Exhortation to constancy under their crosses. The danger of abusing the graces of the New Testament.
 \p
 \v 1 And therefore we also having so great a cloud of witnesses over our head, laying aside every weight and sin which surrounds us, let us run by patience to the fight proposed to us:
 \p
@@ -559,7 +573,7 @@
 \p
 \v 16 Lest there be any fornicator or profane person, as Esau who for one mess sold his first birthright.
 \p
-\v 17 For know ye that afterwards, when he desired to inherit the benediction, he was rejected. For he found no place of repentance, although with tears he had sought it.
+\v 17 For know ye that afterwards, when he desired to inherit the benediction, he was rejected. For he found no place of repentance, although with tears he had sought it.\f + \fr 12:17 \fk He found, etc: \ft That is, he found no way to bring his father to repent, or change his mind, with relation to his having given the blessing to his younger brother Jacob.\f*
 \p
 \v 18 For you are not come to a mountain that might be touched and a burning fire and a whirlwind and darkness and storm,
 \p
@@ -586,6 +600,7 @@
 \v 29 For our God is a consuming fire.
 \c 13
 \cl Hebrews 13
+\cd Divers admonitions and exhortations.
 \p
 \v 1 Let the charity of the brotherhood abide in you.
 \p
@@ -593,7 +608,7 @@
 \p
 \v 3 Remember them that are in bands, as if you were bound with them: and them that labour, as being yourselves also in the body.
 \p
-\v 4 Marriage honourable in all, and the bed undefiled. For fornicators and adulterers God will judge.
+\v 4 Marriage honourable in all, and the bed undefiled. For fornicators and adulterers God will judge.\f + \fr 13:4 \fk Or, Let marriage be honourable in all: \ft That is, in all things belonging to the marriage state. This is a warning to married people, not to abuse the sanctity of their state, by any liberties or irregularities contrary thereunto. Now it does not follow from this text that all persons are obliged to marry, even if the word omnibus were rendered, in all persons, instead of in all things: for if it was a precept, St. Paul himself would have transgressed it, as he never married. Moreover, those who have already made a vow to God to lead a single life, should they attempt to marry, they would incur their own damnation. 1 Tim. 5. 12.\f*
 \p
 \v 5 Let your manners be without covetousness, contented with such things as you have. For he hath said: I will not leave thee: neither will I forsake thee.
 \p
@@ -611,7 +626,7 @@
 \p
 \v 12 Wherefore Jesus also, that he might sanctify the people by his own blood, suffered without the gate.
 \p
-\v 13 Let us go forth therefore to him without the camp, bearing his reproach.
+\v 13 Let us go forth therefore to him without the camp, bearing his reproach.\f + \fr 13:13 \fk Let us go forth therefore to him without the camp, bearing his reproach: \ft That is, bearing his cross. It is an exhortation to them to be willing to suffer with Christ, reproaches, persecutions, and even death, if they desire to partake of the benefit of his suffering for man's redemption.\f*
 \p
 \v 14 For, we have not here a lasting city: but we seek one that is to come.
 \p
@@ -636,4 +651,3 @@
 \v 24 Salute all your prelates and all the saints. The brethren from Italy salute you.
 \p
 \v 25 Grace be with you all. Amen.
-\mte9 The Sacred Bible - The Letter to the Hebrews

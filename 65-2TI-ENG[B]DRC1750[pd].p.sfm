@@ -1,11 +1,14 @@
-\id 2TI ENG (p.sfm) -  <> 2 Timothy - Challoner Douay Rheims version of the Sacred Bible The Second Letter to Timothy. The Holy Bible. Bishop Challoner's 18th century revision of the Douay Rheims version. Electronic edition 2004. Public domain.
+\id 2 T ENG (p.sfm) - DRC1750 - Verify <>
 \ide UTF-8
 \h 2 Timothy
-\toc1 The Second Letter to Timothy
+\toc1 THE SECOND EPISTLE OF ST. PAUL TO TIMOTHY
 \toc2 2 Timothy
-\toc3 2Tm
+\toc3 2 T
+\mt1 THE SECOND EPISTLE OF ST. PAUL TO TIMOTHY
+\im In this Epistle, the Apostle again instructs and admonishes Timothy in what belonged to his office, as in the former; and also warns him to shun the conversation of those who had erred from the truth, describing at the same time their character, He tells him of his approaching death and desires him to come speedily to him. It appears from this circumstance that he wrote this second Epistle in the time of his last imprisonment at Rome and not long before his martyrdom.
 \c 1
 \cl 2 Timothy 1
+\cd He admonishes him to stir up the grace he received by his ordination and not to be discouraged at his sufferings, but to hold firm the sound doctrine of the gospel.
 \p
 \v 1 Paul, an apostle of Jesus Christ, by the will of God, according to the promise of life which is in Christ Jesus:
 \p
@@ -25,7 +28,7 @@
 \p
 \v 9 Who hath delivered us and called us by his holy calling, not according to our own works, but according to his own purpose and grace, which was given us in Christ Jesus before the times of the world:
 \p
-\v 10 But is now made manifest by the illumination of our Saviour Jesus Christ, who hath destroyed death and hath brought to light life and incorruption by the gospel.
+\v 10 But is now made manifest by the illumination of our Saviour Jesus Christ, who hath destroyed death and hath brought to light life and incorruption by the gospel.\f + \fr 1:10 \fk By the illumination: \ft That is, by the bright coming and appearing of our Saviour.\f*
 \p
 \v 11 Wherein I am appointed a preacher and an apostle and teacher of the Gentiles.
 \p
@@ -44,6 +47,7 @@
 \v 18 The Lord grant unto him to find mercy of the Lord in that day. And in how many things he ministered unto me at Ephesus, thou very well knowest.
 \c 2
 \cl 2 Timothy 2
+\cd He exhorts him to diligence in his office and patience in suffering. The danger of the delusions of heretics.
 \p
 \v 1 Thou therefore, my son, be strong in Christ Jesus:
 \p
@@ -98,6 +102,7 @@
 \v 26 And they may recover themselves from the snares of the devil by whom they are held captive at his will.
 \c 3
 \cl 2 Timothy 3
+\cd The character of heretics of latter days. He exhorts Timothy to constancy. Of the great profit of the knowledge of the scriptures.
 \p
 \v 1 Know also this, that in the last days shall come dangerous times.
 \p
@@ -113,7 +118,7 @@
 \p
 \v 7 Ever learning, and never attaining to the knowledge of the truth.
 \p
-\v 8 Now as Jannes and Mambres resisted Moses, so these also resist the truth, men corrupted in mind, reprobate concerning the faith.
+\v 8 Now as Jannes and Mambres resisted Moses, so these also resist the truth, men corrupted in mind, reprobate concerning the faith.\f + \fr 3:8 \fk Jannes and Mambres: \ft The magicians of king Pharao.\f*
 \p
 \v 9 But they shall proceed no farther: for their folly shall be manifest to all men, as theirs also was.
 \p
@@ -129,11 +134,12 @@
 \p
 \v 15 And because from thy infancy thou hast known the holy scriptures which can instruct thee to salvation by the faith which is in Christ Jesus.
 \p
-\v 16 All scripture, inspired of God, is profitable to teach, to reprove, to correct, to instruct in justice:
+\v 16 All scripture, inspired of God, is profitable to teach, to reprove, to correct, to instruct in justice:\f + \fr 3:16 \fk All scripture,: \ft Every part of divine scripture is certainly profitable for all these ends. But, if we would have the whole rule of Christian faith and practice, we must not be content with those Scriptures, which Timothy knew from his infancy, that is, with the Old Testament alone: nor yet with the New Testament, without taking along with it the traditions of the apostles, and the interpretation of the church, to which the apostles delivered both the book, and the true meaning of it.\f*
 \p
 \v 17 That the man of God may be perfect, furnished to every good work.
 \c 4
 \cl 2 Timothy 4
+\cd His charge to Timothy. He tells him of his approaching death and desires him to come to him.
 \p
 \v 1 I charge thee, before God and Jesus Christ, who shall judge the living and the dead, by his coming and his kingdom:
 \p
@@ -143,7 +149,7 @@
 \p
 \v 4 And will indeed turn away their hearing from the truth, but will be turned unto fables.
 \p
-\v 5 But be thou vigilant, labour in all things, do the work of an evangelist, fulfil thy ministry. Be sober.
+\v 5 But be thou vigilant, labour in all things, do the work of an evangelist, fulfil thy ministry. Be sober.\f + \fr 4:5 \fk An evangelist: \ft a diligent preacher of the gospel.\f*
 \p
 \v 6 For I am even now ready to be sacrificed: and the time of my dissolution is at hand.
 \p
@@ -178,4 +184,3 @@
 \v 21 Make haste to come before winter. Eubulus and Pudens and Linus and Claudia and all the brethren, salute thee.
 \p
 \v 22 The Lord Jesus Christ be with thy spirit. Grace be with you. Amen.
-\mte9 The Sacred Bible - The Second Letter to Timothy

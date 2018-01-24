@@ -1,11 +1,14 @@
 \id NEH ENG (p.sfm) -  <> Nehemiah - Challoner Douay Rheims version of the Sacred Bible The Book of Nehemiah. The Holy Bible. Bishop Challoner's 18th century revision of the Douay Rheims version. Electronic edition 2004. Public domain.
 \ide UTF-8
 \h Nehemiah
-\toc1 The Book of Nehemiah
+\toc1 The Book of Nehemiah (2 Esdras)
 \toc2 Nehemiah
 \toc3 Neh
+\mt1 The Book of Nehemiah (2 Esdras)
+\im This Book takes its name from the writer, who was cupbearer to Artaxerxes (surnamed Longimanus) king of Persia, and was sent by him with a commission to rebuild the walls of Jerusalem. It is also called the second book of Esdras; because it is a continuation of the history, begun by Esdras, of the state of the people of God after their return from captivity.
 \c 1
 \cl Nehemiah 1
+\cd Nehemiah hearing the miserable state of his countrymen in Judea, lamenteth, fasteth, and prayeth to God for their relief.
 \p
 \v 1 The words of Nehemiah the son of Helchias. And it came to pass in the month of Casleu, in the twentieth year, as I was in the castle of Susa,
 \p
@@ -30,6 +33,7 @@
 \v 11 I beseech thee, O Lord, let thy ear be attentive to the prayer of thy servant, and to the prayer of thy servants who desire to fear thy name: and direct thy servant this day, and give him mercy before this man. For I was the king's cupbearer.
 \c 2
 \cl Nehemiah 2
+\cd Nehemiah with commission from king Artaxerxes cometh to Jerusalem: and exhorteth the Jews to rebuild the walls.
 \p
 \v 1 And it came to pass in the month of Nisan, in the twentieth year of Artaxerxes the king: that wine was before him, and I took up the wine, and gave it to the king: and I was as one languishing away before his face.
 \p
@@ -72,12 +76,17 @@
 \v 20 And I answered them, and said to them: The God of heaven he helpeth us, and we are his servants: let us rise up and build: but you have no part, nor justice, nor remembrance in Jerusalem.
 \c 3
 \cl Nehemiah 3
+\cd They begin to build the walls: the names and order of the builders.
 \p
 \v 1 Then Eliasib the high priest arose, and his brethren the priests, and they built the flock gate: they sanctified it, and set up the doors thereof, even unto the tower of a hundred cubits they sanctified it unto the tower of Hananeel.
 \p
 \v 2 And next to him the men of Jericho built: and next to them built Zachur the son of Amri.
 \p
 \v 3 But the fish gate the sons of Asnaa built: they covered it, and set up the doors thereof, and the locks, and the bars. And next to them built Marimuth the son of Urias the son of Accus.
+\p
+\v 3 And next to him built Mosollam the son of Barachias, the son of Merezebel, and next to them built Sadoc the son of Baana.
+\p
+\v 5 And next to them the Thecuites built: but their great men did not put their necks to the work of their Lord.
 \p
 \v 6 And Joiada the son of Phasea, and Mosollam the son of Besodia built the old gate: they covered it and set up the doors thereof, and the locks, and the bars.
 \p
@@ -132,6 +141,7 @@
 \v 31 And within the chamber of the corner of the flock gate, the goldsmiths and the merchants built.
 \c 4
 \cl Nehemiah 4
+\cd The building is carried on notwithstanding the opposition of their enemies.
 \p
 \v 1 And it came to pass, that when Sanaballat heard that we were building the wall he was angry: and being moved exceedingly he scoffed at the Jews.
 \p
@@ -180,6 +190,7 @@
 \v 23 Now I and my brethren, and my servants, and the watchmen that followed me, did not put off our clothes: only every man stripped himself when he was to be washed.
 \c 5
 \cl Nehemiah 5
+\cd Nehemiah blameth the rich, for their oppressing the poor. His exhortation, and bounty to his countrymen.
 \p
 \v 1 Now there was a great cry of the people, and of their wives against their brethren the Jews.
 \p
@@ -220,6 +231,7 @@
 \v 19 Remember me, O my God, for good according to all that I have done for this people.
 \c 6
 \cl Nehemiah 6
+\cd The enemies seek to terrify Nehemiah. He proceedeth and finisheth the wall.
 \p
 \v 1 And it came to pass, when Sanaballat, and Tobias, and Gossem the Arabian, and the rest of our enemies, heard that I had built the wall, and that there was no breach left in it, (though at that time I had not set up the doors in the gates,)
 \p
@@ -260,6 +272,7 @@
 \v 19 And they praised him also before me, and they related my words to him: And Tobias sent letters to put me in fear.
 \c 7
 \cl Nehemiah 7
+\cd Nehemiah appointeth watchmen in Jerusalem. The list of those who came first from Babylon.
 \p
 \v 1 Now after the wall was built, and I had set up the doors, and numbered the porters and singing men, and Levites:
 \p
@@ -397,9 +410,9 @@
 \p
 \v 68 Their horses, seven hundred thirty-six: their mules two hundred forty-five.
 \p
-\v 69 Their camels, four hundred thirty-five, their asses, six thousand seven hundred and twenty.
+\v 69 Their camels, four hundred thirty-five, their asses, six thousand seven hundred and twenty.\f + \fr 7:69 \ft Hitherto is related what was written in the record. From this place forward goeth on the history of Nehemiah.\f*
 \p
-\v 70 And some of the heads of the families gave unto the work. Athersatha gave into the treasure a thousand drams of gold, fifty bowls, and five hundred and thirty garments for priests.
+\v 70 And some of the heads of the families gave unto the work. Athersatha gave into the treasure a thousand drams of gold, fifty bowls, and five hundred and thirty garments for priests.\f + \fr 7:70 \fk Athersatha: \ft That is, Nehemiah; as appears from chap. 12. Either that he was so called at the court of the king of Persia, where he was cupbearer: or that, as some think, this name signifies governor; and he was at that time governor of Judea.\f*
 \p
 \v 71 And some of the heads of families gave to the treasure of the work, twenty thousand drams of gold, and two thousand two hundred pounds of silver.
 \p
@@ -408,6 +421,7 @@
 \v 73 And the priests, and the Levites, and the porters, and the singing men, and the rest of the common people, and the Nathinites, and all Israel dwelt in their cities.
 \c 8
 \cl Nehemiah 8
+\cd Esdras readeth the law before the people. Nehemiah comforteth them. They celebrate the feast of tabernacles.
 \p
 \v 1 And the seventh month came: and the children of Israel were in their cities. And all the people were gathered together as one man to the street which is before the water gate, and they spoke to Esdras the scribe, to bring the book of the law of Moses, which the Lord had commanded to Israel.
 \p
@@ -446,6 +460,7 @@
 \v 18 And he read in the book of the law of God day by day, from the first day till the last, and they kept the solemnity seven days, and in the eighth day a solemn assembly according to the manner.
 \c 9
 \cl Nehemiah 9
+\cd The people repent with fasting and sackcloth. The Levites confess God's benefits, and the people's ingratitude: they pray for them, and make a covenant with God.
 \p
 \v 1 And in the four and twentieth day of the month the children of Israel came together with fasting and with sackcloth, and earth upon them.
 \p
@@ -459,7 +474,7 @@
 \p
 \v 6 Thou thyself, O Lord alone, thou hast made heaven, and the heaven of heavens, and all the host thereof: the earth and all things that are in it: the seas and all that are therein: and thou givest life to all these things, and the host of heaven adoreth thee.
 \p
-\v 7 Thou O Lord God, art he who chosest Abram, and broughtest him forth out of the fire of the Chaldeans, and gavest him the name of Abraham.
+\v 7 Thou O Lord God, art he who chosest Abram, and broughtest him forth out of the fire of the Chaldeans, and gavest him the name of Abraham.\f + \fr 9:7 \fk The fire of the Chaldeans: \ft The city of Ur in Chaldea, the name of which signifies fire. Or out of the fire of the tribulations and temptations, to which he was there exposed.--The ancient Rabbins understood this literally, affirming that Abram was cast into the fire by the idolaters, and brought out by a miracle without any hurt.\f*
 \p
 \v 8 And thou didst find his heart faithful before thee: and thou madest a covenant with him, to give him the land of the Chanaanite, of the Hethite, and of the Amorrhite, and of the Pherezite, and of the Jebusite, and of the Gergezite, to give it to his seed: and thou hast fulfilled thy words, because thou art just.
 \p
@@ -479,7 +494,7 @@
 \p
 \v 16 But they and our fathers dealt proudly, and hardened their necks and hearkened not to thy commandments.
 \p
-\v 17 And they would not hear, and they remembered not thy wonders which thou hadst done for them. And they hardened their necks, and gave the head to return to their bondage, as it were by contention. But thou, a forgiving God, gracious, and merciful, longsuffering, and full of compassion, didst not forsake them.
+\v 17 And they would not hear, and they remembered not thy wonders which thou hadst done for them. And they hardened their necks, and gave the head to return to their bondage, as it were by contention. But thou, a forgiving God, gracious, and merciful, longsuffering, and full of compassion, didst not forsake them.\f + \fr 9:17 \fk And gave the head: \ft That is, they set their head, or were bent to return to Egypt.\f*
 \p
 \v 18 Yea when they had made also to themselves a molten calf, and had said: This is thy God, that brought thee out of Egypt: and had committed great blasphemies:
 \p
@@ -524,6 +539,7 @@
 \v 38 And because of all this we ourselves make a covenant, and write it, and our princes, our Levites, and our priests sign it.
 \c 10
 \cl Nehemiah 10
+\cd The names of the subscribers to the covenant, and the contents of it.
 \p
 \v 1 And the subscribers were Nehemiah, Athersatha the son of Hachelai, and Sedecias,
 \p
@@ -604,6 +620,7 @@
 \v 39 For the children of Israel and the children of Levi shall carry to the treasury the firstfruits of corn, of wine, and of oil: and the sanctified vessels shall be there, and the priests, and the singing men, and the porters, and ministers, and we will not forsake the house of our God.
 \c 11
 \cl Nehemiah 11
+\cd Who were the inhabitants of Jerusalem, and the other cities.
 \p
 \v 1 And the princes of the people dwelt at Jerusalem: but the rest of the people cast lots, to take one part in ten to dwell in Jerusalem the holy city, and nine parts in the other cities.
 \p
@@ -678,6 +695,7 @@
 \v 36 And of the Levites were portions of Juda and Benjamin.
 \c 12
 \cl Nehemiah 12
+\cd The priests, and Levites that came up with Zorobabel. The succession of high priests: the solemnity of the dedication of the wall.
 \p
 \v 1 Now these are the priests and the Levites, that went up with Zorobabel the son of Salathiel, and Josue: Saraia, Jeremias, Esdras,
 \p
@@ -769,9 +787,10 @@
 \p
 \v 45 For in the days of David and Asaph from the beginning there were chief singers appointed, to praise with canticles, and give thanks to God.
 \p
-\v 46 And all Israel, in the days of Zorobabel, and in the days of Nehemiah gave portions to the singing men, and to the porters, day by day, and they sanctified the Levites, and the Levites sanctified the sons of Aaron.
+\v 46 And all Israel, in the days of Zorobabel, and in the days of Nehemiah gave portions to the singing men, and to the porters, day by day, and they sanctified the Levites, and the Levites sanctified the sons of Aaron.\f + \fr 12:46 \fk Sanctified: \ft That is, they gave them that which by the law was set aside, and sanctified for their use.\f*
 \c 13
 \cl Nehemiah 13
+\cd Divers abuses are reformed.
 \p
 \v 1 And on that day they read in the book of Moses in the hearing of the people: and therein was found written, that the Ammonites and the Moabites should not come in to the church of God for ever:
 \p
@@ -779,7 +798,7 @@
 \p
 \v 3 And it came to pass, when they had heard the law, that they separated every stranger from Israel.
 \p
-\v 4 And over this thing was Eliasib the priest, who was set over the treasury of the house of our God, and was near akin to Tobias.
+\v 4 And over this thing was Eliasib the priest, who was set over the treasury of the house of our God, and was near akin to Tobias.\f + \fr 13:4 \fk Over this thing, etc: \ft Or, he was faulty in this thing, or in this kind.\f*
 \p
 \v 5 And he made him a great storeroom, where before him they laid up gifts, and frankincense, and vessels, and the tithes of the corn, of the wine, and of the oil, the portions of the Levites, and of the singing men, and of the porters, and the firstfruits of the priests.
 \p

@@ -1,11 +1,14 @@
 \id 2SA ENG (p.sfm) -  <> 2 Samuel - Challoner Douay Rheims version of the Sacred Bible The Second Book of Samuel. The Holy Bible. Bishop Challoner's 18th century revision of the Douay Rheims version. Electronic edition 2004. Public domain.
 \ide UTF-8
 \h 2 Samuel
-\toc1 The Second Book of Samuel
+\toc1 The Second Book of Samuel (2 Kings)
 \toc2 2 Samuel
 \toc3 2Sm
+\mt1 The Second Book of Samuel (2 Kings)
+\im This Book relates the transactions from the death of Saul until the end of David's reign, being a history for the space of about forty-six years.
 \c 1
 \cl 2 Samuel 1
+\cd David mourneth for the death of Saul and Jonathan: he ordereth the man to be slain who pretended he had killed Saul.
 \p
 \v 1 Now it came to pass, after Saul was dead, that David returned from the slaughter of the Amalecites, and abode two days in Siceleg.
 \p
@@ -25,7 +28,7 @@
 \p
 \v 9 And he said to me: Stand over me, and kill me: for anguish is come upon me, and as yet my whole life is in me.
 \p
-\v 10 So standing over him, I killed him: for I knew that he could not live after the fall: and I took the diadem that was on his head, and the bracelet that was on his arm, and have brought them hither to thee, my lord.
+\v 10 So standing over him, I killed him: for I knew that he could not live after the fall: and I took the diadem that was on his head, and the bracelet that was on his arm, and have brought them hither to thee, my lord.\f + \fr 1:10 \fk I killed him: \ft This story of the young Amalecite was not true, as may easily be proved by comparing it with the last chapter of the foregoing book.\f*
 \p
 \v 11 Then David took hold of his garments and rent them, and likewise all the men that were with him.
 \p
@@ -62,6 +65,7 @@
 \v 27 How are the valiant fallen, and the weapons of war perished?
 \c 2
 \cl 2 Samuel 2
+\cd David is received and anointed king of Juda. Isboseth the son of Saul reigneth over the rest of Israel. A battle between Abner and Joab.
 \p
 \v 1 And after these things David consulted the Lord, saying: Shall I go up into one of the cities of Juda? And the Lord said to him: Go up. And David said: Whither shall I go up? And he answered him: Into Hebron.
 \p
@@ -81,7 +85,7 @@
 \p
 \v 9 And made him king over Galaad, and over Gessuri, and over Jezrahel, and over Ephraim, and over Benjamin, and over all Israel.
 \p
-\v 10 Isboseth the son of Saul was forty years old when he began to reign over Israel, and he reigned two years; and only the house of Juda followed David.
+\v 10 Isboseth the son of Saul was forty years old when he began to reign over Israel, and he reigned two years; and only the house of Juda followed David.\f + \fr 2:10 \fk He reigned two years: \ft Viz., before he began visibly to decline: but in all he reigned seven years and six months; for so long David reigned in Hebron.\f*
 \p
 \v 11 And the number of the days that David abode, reigning in Hebron over the house of Juda, was seven years and six months.
 \p
@@ -128,8 +132,9 @@
 \v 32 And they took Asael, and buried him in the sepulchre of his father in Bethlehem and Joab, and the men that were with him, marched all the night, and they came to Hebron at break of day.
 \c 3
 \cl 2 Samuel 3
+\cd David groweth daily stronger. Abner cometh over to him: he is treacherously slain by Joab.
 \p
-\v 1 Now there was a long war between the house of Saul and the house of David: David prospering and growing always stronger and stronger, but the house of Saul decaying daily.
+\v 1 Now there was a long war between the house of Saul and the house of David: David prospering and growing always stronger and stronger, but the house of Saul decaying daily.\f + \fr 3:1 \fk There was a long war between the house of Saul, etc: \ft Rather a strife or emulation than a war with arms; it lasted five years and a half.\f*
 \p
 \v 2 And sons were born to David in Hebron: and his firstborn was Ammon of Achinoam the Jezrahelitess:
 \p
@@ -208,6 +213,7 @@
 \v 39 But I as yet am tender, though anointed king. And these men the sons of Sarvia are too hard for me: the Lord reward him that doth evil according to his wickedness.
 \c 4
 \cl 2 Samuel 4
+\cd Isboseth is murdered by two of his servants. David punisheth the murderers.
 \p
 \v 1 And Isboseth the son of Saul heard that Abner was slain in Hebron: and his hands were weakened, and all Israel was troubled.
 \p
@@ -234,6 +240,7 @@
 \v 12 And David commanded his servants and they slew them: and cutting off their hands and feet, hanged them up over the pool in Hebron: but the head of Isboseth they took and buried in the sepulchre of Abner in Hebron.
 \c 5
 \cl 2 Samuel 5
+\cd David is anointed king of all Israel. He taketh Jerusalem, and dwelleth there. He defeateth the Philistines.
 \p
 \v 1 Then all the tribes of Israel came to David in Hebron, saying: Behold we are thy bone and thy flesh.
 \p
@@ -259,7 +266,7 @@
 \p
 \v 12 And David knew that the Lord had confirmed him king over Israel, and that he had exalted his kingdom over his people Israel.
 \p
-\v 13 And David took more concubines and wives of Jerusalem, after he was come from Hebron: and there were born to David other sons also and daughters:
+\v 13 And David took more concubines and wives of Jerusalem, after he was come from Hebron: and there were born to David other sons also and daughters:\f + \fr 5:13 \fk David took more concubines and wives of Jerusalem: \ft Not harlots, but wives of an inferior condition; for such, in scripture, are styled concubines.\f*
 \p
 \v 14 And these are the names of them, that were born to him in Jerusalem, Samua, and Sobab, and Nathan, and Solomon,
 \p
@@ -286,12 +293,13 @@
 \v 25 And David did as the Lord had commanded him, and he smote the Philistines from Gabaa until thou come to Gezer.
 \c 6
 \cl 2 Samuel 6
+\cd David fetcheth the ark from Cariathiarim. Oza is struck dead for touching it. It is deposited in the house of Obededom: and from thence carried to David's house.
 \p
 \v 1 And David again gathered together all the chosen men of Israel, thirty thousand.
 \p
 \v 2 And David arose and went, with all the people that were with him of the men of Juda to fetch the ark of God, upon which the name of the Lord of Hosts is invoked, who sitteth over it upon the cherubims.
 \p
-\v 3 And they laid the ark of God upon a new cart: and took it out of the house of Abinadab, who was in Gabaa, and Oza and Ahio, the sons of Abinadab, drove the new cart.
+\v 3 And they laid the ark of God upon a new cart: and took it out of the house of Abinadab, who was in Gabaa, and Oza and Ahio, the sons of Abinadab, drove the new cart.\f + \fr 6:3 \fk Gabaa: \ft The hill of Cariathiarim, where the ark had been in the house of Abinadab, from the time of its being restored back by the Philistines.\f*
 \p
 \v 4 And when they had taken it out of the house of Abinadab, who was in Gabaa, Ahio having care of the ark of God went before the ark.
 \p
@@ -309,7 +317,7 @@
 \p
 \v 11 And the ark of the Lord abode in the house of Obededom the Gethite three months: and the Lord blessed Obededom, and all his household.
 \p
-\v 12 And it was told king David, that the Lord had blessed Obededom, and all that he had, because of the ark of God. So David went, and brought away the ark of God out of the house of Obededom into the city of David with joy. And there were with David seven choirs, and calves for victims.
+\v 12 And it was told king David, that the Lord had blessed Obededom, and all that he had, because of the ark of God. So David went, and brought away the ark of God out of the house of Obededom into the city of David with joy. And there were with David seven choirs, and calves for victims.\f + \fr 6:12 \fk Choirs: \ft Or companies of musicians.\f*
 \p
 \v 13 And when they that carried the ark of the Lord had gone six paces, he sacrificed and ox and a ram:
 \p
@@ -334,6 +342,7 @@
 \v 23 Therefore Michol the daughter of Saul had no child to the day of her death.
 \c 7
 \cl 2 Samuel 7
+\cd David's purpose to build a temple is rewarded with the promise of great blessings in his seed: his prayer and thanksgiving.
 \p
 \v 1 And it came to pass when the king sat in his house, and the Lord had given him rest on every side from all his enemies,
 \p
@@ -357,7 +366,7 @@
 \p
 \v 11 From the day that I appointed judges over my people Israel: and I will give thee rest from all thy enemies. And the Lord foretelleth to thee, that the Lord will make thee a house.
 \p
-\v 12 And when thy days shall be fulfilled, and thou shalt sleep with thy fathers, I will raise up thy seed after thee, which shall proceed out of the bowels, and I will establish his kingdom.
+\v 12 And when thy days shall be fulfilled, and thou shalt sleep with thy fathers, I will raise up thy seed after thee, which shall proceed out of the bowels, and I will establish his kingdom.\f + \fr 7:12 \fk I will establish his kingdom: \ft This prophecy partly relateth to Solomon: but much more to Christ, who is called the son of David in scripture, and who is the builder of the true temple, which is the church, his everlasting kingdom, which shall never fail.\f*
 \p
 \v 13 He shall build a house to my name, and I will establish the throne of his kingdom fore ever.
 \p
@@ -394,6 +403,7 @@
 \v 29 And now begin, and bless the house of thy servant, that it may endure for ever before thee: because thou, O Lord God, hast spoken it, and with thy blessing let the house of thy servant be blessed for ever.
 \c 8
 \cl 2 Samuel 8
+\cd David's victories, and his chief officers.
 \p
 \v 1 And it came to pass after this that David defeated the Philistines, and brought them down, and David took the bridle of tribute out of the hand of the Philistines,
 \p
@@ -425,13 +435,14 @@
 \p
 \v 15 And David reigned over all Israel: and David did judgment and justice to all his people.
 \p
-\v 16 And Joab the son Sarvia was over the army: and Josaphat the son of Ahilud was recorder:
+\v 16 And Joab the son Sarvia was over the army: and Josaphat the son of Ahilud was recorder:\f + \fr 8:16 \fk Recorder: \ft Or chancellor.\f*
 \p
-\v 17 And Sadoc the son of Achitob, and Achimelech the son of Abiathar, were the priests: and Saraias was the scribe:
+\v 17 And Sadoc the son of Achitob, and Achimelech the son of Abiathar, were the priests: and Saraias was the scribe:\f + \fr 8:17 \fk Scribe: \ft Or secretary.\f*
 \p
-\v 18 And Banaias the son of Joiada was over the Cerethi and Phelethi: and the sons of David were the princes.
+\v 18 And Banaias the son of Joiada was over the Cerethi and Phelethi: and the sons of David were the princes.\f + \fr 8:18 \fk The Cerethi and Phelethi: \ft The king's guards.\f*\f + \fr 8:18 \fk Princes: \ft Literally priests. (Cohen) So called, by a title of honour, and not from exercising the priestly functions.\f*
 \c 9
 \cl 2 Samuel 9
+\cd David's kindness to Miphiboseth for the sake of his father Jonathan.
 \p
 \v 1 And David said: Is there any one, think you, left of the house of Saul, that I may shew kindness to him for Jonathan's sake?
 \p
@@ -460,6 +471,7 @@
 \v 13 But Miphiboseth dwelt in Jerusalem: because he ate always of the king's table: and he was lame of both feet.
 \c 10
 \cl 2 Samuel 10
+\cd The Ammonites shamefully abuse the ambassadors of David: they hire the Syrians to the their assistance: but are overthrown with their allies.
 \p
 \v 1 And it came to pass after this, that the king of the children of Ammon died, and Hanon his son reigned in his stead.
 \p
@@ -500,6 +512,7 @@
 \v 19 And all the kings that were auxiliaries of Adarezer, seeing themselves overcome by Israel, were afraid and fled away, eight and fifty thousand men before Israel. And they made peace with Israel: and served them, and all the Syrians were afraid to help the children of Ammon any more.
 \c 11
 \cl 2 Samuel 11
+\cd David falleth into the crime of adultery with Bethsabee: and not finding other means to conceal it, causeth her husband Urias to be slain. Then marrieth her, who beareth him a son.
 \p
 \v 1 And it came to pass at the return of the year, at the time when kings go forth to war, that David sent Joab and his servants with him, and all Israel, and they spoiled the children of Ammon, and besieged Rabba: but David remained in Jerusalem.
 \p
@@ -556,6 +569,7 @@
 \v 27 And the mourning being over, David sent and brought her into his house, and she became his wife, and she bore him a son: and this thing which David had done, was displeasing to the Lord.
 \c 12
 \cl 2 Samuel 12
+\cd Nathan's parable. David confesseth his sin, and is forgiven: yet so as to be sentenced to most severe temporal punishments. The death of the child. The birth of Solomon. The taking of Rabbath.
 \p
 \v 1 And the Lord sent Nathan to David: and when he was come to him, he said to him: There were two men in one city, the one rich, and the other poor.
 \p
@@ -577,7 +591,7 @@
 \p
 \v 10 Therefore the sword shall never depart from thy house, because thou hast despised me, and hast taken the wife of Urias the Hethite to be thy wife.
 \p
-\v 11 Thus saith the Lord: Behold, I will raise up evil against thee out of thy own house, and I will take thy wives before thy eyes and give them to thy neighbour, and he shall lie with thy wives in the sight of this sun.
+\v 11 Thus saith the Lord: Behold, I will raise up evil against thee out of thy own house, and I will take thy wives before thy eyes and give them to thy neighbour, and he shall lie with thy wives in the sight of this sun.\f + \fr 12:11 \fk I will raise, etc: \ft All these evils, inasmuch as they were punishments, came upon David by a just judgment of God, for his sin, and therefore God says, I will raise, etc.; but inasmuch as they were sins, on the part of Absalom and his associates, God was not the author of them, but only permitted them.\f*
 \p
 \v 12 For thou didst it secretly: but I will do this thing in the sight of all Israel, and in the sight of the sun.
 \p
@@ -605,11 +619,11 @@
 \p
 \v 24 And David comforted Bethsabee his wife, and went in unto her, and slept with her: and she bore a son, and he called his name Solomon, and the Lord loved him.
 \p
-\v 25 And he sent by the hand of Nathan the prophet, and called his name, Amiable to the Lord, because the Lord loved him.
+\v 25 And he sent by the hand of Nathan the prophet, and called his name, Amiable to the Lord, because the Lord loved him.\f + \fr 12:25 \fk Amiable to the Lord: \ft Or, beloved of the Lord. In Hebrew, Jedidiah.\f*
 \p
 \v 26 And Joab fought against Rabbath of the children of Ammon, and laid close siege to the royal city.
 \p
-\v 27 And Joab sent messengers to David, saying: I have fought against Rabbath, and the city of waters is about to be taken.
+\v 27 And Joab sent messengers to David, saying: I have fought against Rabbath, and the city of waters is about to be taken.\f + \fr 12:27 \fk The city of waters: \ft Rabbath the royal city of the Ammonites, was called the city of waters, from being encompassed with waters.\f*
 \p
 \v 28 Now therefore gather thou the rest of the people together, and besiege the city and take it: lest when the city shall be wasted by me, the victory be ascribed to my name.
 \p
@@ -620,12 +634,13 @@
 \v 31 And bringing forth the people thereof he sawed them, and drove over them chariots armed with iron: and divided them with knives, and made them pass through brickkilns: so did he to all the cities of the children of Ammon: and David returned, with all the army to Jerusalem.
 \c 13
 \cl 2 Samuel 13
+\cd Ammon ravisheth Thamar. For which Absalom killeth him, and flieth to Gessur.
 \p
 \v 1 And it came to pass after this that Ammon the son of David loved the sister of Absalom the son of David, who was very beautiful, and her name was Thamar.
 \p
 \v 2 And he was exceedingly fond of her, so that he fell sick for the love of her: for as she was a virgin, he thought it hard to do any thing dishonestly with her.
 \p
-\v 3 Now Ammon had a friend, named Jonadab the son of Semmaa the brother of David, a very wise man:
+\v 3 Now Ammon had a friend, named Jonadab the son of Semmaa the brother of David, a very wise man:\f + \fr 13:3 \fk A very wise man: \ft That is, a crafty and subtle man: for the counsel he gave on this occasion shews that his wisdom was but carnal and worldly.\f*
 \p
 \v 4 And he said to him: Why dost thou grow so lean from day to day, O son of the king? why dost thou not tell me the reason of it? And Ammon said to him: I am in love with Thamar the sister of my brother Absalom.
 \p
@@ -698,6 +713,7 @@
 \v 38 And Absalom after he was fled, and come into Gessur, was there three years. And king David ceased to pursue after Absalom, because he was comforted concerning the death of Ammon.
 \c 14
 \cl 2 Samuel 14
+\cd Joab procureth Absalom's return, and his admittance to the king's presence.
 \p
 \v 1 And Joab the son of Sarvia, understanding that the king's heart was turned to Absalom,
 \p
@@ -741,7 +757,7 @@
 \p
 \v 21 And the king said to Joab: Behold I am appeased and have granted thy request: Go therefore and fetch back the boy Absalom.
 \p
-\v 22 And Joab falling down to the ground upon his face, adored, and blessed the king: and Joab said: This day thy servant hath understood, that I have found grace in thy sight, my lord, O king: for thou hast fulfilled the request of thy servant.
+\v 22 And Joab falling down to the ground upon his face, adored, and blessed the king: and Joab said: This day thy servant hath understood, that I have found grace in thy sight, my lord, O king: for thou hast fulfilled the request of thy servant.\f + \fr 14:22 \fk Blessed: \ft That is, and gave thanks to the king.\f*
 \p
 \v 23 Then Joab arose and went to Gessur, and brought Absalom to Jerusalem.
 \p
@@ -766,6 +782,7 @@
 \v 33 So Joab going in to the king, told him all: and Absalom was called for, and, he went in to the king: and prostrated himself on the ground before him: and the king kissed Absalom.
 \c 15
 \cl 2 Samuel 15
+\cd Absalom's policy and conspiracy. David is obliged to flee.
 \p
 \v 1 Now after these things Absalom made himself chariots, and horsemen, and fifty men to run before him.
 \p
@@ -797,7 +814,7 @@
 \p
 \v 15 And the king's servants said to him: Whatsoever our lord the king shall command, we thy servants will willingly execute.
 \p
-\v 16 And the king went forth, and all his household on foot: and the king left ten women his concubines to keep the house:
+\v 16 And the king went forth, and all his household on foot: and the king left ten women his concubines to keep the house:\f + \fr 15:16 \fk Concubines: \ft That is, wives of an inferior degree.\f*
 \p
 \v 17 And the king going forth and all Israel on foot, stood afar off from the house:
 \p
@@ -825,7 +842,7 @@
 \p
 \v 29 So Sadoc and Abiathar carried back the ark of God into Jerusalem: and they tarried there.
 \p
-\v 30 But David went up by the ascent of mount Olivet, going up and weeping, walking barefoot, and with his head covered, and all the people that were with them, went up with their heads covered weeping.
+\v 30 But David went up by the ascent of mount Olivet, going up and weeping, walking barefoot, and with his head covered, and all the people that were with them, went up with their heads covered weeping.\f + \fr 15:30 \fk Weeping, etc: \ft David on this occasion wept for his sins, which he knew were the cause of all his sufferings.\f*
 \p
 \v 31 And it was told David that Achitophel also was in the conspiracy with Absalom, and David said: Infatuate, O Lord, I beseech thee, the counsel of Achitophel.
 \p
@@ -842,6 +859,7 @@
 \v 37 Then Chusai the friend of David went into the city, and Absalom came into Jerusalem.
 \c 16
 \cl 2 Samuel 16
+\cd Siba bringeth provisions to David. Semei curseth him. Absalom defileth his father's wives.
 \p
 \v 1 And when David was a little past the top of the hill, behold Siba the servant of Miphiboseth came to meet him with two asses, laden with two hundred loaves of bread, and a hundred bunches of raisins, a hundred cakes of figs, and a vessel of wine.
 \p
@@ -861,7 +879,7 @@
 \p
 \v 9 And Abisai the son of Sarvia said to the king: Why should this dead dog curse my lord the king? I will go, and cut off his head.
 \p
-\v 10 And the king said: What have I to do with you, ye sons of Sarvia? Let him alone and let him curse: for the Lord hath bid him curse David: and who is he that shall dare say, why hath he done so?
+\v 10 And the king said: What have I to do with you, ye sons of Sarvia? Let him alone and let him curse: for the Lord hath bid him curse David: and who is he that shall dare say, why hath he done so?\f + \fr 16:10 \fk Hath bid him curse: \ft Not that the Lord was the author of Semei's sin, which proceeded purely from his own malice, and the abuse of his free will. But that knowing, and suffering his malicious disposition to break out on this occasion, he made use of him as his instrument to punish David for his sins.\f*
 \p
 \v 11 And the king said to Abisai, and to all his servants: Behold my son, who came forth from my bowels, seeketh my life: how much more now a son of Jemini? let him alone that he may curse as the Lord hath bidden him.
 \p
@@ -883,13 +901,14 @@
 \p
 \v 20 And Absalom said to Achitophel: Consult what we are to do.
 \p
-\v 21 And Achitophel said to Absalom: Go in to the concubines of thy father, whom he hath left to keep the house: that when all Israel shall hear that thou hast disgraced thy father, their hands may be strengthened with thee.
+\v 21 And Achitophel said to Absalom: Go in to the concubines of thy father, whom he hath left to keep the house: that when all Israel shall hear that thou hast disgraced thy father, their hands may be strengthened with thee.\f + \fr 16:21 \fk Their hands may be strengthened, etc: \ft The people might apprehend lest Absalom should be reconciled to his father, and therefore they followed him with some fear of being left in the lurch, till they saw such a crime committed as seemed to make a reconciliation impossible.\f*
 \p
 \v 22 So they spread a tent for Absalom on the top of the house, and he went in to his father's concubines before all Israel.
 \p
 \v 23 Now the counsel of Achitophel, which he gave in those days, was as if a man should consult God: so was all the counsel of Achitophel, both when he was with David, and when he was with Absalom.
 \c 17
 \cl 2 Samuel 17
+\cd Achitophel's counsel is defeated by Chusai: who sendeth intelligence to David. Achitophel hangeth himself.
 \p
 \v 1 And Achitophel said to Absalom: I will choose me twelve thousand men, and I will arise and pursue after David this night.
 \p
@@ -937,7 +956,7 @@
 \p
 \v 23 But Achitophel seeing that his counsel was not followed, saddled his ass, and arose and went home to his house and to his city, and putting his house in order, hanged himself, and was buried in the sepulchre of his father.
 \p
-\v 24 But David came to the camp, and Absalom passed over the Jordan, he and all the men of Israel with him.
+\v 24 But David came to the camp, and Absalom passed over the Jordan, he and all the men of Israel with him.\f + \fr 17:24 \fk To the camp: \ft The city of Mahanaim, the name of which, in Hebrew, signifies The camp. It was a city of note at that time, as appears from its having been chosen by Isboseth for the place of his residence.\f*
 \p
 \v 25 Now Absalom appointed Amasa in Joab's stead over the army: and Amasa was the son of a man who was called Jethra, of Jezrael, who went in to Abigail the daughter of Naas, the sister of Sarvia who was the mother of Joab.
 \p
@@ -950,6 +969,7 @@
 \v 29 And honey, and butter, and sheep, and fat calves, and they gave to David and the people that were with him, to eat: for they suspected that the people were faint with hunger and thirst in the wilderness.
 \c 18
 \cl 2 Samuel 18
+\cd Absalom is defeated, and slain by Joab. David mourneth for him.
 \p
 \v 1 And David, having reviewed his people, appointed over them captains of thousands and of hundreds,
 \p
@@ -965,7 +985,7 @@
 \p
 \v 7 And the people of Israel were defeated there by David's army, and a great slaughter was made that day of twenty thousand men.
 \p
-\v 8 And the battle there was scattered over the face of all the country, and there were many more of the people whom the forest consumed, than whom the sword devoured that day.
+\v 8 And the battle there was scattered over the face of all the country, and there were many more of the people whom the forest consumed, than whom the sword devoured that day.\f + \fr 18:8 \fk Consumed: \ft Viz., by pits and precipices.\f*
 \p
 \v 9 And it happened that Absalom met the servants of David, riding on a mule: and as the mule went under a thick and large oak, his head stuck in the oak: and while he hung between the heaven and the earth, the mule on which he rode passed on.
 \p
@@ -985,7 +1005,7 @@
 \p
 \v 17 And they took Absalom, and cast him into a great pit in the forest, and they laid an exceeding great heap of stones upon him: but all Israel fled to their own dwellings.
 \p
-\v 18 Now Absalom had reared up for himself, in his lifetime, a pillar, which is in the king's valley: for he said: I have no son, and this shall be the monument of my name. And he called the pillar by his own name, and it is called the hand of Absalom, to this day.
+\v 18 Now Absalom had reared up for himself, in his lifetime, a pillar, which is in the king's valley: for he said: I have no son, and this shall be the monument of my name. And he called the pillar by his own name, and it is called the hand of Absalom, to this day.\f + \fr 18:18 \fk No son: \ft The sons mentioned above, chap. 14.27, were dead when this pillar was erected: unless we suppose he raised this pillar before they were born.\f*
 \p
 \v 19 And Achimaas the son of Sadoc said: I will run and tell the king, that the Lord hath done judgment for him from the hand of his enemies.
 \p
@@ -1015,9 +1035,10 @@
 \p
 \v 32 And the king said to Chusai: Is the young man Absalom safe? And Chusai answering him, said: Let the enemies of my lord, the king, and all that rise against him unto evil, be as the young man is.
 \p
-\v 33 The king therefore being much moved, went up to the high chamber over the gate, and wept. And as he went he spoke in this manner: My son Absalom, Absalom my son: would to God that I might die for thee, Absalom my son, my son Absalom.
+\v 33 The king therefore being much moved, went up to the high chamber over the gate, and wept. And as he went he spoke in this manner: My son Absalom, Absalom my son: would to God that I might die for thee, Absalom my son, my son Absalom.\f + \fr 18:33 \fk Would to God: \ft David lamented the death of Absalom, because of the wretched state in which he died: and therefore would have been glad to have saved his life, even by dying for him. In which he was a figure of Christ weeping, praying and dying for his rebellious children, and even for them that crucified him.\f*
 \c 19
 \cl 2 Samuel 19
+\cd David, at the remonstrances of Joab, ceaseth his mourning. He is invited back and met by Semei and Miphiboseth: a strife between the men of Juda and the men of Israel.
 \p
 \v 1 And it was told Joab, that the king wept and mourned for his son:
 \p
@@ -1106,6 +1127,7 @@
 \v 43 And the men of Israel answered the men of Juda, and said: I have ten parts in the king more than thou, and David belongeth to me more than to thee: why hast thou done me a wrong, and why was it not told me first, that I might bring back my king? And the men of Juda answered more harshly than the men of Israel.
 \c 20
 \cl 2 Samuel 20
+\cd Seba's rebellion. Amasa is slain by Joab. Abela is besieged, but upon the citizens casting over the wall the head of Seba, Joab departeth with all his army.
 \p
 \v 1 And there happened to be there a man of Belial, whose name was Seba, the son of Bochri, a man of Jemini: and he sounded the trumpet, and said: We have no part in David, nor inheritance in the son of Isai: return to thy dwellings, O Israel.
 \p
@@ -1133,7 +1155,7 @@
 \p
 \v 13 And when he was removed out of the way, all the people went on following Joab to pursue after Seba the son of Bochri.
 \p
-\v 14 Now he had passed through all the tribes of Israel unto Abela and Bethmaacha: and all the chosen men were gathered together unto him.
+\v 14 Now he had passed through all the tribes of Israel unto Abela and Bethmaacha: and all the chosen men were gathered together unto him.\f + \fr 20:14 \fk Abela and Bethmaacha: \ft Cities of the tribe of Nephtali.\f*
 \p
 \v 15 And they came, and besieged him in Abela, and in Bethmaacha, and they cast up works round the city, and the city was besieged: and all the people that were with Joab, laboured to throw down the walls.
 \p
@@ -1160,6 +1182,7 @@
 \v 26 And Ira the Jairite was the priest of David.
 \c 21
 \cl 2 Samuel 21
+\cd A famine of three years, for the sin of Saul against the Gabaonites, at whose desire seven of Saul's race are crucified. War again with the Philistines.
 \p
 \v 1 And there was a famine in the days of David for three years successively: and David consulted the oracle of the Lord. And the Lord said: It is for Saul, and his bloody house, because he slow the Gabaonites.
 \p
@@ -1175,7 +1198,7 @@
 \p
 \v 7 And the king spared Miphiboseth the son of Jonathan the son of Saul, because of the oath of the Lord, that had been between David and Jonathan the son of Saul.
 \p
-\v 8 So the king took the two sons of Respha the daughter of Aia, whom she bore to Saul, Armoni, and Miphiboseth: and the five sons of Michol the daughter of Saul, whom she bore to Hadriel the son of Berzellai, that was of Molathi:
+\v 8 So the king took the two sons of Respha the daughter of Aia, whom she bore to Saul, Armoni, and Miphiboseth: and the five sons of Michol the daughter of Saul, whom she bore to Hadriel the son of Berzellai, that was of Molathi:\f + \fr 21:8 \fk Of Michol: \ft They were the sons of Merob, who was married to Hadriel: but they are here called the sons of Michol, because she adopted them, and brought them up as her own.\f*
 \p
 \v 9 And gave them into the hands of the Gabaonites: and they crucified them on a hill before the Lord: and these seven died together in the first days of the harvest, when the barley began to be reaped.
 \p
@@ -1197,7 +1220,7 @@
 \p
 \v 18 There was also a second battle in Gob against the Philistines: then Sobochai of Husathi slew Saph of the race of Arapha of the family of the giants.
 \p
-\v 19 And there was a third battle in Gob against the Philistines, in which Adeodatus the son of the Forrest an embroiderer of Bethlehem slew Goliath the Gethite, the shaft of whose spear was like a weaver's beam.
+\v 19 And there was a third battle in Gob against the Philistines, in which Adeodatus the son of the Forrest an embroiderer of Bethlehem slew Goliath the Gethite, the shaft of whose spear was like a weaver's beam.\f + \fr 21:19 \fk Adeodatus the son of the Forrest: \ft So it is rendered in the Latin Vulgate, by giving the interpretation of the Hebrew names, which are Elhanan the son of Jaare.\f*
 \p
 \v 20 A fourth battle was in Geth: where there was a man of great stature, that had six fingers on each hand, and six toes on each foot, four and twenty in all, and he was of the race of Arapha.
 \p
@@ -1206,6 +1229,7 @@
 \v 22 These four were born of Arapha in Geth, and they fell by the hand of David, and of his servants.
 \c 22
 \cl 2 Samuel 22
+\cd King David's psalm of thanksgiving for his deliverance from all his enemies.
 \p
 \v 1 And David spoke to the Lord the words of this canticle, in the day that the Lord delivered him out of the hand of all his enemies, and out of the hand of Saul,
 \p
@@ -1310,6 +1334,7 @@
 \v 51 Giving great salvation to his king, and shewing mercy to David his anointed, and to his seed for ever.
 \c 23
 \cl 2 Samuel 23
+\cd The last words of David. A catalogue of his valiant men.
 \p
 \v 1 Now these are David's last words. David the son of Isai said: The man to whom it was appointed concerning the Christ of the God of Jacob, the excellent psalmist of Israel said:
 \p
@@ -1317,17 +1342,17 @@
 \p
 \v 3 The God of Israel said to me, the strong one of Israel spoke, the ruler of men, the just ruler in the fear of God.
 \p
-\v 4 As the light of the morning, when the sun riseth, shineth in the morning without clouds, and as the grass springeth out of the earth by rain.
+\v 4 As the light of the morning, when the sun riseth, shineth in the morning without clouds, and as the grass springeth out of the earth by rain.\f + \fr 23:4 \fk As the light, etc: \ft So shall be the kingdom of Christ.\f*
 \p
-\v 5 Neither is my house so great with God, that he should make with me an eternal covenant, firm in all things and assured. For he is all my salvation, and all my will: neither is there ought thereof that springeth not up.
+\v 5 Neither is my house so great with God, that he should make with me an eternal covenant, firm in all things and assured. For he is all my salvation, and all my will: neither is there ought thereof that springeth not up.\f + \fr 23:5 \fk Neither is my house, etc: \ft As if he should say: This everlasting covenant was not due to my house: but purely owing to his bounty; who is all my salvation, and my will: that is, who hath always saved me, and granted me what I beseeched of him; so that I and my house, through his blessing, have sprung up, and succeeded in all things.\f*
 \p
 \v 6 But transgressors shall all of them be plucked up as thorns: which are not taken away with hands.
 \p
 \v 7 And if a man will touch them, he must be armed with iron and with the staff of a lance: but they shall be set on fire and burnt to nothing.
 \p
-\v 8 These are the names of the valiant men of David: Jesbaham sitting in the chair was the wisest chief among the three, he was like the most tender little worm of the wood, who killed eight hundred men at one onset.
+\v 8 These are the names of the valiant men of David: Jesbaham sitting in the chair was the wisest chief among the three, he was like the most tender little worm of the wood, who killed eight hundred men at one onset.\f + \fr 23:8 \fk Jesbaham: \ft The son of Hachamoni. For this was the name of this hero, as appears from 1 Chron. or Paralip. 11.\f*\f + \fr 23:8 \fk Most tender, etc: \ft He appeared like one tender and weak, but was indeed most valiant and strong. It seems the Latin has here given the interpretation of the Hebrew name of the hero, to whom Jesbaham was like, instead of the name itself, which was Adino the Eznite, one much renowned of old for his valour.\f*
 \p
-\v 9 After him was Eleazar the son of Dodo the Ahohite, one of the three valiant men that were with David when they defied the Philistines, and they were there gathered together to battle.
+\v 9 After him was Eleazar the son of Dodo the Ahohite, one of the three valiant men that were with David when they defied the Philistines, and they were there gathered together to battle.\f + \fr 23:9 \fk Dodo: \ft In Latin, Patrui ejus, which is the interpretation of the Hebrew name Dodo. The same occurs in ver. 24.\f*
 \p
 \v 10 And when the men of Israel were gone away, he stood and smote the Philistines till his hand was weary, and grew stiff with the sword: and the Lord wrought a great victory that day: and the people that were fled away, returned to take spoils of them that were slain.
 \p
@@ -1390,8 +1415,9 @@
 \v 39 Urias the Hethite, thirty and seven in all.
 \c 24
 \cl 2 Samuel 24
+\cd David numbereth the people: God sendeth a pestilence, which is stopt by David's prayer and sacrifice.
 \p
-\v 1 And the anger of the Lord was again kindled against Israel, and stirred up David among them, saying: Go, number Israel and Juda.
+\v 1 And the anger of the Lord was again kindled against Israel, and stirred up David among them, saying: Go, number Israel and Juda.\f + \fr 24:1 \fk Stirred up, etc: \ft This stirring up was not the doing of God, but of Satan; as it is expressly declared, 1 Chron. or Paralip. 21.1.\f*
 \p
 \v 2 And the king said to Joab the general of his army: Go through all the tribes of Israel from Dan to Bersabee, and number ye the people that I may know the number of them.
 \p
@@ -1409,7 +1435,7 @@
 \p
 \v 9 And Joab gave up the sum of the number of the people to the king, and there were found of Israel eight hundred thousand valiant men that drew the sword: and of Juda five hundred thousand fighting men.
 \p
-\v 10 But David's heart struck him, after the people were numbered: and David said to the Lord: I have sinned very much in what I have done: but I pray thee, O Lord, to take away the iniquity of thy servant, because I have done exceeding foolishly.
+\v 10 But David's heart struck him, after the people were numbered: and David said to the Lord: I have sinned very much in what I have done: but I pray thee, O Lord, to take away the iniquity of thy servant, because I have done exceeding foolishly.\f + \fr 24:10 \fk David's heart struck him, after the people were numbered: \ft That is he was touched with a great remorse for the vanity and pride which had put him upon numbering the people.\f*
 \p
 \v 11 And David arose in the morning, and the word of the Lord came to Gad the prophet and the seer of David, saying:
 \p

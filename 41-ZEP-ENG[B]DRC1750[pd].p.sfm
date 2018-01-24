@@ -1,21 +1,24 @@
-\id ZEP ENG (p.sfm) -  <> Zephaniah - Challoner Douay Rheims version of the Sacred Bible The Prophecy of Zephaniah. The Holy Bible. Bishop Challoner's 18th century revision of the Douay Rheims version. Electronic edition 2004. Public domain.
+\id Sop ENG (p.sfm) - DRC1750 - Verify <>
 \ide UTF-8
-\h Zephaniah
-\toc1 The Prophecy of Zephaniah
-\toc2 Zephaniah
-\toc3 Zep
+\h Sophonias
+\toc1 THE PROPHECY OF SOPHONIAS
+\toc2 Sophonias
+\toc3 Sop
+\mt1 THE PROPHECY OF SOPHONIAS
+\im SOPHONIAS, whose name, saith St. Jerome, signifies The Watchman of the Lord, or The hidden of the Lord, prophesied in the beginning of the reign of Josias. He was a native of Sarabatha, and of the tribe of Simeon, according to the more general opinion. He prophesied the punishments of the Jews, for their idolatry and other crimes; also the punishments that were to come on divers nations; the coming of Christ, the conversion of the Gentiles, the blindness of the Jews, and their conversion towards the end of the world.
 \c 1
-\cl Zephaniah 1
+\cl Sophonias 1
+\cd For divers enormous sins, the kingdom of Juda is threatened with severe judgment.
 \p
-\v 1 The word of the Lord that came to Zephaniah the son of Chusi, the son of Godolias, the son of Amarias, the son of Ezechias, in the days of Josias, the son of Amon king of Juda.
+\v 1 The word of the Lord that came to Sophonias the son of Chusi, the son of Godolias, the son of Amarias, the son of Ezechias, in the days of Josias, the son of Amon king of Juda.
 \p
-\v 2 Gathering, I will gather together all things from off the face of the land, saith the Lord:
+\v 2 Gathering, I will gather together all things from off the face of the land, saith the Lord:\f + \fr 1:2 \fk Gathering, I will gather, etc: \ft That is, I will assuredly take away, and wholly consume, either by captivity, or death, both men and beasts out of this land.\f*
 \p
 \v 3 I will gather man, and beast, I will gather the birds of the air, and the fishes of the sea: and the ungodly shall meet with ruin: and I will destroy men from off the face of the land, saith the Lord.
 \p
-\v 4 And I will stretch out my hand upon Juda, and upon all the inhabitants of Jerusalem: and I will destroy out of this place the remnant of Baal, and the names of the wardens of the temples with the priests:
+\v 4 And I will stretch out my hand upon Juda, and upon all the inhabitants of Jerusalem: and I will destroy out of this place the remnant of Baal, and the names of the wardens of the temples with the priests:\f + \fr 1:4 \fk The wardens, etc: \ft Viz., of the temples of the idols. AEdituos, in Hebrew, the Chemarims, that is, such as kindle the fires, or burn incense.\f*
 \p
-\v 5 And them that worship the host of heaven upon the tops of houses, and them that adore, and swear by the Lord, and swear by Melchom.
+\v 5 And them that worship the host of heaven upon the tops of houses, and them that adore, and swear by the Lord, and swear by Melchom.\f + \fr 1:5 \fk Melchom: \ft The idol of the Ammonites.\f*
 \p
 \v 6 And them that turn away from following after the Lord, and that have not sought the Lord, nor searched after him.
 \p
@@ -25,11 +28,11 @@
 \p
 \v 9 And I will visit in that day upon every one that entereth arrogantly over the threshold: them that fill the house of the Lord their God with iniquity and deceit.
 \p
-\v 10 And there shall be in that day, saith the Lord, the noise of a cry from the fish gate, and a howling from the Second, and a great destruction from the hills.
+\v 10 And there shall be in that day, saith the Lord, the noise of a cry from the fish gate, and a howling from the Second, and a great destruction from the hills.\f + \fr 1:10 \fk The Second: \ft A part of the city so called.\f*
 \p
-\v 11 Howl, ye inhabitants of the Morter. All the people of Chanaan is hush, all are cut off that were wrapped up in silver.
+\v 11 Howl, ye inhabitants of the Morter. All the people of Chanaan is hush, all are cut off that were wrapped up in silver.\f + \fr 1:11 \fk The Morter: \ft Maktesh. A valley in or near Jerusalem.\f*\f + \fr 1:11 \fk The people of Chanaan: \ft So he calls the Jews, from their following the wicked ways of the Chanaanites.\f*
 \p
-\v 12 And it shall come to pass at that time, that I will search Jerusalem with lamps, and will visit upon the men that are settled on their lees: that say in their hearts: The Lord will not do good, nor will he do evil.
+\v 12 And it shall come to pass at that time, that I will search Jerusalem with lamps, and will visit upon the men that are settled on their lees: that say in their hearts: The Lord will not do good, nor will he do evil.\f + \fr 1:12 \fk Settled on their lees: \ft That is, the wealthy, and such as live at their ease, resting upon their riches, like wine upon the lees.\f*
 \p
 \v 13 And their strength shall become a booty, and their houses as a desert: and they shall build houses, and shall not dwell in them: and they shall plant vineyards, and shall not drink the wine of them.
 \p
@@ -43,7 +46,8 @@
 \p
 \v 18 Neither shall their silver and their gold be able to deliver them in the day of the wrath of the Lord: all the land shall be devoured by the fire of his jealousy: for he shall make even a speedy destruction of all them that dwell in the land.
 \c 2
-\cl Zephaniah 2
+\cl Sophonias 2
+\cd An exhortation to repentance. The judgment of the Philistines, of the Moabites, and the Ammonites; of the Ethiopians and the Assyrians.
 \p
 \v 1 Assemble yourselves together, be gathered together, O nation not worthy to be loved:
 \p
@@ -69,13 +73,14 @@
 \p
 \v 12 You Ethiopians, also shall be slain with my sword.
 \p
-\v 13 And he will stretch out his hand upon the north, and will destroy Assyria: and he will make the beautiful city a wilderness, and as a place not passable, and as a desert.
+\v 13 And he will stretch out his hand upon the north, and will destroy Assyria: and he will make the beautiful city a wilderness, and as a place not passable, and as a desert.\f + \fr 2:13 \fk The beautiful city: \ft Ninive, which was destroyed soon after this, viz., in the sixteenth year of the reign of Josias.\f*
 \p
 \v 14 And flocks shall lie down in the midst thereof, all the beasts of the nations: and the bittern and the urchin shall lodge in the threshold thereof: the voice of the singing bird in the window, the raven on the upper post, for I will consume her strength.
 \p
 \v 15 This is the glorious city that dwelt in security: that said in her heart: I am, and there is none beside me: how is she become a desert, a place for beasts to lie down in? every one that passeth by her shall hiss, and wag his hand.
 \c 3
-\cl Zephaniah 3
+\cl Sophonias 3
+\cd A woe to Jerusalem for her sins. A prophecy of the conversion of the Gentiles, and of the poor of Israel: God shall be with them. The Jews shall be converted at last.
 \p
 \v 1 Woe to the provoking and redeemed city, the dove.
 \p
@@ -116,4 +121,3 @@
 \v 19 Behold I will cut off all that have afflicted thee at that time: and I will save her that halteth, and will gather her that was cast out: and I will get them praise, and a name, in all the land where they had been put to confusion.
 \p
 \v 20 At that time, when I will bring you: and at the time that I will gather you: for I will give you a name, and praise among all the people of the earth, when I shall have brought back your captivity before your eyes, saith the Lord.
-\mte9 The Sacred Bible - The Prophecy of Zephaniah

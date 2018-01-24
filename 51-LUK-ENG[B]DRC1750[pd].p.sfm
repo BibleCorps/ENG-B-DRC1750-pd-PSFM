@@ -1,11 +1,14 @@
-\id LUK ENG (p.sfm) -  <> Luke - Challoner Douay Rheims version of the Sacred Bible The Gospel of Luke. The Holy Bible. Bishop Challoner's 18th century revision of the Douay Rheims version. Electronic edition 2004. Public domain.
+\id Luk ENG (p.sfm) - DRC1750 - Verify <>
 \ide UTF-8
 \h Luke
-\toc1 The Gospel of Luke
+\toc1 THE HOLY GOSPEL OF JESUS CHRIST ACCORDING TO ST. LUKE
 \toc2 Luke
 \toc3 Luk
+\mt1 THE HOLY GOSPEL OF JESUS CHRIST ACCORDING TO ST. LUKE
+\im St. Luke was a native of Antioch, the capital of Syria. He was by profession a physician; and some ancient writers say, that he was very skillful in painting. He was converted by St. Paul and became his disciple and companion in his travels, and fellow-labourer in the ministry of the Gospel. He wrote in Greek, about twenty-four years after our Lord's Ascension.
 \c 1
 \cl Luke 1
+\cd The conception of John the Baptist, and of Christ. The visitation and canticle of the Blessed Virgin. The birth of the Baptist and the canticle of Zachary.
 \p
 \v 1 Forasmuch as many have taken in hand to set forth in order a narration of the things that have been accomplished among us,
 \p
@@ -15,7 +18,7 @@
 \p
 \v 4 That thou mayest know the verity of those words in which thou hast been instructed.
 \p
-\v 5 There was in the days of Herod, the king of Judea, a certain priest named Zachary, of the course of Abia: and his wife was of the daughters of Aaron, and her name Elizabeth.
+\v 5 There was in the days of Herod, the king of Judea, a certain priest named Zachary, of the course of Abia: and his wife was of the daughters of Aaron, and her name Elizabeth.\f + \fr 1:5 \fk Of the course of Abia: \ft that is, of the rank of Abia, which word in the Greek is commonly put for the employment of one day: but here for the functions of a whole week. For, by the appointment of David, 1 Par. 24., the descendants from Aaron were divided into twenty-four families, of which the eighth was Abia, from whom descended this Zachary, who at this time was in the week of his priestly functions.\f*
 \p
 \v 6 And they were both just before God, walking in all the commandments and justifications of the Lord without blame.
 \p
@@ -101,7 +104,7 @@
 \p
 \v 47 And my spirit hath rejoiced in God my Saviour.
 \p
-\v 48 Because he hath regarded the humility of his handmaid: for behold from henceforth all generations shall call me blessed.
+\v 48 Because he hath regarded the humility of his handmaid: for behold from henceforth all generations shall call me blessed.\f + \fr 1:48 \fk Shall call me blessed: \ft These words are a prediction of that honour which the church in all ages should pay to the Blessed Virgin. Let Protestants examine whether they are any way concerned in this prophecy.\f*
 \p
 \v 49 Because he that is mighty hath done great things to me: and holy is his name.
 \p
@@ -143,7 +146,7 @@
 \p
 \v 68 Blessed be the Lord God of Israel: because he hath visited and wrought the redemption of his people.
 \p
-\v 69 And hath raised up an horn of salvation to us, in the house of David his servant.
+\v 69 And hath raised up an horn of salvation to us, in the house of David his servant.\f + \fr 1:69 \fk Horn of salvation: \ft That is, A powerful salvation, as Dr. Witham translates it. For in the Scripture, by horn is generally understood strength and power.\f*
 \p
 \v 70 As he spoke by the mouth of his holy prophets, who are from the beginning.
 \p
@@ -161,13 +164,14 @@
 \p
 \v 77 To give knowledge of salvation to his people, unto the remission of their sins.
 \p
-\v 78 Through the bowels of the mercy of our God, in which the Orient from on high hath visited us:
+\v 78 Through the bowels of the mercy of our God, in which the Orient from on high hath visited us:\f + \fr 1:78 \fk The Orient: \ft It is one of the titles of the Messias, the true light of the world, and the sun of justice.\f*
 \p
 \v 79 To enlighten them that sit in darkness and in the shadow of death: to direct our feet into the way of peace.
 \p
 \v 80 And the child grew and was strengthened in spirit: and was in the deserts until the day of his manifestation to Israel.
 \c 2
 \cl Luke 2
+\cd The birth of Christ. His presentation in the temple. Simeon's prophecy. Christ at twelve years of age, is found amongst the doctors.
 \p
 \v 1 And it came to pass that in those days there went out a decree from Caesar Augustus that the whole world should be enrolled.
 \p
@@ -181,7 +185,7 @@
 \p
 \v 6 And it came to pass that when they were there, her days were accomplished that she should be delivered.
 \p
-\v 7 And she brought forth her first born son and wrapped him up in swaddling clothes and laid him in a manger: because there was no room for them in the inn.
+\v 7 And she brought forth her first born son and wrapped him up in swaddling clothes and laid him in a manger: because there was no room for them in the inn.\f + \fr 2:7 \fk Her firstborn: \ft The meaning is, not that she had afterward any other child; but it is a way of speech among the Hebrews, to call them also the firstborn, who are the only children. See annotation Matt. 1. 25.\f*
 \p
 \v 8 And there were in the same country shepherds watching and keeping the night watches over their flock.
 \p
@@ -235,7 +239,7 @@
 \p
 \v 33 And his father and mother were wondering at those things which were spoken concerning him.
 \p
-\v 34 And Simeon blessed them and said to Mary his mother: Behold this child is set for the fall and for the resurrection of many in Israel and for a sign which shall be contradicted.
+\v 34 And Simeon blessed them and said to Mary his mother: Behold this child is set for the fall and for the resurrection of many in Israel and for a sign which shall be contradicted.\f + \fr 2:34 \fk For the fall, etc: \ft Christ came for the salvation of all men; but here Simeon prophesies what would come to pass, that many through their own wilful blindness and obstinacy would not believe in Christ, nor receive his doctrine, which therefore would be ruin to them: but to others a resurrection, by their believing in him, and obeying his commandments.\f*
 \p
 \v 35 And thy own soul a sword shall pierce, that, out of many hearts thoughts may be revealed.
 \p
@@ -274,6 +278,7 @@
 \v 52 And Jesus advanced in wisdom and age and grace with God and men.
 \c 3
 \cl Luke 3
+\cd John's mission and preaching. Christ is baptized by him.
 \p
 \v 1 Now in the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being governor of Judea, and Herod being tetrarch of Galilee, and Philip his brother tetrarch of Iturea and the country of Trachonitis, and Lysanias tetrarch of Abilina:
 \p
@@ -319,7 +324,7 @@
 \p
 \v 22 And the Holy Ghost descended in a bodily shape, as a dove, upon him. And a voice came from heaven: Thou art my beloved Son. In thee I am well pleased.
 \p
-\v 23 And Jesus himself was beginning about the age of thirty years: being (as it was supposed) the son of Joseph, who was of Heli, who was of Mathat,
+\v 23 And Jesus himself was beginning about the age of thirty years: being (as it was supposed) the son of Joseph, who was of Heli, who was of Mathat,\f + \fr 3:23 \fk Who was of Heli: \ft St. Joseph, who by nature was the son of Jacob, (St. Matt. 1. 16,) in the account of the law, was son of Heli. For Heli and Jacob were brothers, by the same mother; and Heli, who was the elder, dying without issue, Jacob, as the law directed, married his widow: in consequence of such marriage, his son Joseph was reputed in the law the son of Heli.\f*
 \p
 \v 24 Who was of Levi, who was of Melchi. who was of Janne, who was of Joseph,
 \p
@@ -352,8 +357,9 @@
 \v 38 Who was of Henos, who was of Seth, who was of Adam, who was of God.
 \c 4
 \cl Luke 4
+\cd Christ's fasting and temptation. He is persecuted in Nazareth. His miracles in Capharnaum.
 \p
-\v 1 And Jesus being full of the Holy Ghost, returned from the Jordan and was led the by the spirit into the desert,
+\v 1 And Jesus being full of the Holy Ghost, returned from the Jordan and was led by the spirit into the desert,
 \p
 \v 2 For the space of forty days, and was tempted by the devil. And he ate nothing in those days. And when they were ended, he was hungry.
 \p
@@ -442,6 +448,7 @@
 \v 44 And he was preaching in the synagogues of Galilee.
 \c 5
 \cl Luke 5
+\cd The miraculous draught of fishes. The cure of the leper and of the paralytic. The call of Matthew.
 \p
 \v 1 And it came to pass, that when the multitudes pressed upon him to hear the word of God, he stood by the lake of Genesareth,
 \p
@@ -522,8 +529,9 @@
 \v 39 And no man drinking old hath presently a mind to new: for he saith: The old is better.
 \c 6
 \cl Luke 6
+\cd Christ excuses his disciples. He cures upon the sabbath day, chooses the twelve and makes a sermon to them.
 \p
-\v 1 And it came to pass on the second first sabbath that, as he went through the corn fields, his disciples plucked the ears and did eat, rubbing them in their hands.
+\v 1 And it came to pass on the second first sabbath that, as he went through the corn fields, his disciples plucked the ears and did eat, rubbing them in their hands.\f + \fr 6:1 \fk The second first sabbath: \ft Some understand this of the sabbath of Pentecost, which was the second in course among the great feasts: others, of a sabbath day that immediately followed any solemn feast.\f*
 \p
 \v 2 And some of the Pharisees said to them: Why do you that which is not lawful on the sabbath days?
 \p
@@ -622,6 +630,7 @@
 \v 49 But he that heareth and doth not is like to a man building his house upon the earth without a foundation: against which the stream beat vehemently. And immediately it fell: and the ruin of that house was great.
 \c 7
 \cl Luke 7
+\cd Christ heals the centurion's servant. He raises the widow's son to life, answers the messengers sent by John and absolves the penitent sinner.
 \p
 \v 1 And when he had finished all his words in the hearing of the people, he entered into Capharnaum.
 \p
@@ -679,7 +688,7 @@
 \p
 \v 28 For I say to you: Amongst those that are born of men, there is not a greater prophet than John the Baptist. But he that is the lesser in the kingdom of God is greater than he.
 \p
-\v 29 And all the people hearing, and the publicans, justified God, being baptized with John's baptism.
+\v 29 And all the people hearing, and the publicans, justified God, being baptized with John's baptism.\f + \fr 7:29 \fk Justified God: \ft that is, praised the justice of God, feared and worshipped God, as just and merciful.\f*
 \p
 \v 30 But the Pharisees and the lawyers despised the counsel of God against themselves, being not baptized by him.
 \p
@@ -693,7 +702,7 @@
 \p
 \v 35 And wisdom is justified by all her children.
 \p
-\v 36 And one of the Pharisees desired him to eat with him. And he went into the house of the Pharisee and sat down to meat.
+\v 36 And one of the Pharisees desired him to eat with him. And he went into the house of the Pharisee and sat down to meat.\f + \fr 7:36 \fk One of the Pharisees: \ft that is, Simon.\f*
 \p
 \v 37 And behold a woman that was in the city, a sinner, when she knew that he sat at meat in the Pharisee's house, brought an alabaster box of ointment.
 \p
@@ -715,7 +724,7 @@
 \p
 \v 46 My head with oil thou didst not anoint. But she with ointment hath anointed my feet.
 \p
-\v 47 Wherefore, I say to thee: Many sins are forgiven her, because she hath loved much. But to whom less is forgiven, he loveth less.
+\v 47 Wherefore, I say to thee: Many sins are forgiven her, because she hath loved much. But to whom less is forgiven, he loveth less.\f + \fr 7:47 \fk Many sins are forgiven her, because she hath loved much: \ft In the scripture an effect sometimes seems attributed to one only cause, when there are divers other concurring dispositions; for the sins of this woman, in this verse, are said to be forgiven, because she loved much: but (ver. 50) Christ tells her, Thy faith hath made thee safe. Hence in a true conversion are joined faith, hope, love, sorrow for sin, and other pious dispositions.\f*
 \p
 \v 48 And he said to her: Thy sins are forgiven thee.
 \p
@@ -724,6 +733,7 @@
 \v 50 And he said to the woman: Thy faith hath made thee safe. Go in peace.
 \c 8
 \cl Luke 8
+\cd The parable of the seed. Christ stills the storm at sea, casts out the legion, heals the issue of blood and raises the daughter of Jairus to life.
 \p
 \v 1 And it came to pass afterwards he travelled through the cities and towns, preaching and evangelizing the kingdom of God: and the twelve with him:
 \p
@@ -743,7 +753,7 @@
 \p
 \v 9 And his disciples asked him what this parable might be.
 \p
-\v 10 To whom he said: To you it is given to know the mystery of the kingdom of God; but to the rest in parables, that seeing they may not see and hearing may not understand.
+\v 10 To whom he said: To you it is given to know the mystery of the kingdom of God; but to the rest in parables, that seeing they may not see and hearing may not understand.\f + \fr 8:10 \fk Seeing they may not see: \ft See the annotation, Mark 4. 12.\f*
 \p
 \v 11 Now the parable is this: The seed is the word of God.
 \p
@@ -838,6 +848,7 @@
 \v 56 And her parents were astonished, whom he charged to tell no man what was done.
 \c 9
 \cl Luke 9
+\cd Christ sends forth his apostles, feeds five thousand with five loaves, is transfigured and casts out a devil.
 \p
 \v 1 Then calling together the twelve apostles, he gave them power and authority over all devils and to cure diseases.
 \p
@@ -964,6 +975,7 @@
 \v 62 Jesus said to him: No man putting his hand to the plough and looking back is fit for the kingdom of God.
 \c 10
 \cl Luke 10
+\cd Christ sends forth and instructs his seventy-two disciples. The good Samaritan.
 \p
 \v 1 And after these things, the Lord appointed also other seventy-two. And he sent them two and two before his face into every city and place whither he himself was to come.
 \p
@@ -1005,7 +1017,7 @@
 \p
 \v 20 But yet rejoice not in this, that spirits are subject unto you: but rejoice in this, that your names are written in heaven.
 \p
-\v 21 In that same hour, he rejoiced in the Holy Ghost and said: I confess to thee, O Father, Lord of heaven and earth, because thou hast hidden these things from the wise and prudent and hast revealed them to little ones. Yea, Father, for so it hath seemed good in thy sight.
+\v 21 In that same hour, he rejoiced in the Holy Ghost and said: I confess to thee, O Father, Lord of heaven and earth, because thou hast hidden these things from the wise and prudent and hast revealed them to little ones. Yea, Father, for so it hath seemed good in thy sight.\f + \fr 10:21 \fk He rejoiced in the Holy Ghost: \ft That is, according to his humanity he rejoiced in the Holy Ghost, and gave thanks to his eternal Father.\f*
 \p
 \v 22 All things are delivered to me by my Father. And no one knoweth who the Son is, but the Father: and who the Father is, but the Son and to whom the Son will reveal him.
 \p
@@ -1050,6 +1062,7 @@
 \v 42 But one thing is necessary. Mary hath chosen the best part, which shall not be taken away from her.
 \c 11
 \cl Luke 11
+\cd Christ teaches his disciples to pray. He casts out a dumb devil, confutes the Pharisees, and pronounces woes against them for their hypocrisy.
 \p
 \v 1 And it came to pass that as he was in a certain place praying, when he ceased, one of his disciples said to him: Lord, teach us to pray, as John also taught his disciples.
 \p
@@ -1141,9 +1154,9 @@
 \p
 \v 45 And one of the lawyers answering, saith to him: Master, in saying these things, thou reproachest us also.
 \p
-\v 46 But he said: Woe to you lawyers also, because you load men with burdens which they cannot bear and you yourselves touch not the packs with one of your fingers.
+\v 46 But he said: Woe to you lawyers also, because you load men with burdens which they cannot bear and you yourselves touch not the packs with one of your fingers.\f + \fr 11:46 \fk Woe to you lawyers: \ft He speaks of the doctors of the law of Moses, commonly called the scribes.\f*
 \p
-\v 47 Woe to you who build the monuments of the prophets: and your fathers killed them.
+\v 47 Woe to you who build the monuments of the prophets: and your fathers killed them.\f + \fr 11:47 \fk Woe to you who build, etc: \ft Not that the building of the monuments of the prophets was in itself blameworthy, but only the intention of these unhappy men, who made use of this outward shew of religion and piety, as a means to carry on their wicked designs against the prince of prophets.\f*
 \p
 \v 48 Truly you bear witness that you consent to the doings of your fathers. For they indeed killed them: and you build their sepulchres.
 \p
@@ -1160,6 +1173,7 @@
 \v 54 Lying in wait for him and seeking to catch something from his mouth, that they might accuse him.
 \c 12
 \cl Luke 12
+\cd Christ warns us against hypocrisy, the fear of the world and covetousness. He admonishes all to watch.
 \p
 \v 1 And when great multitudes stood about him, so that they trod one upon another, he began to say to his disciples: Beware ye of the leaven of the Pharisees, which is hypocrisy.
 \p
@@ -1280,6 +1294,7 @@
 \v 59 I say to thee, thou shalt not go out thence until thou pay the very last mite.
 \c 13
 \cl Luke 13
+\cd The necessity of penance. The barren fig tree. The cure of the infirm woman. The journey to Jerusalem.
 \p
 \v 1 And there were present, at that very time, some that told him of the Galileans, whose blood Pilate had mingled with their sacrifices.
 \p
@@ -1327,7 +1342,7 @@
 \p
 \v 23 And a certain man said to him: Lord, are they few that are saved? But he said to them:
 \p
-\v 24 Strive to enter by the narrow gate: for many, I say to you, shall seek to enter and shall not be able.
+\v 24 Strive to enter by the narrow gate: for many, I say to you, shall seek to enter and shall not be able.\f + \fr 13:24 \fk Shall seek, etc: \ft Shall desire to be saved; but for want of taking sufficient pains, and being thoroughly in earnest, shall not attain to it.\f*
 \p
 \v 25 But when the master of the house shall be gone in and shall shut the door, you shall begin to stand without; and knock at the door, saying: Lord, open to us. And he answering, shall say to you: I know you not, whence you are.
 \p
@@ -1352,6 +1367,7 @@
 \v 35 Behold your house shall be left to you desolate. And I say to you that you shall not see me till the time come when you shall say: Blessed is he that cometh in the name of the Lord.
 \c 14
 \cl Luke 14
+\cd Christ heals the dropsical man. The parable of the supper. The necessity of renouncing all to follow Christ.
 \p
 \v 1 And it came to pass, when Jesus went into the house of one of the Pharisees, on the sabbath day, that they watched him.
 \p
@@ -1403,7 +1419,7 @@
 \p
 \v 25 And there went great multitudes with him. And turning, he said to them:
 \p
-\v 26 If any man come to me, and hate not his father and mother and wife and children and brethren and sisters, yea and his own life also, he cannot be my disciple.
+\v 26 If any man come to me, and hate not his father and mother and wife and children and brethren and sisters, yea and his own life also, he cannot be my disciple.\f + \fr 14:26 \fk Hate not, etc: \ft The law of Christ does not allow us to hate even our enemies, much less our parents: but the meaning of the text is, that we must be in that disposition of soul, as to be willing to renounce, and part with every thing, how near or dear soever it may be to us, that would keep us from following Christ.\f*
 \p
 \v 27 And whosoever doth not carry his cross and come after me cannot be my disciple.
 \p
@@ -1424,6 +1440,7 @@
 \v 35 It is neither profitable for the land nor for the dunghill: but shall be cast out. He that hath ears to hear, let him hear.
 \c 15
 \cl Luke 15
+\cd The parables of the lost sheep and of the prodigal son.
 \p
 \v 1 Now the publicans and sinners drew near unto him to hear him.
 \p
@@ -1443,7 +1460,7 @@
 \p
 \v 9 And when she hath found it, call together her friends and neighbours, saying: Rejoice with me, because I have found the groat which I had lost.
 \p
-\v 10 So I say to you, there shall be joy before the angels of God upon one sinner doing penance.
+\v 10 So I say to you, there shall be joy before the angels of God upon one sinner doing penance.\f + \fr 15:10 \fk Before the angels: \ft By this it is plain that the spirits in heaven have a concern for us below, and a joy at our repentance and consequently a knowledge of it.\f*
 \p
 \v 11 And he said: A certain man had two sons.
 \p
@@ -1490,6 +1507,7 @@
 \v 32 But it was fit that we should make merry and be glad: for this thy brother was dead and is come to life again; he was lost, and is found.
 \c 16
 \cl Luke 16
+\cd The parable of the unjust steward and of the rich man and Lazarus.
 \p
 \v 1 And he said also to his disciples: There was a certain rich man who had a steward: and the same was accused unto him, that he had wasted his goods.
 \p
@@ -1507,7 +1525,7 @@
 \p
 \v 8 And the lord commended the unjust steward, forasmuch as he had done wisely: for the children of this world are wiser in their generation than the children of light.
 \p
-\v 9 And I say to you: Make unto you friends of the mammon of iniquity: that when you shall fail, they may receive you into everlasting dwellings.
+\v 9 And I say to you: Make unto you friends of the mammon of iniquity: that when you shall fail, they may receive you into everlasting dwellings.\f + \fr 16:9 \fk Mammon of iniquity: \ft Mammon signifies riches. They are here called the mammon of iniquity, because oftentimes ill gotten, ill bestowed, or an occasion of evil; and at the best are but worldly, and false; and not the true riches of a Christian.\f*\f + \fr 16:9 \fk They may receive: \ft By this we see, that the poor servants of God, whom we have relieved by our alms, may hereafter, by their intercession, bring our souls to heaven.\f*
 \p
 \v 10 He that is faithful in that which is least is faithful also in that which is greater: and he that is unjust in that which is little is unjust also in that which is greater.
 \p
@@ -1533,7 +1551,7 @@
 \p
 \v 21 Desiring to be filled with the crumbs that fell from the rich man's table. And no one did give him: moreover the dogs came and licked his sores.
 \p
-\v 22 And it came to pass that the beggar died and was carried by the angels into Abraham's bosom. And the rich man also died: and he was buried in hell.
+\v 22 And it came to pass that the beggar died and was carried by the angels into Abraham's bosom. And the rich man also died: and he was buried in hell.\f + \fr 16:22 \fk Abraham's bosom: \ft The place of rest, where the souls of the saints resided, till Christ had opened heaven by his death.\f*
 \p
 \v 23 And lifting up his eyes when he was in torments, he saw Abraham afar off and Lazarus in his bosom:
 \p
@@ -1554,6 +1572,7 @@
 \v 31 And he said to him: If they hear not Moses and the prophets, neither will they believe, if one rise again from the dead.
 \c 17
 \cl Luke 17
+\cd Lessons of avoiding scandal and of the efficacy of faith. The ten lepers. The manner of the coming of Christ.
 \p
 \v 1 And he said to his disciples: It is impossible that scandals should not come. But woe to him through whom they come!
 \p
@@ -1573,7 +1592,7 @@
 \p
 \v 9 Doth he thank that servant for doing the things which he commanded him?
 \p
-\v 10 I think not. So you also, when you shall have done all these things that are commanded you, say: We are unprofitable servants; we have done that which we ought to do.
+\v 10 I think not. So you also, when you shall have done all these things that are commanded you, say: We are unprofitable servants; we have done that which we ought to do.\f + \fr 17:10 \fk Unprofitable servants: \ft Because our service is of no profit to our master; and he justly claims it as our bounden duty. But though we are unprofitable to him, our serving him is not unprofitable to us; for he is pleased to give by his grace a value to our good works, which, in consequence of his promise, entitles them to an eternal reward.\f*
 \p
 \v 11 And it came to pass, as he was going to Jerusalem, he passed through the midst of Samaria and Galilee.
 \p
@@ -1630,12 +1649,13 @@
 \v 37 Who said to them: Wheresoever the body shall be, thither will the eagles also be gathered together.
 \c 18
 \cl Luke 18
+\cd We must pray always. The Pharisee and the publican. The danger of riches. The blind man is restored to sight.
 \p
 \v 1 And he spoke also a parable to them, that we ought always to pray and not to faint,
 \p
 \v 2 Saying: There was a judge in a certain city, who feared not God nor regarded man.
 \p
-\v 3 And there was a certain widow in that city; and she came to him, saying: Avenge me of my adversary.
+\v 3 And there was a certain widow in that city; and she came to him, saying: Avenge me of my adversary.\f + \fr 18:3 \fk Avenge: \ft That is, do me justice. It is a Hebraism.\f*
 \p
 \v 4 And he would not for a long time. But afterwards he said within himself: Although I fear not God nor regard man,
 \p
@@ -1718,6 +1738,7 @@
 \v 43 And immediately he saw and followed him, glorifying God. And all the people, when they saw it, gave praise to God.
 \c 19
 \cl Luke 19
+\cd Zacheus entertains Christ. The parable of the pounds. Christ rides upon an ass and weeps over Jerusalem.
 \p
 \v 1 And entering he walked through Jericho.
 \p
@@ -1743,7 +1764,7 @@
 \p
 \v 12 He said therefore: a certain nobleman went into a far country, to receive for himself a kingdom and to return.
 \p
-\v 13 And calling his ten servants, he gave them ten pounds and said to them: Trade till I come.
+\v 13 And calling his ten servants, he gave them ten pounds and said to them: Trade till I come.\f + \fr 19:13 \fk He gave them ten pounds: \ft In the original, what is here translated a pound, is in Latin, mina, in value of our coin, three pounds two shillings and sixpence.\f*
 \p
 \v 14 But his citizens hated him and they sent an embassage after him, saying: We will not have this man to reign over us.
 \p
@@ -1816,6 +1837,7 @@
 \v 48 And they found not what to do to him: for all the people were very attentive to hear him.
 \c 20
 \cl Luke 20
+\cd The parable of the husbandmen. Of paying tribute to Caesar and of the resurrection of the dead.
 \p
 \v 1 And it came to pass that on one of the days, as he was teaching the people in the temple and preaching the gospel, the chief priests and the scribes, with the ancients, met together,
 \p
@@ -1912,6 +1934,7 @@
 \v 47 Who devour the houses of widows, feigning long prayer. These shall receive greater damnation.
 \c 21
 \cl Luke 21
+\cd The widow's mites. The signs that should forerun the destruction of Jerusalem and the end of the world.
 \p
 \v 1 And looking on, he saw the rich men cast their gifts into the treasury.
 \p
@@ -1990,6 +2013,7 @@
 \v 38 And all the people came early in the morning to him in the temple, to hear him.
 \c 22
 \cl Luke 22
+\cd The treason of Judas. The last supper. The first part of the history of the passion.
 \p
 \v 1 Now the feast of unleavened bread, which is called the pasch, was at hand.
 \p
@@ -2027,7 +2051,7 @@
 \p
 \v 18 For I say to you that I will not drink of the fruit of the vine, till the kingdom of God come.
 \p
-\v 19 And taking bread, he gave thanks and brake and gave to them, saying: This is my body, which is given for you. Do this for a commemoration of me.
+\v 19 And taking bread, he gave thanks and brake and gave to them, saying: This is my body, which is given for you. Do this for a commemoration of me.\f + \fr 22:19 \fk Do this for a commemoration of me: \ft This sacrifice and sacrament is to be continued in the church, to the end of the world, to shew forth the death of Christ, until he cometh. But this commemoration, or remembrance, is by no means inconsistent with the real presence of his body and blood, under these sacramental veils, which represent his death; on the contrary, it is the manner that he himself hath commanded, of commemorating and celebrating his death, by offering in sacrifice, and receiving in the sacrament, that body and blood by which we were redeemed.\f*
 \p
 \v 20 In like manner, the chalice also, after he had supped, saying: This is the chalice, the new testament in my blood, which shall be shed for you.
 \p
@@ -2105,7 +2129,7 @@
 \p
 \v 57 But he denied him, saying: Woman, I know him not.
 \p
-\v 58 And after a little while, another seeing him, said: Thou also art one of them. But Peter said: O man, I am not.
+\v 58 And after a little while, another seeing him, said: Thou also art one of them. But Peter said: O man, I am not.\f + \fr 22:58 \fk Another, etc: \ft Observe here, in order to reconcile the four Evangelists, that divers persons concurred in charging Peter with being Christ's disciple; till at length they brought him to deny him thrice. 1. The porteress that let him in, and afterwards seeing him at the fire, first put the question to him; and then positively affirmed that he was with Christ. 2. Another maid accused him to the standers by; and gave occasion to the man here mentioned to renew the charge against him, which caused the second denial. 3. Others of the company took notice of his being a Galilean; and were seconded by the kinsman of Malchus, who affirmed he had seen him in the garden. And this drew on the third denial.\f*
 \p
 \v 59 And after the space, as it were of one hour, another certain man affirmed, saying: Of a truth, this man was also with him: for he is also a Galilean.
 \p
@@ -2134,6 +2158,7 @@
 \v 71 And they said: What need we any further testimony? For we ourselves have heard it from his own mouth.
 \c 23
 \cl Luke 23
+\cd The continuation of the history of the passion.
 \p
 \v 1 And the whole multitude of them, rising up, led him to Pilate.
 \p
@@ -2219,7 +2244,7 @@
 \p
 \v 42 And he said to Jesus: Lord, remember me when thou shalt come into thy kingdom.
 \p
-\v 43 And Jesus said to him: Amen I say to thee: This day thou shalt be with me in paradise.
+\v 43 And Jesus said to him: Amen I say to thee: This day thou shalt be with me in paradise.\f + \fr 23:43 \fk In paradise: \ft That is, in the happy state of rest, joy, and peace everlasting. Christ was pleased, by a special privilege, to reward the faith and confession of the penitent thief, with a full discharge of all his sins, both as to the guilt and punishment; and to introduce him immediately after death into the happy society of the saints, whose limbo, that is, the place of their confinement, was now made a paradise by our Lord's going thither.\f*
 \p
 \v 44 And it was almost the sixth hour: and there was darkness over all the earth until the ninth hour.
 \p
@@ -2241,13 +2266,14 @@
 \p
 \v 53 And taking him down, he wrapped him in fine linen and laid him in a sepulchre that was hewed in stone, wherein never yet any man had been laid.
 \p
-\v 54 And it was the day of the Parasceve: and the sabbath drew on.
+\v 54 And it was the day of the Parasceve: and the sabbath drew on.\f + \fr 23:54 \fk Parasceve: \ft That is, the eve, or day of preparation for the sabbath.\f*
 \p
 \v 55 And the women that were come with him from Galilee, following after, saw the sepulchre and how his body was laid.
 \p
 \v 56 And returning, they prepared spices and ointments: and on the sabbath day they rested, according to the commandment.
 \c 24
 \cl Luke 24
+\cd Christ's resurrection and manifestation of himself to his disciples.
 \p
 \v 1 And on the first day of the week, very early in the morning, they came to the sepulchre, bringing the spices which they had prepared.
 \p
@@ -2345,7 +2371,7 @@
 \p
 \v 48 And you are witnesses of these things.
 \p
-\v 49 And I send the promise of my Father upon you: but stay you in the city till you be endued with power from on high.
+\v 49 And I send the promise of my Father upon you: but stay you in the city till you be endued with power from on high.\f + \fr 24:49 \fk The promise of my Father: \ft that is, the Holy Ghost, whom Christ had promised that his Father and he would send, John 14. 26, and 17. 7.\f*
 \p
 \v 50 And he led them out as far as Bethania: and lifting up his hands, he blessed them.
 \p
@@ -2354,4 +2380,3 @@
 \v 52 And they adoring went back into Jerusalem with great joy.
 \p
 \v 53 And they were always in the temple, praising and blessing God. Amen.
-\mte9 The Sacred Bible - The Gospel of Luke

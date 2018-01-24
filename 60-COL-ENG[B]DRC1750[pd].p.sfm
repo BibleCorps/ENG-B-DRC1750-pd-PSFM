@@ -1,11 +1,14 @@
-\id COL ENG (p.sfm) -  <> Colossians - Challoner Douay Rheims version of the Sacred Bible The Letter to the Colossians. The Holy Bible. Bishop Challoner's 18th century revision of the Douay Rheims version. Electronic edition 2004. Public domain.
+\id Col ENG (p.sfm) - DRC1750 - Verify <>
 \ide UTF-8
 \h Colossians
-\toc1 The Letter to the Colossians
+\toc1 THE EPISTLE OF ST. PAUL TO THE COLOSSIANS
 \toc2 Colossians
 \toc3 Col
+\mt1 THE EPISTLE OF ST. PAUL TO THE COLOSSIANS
+\im Colossa was a city of Phrygia, near Laodicea. It does not appear that St. Paul had preached there himself, but that the Colossians were converted by Epaphras, a disciple of the Apostles. However, as St. Paul was the great Apostle of the Gentiles, he wrote this Epistle to the Colossians when he was in prison, and about the same time that he wrote to the Ephesians and Philippians. The exhortations and doctrine it contains are similar to that which is set forth in his Epistle to the Ephesians.
 \c 1
 \cl Colossians 1
+\cd He gives thanks for the grace bestowed upon the Colossians and prays for them. Christ is the head of the church and the peacemaker through his blood. Paul is his minister.
 \p
 \v 1 Paul, an apostle of Jesus Christ, by the will of God, and Timothy, a brother:
 \p
@@ -35,7 +38,7 @@
 \p
 \v 14 In whom we have redemption through his blood, the remission of sins:
 \p
-\v 15 Who is the image of the invisible God, the firstborn of every creature:
+\v 15 Who is the image of the invisible God, the firstborn of every creature:\f + \fr 1:15 \fk The firstborn: \ft That is, first begotten; as the Evangelist declares, the only begotten of his Father: hence, St. Chrisostom explains firstborn, not first created, as he was not created at all, but born of his Father before all ages; that is, coeval with the Father and with the Holy Ghost.\f*
 \p
 \v 16 For in him were all things created in heaven and on earth, visible and invisible, whether thrones, or dominations, or principalities, or powers. All things were created by him and in him.
 \p
@@ -53,7 +56,7 @@
 \p
 \v 23 If so ye continue in the faith, grounded and settled, and immoveable from the hope of the gospel which you have heard, which is preached in all the creation that is under heaven: whereof I Paul am made a minister.
 \p
-\v 24 Who now rejoice in my sufferings for you and fill up those things that are wanting of the sufferings of Christ, in my flesh, for his body, which is the church:
+\v 24 Who now rejoice in my sufferings for you and fill up those things that are wanting of the sufferings of Christ, in my flesh, for his body, which is the church:\f + \fr 1:24 \fk Wanting: \ft There is no want in the sufferings of Christ in himself as head: but many sufferings are still wanting, or are still to come, in his body the church, and his members the faithful.\f*
 \p
 \v 25 Whereof I am made a minister according to the dispensation of God, which is given me towards you, that I may fulfil the word of God:
 \p
@@ -66,6 +69,7 @@
 \v 29 Wherein also I labour, striving according to his working which he worketh in me in power.
 \c 2
 \cl Colossians 2
+\cd He warns them against the impostures of the philosophers and the Jewish teachers, that would withdraw them from Christ.
 \p
 \v 1 For I would have you know what manner of care I have for you and for them that are at Laodicea and whosoever have not seen my face in the flesh:
 \p
@@ -97,23 +101,24 @@
 \p
 \v 15 And despoiling the principalities and powers, he hath exposed them confidently in open shew, triumphing over them in himself.
 \p
-\v 16 Let no man therefore judge you in meat or in drink or in respect of a festival day or of the new moon or of the sabbaths,
+\v 16 Let no man therefore judge you in meat or in drink or in respect of a festival day or of the new moon or of the sabbaths,\f + \fr 2:16 \fk In meat, etc: \ft He means with regard to the Jewish observations of the distinction of clean and unclean meats; and of their festivals, new moons, and sabbaths, as being no longer obligatory.\f*
 \p
 \v 17 Which are a shadow of things to come: but the body is of Christ.
 \p
-\v 18 Let no man seduce you, willing in humility and religion of angels, walking in the things which he hath not seen, in vain puffed up by the sense of his flesh:
+\v 18 Let no man seduce you, willing in humility and religion of angels, walking in the things which he hath not seen, in vain puffed up by the sense of his flesh:\f + \fr 2:18 \fk Willing, etc: \ft That is, by a self willed, self invented, superstitious worship, falsely pretending humility, but really proceeding from pride. Such was the worship, that many of the philosophers (against whom St. Paul speaks, ver. 8) paid to angels or demons, by sacrificing to them, as carriers of intelligence betwixt God and men; pretending humility in so doing, as if God was too great to be addressed by men; and setting aside the mediatorship of Jesus Christ, who is the head both of angels and men. Such also was the worship paid by the ancient heretics, disciples of Simon and Menander, to the angels, whom they believed to be makers and lords of this lower world. This is certain, that they whom the apostle here condemns, did not hold the head, (ver. 19,) that is, Jesus Christ, and his mediatorship; and therefore what he writes here no way touches the Catholic doctrine and practice, of desiring our good angels to pray to God for us, through Jesus Christ. St. Jerome [Epist. ad Algas.] understands by the religion or service of angels, the Jewish teachers, who sought to subject the new Christians to the observance of the Mosaic law.\f*
 \p
 \v 19 And not holding the head, from which the whole body, by joints and bands, being supplied with nourishment and compacted, groweth into the increase of God.
 \p
 \v 20 If then you be dead with Christ from the elements of this world, why do you yet decree as though living in the world?
 \p
-\v 21 Touch not: taste not: handle not.
+\v 21 Touch not: taste not: handle not.\f + \fr 2:21 \fk Touch not, etc: \ft The meaning is, that Christians should not subject themselves, either to the ordinances of the old law, forbidding touching or tasting things unclean; or to the superstitious invention of heretics, imposing such restraints, under pretence of wisdom, humility, or mortification.\f*
 \p
 \v 22 Which all are unto destruction by the very use, according to the precepts and doctrines of men.
 \p
 \v 23 Which things have indeed a shew of wisdom in superstition and humility, and not sparing the body; not in any honour to the filling of the flesh.
 \c 3
 \cl Colossians 3
+\cd He exhorts them to put off the old man, and to put on the new. The duties of wives and husbands, children and servants.
 \p
 \v 1 Therefore if you be risen with Christ, seek the things that are above, where Christ is sitting at the right hand of God.
 \p
@@ -166,6 +171,7 @@
 \v 25 For he that doth wrong shall receive for that which he hath done wrongfully. And there is no respect of persons with God.
 \c 4
 \cl Colossians 4
+\cd He recommends constant prayer and wisdom. Various salutations.
 \p
 \v 1 Masters, do to your servants that which is just and equal: knowing that you also have a master in heaven.
 \p
@@ -197,9 +203,8 @@
 \p
 \v 15 Salute the brethren who are at Laodicea: and Nymphas and the church that is in his house.
 \p
-\v 16 And when this epistle shall have been read with you, cause that it be read also in the church of the Laodiceans: and that you read that which is of the Laodiceans.
+\v 16 And when this epistle shall have been read with you, cause that it be read also in the church of the Laodiceans: and that you read that which is of the Laodiceans.\f + \fr 4:16 \fk And that you read that which is of the Laodiceans: \ft What this epistle was is uncertain, and annotators have given different opinions concerning it. Some expound these words of an epistle which St. Paul wrote to the Laodiceans, and is since lost, for that now extant is no more than a collection of sentences out of the other epistles of St. Paul; therefore it cannot be considered even as a part of that epistle. Others explain that the text means a letter sent to St. Paul by the Laodiceans, which he sends to the Colossians to be read by them. However, this opinion does not seem well founded. Hence it is more probable that St. Paul wrote an epistle from Rome to the Laodiceans, about the same time that he wrote to the Colossians, as he had them both equally at heart, and that he ordered that epistle to be read by the Colossians for their instructions; and being neighbouring cities, they might communicate to each other what they had received from him; as one epistle might contain some matters not related in the other, and would be equally useful for their concern; and more particularly as they were equally disturbed by intruders and false teachers, against which the apostle was anxious to warn them, lest they should be infected by their pernicious doctrine.\f*
 \p
 \v 17 And say to Archippus: Take heed to the ministry which thou hast received in the Lord, that thou fulfil it.
 \p
 \v 18 The salutation of Paul with my own hand. Be mindful of my bands. Grace be with you. Amen.
-\mte9 The Sacred Bible - The Letter to the Colossians

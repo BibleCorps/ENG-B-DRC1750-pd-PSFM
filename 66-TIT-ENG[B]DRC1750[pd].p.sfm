@@ -1,11 +1,14 @@
-\id TIT ENG (p.sfm) -  <> Titus - Challoner Douay Rheims version of the Sacred Bible The Letter to Titus. The Holy Bible. Bishop Challoner's 18th century revision of the Douay Rheims version. Electronic edition 2004. Public domain.
+\id Tit ENG (p.sfm) - DRC1750 - Verify <>
 \ide UTF-8
 \h Titus
-\toc1 The Letter to Titus
+\toc1 THE EPISTLE OF ST. PAUL TO TITUS
 \toc2 Titus
 \toc3 Tit
+\mt1 THE EPISTLE OF ST. PAUL TO TITUS
+\im St. Paul, having preached the faith in the island of Crete, he ordained his beloved disciple and companion, Titus, bishop, and left him there to finish the work which he had begun. Afterwards the Apostle, on a journey to Nicopolis, a city of Macedonia, wrote this Epistle to Titus, in which he directs him to ordain bishops and priests for the different cities, shewing him the principal qualities necessary for a bishop. He also gives him particular advice for his own conduct to his flock, exhorting him to hold to strictness of discipline, but seasoned with lenity. It was written about thirty-three years after our Lord's Ascension.
 \c 1
 \cl Titus 1
+\cd What kind of men he is to ordain priests. Some men are to be sharply rebuked.
 \p
 \v 1 Paul, a servant of God and an apostle of Jesus Christ, according to the faith of the elect of God and the acknowledging of the truth, which is according to godliness:
 \p
@@ -40,6 +43,7 @@
 \v 16 They profess that they know God: but in their works they deny him: being abominable and incredulous and to every good work reprobate.
 \c 2
 \cl Titus 2
+\cd How he is to instruct both old and young. The duty of servants. The Christian's rule of life.
 \p
 \v 1 But speak thou the things that become sound doctrine:
 \p
@@ -72,6 +76,7 @@
 \v 15 These things speak and exhort and rebuke with all authority. Let no man despise thee.
 \c 3
 \cl Titus 3
+\cd Other instructions and directions for life and doctrine.
 \p
 \v 1 Admonish them to be subject to princes and powers, to obey at a word, to be ready to every good work.
 \p
@@ -93,7 +98,7 @@
 \p
 \v 10 A man that is a heretic, after the first and second admonition, avoid:
 \p
-\v 11 Knowing that he that is such an one is subverted and sinneth, being condemned by his own judgment.
+\v 11 Knowing that he that is such an one is subverted and sinneth, being condemned by his own judgment.\f + \fr 3:11 \fk By his own judgment: \ft Other offenders are judged, and cast out of the church, by the sentence of the pastors of the same church. Heretics, more unhappy, run out of the church of their own accord, and by doing so, give judgment and sentence against their own souls.\f*
 \p
 \v 12 When I shall send to thee Artemas or Tychicus, make haste to come unto me to Nicopolis. For there I have determined to winter.
 \p
@@ -102,4 +107,3 @@
 \v 14 And let our men also learn to excel in good works for necessary uses: that they be not unfruitful.
 \p
 \v 15 All that are with me salute thee. Salute them that love us in the faith. The grace of God be with you all. Amen.
-\mte9 The Sacred Bible - The Letter to Titus
